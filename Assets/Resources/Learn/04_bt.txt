@@ -1,0 +1,107 @@
+@topic ct | BT | Bilgisayarlı Tomografi | Computed Tomography | ct
+@desc Projeksiyonlar ve sinogram, filtreli geri izdüşüm ve iteratif rekonstrüksiyon, Hounsfield birimi, görüntü kalitesi ve artefaktlar, CTDI/DLP/SSDE. || Projections and the sinogram, filtered back-projection and iterative reconstruction, Hounsfield units, image quality and artefacts, CTDI/DLP/SSDE.
+@formula Projeksiyon || Projection :: p = ln(I₀/I) = ∫ μ(l) dl
+@formula Hounsfield birimi || Hounsfield unit :: HU = 1000 · (μ − μ_su) / (μ_su − μ_hava)
+@formula Pitch || Pitch :: pitch = masa ilerlemesi / tur ÷ toplam kolimasyon
+@formula CTDIw / CTDIvol || CTDIw / CTDIvol :: CTDIw = 1/3·CTDI_merkez + 2/3·CTDI_çevre     CTDIvol = CTDIw / pitch
+@formula DLP ve efektif doz || DLP and effective dose :: DLP = CTDIvol · L     E ≈ k · DLP
+@formula SSDE (AAPM 204) || SSDE (AAPM 204) :: SSDE = f(D_eff) · CTDIvol     D_eff = √(AP · LAT)
+@formula Gürültü || Noise :: σ ~ 1 / √(mAs · kesit kalınlığı)
+@term Sinogram || Sinogram :: Tüm açılardaki projeksiyonların açı–dedektör konumu diyagramı. || The angle-versus-detector-position map of all projections.
+@term FBP || FBP :: Filtreli geri izdüşüm: projeksiyonlar rampa filtresiyle filtrelenip geri yansıtılır. || Filtered back-projection: projections are ramp-filtered and back-projected.
+@term Pencere / seviye || Window / level :: Gösterilen HU aralığı (W) ve merkezi (L). || The displayed HU range (W) and its centre (L).
+@term CTDIvol || CTDIvol :: 16 veya 32 cm PMMA fantomda tanımlı ortalama doz; hasta dozu değildir. || The average dose defined in a 16 or 32 cm PMMA phantom — not the patient's dose.
+
+@lesson principles | BT ilkeleri: projeksiyon ve sinogram | CT principles: projections and the sinogram | 9
+## Bir çizgi integrali || A line integral
+BT, hastanın çevresinde dönen bir tüp ve karşısındaki dedektör dizisiyle, kesitin her yönden zayıflama profilini ölçer. Her dedektör elemanı, ışın yolu boyunca μ'nun integralini görür: || CT measures the attenuation profile of a slice from every direction with a tube rotating around the patient and a detector array opposite it. Each detector element sees the integral of μ along its ray:
+$ p = ln(I₀ / I) = ∫ μ(x, y) dl
+Bir açıdaki tüm dedektör değerleri bir projeksiyondur; 180°+yelpaze açısındaki projeksiyonların açı–konum dizilimi sinogramdır. Kesitteki bir nokta, sinogramda bir sinüs eğrisi çizer. || All detector values at one angle form a projection; arranged by angle and position over 180°+fan angle they form the sinogram. Each point in the slice traces a sine curve in the sinogram.
+## Tarayıcı kuşakları ve helikal tarama || Scanner generations and helical scanning
+Modern BT 3. kuşaktır: tüp ve eğrisel dedektör birlikte döner (~0.25–0.5 s/tur). Kayan halka teknolojisi sürekli dönmeye izin verir. Masa ilerlerken helikal tarama yapılır. Çok kesitli dedektörler (64–320 sıra) bir turda 4–16 cm kapsar. || Modern CT is third generation: tube and curved detector rotate together (~0.25–0.5 s per rotation). Slip rings allow continuous rotation, so helical scanning is done while the table moves. Multi-slice detectors (64–320 rows) cover 4–16 cm per rotation.
+$ pitch = (masa ilerlemesi / tur) / (toplam ışın kolimasyonu)
+Pitch > 1 daha hızlı ve daha düşük dozlu taramadır, ancak boşluklar interpolasyonla doldurulur. Pitch < 1 örtüşmeli taramadır, dozu artırır. || Pitch > 1 means faster scanning at lower dose, with gaps filled by interpolation; pitch < 1 means overlap and higher dose.
+? Bir projeksiyon değeri p neyi temsil eder? || What does a projection value p represent?
++ Işın yolu boyunca μ'nun integralini || The integral of μ along the ray
+- Tek bir noktadaki μ'yu || μ at a single point
+- Dedektördeki saçılmayı || The scatter at the detector
+= p = ln(I₀/I) = ∫μ dl: tek bir ölçüm, yol boyunca toplam zayıflamayı verir. Kesiti bulmak için birçok açı gerekir. || p = ln(I₀/I) = ∫μ dl: one measurement gives the total attenuation along the path, so many angles are needed to recover the slice.
+? 40 mm kolimasyon ve tur başına 56 mm masa ilerlemesi için pitch nedir? || What is the pitch for 40 mm collimation and 56 mm table feed per rotation?
++ 1.4 || 1.4
+- 0.71 || 0.71
+- 16 || 16
+= pitch = 56/40 = 1.4. Aynı mAs ile CTDIvol, pitch 1'e göre 1/1.4 kat olur. || pitch = 56/40 = 1.4; at the same mAs the CTDIvol is 1/1.4 of its pitch-1 value.
+
+@lesson recon | Rekonstrüksiyon ve Hounsfield birimi | Reconstruction and Hounsfield units | 10
+## Geri izdüşüm neden filtrelenir? || Why filter the back-projection?
+Her projeksiyonu geldiği yön boyunca kesite geri "yaymak" (basit geri izdüşüm), 1/r biçiminde bir bulanıklık üretir. Bunu düzeltmek için projeksiyonlar önce rampa filtresiyle (|f|) filtrelenir. Filtreli geri izdüşüm (FBP) bu iki adımın birleşimidir. Rampa filtresi gürültüyü de büyüttüğünden pencerelenir (Shepp–Logan, Hann…): keskin çekirdek = yüksek çözünürlük + yüksek gürültü. || Smearing each projection back across the slice along its direction (simple back-projection) produces a 1/r blur. To correct it, the projections are first ramp-filtered (|f|); filtered back-projection (FBP) combines the two steps. Because the ramp also amplifies noise it is windowed (Shepp–Logan, Hann…): a sharp kernel means high resolution and high noise.
+İteratif rekonstrüksiyon (ASIR, SAFIRE, model tabanlı), görüntüyü tahmin edip ölçülen projeksiyonlarla karşılaştırarak düzeltir ve gürültü istatistiğini modelleyebilir. Aynı görüntü kalitesinde %30–60 doz azaltımına izin verebilir. Bunun bedeli, bazı protokollerde "plastik" görünen bir dokudur. || Iterative reconstruction (ASIR, SAFIRE, model-based) guesses an image, compares it with the measured projections and corrects it, and can model the noise statistics — allowing 30–60 % dose reduction at equal quality, at the price of a sometimes "plastic" texture.
+## Hounsfield ölçeği || The Hounsfield scale
+$ HU = 1000 · (μ − μ_su) / (μ_su − μ_hava)
+Su 0 HU, hava −1000 HU'dur. Yağ ≈ −100, akciğer ≈ −700…−850, yumuşak doku +20…+60, kemik +300…+2000 HU civarındadır. μ enerjiye bağlı olduğu için (özellikle kemik ve iyotta) HU değerleri kVp ile değişir. || Water is 0 HU and air −1000 HU; fat ≈ −100, lung ≈ −700…−850, soft tissue +20…+60, bone +300…+2000 HU. Because μ depends on energy (especially for bone and iodine), HU values change with kVp.
+%fig hu
+Ekran yalnızca ~256 gri tonu ayırt edebilir. Bu yüzden pencere (W) ve seviye (L) seçilir. Yumuşak doku için W 400 / L 40, akciğer için W 1500 / L −600, kemik için W 2000 / L 400 tipik değerlerdir. || A display can only show ~256 grey levels, so a window (W) and level (L) are chosen: typical values are W 400 / L 40 for soft tissue, W 1500 / L −600 for lung and W 2000 / L 400 for bone.
+? Bir dokunun μ'su suyunkinden %5 yüksekse HU değeri yaklaşık nedir (μ_hava ≈ 0)? || If a tissue's μ is 5 % above water's, what is its HU (μ_air ≈ 0)?
++ ≈ +50 HU || ≈ +50 HU
+- ≈ +5 HU || ≈ +5 HU
+- ≈ +500 HU || ≈ +500 HU
+= HU = 1000 × (1.05 μ_su − μ_su)/μ_su = 1000 × 0.05 = 50. Bu, yumuşak dokuların tipik değeridir. || HU = 1000 × (1.05 μ_w − μ_w)/μ_w = 1000 × 0.05 = 50 — typical of soft tissue.
+? FBP'de rampa filtresinin görevi nedir? || What does the ramp filter do in FBP?
++ Basit geri izdüşümün 1/r bulanıklığını giderir || It removes the 1/r blur of simple back-projection
+- Gürültüyü azaltır || It reduces noise
+- Işın sertleşmesini düzeltir || It corrects beam hardening
+= Rampa (|f|) yüksek frekansları güçlendirerek bulanıklığı tam olarak telafi eder. Bu yüzden gürültüyü de artırır; pencereli çekirdekler bu dengeyi kurar. || The ramp (|f|) boosts high frequencies to exactly undo the blur, which also raises noise; windowed kernels set the balance.
+
+@lesson quality | Görüntü kalitesi ve artefaktlar | Image quality and artefacts | 10
+## Gürültü || Noise
+BT gürültüsü kuantum istatistiğinden gelir. Bir ROI'deki HU'nun standart sapması (σ) mAs ile ve kesit kalınlığıyla ters karekök biçiminde değişir. Hasta kalınlaştıkça dedektöre ulaşan fotonlar üstel olarak azaldığı için gürültü hızla artar. || CT noise comes from quantum statistics. The standard deviation (σ) of HU in an ROI scales as the inverse square root of the mAs and of the slice thickness. As the patient gets thicker, the photons reaching the detector fall exponentially and the noise rises fast.
+$ σ ~ 1 / √(mAs · kesit kalınlığı)
+%fig noise
+! Gürültüyü yarıya indirmek için mAs (ve doz) 4 katına çıkmalıdır. Alternatif olarak kesit kalınlığı 1 mm'den 4 mm'ye çıkarılırsa gürültü de yarıya iner, ama z-çözünürlüğü kaybedilir. || To halve the noise the mAs (and dose) must quadruple. Alternatively, going from 1 mm to 4 mm slices also halves the noise, at the cost of z-resolution.
+Otomatik tüp akımı modülasyonu (AEC), hastanın kalınlığına göre her açıda ve her z konumunda mA'yı ayarlayarak gürültüyü hedef düzeyde tutar ve dozu optimize eder. || Automatic tube current modulation (AEC) adjusts the mA at every angle and z position to the patient's thickness, holding noise at a target level and optimising dose.
+## Artefaktlar || Artefacts
+* <b>Işın sertleşmesi:</b> "cupping" (merkez koyu) ve yoğun kemikler arasında koyu çizgiler. Su kalibrasyonu cupping'i düzeltir. || <b>Beam hardening:</b> cupping (dark centre) and dark streaks between dense bones; water calibration corrects the cupping.
+* <b>Metal:</b> foton açlığı ve sertleşme nedeniyle yıldız biçimli parlak/koyu çizgiler; MAR algoritmaları ve yüksek kV yardımcı olur. || <b>Metal:</b> star-shaped bright/dark streaks from photon starvation and hardening; MAR algorithms and higher kV help.
+* <b>Kısmi hacim:</b> kalın kesitte bir vokselin içinde farklı dokular ortalanır. || <b>Partial volume:</b> in thick slices different tissues are averaged inside one voxel.
+* <b>Hareket:</b> çizgi ve hayalet görüntüler; kısa rotasyon süresi ve nefes tutma ile azaltılır. || <b>Motion:</b> streaks and ghosts, reduced by short rotation times and breath-holding.
+* <b>Halka:</b> arızalı veya kalibrasyonu bozuk bir dedektör elemanı. || <b>Rings:</b> a faulty or miscalibrated detector element.
+* <b>Foton açlığı:</b> iri hastada, özellikle omuz ve pelviste yatay yönde çok az foton ulaşır ve yatay çizgiler oluşur. || <b>Photon starvation:</b> in large patients, especially across the shoulders and pelvis, too few photons arrive laterally and horizontal streaks form.
+? Gürültüyü yarıya indirmek için ne yapılabilir? || How can the noise be halved?
++ mAs'ı 4 katına çıkarmak || Quadruple the mAs
+- mAs'ı 2 katına çıkarmak || Double the mAs
+- Pencereyi daraltmak || Narrow the window
+= σ ~ 1/√mAs. Pencereyi daraltmak gürültüyü yalnızca daha görünür kılar. || σ ~ 1/√mAs; narrowing the window only makes noise more visible.
+? Su fantomunun merkezi kenarından koyu görünüyorsa sebep nedir? || If the centre of a water phantom looks darker than its edge, what is the cause?
++ Işın sertleşmesi (cupping) || Beam hardening (cupping)
+- Halka artefaktı || A ring artefact
+- Hareket || Motion
+= Merkezden geçen ışınlar daha uzun yol kat eder ve daha sertleşir; etkin μ düşer ve merkez daha koyu (düşük HU) görünür. || Rays through the centre travel further and harden more, so the effective μ falls and the centre appears darker (lower HU).
+
+@lesson dose | BT dozu: CTDI, DLP ve SSDE | CT dose: CTDI, DLP and SSDE | 11
+@case mehmet
+## CTDI ailesi || The CTDI family
+CTDI, tek bir rotasyonun ürettiği doz profilinin integralidir. PMMA fantomlarda (baş 16 cm, gövde 32 cm) 100 mm'lik kalem iyon odasıyla ölçülür. Ağırlıklı CTDIw merkez ve çevre ölçümlerini birleştirir. CTDIvol pitch'i hesaba katar ve konsolda gösterilen değer budur. || CTDI is the integral of the dose profile of one rotation, measured with a 100 mm pencil chamber in PMMA phantoms (head 16 cm, body 32 cm). The weighted CTDIw combines centre and periphery; CTDIvol accounts for pitch and is what the console displays.
+$ CTDIw = 1/3·CTDI_merkez + 2/3·CTDI_çevre        CTDIvol = CTDIw / pitch
+$ DLP = CTDIvol × L        E ≈ k × DLP
+k katsayıları (mSv/mGy·cm), yetişkin için: baş 0.0021, boyun 0.0059, göğüs 0.014, karın ve pelvis 0.015. || The k coefficients (mSv per mGy·cm) for adults are: head 0.0021, neck 0.0059, chest 0.014, abdomen and pelvis 0.015.
+! Karın taraması: CTDIvol 12 mGy, tarama uzunluğu 40 cm. DLP = 480 mGy·cm, E ≈ 0.015 × 480 ≈ 7.2 mSv. Bu, yaklaşık 3 yıllık doğal radyasyona eşittir. || Abdominal scan: CTDIvol 12 mGy over 40 cm. DLP = 480 mGy·cm, E ≈ 0.015 × 480 ≈ 7.2 mSv — about 3 years of natural background.
+## CTDIvol hasta dozu değildir || CTDIvol is not patient dose
+CTDIvol, 32 cm'lik bir PMMA silindirdeki dozdur. İnce bir hasta (ya da çocuk) aynı CTDIvol ile çok daha yüksek doz alır, iri bir hasta daha düşük. AAPM Rapor 204, hastanın efektif çapına göre bir dönüşüm faktörü verir: boyuta özgü doz tahmini (SSDE). || CTDIvol is the dose in a 32 cm PMMA cylinder. A slim patient (or a child) receives much more dose at the same CTDIvol, a large patient less. AAPM Report 204 gives a conversion factor based on the effective diameter: the size-specific dose estimate (SSDE).
+$ D_eff = √(AP × LAT)        SSDE = f(D_eff) × CTDIvol      f = 3.704 · e^(−0.0367·D_eff)
+%fig ssde
+> Gebe hastada uterus doğrudan ışın alanındaysa fetal doz ≈ SSDE'dir. Fetal doz 100 mGy'in çok altındadır ve deterministik etki beklenmez (ICRP 84). || In a pregnant patient with the uterus in the primary beam, fetal dose ≈ SSDE; it is far below 100 mGy, where no deterministic effects are expected (ICRP 84).
+? Konsoldaki CTDIvol 15 mGy'dir. 20 cm efektif çaplı bir çocuğun SSDE'si yaklaşık ne olur? || The console shows CTDIvol 15 mGy. What is the approximate SSDE of a child with 20 cm effective diameter?
++ ≈ 27 mGy || ≈ 27 mGy
+- ≈ 15 mGy || ≈ 15 mGy
+- ≈ 8 mGy || ≈ 8 mGy
+= f(20 cm) = 3.704 × e^(−0.734) ≈ 1.78; SSDE ≈ 1.78 × 15 ≈ 27 mGy. Çocuk protokolleri bu yüzden ayrıca optimize edilmelidir. || f(20 cm) = 3.704 × e^(−0.734) ≈ 1.78, so SSDE ≈ 1.78 × 15 ≈ 27 mGy. That is why paediatric protocols must be optimised separately.
+? DLP'si 400 mGy·cm olan bir göğüs BT'nin efektif dozu yaklaşık nedir? || What is the approximate effective dose of a chest CT with a DLP of 400 mGy·cm?
++ ≈ 5.6 mSv || ≈ 5.6 mSv
+- ≈ 0.8 mSv || ≈ 0.8 mSv
+- ≈ 40 mSv || ≈ 40 mSv
+= E ≈ 0.014 × 400 = 5.6 mSv. || E ≈ 0.014 × 400 = 5.6 mSv.
+? Pitch 1'den 1.5'e çıkarılırsa (mAs sabit) CTDIvol nasıl değişir? || If the pitch goes from 1 to 1.5 at constant mAs, how does CTDIvol change?
++ 1/1.5 katına düşer || It falls to 1/1.5 of its value
+- 1.5 katına çıkar || It rises 1.5×
+- Değişmez || It does not change
+= CTDIvol = CTDIw / pitch. Birçok tarayıcı "efektif mAs" kullanır (mAs/pitch) ve bu durumda CTDIvol sabit kalır. || CTDIvol = CTDIw / pitch. Many scanners use "effective mAs" (mAs/pitch), in which case the CTDIvol stays constant.

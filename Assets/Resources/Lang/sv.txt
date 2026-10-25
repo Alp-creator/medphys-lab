@@ -1,0 +1,1332 @@
+002e566d	Kliniska fall
+005ef20f	Status
+006f11ff	Lungnodul (tumör)
+00e896c1	Mät dmax och PDD1# för fotoner på # MV (≥ # # historier)
+00e97d3d	Det finns ingen risk alls.
+01446da3	Kontrastblod
+01b10287	Lever
+022ebff6	  — läs förklaringarna och försök igen.
+02307551	Strålskyddets tre principer: berättigande, optimering (ALARA: så lågt som rimligen är möjligt) och dosgränser. Arbetstagare: # mSv/år (medelvärde över # år, max # under ett år), allmänheten: # mSv/år, ögonlins: # mSv/år.
+0282b42b	Inget raster: rätt val för en smal barnbröstkorg.
+02875262	Blodtryck
+028cc680	Öppna ett stort fält och lägga bly på sköldkörteln
+02daa186	Gradienteko
+02ff0734	timmar
+03410798	Börja med lektion #  →
+03aded2d	Proton
+03d9f12f	BEKRÄFTA
+04215fff	Behandlingshuvud
+04665812	Medelenergi (ingång / detektor)
+04b21fef	Bara periferin
+04c33449	Antal atomer från början N₀
+05446544	Joniserande strålning
+054ed6b1	#. Protoner och Braggtoppen
+0551e426	Supraledande magnet
+05735a1f	Höga knackande ljud hörs under undersökningen. Orsak och försiktighetsåtgärd?
+05747e6b	Aktuella rekommendationer (AAPM #, BIR/IPEM #): kollimering är det effektivaste skyddet. Gonaddosen utanför fältet är redan mycket liten; ett skydd som glider in i fältet döljer anatomi och får exponeringsautomatiken att höja dosen.
+05883f18	Dosrat H*(#)
+05aeb14d	Onödig dos till ögat och den friska ansiktshuden.
+05b19ab8	Studietips
+05b21be8	Tumör-EQD2 = n·d·(d + #)/(# + #) = # Gy — kurativt intervall.
+05f6dc9a	Huvudfält B₀
+069d81b7	 kanaler
+06ba43bc	Varje sfär är en kärna. I varje tidssteg sönderfaller den med sannolikheten p = # − e^(−λΔt) och sänder ut en fotonlinje; med få kärnor fluktuerar N(t) statistiskt.
+06df51de	Injicerad aktivitet
+07001202	Flipvinkel α
+07157b8f	Jod sänder ut ljus vid den energin
+078f2dfe	Patient
+07a4c4cc	Höger knä vridet vid fotboll; låsning, svullnad
+07ef138f	KÖR SEKVENS
+0827bee2	Dosgränser (ICRP #)
+086c6bbb	Färg: #%·#%·#%·#%·#%-isodoser. Konturer: grön PTV, gul ryggmärg, röd hjärta, rosa lungor.
+08c92619	Barn är #–#× mer strålkänsliga än vuxna och har lång förväntad livslängd → ALARA är ännu viktigare.
+09138ded	Jag vill inte opereras. Hur går den här strålbehandlingen till, gör den ont?
+096813ae	Brus (σ, homogent område)
+098d1ad9	Radioembolisering av levern (SIRT)
+09c4871c	Vilken växelverkan dominerar för en foton på # MeV i mjukvävnad?
+09f71920	Larmorfrekvens
+09feeabb	Jämför Braggtoppen för protoner på # MeV med NIST:s CSDA-räckvidd
+0a496fc5	Fosterdos ≈ SSDE (livmodern helt i fältet). Diagnostisk brusgräns ≈ # HU (lågdosprotokoll för appendicit). Välj kV, mAs, pitch och skanningslängd och tryck sedan på SKANNA.
+0a52c35c	T1-viktad
+0aa78268	Hypofraktionering: prostatans α/β är lägre än rektums, så stora fraktioner gynnar tumörbehandlingen (CHHiP #/#, PACE-B #/#) och patienten reser mindre.
+0ac8a560	Återställ
+0acf4d25	Större text
+0b4677ab	EANM: glukos < # mmol/L (≈ # mg/dL). Hyperglykemi konkurrerar med FDG och sänker tumörupptaget.
+0b4d8f40	överlevande fraktion
+0b81ff1c	Överkäksben ≈ # cm under lesionen
+0b8b3199	Dosbegränsningar (QUANTEC / RTOG)
+0bbe8b9f	Monte Carlo i realtid: varje spår är en partikel. Fler historier = mindre statistiskt brus (σ ~ #/√N).
+0c1c4f42	Strålonkologi: kurativ EBRT, prostata ± sädesblåsor (Dr Kılıç)
+0c2610e2	CNR skada/menisk #: skadan tydlig (vätska ljus, menisk mörk på PD/T2).
+0c433245	Lågt tumör-till-bakgrund-förhållande → risk för stadieindelningsfel.
+0c903e49	Blyskärmar begränsar fältet: mindre patientdos och spridning. Al/Cu-filtrering tar bort lågenergetiska fotoner, härdar strålen och sänker huddosen.
+0ccd4680	Kvot sfär / bakgrund
+0ce92428	CTDIw: kroppsfantom # cm (huvud # cm); E = DLP × k (thorax #, buk #, huvud # mSv/mGy·cm).
+0d78d08a	Bygg en # cm bred SOBP
+0db9cc3e	Puls
+0dec8195	Använd #° – τ – #° och skapa ett spinneko
+0e1a0a7b	engångsdos, α/β = # (tidig / tumör)
+0e32111a	Strålfält
+0e629e6c	Boka om: ≥ #–# h fasta, glukosen måste vara < # mg/dL
+0f01dfcb	Nästa elueringstid
+0f6a0301	#×# cm applikator, ingen avskärmning
+0ff4383c	Gravid arbetstagare (foster)
+10225e52	Kortikalt ben
+10bddc32	En ferromagnetisk flisa i ögat kan röra sig i B₀ och orsaka blindhet → orbitaröntgen (eller DT) först.
+10bee102	Avvikelseindex (DI)
+10f562e1	Ge snabbverkande insulin och injicera direkt
+10f6a1bd	Linjär-kvadratisk modell • BED
+113249ae	Gör en fotonplan som uppfyller alla doskrav
+114fa830	Multileaf-kollimatorn (lameller på #–# mm) formar fältet efter tumören och rör sig under strålningen vid IMRT och VMAT.
+116e6f62	Hologram
+11a18b82	Ta bort alla
+11a4e77a	Diagnostisk / terapeutisk kvalitet
+124f5fe7	Kontrast vit / grå substans (vid markören)
+129b582e	DI # → korrekt exponering.
+132d55ba	relativa fotoner
+134c264b	Metallartefakt: skanna ett bäckensnitt med höftprotesen
+135a8cc7	 h efter
+136685c9	EQD2 tumör (α/β #) = # Gy, sen hud (α/β #) = # Gy. Bra balans mellan kontroll och kosmetik.
+1370333f	Fältbredd
+138fb3e1	Rätt: I/I₀ = e^(−μx). Eftersom σ ~ #/√N ökar bruset ≈ √# ≈ #× vid samma mAs.
+13ad4851	β-hCG POSITIVT: gravid i ungefär # veckor.
+13bea53e	# guldmarkörer implanterade
+13f06473	Rensa mätvärden
+1451f91f	verkligt 
+14d5133a	ACR (#) och ESUR #: metformin fortsätter vid eGFR ≥ #; iv-kontrast behövs för att upptäcka en abscess.
+14e77c03	Återställ framsteg
+151c3f35	Detektorring (LYSO + SiPM)
+1527c7a5	Utforska medicinsk fysik i små steg med riktiga beräkningar.
+15b23cec	 poäng
+15c3229f	α/β tumör
+15cf43c6	Den plana panelen mittemot kV-källan; den samlar hundratals projektioner för CBCT medan gantryt roterar.
+15f25e35	Amning och nära kontakt
+15fd9964	Andra språk än turkiska och engelska är maskinstödda översättningar; rapportera gärna fel.
+16092a9e	Försök igen — förklaringarna vägleder dig.
+160c0541	Neutronen är oladdad; den överför först energi till rekylprotoner (främst väte), som sedan avger dosen.
+16280e6a	Dosrat från patienten ~ A/d²; F-# T½ = # min. Att skjuta upp nära kontakt några timmar sänker spädbarnets dos kraftigt.
+1640e3a4	avstånd (m)
+164b6930	Spara mätvärde
+16b19be2	kVp-effekt: exponera vid ≤# kVp och ≥# kVp; jämför benkontrasten
+16d4a955	Strålbehandling
+17098140	Prostataadenokarcinom, intermediär risk (Gleason ##, PSA #)
+1716fced	Fosterdos ≈ SSDE = # mGy (CTDIvol # × f #).
+1725def4	K-linjer kräver att den infallande elektronen överskrider K-skalets bindningsenergi, så volframs K-linjer dyker upp först över # kVp.
+17278db5	Energi
+17a150b4	Ja — karakteristiska linjer beror inte på kVp
+17a890d2	Kvarvarande kärnor N(t)
+17c2afe2	I mjukvävnad dominerar fotoeffekten under cirka # keV, compton mellan # keV och ~# MeV och parbildning ovanför det. I material med högt Z som bly sträcker sig det fotoelektriska området upp till cirka # keV — därför är bly ett bra strålskydd.
+17cd8fa8	 lektioner • 
+1808f4a6	I mjukvävnad dominerar compton från cirka # keV till # MeV. Parbildning kan inte alls ske under sin tröskel på # MeV.
+18279c08	Utbredd Braggtopp (SOBP)
+18284597	<b>Exponeringsindex</b> EI = # × K_detektor [µGy] (IEC ##). Avvikelseindex DI = #·log₁₀(EI / EI_mål); |DI| ≤ # är lämpligt. DI = # betyder dubbelt så hög dos som behövs.
+182fdbbe	EANM (bäddöverlapp > # %): A·t ≥ # MBq·min·kg⁻¹ × vikt. Mindre aktivitet + längre tid ger samma bild med lägre dos. En upptagstid på # ± # min rekommenderas.
+18674089	<b>Koherent spridning:</b> fotonen byter riktning utan att förlora energi; ett litet bidrag vid låga energier.
+18d0a565	DT thorax
+1904dc9d	EANM-rekommendation
+19201036	Tid–avstånd–skärmning, avståndskvadratlagen, dosratkarta, uppdrag.
+193ee1fd	Utbredd Braggtopp (SOBP, # cm)
+19b5eb24	Tumregel: R9# ≈ E/# cm, R5# ≈ E/# cm, Rp ≈ E/# cm. Elektroner stannar vid ett skarpt djup — idealiskt för ytliga tumörer.
+19c23656	 h väntan
+1a36a166	Framsteg
+1ace7035	Plattdetektor
+1b01a1c6	En atom består av en kärna med Z protoner och N neutroner, omgiven av Z elektroner. Masstalet är A = Z + N. Kärnor med samma Z men olika N är isotoper, till exempel ¹²C och ¹⁴C.
+1b06e46e	Samla ≥ # # koincidenser och rekonstruera med MLEM
+1b12fad7	Typ #-diabetes (metformin)
+1bbe9bf8	Mehmet: ”Armarna ovanför huvudet? Okej.”
+1be9e2d9	Halvvärdesskiktet (HVL) är den tjocklek som halverar intensiteten: HVL = ln2/μ. Tiondelsvärdesskiktet är TVL = ln1#/μ ≈ # HVL. n HVL minskar intensiteten med en faktor #ⁿ.
+1c872a31	ja (> # MV)
+1ca87565	Hudmarkeringar och lasrar räcker
+1cb740a3	<b>Avståndslagen:</b> intensitet ~ #/d². Att gå från SID # till # cm kräver ~#× mAs för samma detektordos, men huddosen ökar mindre och förstoringen minskar.
+1cc0e3d5	Mamman frågar: ”Kan den här röntgen skada min son?” Emirs effektiva dos ≈ 
+1d4b8ac2	Injicera direkt
+1d6b9aba	Under organogenesen (vecka #–#) är den deterministiska tröskeln ~#–# mGy; diagnostiska undersökningar ligger långt under.
+1d8a20dd	Mehmets buk är 
+1dd9a37f	Icke-standardiserad upptagstid: SUV kan inte jämföras med tidigare/senare undersökningar.
+1e6a827e	Hitta protonens larmorfrekvens vid # T (≈ # MHz)
+1e836d59	T2-avklingning
+1f05f68e	Vävnadsparametrar
+1f12087d	Dos ≈ 
+1f4ea376	Initial Mo-#-aktivitet
+1f6b3b4a	Ben (# cm) # % — skonat.
+20170133	Tandfyllningar
+2056fe0a	Co-# har låg PDD och bred halvskugga; används inte i modern kurativ prostatastrålbehandling.
+20c4a5a9	Hudvy
+20c53222	Välj vilket ämne du vill. Om du är ny, prova först det korta startfallet.
+20caf1bb	Eluera generatorn #–# h efter förra elueringen (maximalt utbyte)
+210acf6e	Hasan: ”Hur många dagar måste jag komma? Jag reser in från byn.”
+218447b4	Fett
+21db31eb	Kort TR/TE → T1; lång TR, kort TE → PD; lång TR/TE → T2-viktning.
+21f331e9	Axelartroskopi #: titanankare
+224a7dd2	Ingen sådan begränsning vid extern strålning; den kan gälla brakyterapikorn.
+229566cb	Hasan: ”Får jag krama mina barnbarn efter behandlingen? Blir jag radioaktiv?”
+22a06b53	ALARA: lungbild med ESAK < # mGy och DI ≥ −#
+22fd0749	Daglig IGRT korrigerar organrörelse och minskar marginaler och rektaldos.
+2357d727	Strålfysik
+23f641a4	• Kontrollera enheterna i varje formel (cm⁻¹, Gy, Sv, MBq). • Lös exemplen själv först och kontrollera sedan. • Repetera efter övningsprovet lektionerna för de frågor du missade. • På intervjuer kommer oftast: ICRP-principerna, HVL, avståndslagen, LQ/EQD2, CTDIvol/SSDE, T1/T2, PDD och Braggtoppen.
+24176da5	Mo-# / Tc-#m-generator
+2448ca2f	bly
+2456b993	Kontrast
+2523a664	Gå till källan (< # m), ta upp den och bär den till blybehållaren.
+25266a5c	Klart. Kvot centrum/bakgrund: 
+252a0fa6	oskärmad
+253898c0	Räknestatistik # — bildkvalitet på EANM-nivå.
+25517e15	Braggtopp
+2576aae7	Vikt / längd
+25941612	Bendos (# cm)
+25b31f5d	Rörutbyte (# m)
+25c2fc03	Inga frågor hittades.
+25e14a19	Ström × tid
+25edd5e3	referenser för bromsförmåga och räckvidd för protoner och elektroner
+26f973b0	Attenueringskorrektion (AC)
+26fbd2ec	Vad skiljer röntgenstrålning från γ-strålning?
+2731d14d	STARTA FALLET  →
+2749a496	Effektiv dos till patienten
+27c35a89	 (T2-förlust: e^(−TE/T2))
+280f0096	Börja med ditt första fall
+287f6fa8	Givna fraktioner
+2885d27b	Spridningsraster (#:#)
+28a6f0c2	Diagram
+28ce8c15	Detektorerna mäter själva positronen
+290489df	Växelverkanssannolikhet per väglängd (cm⁻¹); μ/ρ är massattenueringskoefficienten (cm²/g).
+296d75eb	Strålbiologi
+29aac115	engångsdos, α/β = # (sen)
+29e178a3	Samtal med familjen
+29e32f3e	Reception
+2a17c8fd	Leverbrus # HU: en lågkontrastabscess kan försvinna i bruset.
+2a72143f	Behövs för < # µSv/h vid bordet
+2ab93b6c	Mål: ≥ # % dos överallt från huden ned till # cm; ≤ # % vid benet på # cm. Välj energi och bolustjocklek.
+2ad83ea8	SKANNA
+2afcdfa8	CNR ruptur / menisk
+2b05bc17	Varje atom sönderfaller i varje tidssteg med sannolikheten p = # − e^(−λΔt). Med få atomer fluktuerar kurvan statistiskt.
+2b45b1f2	MLEM-iterationer
+2b8ee748	Valt schema
+2bab58c8	MR-säkerhet: frågeformulär, orbitaröntgen (metallarbetare), zon IV-regler, hörselskydd.
+2bbeecb2	Riktiga patienter, riktiga beslut: lungröntgen på barn, DT under graviditet, en stor patient, prostatastrålning, hudcancer, PET och MR-säkerhet.
+2bd2dbd1	Höftprotes i titan
+2be6e625	HDR-brachyterapi
+2bfaf1fc	inte exponerad ännu
+2c30aab8	Total dos / tid
+2c89960f	EQD2 tumör (α/β #) = # Gy, sen hud (α/β #) = # Gy. En enda stor fraktion medför risk för sen nekros och broskskada.
+2cafb291	Kliniska fall — 
+2cb28fc5	Delar
+2ceef116	Stäng av magneten och släpp sedan in henne
+2d0ea9f2	Totaldos
+2d435572	Skapar onödig rädsla och fördröjer diagnosen; en berättigad undersökning ska inte stoppas.
+2d877b6c	Avsnitt
+2d93483f	Du kan kryssa i flera alternativ.
+2dcee2fc	efter eluering (h)
+2e160bcd	Stadium
+2e6390f7	Klart. 
+2e83162e	Sekvensdesign
+2eafe887	Takt
+2ebd290f	Rörbelastning (pitch #)
+2ecb2727	Låg kV ökar jodkontrasten men ger fotonbrist hos stora patienter.
+2f0820de	Skanna utan kontrast
+2f44ed8c	Börja om
+2f828120	Heta sfärer i olika storlekar och en lunginsats i en vattenfylld cylinder: med den testas recovery-koefficienter, partialvolymeffekten och attenueringskorrektionen.
+2fc8666a	CNR ödem / märg
+3000eed2	tid (dagar)
+304ff7fb	Inga
+30b6e97d	Elektronenergi och bolus
+30fa92b1	Rekonstruerad bild
+3152bf83	Skelettmetastaser (alfabehandling)
+31b9a47d	T1-återhämtning
+31e91d5f	Tunt i mitten och tjockt i kanterna: det sänker dosen i patientens tunna kanter och jämnar ut detektorsignalen. Kollimatorn bestämmer snittjockleken.
+327a15b7	Fotoneutronproduktionen börjar över ~# MV; med VMAT räcker #–# MV för djupa mål.
+32abb5ec	Oladdade partiklar (fotoner, neutroner) som först sätter laddade partiklar i rörelse.
+32d80beb	vävnadssammansättningar, dosstorheter, viktningsfaktorer
+33449df1	#. Attenuering och filtrering
+3377af3e	Rätt: F = I·L × B. Bullret ökar med B₀ (högre vid # T); IEC ### kräver hörselskydd.
+33c3fd73	Nuklearmedicin
+33d5539e	Det finns en remiss, skanna genast
+33d5b2f2	Muskel
+34049cb1	Tumör
+340a8d84	Rör sig med konstant hastighet under en spiralskanning. Pitch = bordsförflyttning per varv / total strålbredd; pitch > # sänker dosen.
+340d8b25	Bakåtspridning E′(#°)
+347ac991	Det första HVL tar bort de mjuka fotonerna, så den återstående strålen är hårdare
+34895938	Golv: dosrat H*(#), µSv/h (log-skala) • vit linje = # µSv/h
+34a0fb80	Laddade partiklar (elektroner, protoner, α) genomgår ständigt coulombväxelverkan längs sin bana och är direkt joniserande. Fotoner och neutroner är oladdade: de sätter först en laddad partikel i rörelse (foton → elektron, neutron → rekylproton), och det är den partikeln som avger dosen.
+34a3d9ed	Utvecklare
+34aaa379	 min
+34dd8fb9	#. Blochekvationerna och relaxation
+3510b740	Insulin driver FDG till muskler och fett; vänta därefter ≥ # h.
+35143fb3	TE (ekotid)
+35afca3b	Avbryt
+35dd3154	Atomer och kärnor, strålningsslag och hur fotoner och laddade partiklar växelverkar med materia — grunden för all medicinsk fysik.
+35dfee4a	Atomens uppbyggnad
+35fca6f7	Historier
+36014d05	k-rummet
+360983be	Vattenbaserad strålhärdningskorrektion (BHC)
+36315a9f	Kortikalt ben / kontrastblod
+363200c3	Klart: 
+36375dc7	Återställa alla framsteg?
+365bad67	Nivå 
+368f3298	 frågor
+36c94f4b	Ingen diabetes
+36cc1e6f	Sänk dosraten vid manöverbordet (grön markering) under # µSv/h
+3769e565	#. Dos
+3809b45a	Spinneko! t = 
+381fcf9b	Brus (ROI urinblåsa, SD)
+38362f62	Avklarade uppgifter, fallstjärnor och lektionsframsteg raderas. Det går inte att ångra.
+38652f80	Upptagstid
+38ec0bda	Effektiv dos (# mSv/MBq)
+38f2a757	Specifik aktivitet (ren)
+38f6bec6	Axiellt snitt (HU)
+38f9308a	Skalle
+39547f25	Ofiltrerat
+396c9c92	Lunga V2# < # %
+398977ad	Detektorkanaler
+399e986d	Uppgifter
+3a6a3b1d	Kvar / sönderfallna
+3ad53794	AP
+3b1cbe1c	Aktivitet i kroppen efter undersökningen
+3b272149	✗ Fel
+3b2ac288	Benmärgsödem i fettrik märg syns först med fettsuppression (eller STIR).
+3b6eb64c	Främre rektalväggen ligger an mot prostata
+3b7e32aa	Kvot ingång / topp
+3b8987c9	  — lektionen bemästrad!
+3ba1a0c6	Varje HVL halverar intensiteten: (#/#)³ = #/#.
+3c21cd4d	Ordination
+3c2dfe59	Dold
+3c4cfbae	Titan är inte ferromagnetiskt (MR-säkert / villkorat); ingen åtgärd behövs.
+3c988cc0	Medelenergi
+3d27f064	<b>Parbildning:</b> i en kärnas fält blir fotonen ett elektron–positronpar; tröskeln är # MeV och sannolikheten ökar ungefär som Z².
+3d6b9f1f	Lungtumör
+3dbec6d5	Exponeringsindex (EI)
+3e04a9b3	Våglängden för en röntgenfoton på # keV: λ ≈ # / # = # nm — ungefär en tiondel av en atoms diameter (~# nm).
+3e0553f6	Bröstkorg
+3e233fe3	Medellivslängd τ = #/λ
+3e246e80	Mamman frågar: ”Kan den här röntgenbilden skada min son?” Emirs effektiva dos ≈ # µSv. Vad säger du?
+3e26d09f	CNR ödem/märg #: svag kontrast.
+3e3a239c	Bildgivande metod
+3e5c100c	Ortopedi: MR höger knä — meniskskada? benmärgskontusion? (Dr Polat)
+3e6fed3c	Blochsfär (roterande system)
+3ea76ce8	BED tumör
+3f01de3a	Fem växelverkanstyper
+3f6fbd86	k-rumssampling
+3f99f636	Brus # HU: inte diagnostiskt — en omtagning skulle behövas, vilket höjer totaldosen.
+3fa74db5	Fotonspektrum (strålmål + utjämningsfilter)
+3fddf4f8	Utmärkt! Du behärskar stoffet.
+3fe8604c	Tatuering
+3feef465	− Ta bort
+4007d15d	Lärcenter — # ämnen, # lektioner
+40253cf6	μ är den linjära attenueringskoefficienten (cm⁻¹), summan av de fyra växelverkanstermerna. μ/ρ (cm²/g) är oberoende av densiteten och tabelleras därför (NIST XCOM).
+40361aca	Antal fraktioner
+4036e7f4	Appen lär ut kärnämnena i medicinsk fysik med interaktiva #D-simuleringar. Alla beräkningar bygger på verkliga fysikaliska modeller och referensdata, men appen är INTE avsedd för klinisk användning.
+4068c7dd	Frukost för # timmar sedan, blodsocker # mg/dL. Vad gör du?
+4078f8e8	Spolar runt tunneln gör att fältet varierar linjärt med positionen (mT/m): snittval, frekvens- och faskodning. Den snabba omkopplingen ger bullret.
+41086ad1	mAs för samma σ (mot # cm)
+411cbb0d	Håll dig bara borta från gravida kvinnor
+414eb5b3	Sammanfattning
+41d150aa	Gantry
+41e0bccc	fotoner
+421ed9be	Vid diagnostiska energier dominerar två växelverkningar: <b>fotoelektrisk effekt</b> (~ Z³/E³, källa till kontrast) och <b>comptonspridning</b> (~ elektrontäthet, källa till spridning). Simuleringen använder NIST-tabeller μ/ρ(E) för varje material.
+422af40c	Mus: vänsterdrag = rotera, högerdrag = panorera, hjul = zooma. Pekskärm: ett finger = rotera, två fingrar = zooma/panorera.
+42347061	Rörström × tid
+424c4852	#. Bildbildning
+426e4933	Klaustrofobi
+42720baf	Ben
+427f78a4	Snabba regler (nominell energi): R9# ≈ E/#, R8# ≈ E/#, R5# ≈ E/#, Rp ≈ E/# (cm).
+439ee205	Jämför effekten av attenueringskorrektion i bildens mitt
+43b2aeba	Ändra parametrar → bild och dos räknas om (polyenergetisk strålföljning + NIST-data).
+43b5e592	Radionuklid
+43cb67fd	Bindningsenergin för volframs K-skal är # keV. Ger ett rör som körs på # kVp volframs karakteristiska K-linjer?
+43d93074	EQD2 tumör (α/β #) = # Gy, sen hud (α/β #) = # Gy. Underdoserat: hög risk för återfall.
+446ceec2	i luftkerma
+44fb5dc7	Källan säkrad! Dos under uppdraget: 
+4531ef7f	Dämpningen beror exponentiellt på tjockleken.
+4581c4fb	#. Radioaktivt sönderfall
+45901efd	Gradientspolar
+4602d9ec	tryck på bilden
+46143215	Där gantryts, kollimatorns och britsens rotationsaxlar möts (±# mm). Avståndet källa–axel (SAD) är # cm.
+467b083e	Bolus
+46ac079e	Skannar…
+46e87af2	 % klart
+472bd5d7	Låg kV förstärker jodkontrasten (K-kant # keV); ett bra val hos en smal patient.
+475a075b	Sinogram  p(θ, s)
+477692bf	Nukleärmed.
+47f9a72c	Feber (# °C) och hosta i # dagar
+48bee2b3	En DT-remiss kommer. Elifs senaste mens var för # veckor sedan. Vad gör du före varje undersökning med joniserande strålning?
+48cabbff	#-fälts
+48f82113	utsöndrat 
+49059469	Går det snabbt? Jag måste tillbaka till jobbet i morgon — jag slipar i verkstaden.
+491836e3	fel 
+499a20d5	AP, liggande, SID # cm
+49cf1cfd	Larmorfrekvens f₀ = γ̄·B₀
+49e1196b	Meniskruptur
+4a690915	Mottagarspole
+4ac37c75	Comptonspridning
+4b058728	Inställningar
+4b20e113	Nuklearmedicin / PET
+4b6a214c	Kalibreringskälla, brachyterapi (historiskt)
+4b7042c7	eGFR # mL/min/# m²
+4b81b768	SNR (mitten)
+4be56c9f	Fråga 
+4bf1fc72	Fettmättnad (FS)
+4c3b45ab	• Absorberad dos D (Gy = J/kg)\n• Ekvivalent dos H_T = w_R · D_T (Sv); w_R = # för fotoner och elektroner, # för alfa, # för protoner\n• Effektiv dos E = Σ w_T · H_T (Sv); vävnadsviktningsfaktorer enligt ICRP #\n• Strålningsinstrument visar omgivningsdosekvivalenten H*(#) (≈ # × luftkerma för Cs-#).
+4c498c6f	Jag ammar min bebis. Kan den här undersökningen skada henne?
+4c4a1ccb	Fotoneutroner
+4c790b94	Inställningarna har ändrats — kör igen innan du bekräftar.
+4c94eaa4	Bra. Repetera lektionerna i de ämnen där du svarade fel.
+4c96524b	Sänk ryggmärgsdosen med en protonplan
+4cf38cb8	Avläsningsenergi
+4d1aa535	Ämnen
+4d5f9cf2	år
+4daa2b83	Strålskydd
+4dd7913c	Avbilda pacemakern på en lungröntgen
+4de2c891	Lungor, ben, mjukdelar och hjärta modelleras med NIST-attenueringskoefficienter; en polyenergetisk stråle följs för varje detektorpixel.
+4df6b638	Mätvärden
+4e0d4ec8	Ett skydd är # HVL tjockt. Hur stor är transmissionen i smal geometri?
+4e6c5d36	Simulering
+4e7651ae	Direkt DT med kontrast
+4e8632ff	Direkt joniserande
+4ea60106	#. Dosstorheter
+4ebc9931	Tumör-EQD2 (α/β #)
+4eed3c07	underexponerad / brusig
+4ef63472	relativ dos
+4f56491a	Mät halveringstiden för Tc-#m med Monte Carlo inom # %
+4f5e1d34	#. Tre principer: tid, avstånd, skärmning
+4f8bf6fa	Svetsare / slipning: möjlig metall i ögat
+4fca6bb4	Ingen kronisk sjukdom, fullvaccinerad
+4fd01b06	Strålenergi
+5009de05	Dosrat på # m
+5009fb9e	Jämför tumörens BED för SBRT (#×# Gy) och konventionell behandling (#×# Gy)
+504443a0	Exponering
+5060769e	lat
+506f8881	rektum
+50793575	Ordlista
+50b3cd30	Digital röntgenbild (CsI-detektor)
+50f75e70	CNR ödem/märg #: fettmärg döljer ödemet — använd fettmättnad (FS).
+51301586	VARNING
+514a1189	TR (för SE-diagrammet)
+515cc083	T2-viktad
+5169f3c5	Linjär energiöverföring: energi som en laddad partikel avger per väglängd (keV/µm).
+51880252	Dosfördelning (x–z-planet)
+51b48ac4	Skärm placerad. Ändra tjocklek och material i vänsterpanelen.
+51d5b7b0	EQD2 tumör (α/β #) = # Gy, sen hud (α/β #) = # Gy. Acceptabelt: färre besök men högre risk för sena effekter (atrofi, telangiektasier).
+51ea5d41	Tryck på en patient eller välj en i listan. Varje patient är ett kliniskt fall som löses med verklig fysik.
+51f21a4b	Datakällor
+51f7e789	total dos (Gy)
+51fa3930	Klart. Granska resultaten; ändra inställningarna och kör igen vid behov.
+523e597b	Vit substans
+524fb8d1	Tryck på ELUERA för att utvinna Tc-#m. För högsta utbyte, vänta ≈ # h efter förra elueringen.
+52af1039	I elektronfält smalnar #%-isodosen av med djupet; en marginal på ~#–# cm behövs. Outputfaktorer måste mätas för små fält (TG-#).
+537cf34e	Utbyte vid senaste elueringen
+539143ed	TCP för detta schema (N₀ = #⁹)
+5394c2c1	Dos-areaprodukt (DAP)
+53a02dda	α/β ≈ # Gy (tumör, tidigt reagerande) och ≈ # Gy (senreagerande normalvävnad, t.ex. ryggmärg). Små fraktionsdoser skonar sena vävnader; höga fraktionsdoser som vid SBRT ger mycket hög tumör-BED men kräver exakt inriktning. TCP = exp(−N₀·S).
+53f501c6	Aktivitet vid skanningsstart
+542674c2	Fantom
+543dd434	Parbildning
+543f87d4	Ryggrad
+548c82d8	Magnetisering
+5490dc6c	 veckor
+54ba96a0	Effektiv halveringstid
+54ebaaec	Effektiv diameter → SSDE
+550bfe9e	puls
+55231493	Hjärna
+55437eb0	Projektion och positionering
+554740bc	Ändra strålvinklar och vikter: täck målet och skona ryggmärg, hjärta och lungor.
+5566f444	Tillämpa
+556bb28a	Lägg i behållaren
+556d6936	När källan väl är inne sänker några cm bly dosraten hundratals gånger (varje HVL halverar, varje TVL delar med tio).
+5586c1bb	Bordsposition (z)
+55af7f60	Kan stå, samarbetar
+55b7844c	Direkt och indirekt jonisation
+55c427dd	Recovery-koefficient (största / minsta sfär)
+55f81dfb	PET-fysik
+56a82532	Röntgenradiografi
+56aaa165	Hudcancer på kinden — elektronbehandling
+56e6dfdf	Blybehållare
+57270c3f	Ge # fraktion
+57426dc2	Strålningsinstrument
+580581bf	Engångsdos, α/β=
+58390f45	Tatuering på vänster arm (#)
+584aaa85	Det elektromagnetiska spektrumet
+584ba3f5	klonogener: 
+5865c9d9	Vald stråle: 
+5865ea2d	ICRP # och ACOG: inga deterministiska effekter under # mGy; avbrytande rekommenderas inte under # mGy. Förmedla risken med siffror och lugn.
+5876c756	Väntande patienter
+5878a2bf	Djupdos
+58820d8d	Bästa svar: 
+589a5df5	Patientrörelse (fasfel)
+58c52672	 år
+58e096de	Om
+590ca79a	Bild
+5951ffab	Arbetstagare (effektiv)
+59c7842a	Lesionstäckning: minst # % — hudytan är underdoserad: bolus drar upp elektrondosen till ytan.
+59c80f5b	Lungröntgen på barn
+5a09a50e	Protonräckvidd (Bragg–Kleeman)
+5a296842	Planmallar
+5a53afe8	Prostatan ligger ≈ # cm djupt framifrån och ≈ # cm från sidan. Jämför djupdoserna (PDD) och välj en energi för VMAT.
+5a54e20e	Resultat: 
+5aaf54e6	#. Elektronstrålar
+5ab00023	CNR ödem/märg #: benmärgskontusion synlig.
+5af0fb47	Monte Carlo-djupdos • Braggtopp
+5b6df32a	Nästa fråga  →
+5b765e84	Vid DT buk ligger livmodern i primärstrålen; ett förkläde kan inte skydda och försämrar bilden.
+5bac8b63	Egen flipvinkel α
+5c1604f3	Nästa patient: 
+5c1cca76	• <b>Tid:</b> dosen är proportionell mot tiden nära källan.\n• <b>Avstånd:</b> för en punktkälla avtar dosraten som #/d²: dubbelt avstånd ger en fjärdedel av dosen. Därför är tänger så effektiva.\n• <b>Skärmning:</b> täta material med högt Z (bly) dämpar fotoner bäst. En HVL halverar, en TVL sänker dosraten till en tiondel.
+5c60f76f	lesion
+5c6467e1	Visa doskarta (x–z)
+5cae40c9	Vätekärnor (protoner) har ett magnetiskt moment. I fältet B₀ riktar ett litet överskott in sig efter fältet och bildar en nettomagnetisering M₀ (M₀ ~ B₀). Spinnen precederar kring B₀ med larmorfrekvensen.
+5ce2e06a	Rätt. I PA ligger hjärtat nära detektorn → mindre förstoring; ett långt SID minskar geometrisk förstoring och oskärpa. Främre organ (bröst, sköldkörtel) får också lägre dos i PA.
+5d155c86	Se resultatet  →
+5d27c72a	Tc-#m vid eluering
+5d74c24a	Dosplanering • DVH
+5dc26de3	Så studerar du
+5ddb2028	Grundläggande strålningsfysik
+5de75a0b	Höger lunga
+5dea53d0	Strålonkologi: elektronbehandling, BCC vänster kind; ultraljudsdjup # cm (Dr Öz)
+5deb5e94	Avböjer kirurgi (står på antikoagulantia)
+5e0275a6	#. Generator och transient jämvikt
+5e4baa18	Vy
+5e840e69	Överlevande fraktion S
+5e8aae31	Ryggmärg
+5e8f4863	RF hörs inte; bullret kommer från gradienterna och kan skada hörseln.
+5ed62a66	Blod + jodkontrast
+5f38ef7b	Extra Cu-filter
+5f594fad	Rekonstruktion
+6032454b	Comptonspridning
+6053526e	För FDG: glukos < # mg/dL och ≥ #–# h fasta; upptagstid # ± # min.
+605c9960	Kvantbrus
+60bf7d6c	Brus σ ~ #/√(mAs) och växer exponentiellt med tjockleken; stora patienter behöver #–# kV + fler mAs (eller AEC).
+6129d920	Rätt: e⁺ + e⁻ → #γ (# × m₀c² = # × # keV). Slumpvisa och spridda koincidenser korrigeras; attenueringen korrigeras med DT.
+6174d861	CTDIvol är dosen i ett PMMA-fantom på # cm, inte patientens. AAPM #/#: SSDE = f(D_eff)·CTDIvol; hos stora patienter är f < #.
+61814715	Matris (upplösning)
+61999a6b	Begränsad skanningslängd (höftbenskam till symfys): lägre DLP.
+61e2a3f8	Källa
+61f84dec	Dosen beräknas med inhomogenitetskorrektion via ekvivalent väglängd (radiologiskt djup = Σ ρₑ·Δl): en stråle genom lunga dämpas mindre. Planens kvalitet bedöms med DVH: PTV D9# ≥ # %, ryggmärg Dmax < # Gy, lunga V2# < # %, medeldos lunga < # Gy, hjärta medel < # Gy (QUANTEC).
+6246a72c	Återställ (M || B₀)
+6283a899	 min/bäddposition, upptag 
+6292946b	Modulationsbredd
+62b33346	μ(vatten)-referens
+62dc212b	Medelfri väglängd #/μ
+6337b9a5	En RF-puls (B₁ med larmorfrekvensen) tippar M med flipvinkeln α. Sedan:\n• <b>T1 (spinn–gitter)</b>: Mz återhämtar sig: Mz(t) = M₀ + (Mz(#) − M₀)·e^(−t/T1)\n• <b>T2 (spinn–spinn)</b>: den transversella magnetiseringen defaserar: Mxy(t) = Mxy(#)·e^(−t/T2)\n• <b>T2*</b>: fältinhomogenitet ger ytterligare defasering (#/T2* = #/T2 + γΔB) — en #°-puls vänder denna del: <b>spinnekot</b>.
+638a3d27	Spridningsraster (Bucky)
+63e33069	Distalt djup
+63e87165	Ålder / kön
+64053f4c	Sinogram, filtrerad bakåtprojektion, Hounsfieldenheter, artefakter.
+64ab923e	transmission i smal stråle
+64cec188	Sekvens
+650b51c9	CTDIvol är en fantomdos; använd SSDE = f(D_eff)·CTDIvol för patientspecifik dos (AAPM #/#).
+65297d00	 (inkl. repopulation)
+652cb5da	Mer studier behövs — lektionerna nedan hjälper dig.
+656c2bdf	Hud / händer
+65b3c1bb	Grå substans
+660f2bd2	Geometri och detektor
+662c7590	Menisk
+6644745a	Effektiv diameter / f
+66597e63	Slumpvisa
+66c80500	fotonattenuerings- och energiabsorptionskoefficienter (# material)
+66f00e9c	Rätt: graviditet måste uteslutas hos varje kvinna i fertil ålder när bäckenet ligger i strålfältet (ICRP #, IAEA SSG-#).
+6705e1b1	Lektioner steg för steg från atomen till strålbehandling, interaktiva figurer, lösta exempel, quiz och ett övningsprov.
+672a70aa	Visa SOBP (analytisk)
+6750e405	Effektiv dos = DAP × konverteringskoefficient (per region). Naturlig bakgrund ≈ # mSv/år.
+675d82e1	Sinogram
+6779effc	Eluerat
+67b8f497	BED sen vävnad
+67ebc3e7	#. Hounsfieldenheter och fönstring
+67fabac5	Rektum-EQD2 (α/β #) = # Gy — risk för sen rektal toxicitet (blödning, proktit).
+6808f26e	Det är riskabelt; du bör överväga att avbryta.
+6817ce15	UL: appendix ses inte. Ingen MR nattetid; kirurgen betonar risken för perforation. Gemensamt beslut: lågdos-DT.
+687d1f08	En sjuksköterska vill i ett akutläge ta in en syrgastub av stål i magnetrummet (zon IV). Vad gör du?
+68de0f88	Formelblad — 
+69069946	Strålhärdning: skanna polyenergetiskt med BHC av (cupping)
+69338848	Starta det första fallet  →
+69607fdf	EPID (MV-avbildning)
+69762965	Buk
+69c54135	 h
+69d97846	Vävnadssignal
+69fc5799	Cu-filter
+6a494fba	Översikt
+6a4f8e94	Vid diagnostiska och terapeutiska energier växelverkar fotoner främst på fem sätt: koherent (Rayleigh-)spridning, fotoelektrisk absorption, comptonspridning, parbildning och fotonukleära reaktioner. Vilken som dominerar beror på fotonenergin och mediets atomnummer.
+6a8f4d0e	Inte riktigt. 
+6ab344fe	Effektiv (fysikalisk + biologisk)
+6ada0052	DT
+6ae55601	Repetition
+6b26a05c	Dos på hudytan
+6b7a6181	R = accelerationsfaktor: var R:e linje registreras → invikning med FOV/R (aliasing). Parallell avbildning (SENSE/GRAPPA) vecklar ut den med spolkänsligheterna.
+6b8da132	Dosrat på # cm
+6bb77736	Punktkälla
+6bbe4f23	Al-filter (tillagt)
+6bc09210	Ingen förändring; samma mAs
+6be9432d	Ytdos
+6bf0564a	Laddade partiklar (elektroner, protoner, α) som avger energi genom coulombväxelverkan.
+6bf28b9c	Vetenskapligt ogrundat och skadligt råd.
+6c025c20	inte skannad ännu
+6c168d60	Fallet klart
+6c3c9505	fotonenergi
+6c6870d7	Gör ett val
+6c8fcda6	FÖR NYBÖRJARE
+6cc46a6f	 min läsning
+6cc784fd	Du fattar bara ett beslut i taget.
+6cec06d7	# ng/mL
+6d148508	Skanna
+6d8836d2	Möjligt men inte förstahandsval; ultraljud och MR bör komma först.
+6d94e783	k-rummet och fouriertransformen
+6dc54781	 d
+6e2eab59	Korrekt exponering: få avvikelseindex (DI) för en lungbild inom −#…#
+6e67bd16	Referens / analytisk
+6e8c7b25	Fotonenergi
+6eb5b73c	Patientjournal
+6ef0f4ce	FLAIR: undertryck likvor medan lesionen förblir ljus
+6f441d09	Vad bildas när positronen från FDG annihileras, och hur detekterar PET det?
+6f7079de	Teleterapi, Gammakniv
+6fb2dc0f	 projektioner, 
+70491c5e	Senaste mens: för # veckor sedan (oregelbunden)
+705dbc6f	Ingen preventivmedel
+70689f04	Skanningslängd
+706aba83	Britsgräns # kg, gantryöppning # cm
+706fb9f9	PET (glukosmetabolism med FDG)
+7074357f	#) Berättigande: nyttan måste överväga risken. #) Optimering (ALARA): håll dosen så låg som rimligen är möjligt med bibehållen diagnostisk kvalitet. #) Dosgränser: för arbetstagare och allmänhet (inte för patienter; där används diagnostiska referensnivåer).
+707b359b	Abscessväggen laddar kontrast; en DT utan kontrast kan missa den.
+709e0d80	Blybehållare
+70c9432b	Attenuering, HVL och strålhärdning
+70e6ad0e	Radioaktiva kärnor
+71c67fc5	pojke
+720bb6d5	Isocentrum
+72103ea7	Barnthorax: inget raster, extra Cu-filtrering, hög kVp / låg mAs, tät kollimering, kort exponering (rörelse).
+7211792a	<b>Comptonspridning:</b> fotonen ger en del av sin energi till en svagt bunden elektron och sprids. Den beror på elektrontätheten och knappt på Z.
+72133fde	#. Kontrast
+721471f0	ELUERA
+72467d86	Buköversikt i stående
+729ea19a	+ Placera skärm
+72a6030d	Exponentiallagen gäller bara i smal geometri, där spridda fotoner inte når detektorn. I ett brett strålknippe bidrar även spridda fotoner och transmissionen blir B·e^(−μx), med build-up-faktor B ≥ #. Om B ignoreras i skärmningsberäkningar blir skyddet underdimensionerat.
+72b715d3	Hasan: ”Hur når ni något som ligger så djupt?”
+72daab8b	Sena / ligament
+72f6d05f	Mitten av k-rummet bär bildkontrasten; periferin bär de fina detaljerna (kanter).
+72f991f9	Linjär attenueringskoefficient μ
+72fb1a0a	Spektrum
+72fc2e5a	Missade: 
+732be2f9	Bildstyrning (IGRT)
+7342c4c8	Ge kontrast; med eGFR ≥ # och utan akut njurskada sätts metformin inte ut
+73715b63	Tillhörande kliniskt fall  →
+738f6b5a	En #°-puls tippar M till xy-planet. Spinnen sprids ut som en solfjäder eftersom de precederar olika snabbt (T2*). En #°-puls vänder dem och ett eko bildas.
+7393264d	Utforska alla ämnen
+73a87380	Teori och formler
+73bf80aa	Fotoner strax ovanför K-kanten kan slå ut K-elektroner, så den fotoelektriska absorptionen gör ett språng. Därför förstärker DT-protokoll med låg kV jodkontrasten.
+73d792b6	Skanna med få projektioner (≤ #): se strimartefakterna
+73e93954	Ultraljud; MR utan kontrast om det inte ger besked
+74148df9	Det kommer från kryogenen; ofarligt
+7564d845	Ja, det är farligt; låt oss undvika det om möjligt.
+75793978	Mehmets buk mäter # × # cm (genomsnittlig vuxen ≈ # × #). För vatten μ(# keV) ≈ # cm⁻¹. Hur mycket minskar # cm extra vävnad fotonerna som når detektorn?
+758e615c	Beräknar… (#×# pixlars strålföljning)
+75a97a00	Nytt prov
+75afa3bb	Lågt diagnostiskt värde vid blindtarmsinflammation; onödig dos.
+75d4759c	Smärta i vänster nedre kvadrant, feber
+760d8617	En vakuumflaska i en blybehållare suger koksaltlösningen och Tc-#m genom kolonnen. Genombrottet av Mo-# måste hålla sig < # kBq Mo per MBq Tc.
+763fa74b	Båda är fotoner och deras energiområden överlappar (γ på # keV från Tc-#m har lägre energi än röntgenstrålning från ett rör på # kVp). Bara ursprunget skiljer.
+7647a3ac	Godkänt — läs återkopplingen noga.
+765e2544	Zon IV-regeln
+76dd194b	Hjärta medel < # Gy
+77384e8c	Missvisande. LNT-modellen antar en mycket liten men inte noll risk; använd ett ärligt och lugnande språk.
+774a6613	Ett smalt monoenergetiskt fotonstrålknippe som passerar en tjocklek x har konstant växelverkanssannolikhet per väglängd. Resultatet är ett exponentiellt avtagande:
+777502bf	Hudmarkeringar visar inte inre rörelse; hög risk att missa målet.
+77eb0235	Poäng
+78197beb	ESAK # µGy > DRL: minska dosen (högre kVp + Cu-filter, ta bort rastret, sänk mAs).
+7835c649	Elektronerna fyller K-, L-, M-… skalen. Bindningsenergierna för de inre skalen ökar brant med Z: volframs K-skal ligger på # keV, jodets på # keV och syret i vatten bara på # keV.
+785a8151	Pitch
+78cd4207	Eluatflaska
+792a98a9	• <b>Strålhärdning:</b> låga energier absorberas först; längs långa vägar sjunker effektivt μ → ”cupping” i mitten och mörka strimmor mellan täta ben. Vattenkalibrering (BHC) åtgärdar cupping men inte benstrimmorna.\n• <b>Metall:</b> nästan alla fotoner absorberas (photon starvation) → ljusa/mörka radiella strimmor.\n• <b>Få projektioner:</b> otillräcklig vinkelsampling → strim- (aliasing)artefakter.\n• <b>Brus:</b> σ ~ #/√(mAs); den grundläggande avvägningen mellan dos och brus.
+793c090c	Lågdos-DT-protokoll
+793c5a46	vald diameter
+794db469	Benmärg
+79525074	Bara mitten
+79a399e0	Dos
+79ae5968	Tidshastighet (halveringstider / # s)
+7a696fee	Motsvarar naturlig bakgrund
+7a9ee904	Tryck på golvet → gå (tangentbord: WASD). Håll koll på instrumentets dosrat. Tid, avstånd och skärmning minskar dosen.
+7ab00d8b	Axiell dosfördelning
+7b06fb7d	SE-signal mot TE
+7b0ee643	Minsta dos i lesionen (#–# cm)
+7b3a2d83	Alfapartikel
+7b4e65c1	Rektum-EQD2 (α/β #)
+7b804b26	Fysikaliska effekter
+7bdb6a90	horisontellt: detektor s  •  vertikalt: vinkel θ (#→#°)
+7be2d594	Fokus–bildavstånd (SID)
+7bef2f61	Doskarta (x–djup): dos relativt maximum, %
+7bf995f5	Mätpunkt (tryck)
+7c162dc9	Spektrum • Attenuering • Spridning • Dos
+7c5092be	Joniserande strålning bär tillräckligt med energi (≥ # eV) för att frigöra elektroner från atomer. Den övre delen av UV-området, röntgen- och γ-strålning samt alla snabba laddade partiklar är joniserande; radiovågor och synligt ljus är det inte.
+7c72fb1b	Ernstvinkel (VS)
+7c7da947	Effektiv dos
+7c941c55	R8# (≈ terapeutiskt djup)
+7d7615e3	Prostatacancer — extern strålbehandling
+7d96597f	Anamnes
+7d972bea	Har sin mamma med sig; första bilddiagnostiska undersökningen
+7dd6f549	Titanimplantat
+7de1562e	 år, 
+7e0e48e1	cT2b N0 M0
+7e0faf28	Dragningen är omedelbar; allvarliga skador och dödsfall har rapporterats.
+7e323ea2	Ström och data överförs utan kablar, så röret kan rotera kontinuerligt, vilket gör spiralskanning möjlig.
+7e3a630c	Räckvidd R₀ (CSDA)
+7e5ca532	Ögonlins
+7e64d602	Röret och detektorn roterar runt patienten. För varje vinkel θ och detektorposition s är den uppmätta attenueringen en linjeintegral av μ(x,y). Mängden av alla projektioner är <b>sinogrammet</b>: ett punktobjekt ritar en sinuskurva.
+7e6646b7	Buk-DT hos en stor patient
+7e86bdae	Poängsättning
+7e8c6db6	HVL och TVL
+7ec52420	Radioligandbehandling (PSMA, DOTATATE)
+7f8ed8ff	Heliumpumpen surrar svagt, men knackandet kommer från gradienterna.
+7fa4aa8f	Lesion # cm från vänster öga
+7fa59d83	horisontellt: radiellt s • vertikalt: vinkel φ
+7fa5ff5c	Fullständig
+7fb12b63	Detektorbåge
+8077377d	Portalbild en gång i veckan
+807b9275	Rätt: dragkraften ~ B·dB/dz och är störst nära tunnelns öppning. Flytta vid behov ut patienten till zon III för vård.
+80cc6fb4	En positron annihileras med en elektron till två motriktade fotoner på # keV. Om två motstående detektorer fångar dem inom några ns registreras en koincidens (responslinje, LOR).
+80d6fd98	α/β senreagerande vävnad
+80f76b66	Fråga om graviditet och beställa ett β-hCG-test
+80fd59df	Partikel
+811c30cd	Antal projektioner (#°)
+8190561a	Smärta i höger nedre kvadrant, illamående (# h)
+819c9d03	Mo-#/Tc-#m-generator
+81ad7d36	Använd lång tång (källan # cm från kroppen)
+81b60676	Ant
+8202e478	Skärmning
+8210c814	Axiellt hjärnsnitt
+826d7453	Elektron
+82ce6c55	Brosk
+82e2dbbd	Region och projektion
+82e733b7	<b>Spridning</b> sänker kontrasten: kvoten spridd/primär ökar med fältstorlek och patienttjocklek. Ett raster släpper igenom ~#% av den primära och ~#% av den spridda strålningen. Kollimering minskar både spridning och dos.
+82fa204f	Ett stort fält ökar spridd strålning och DAP; det verkliga skyddet är ett smalt fält.
+832d529e	MR knä och MR-säkerhet
+832f8681	Lunga
+835889e9	Njure
+836bc242	#–# MV VMAT ger tillräcklig dos till det djupa målet från många vinklar; huden skonas och neutronerna är försumbara.
+83754be6	Ditt bästa: 
+83d4e55a	# kV hos en stor patient ger streck av fotonbrist och för mycket brus.
+84737e5d	Avläsningar
+85124f40	Brus # HU: diagnostiskt.
+8516948a	Formler
+851ad665	Gantryvinkel
+852fc0ce	Zeynep: ”Jag pumpade ut mjölk innan. Min man kan ge henne flaskan.”
+8567c350	Öppna genomgången
+85e4b82f	OK
+86260ec0	Så spelar du fall-läget
+8647f589	DI # → underexponering: kvantbrus, ej diagnostisk.
+869cfa26	EQD2 sen vävnad
+86c813a5	Pulser
+86e1dbb8	Två fotoner på # keV ~#° isär, registrerade av två detektorer inom ett koincidensfönster på några ns → responslinje (LOR)
+87025a9c	Nuklearmedicin: F-# FDG-PET/DT, stadieindelning (Dr Er)
+871c36f0	Titanankare
+875c3058	Lesion (ödem / tumör)
+875f29ca	För varje pixel följs en stråle från fokus till detektorn; väglängden i varje vävnad beräknas och Beer–Lambert tillämpas per energiintervall. Absorptionseffektivitet för CsI η(E) = # − e^(−μ_CsI·t). Signalen är energiviktad (energiintegrerande detektor).
+8762cac3	Protonenergi
+876b129d	Steg 
+8786af42	✓ Utmärkt
+87e69378	Spridda
+882ac676	Spädbarnsdos
+88674cd6	#) Välj ett ämne till vänster; ämnena går från grunderna till kliniken. #) Läs lektionen; hoppa inte över NYCKELPUNKT-rutorna och de lösta exemplen. #) Dra i figurernas reglage för att se vad formlerna säger. #) Gör quizet i slutet av lektionen: alla rätt markerar lektionen med ★. #) Använd ”Prova i labbet” och ”Tillhörande kliniskt fall” för att tillämpa det du lärt dig.
+886d0cbf	RF-pulserna ger bullret; inga åtgärder behövs
+888cc345	På # m (skärmad)
+89235979	När modernukliden (Mo-#) lever längre än dotternukliden (Tc-#m) går A₂/A₁ mot en konstant: transient jämvikt. Om modernukliden lever mycket längre (t.ex. Sr-#/Y-#) uppstår sekulär jämvikt: A₂ = A₁.
+892ef903	En enda foton på # keV
+897fe13f	Kontrast och njurar
+89d558f4	En flerkanalig mottagarspole nära vävnaden höjer SNR och möjliggör parallell avbildning.
+89f4c462	CNR skada/menisk #: skadan syns inte — lång TR (PD/T2) behövs.
+8a2fa41a	Aktivitet, tid och upptag
+8a355b34	PA, stående, SID # cm
+8a69358c	tid 
+8aa94879	Riktlinjerna (ICRP #, IAEA) kräver inget amningsuppehåll vid FDG; det rekommenderas att begränsa nära kontakt några timmar och använda urpumpad mjölk.
+8b0d147c	Benkontrast (# cm i # cm vävnad)
+8b0eb3c2	Äkta
+8b5a89a7	Vad dominerar var?
+8b68a871	Möjlig graviditet och blindtarmsinflammation
+8c032c1a	Lärdomar
+8c5db0a7	<b>Fotoelektrisk effekt:</b> fotonen absorberas helt och en elektron i ett inre skal slås ut. Sannolikheten skalar ungefär som Z³/E³.
+8c7d3087	Resultat: 
+8c880991	Varje svar har en förklaring och återkoppling.
+8ca7a950	En GM-räknare eller jonkammare som visar dosraten i µSv/h; används för kontaminationskontroller i det aktiva labbet.
+8cde5d5c	Kollimator + tilläggsfiltrering
+8d46a34c	tjocklek (cm)
+8d815095	Fotoners växelverkan med materia
+8d8cee46	Avståndslagen
+8dbd5185	Tid # s — patienten kan ligga still.
+8de41236	Pacemaker
+8e5380f5	Emir kan stå och samarbetar. Vilken teknik väljer du?
+8e925209	Radontransform • FBP • Hounsfield • Artefakter
+8ea57a5e	R9# (djup i patienten)
+8f1b876c	Ditt bästa
+8f30fea5	Längd / vikt
+8fb29e12	Välj ett ämne och en lektion till vänster. Lek med figurernas reglage och testa dig själv i slutet av varje lektion.
+8fd05dbc	Behandling av sköldkörtelcancer och hypertyreos
+8fed86d7	Okej om det går fort
+8ff1e887	Tidshastighet
+9017c010	+ Lägg till stråle
+90571e3f	 quizfrågor
+907a4bcf	Patientdos (effektiv)
+90d642b7	Tumörens α/β ≈ # Gy, sena hud-/broskeffekter α/β ≈ # Gy. Vad passar en #-åring som har svårt att komma varje dag?
+90da7a12	Röntgen
+90e8ad1a	Vävnad
+91078d77	Rörspektrum, filtrering, HVL, spridning, detektor och patientdos.
+91258979	Radiofarmakon
+91882d73	CSDA-räckvidd (Bethe / NIST)
+91a7732a	Snabbt omkopplade gradientströmmar påverkas av Lorentzkrafter i B₀; bullret kan överstiga # dB → öronproppar / hörlurar är obligatoriska
+91b76332	Lugnande men felaktigt: den stokastiska risken är mycket liten, inte noll.
+926d87c3	Fångar systematiska uppläggningsfel men inte den dagliga organrörelsen → större marginaler och rektaldos.
+928ef299	kvinna
+92fe3fad	Endast utbildningsinnehåll — inte för kliniska beslut.
+9340f08a	Sönderfallskonstant λ
+93798b62	Generator
+93926697	Antropomorft fantom
+93fd33cf	Mx (signal)
+94397cd5	Potentiell fördubblingstid Tpot
+9441540c	DLP = CTDIvol × längd; beskriver den totala bestrålningen, inte organdosen.
+948fe972	kV-röntgenkälla
+94a38054	Ditt beslut
+94cc8d3b	Spädbarnets dos ≈ 
+94f37251	CTDIvol i sig
+951e2e51	SE GENOMGÅNGEN  →
+95a8c428	Mo-# (T½ # h) → # % → Tc-#m (T½ # h). Mo-# hålls kvar på en aluminiumoxidkolonn; Tc-#m byggs upp genom dess sönderfall och ”elueras” med koksaltlösning.
+95bce1b7	Luft
+95be3cc5	Bästa 
+95d6d65a	Laboratoriesystem (visa precession)
+95f4d5de	Fält och ögonskydd
+963b7c8f	Hej! Gör maskinen ont? Får mamma vänta utanför?
+966d8f4b	Emirs bröstkorg är ≈ # cm tjock (vuxen ≈ # cm). Ställ in kVp, mAs, filter, raster och fält och tryck sedan på EXPONERA. Mål: DI −#…# och ESAK ≤ # µGy.
+96c251ec	Fourierskivsatsen: den #D fouriertransformen av en projektion är ett snitt genom den #D fouriertransformen av bilden. Därför filtreras projektionerna först med |f|-rampen och bakåtprojiceras sedan. Ofiltrerad bakåtprojektion ger #/r-oskärpa.
+97080889	Patientens diameter
+97197ddf	Undvik all kontakt i en vecka
+971c410e	Radioaktivt sönderfall, Mo-#/Tc-#m-generator, PET-koincidenser och MLEM.
+9741e45e	Det finns ingen risk alls, noll strålning.
+97563b2a	Skärmar gammastrålningen medan flaskan förvaras eller bärs; några mm bly räcker för fotonerna på # keV från Tc-#m.
+979c2167	Ytdos (hudbesparing)
+97fc3c0a	Du är sjukhusets sjukhusfysiker. Varje patient är ett fall: läs journalen, fatta dina beslut och se resultat beräknade med verkliga fysikaliska modeller. Efter varje steg får du veta varför det var rätt eller fel.
+981c2b72	kV-detektor
+98333fde	Betong
+9837047f	Lesion + ~# cm marginal (≈ # cm blyavskärmning); ögat utanför fältet, inre ögonskydd vid behov
+98582d5e	Indirekt joniserande
+9867b7d1	Dosraten avtar med kvadraten på avståndet, Ḣ = Γ·A/d². Golvfärgerna visar dosraten; den vita linjen markerar # µSv/h.
+9895bce3	EQD2 tumör
+98b07aa5	Nej — den maximala elektronenergin (# keV) räcker inte för att jonisera K-skalet
+98f224a5	EXPONERA
+9920e564	Planpoäng
+993014d9	Vikt
+9945210a	Algoritm
+994bbd58	Regel: R ≈ #·E^#
+995324ac	Tid 
+995c9ab4	#. Dosimetri
+9970e954	PET: koincidenser och rekonstruktion
+997b38dc	Storleksanpassat protokoll
+99a15c5e	Effektiv dos (ungefärlig)
+99a7a50a	FORTSÄTT  →
+99f7bee7	Släpring
+99fa0dc1	Räknestatistik A·t / (#·kg)
+9a125d51	Elektroner från den uppvärmda katoden accelereras av kVp mot en roterande volframanod. Bara ~# % av energin blir röntgenstrålning (bromsstrålning + karakteristisk); resten blir värme.
+9a23c97b	FDG-PET/DT hos en ammande mamma
+9a2b880f	Patienttjocklek / SSD
+9a73db9b	Språk
+9b012adc	Avstånd till källan
+9c4aa55c	Röntgenrör
+9c506f53	Snittnivå
+9c528492	NbTi-lindningar kylda med flytande helium till ~# K. B₀ (# / # T) är alltid på: ferromagnetiska föremål blir projektiler.
+9c70fc8a	Fokuserade tunna blyremsor absorberar fotoner som spridits i patienten. Kontrasten förbättras, men mAs måste höjas för samma detektordos (Buckyfaktor #–#).
+9c8081f1	Öppna labbet
+9cabb538	Tid • Avstånd • Skärmning
+9cf82695	Resultat
+9d145291	Fotoelektrisk effekt
+9d2b5423	Beskriver skannerns utbyte och bortser från patientens storlek.
+9d3d585c	Modalitet för alla strålar
+9d6f6466	Ett filter tar främst bort lågenergetiska fotoner (<b>strålhärdning</b>) som bara skulle öka huddosen. Mer filtrering höjer medelenergin och HVL och sänker utbytet.
+9d70bd7a	DI = #·log₁₀(EI / EI_target): # ≈ # % mer, −# ≈ # % mindre, # ≈ #× detektordosen.
+9e134627	Kliniska fall — # patienter väntar
+9e1d18ea	#. Strålbiologi
+9e452222	Vilken av dessa är indirekt joniserande?
+9e75940c	Aktivitet
+9e7b7a87	Tumör-EQD2 = n·d·(d + #)/(# + #) = # Gy — högre än nödvändigt.
+9e8abbb2	Arbetstagarens instrument visar omgivningsdosekvivalentraten H*(#) där hen står; ackumulerad dos = dosrat × tid.
+9e995ba1	Fraktionering (LQ-modellen)
+9ebe06d9	Frukost för # timmar sedan
+9f24f2f7	Kontrastmedel utnyttjar denna fysik: jods K-kant ligger på # keV och gadoliniums på # keV. Absorptionen gör ett språng när fotonenergin ligger strax över K-kanten.
+9f3f7105	Rekonstruerar…
+9faeab39	Rörelsemängdens bevarande kräver två fotoner.
+9fc55136	Signal mot TE (T2-avklingning)
+9ffc9a24	Mät HU: tryck på lunga (< −#), fett (−#…−#) och ben (> #)
+a049bc94	T1- / T2- / PD-kontrast
+a0cf38d2	Lämplig upptagstid: standardiserad kvot tumör/bakgrund (jämförbara SUV).
+a12d8b93	Atomer, kärnor och strålning
+a13c66b3	Effektiv dos ≈ # × 
+a14e7f7e	Jodkontrast (hjärta/aorta)
+a15fa5b0	Sampling
+a1793be6	Ben / luft
+a17f6a53	# slumpmässiga frågor från alla ämnen — bra förberedelse inför masterintervjuer och tentor.
+a1be3d2c	Lateral (LAT)
+a1d821ab	#. Artefakter
+a219bf8b	Väntrum
+a22bd65a	protoner
+a267e784	Effektiv dos ≈ # × # = # mSv (ICRP #).
+a26d32ed	Mz-återhämtning (TI)
+a28c2366	Elektroner som accelererats till MeV i vågledaren böjs mot ett strålmål (fotoner) eller genom en spridningsfolie (elektroner). Utjämningsfiltret och monitorkamrarna (MU) sitter också här.
+a2c330b1	Se att en elektronstråles R5# följer regeln E/#
+a2eb2f51	Radioaktivt sönderfall (Monte Carlo)
+a2ed22c4	effektiv diameter D_eff (cm)
+a30f0337	Elektron-PDD: ytdosen ökar med energin (# MeV ≈ # %, # MeV ≈ # %); bolus höjer ytdosen och förkortar räckvidden.
+a37bf952	Utmärkt — en riktig sjukhusfysiker!
+a408a7ff	Kvinnor i fertil ålder med bäckenet i strålfältet: uteslut först graviditet (β-hCG vid behov).
+a431924a	Ta upp källan
+a475164f	Bly
+a4843b38	Ben (# cm) # % — onödigt högt: risk för osteoradionekros. Välj en lägre energi.
+a4a2847a	Kort TR + kort TE → T1-viktad; lång TR + lång TE → T2-viktad; lång TR + kort TE → protontäthet.
+a4be5f34	Isotop
+a4eeda8f	Lesion
+a50be870	Patientbrits
+a51067fd	Sönderfall
+a5916fb6	Fallet klart — 
+a5a57f6f	Vid bildtagning kommer kontrasten till stor del från fotoeffekten, eftersom Z³-beroendet tydligt skiljer ben (Ca, Z = #) från mjukvävnad (effektivt Z ≈ #). Compton är den främsta källan till spridd strålning, som minskar kontrasten.
+a5d46b38	DLP (# cm skanning)
+a5ee64bb	Medelvärdesbildningar (NEX)
+a5ff15cb	Roterar huvudet #° runt patienten. RF-källan (magnetron/klystron) och vågledaren sitter i gantryt och dess stativ.
+a60133e5	Rekonstruktion (invers #D-FFT)
+a60a634d	Spädbarnsdos ≈ # µSv (avståndskvadratlagen: dosraten på # cm är #× den på # m; medellivslängd för F-# τ = T½/ln2 ≈ # h).
+a6310194	Rådgivning
+a650d3f5	INTERAKTIV FIGUR
+a66f47bd	Blytjocklek
+a6e53476	RF-kroppsspole
+a6f33ef9	Rätt: en jämförelse i siffror (naturlig bakgrund ≈ # mSv/år ≈ # µSv/dag), med berättigande och ALARA förklarade tillsammans.
+a704e2e8	Klein–Nishinas tvärsnitt bestämmer comptonspridningsvinkeln och rekylelektronens energi. Monte Carlo-simuleringen följer varje foton och elektron; dosen konvergerar med statistisk osäkerhet σ ~ #/√N.
+a72ca2ae	Lägg till en biologisk halveringstid och se den effektiva halveringstiden (I-#)
+a77fb204	När en elektron i ett inre skal avlägsnas fyller en yttre elektron vakansen, och skillnaden sänds ut som karakteristisk röntgenstrålning eller som en augerelektron. De karakteristiska energierna är grundämnesspecifika; volframs Kα-linje i ett röntgenrör ligger på ≈ # keV.
+a7ae7cae	# MeV
+a85562cb	Graviditetskontrollen hoppades över: fostret kan ha bestrålats utan att någon visste det.
+a861d965	Rekonstruera
+a86b43b2	Bowtie-filter + kollimator
+a87f9edd	Varje linje är en koincidens (LOR): grön = äkta, gul = spridd, röd = slumpvis. Samla tillräckligt med pulser och välj sedan ”Rekonstruera”.
+a8b4a774	SSDE — CTDIvol korrigerat för den effektiva diametern
+a93ad5ad	brus σ (HU)
+a97badd0	Kör din första skanning och se sinogrammet fyllas
+a97d3fea	Effektiv (monoenergetisk) energi
+a9887e52	Lärcenter
+a99ef883	Beräknar…
+a9f0a4e6	Poäng
+a9f3146e	Vatten / ben / bly
+aa28ed13	Cellodling (#D)
+aa2ce59e	Dos-volymhistogram (DVH)
+aa430d6d	Inte berättigat: pediatrisk DT thorax ≈ #–# mSv jämfört med ≈ # mSv för en PA-bild. Bryter mot berättigandeprincipen (ICRP #).
+aa4446a7	Filtrerat (ingång)
+aa7120ec	Sätta ut metformin i # h och sedan skanna
+aaaa64f1	Rörbelastning
+aaede69c	ACR Appropriateness Criteria och ACOG: först ultraljud, sedan MR utan gadolinium — ingen joniserande strålning.
+aaee7048	Undersökningstid (# fas, ETL #)
+ab14bcac	Datortomografi
+ab25d4ea	Bakåtspridningsfaktor BSF ≈ #. DAP (Gy·cm²) är oberoende av avståndet och räknas om till effektiv dos med koefficienter: lungor PA ≈ #, buk ≈ #, bäcken ≈ #, skalle ≈ # mSv/(Gy·cm²). Typisk lungröntgen PA: ESAK ~#–# mGy, E ~# mSv.
+ab834a11	Biologisk halveringstid (# = ingen)
+ab8ca2c5	Vattenfantom
+abdee8d2	MV-fotoner växelverkar i vatten främst genom comptonspridning; energin avsätts av sekundära elektroner över flera cm. Därför är dosen låg vid ytan och stiger till dmax (<b>uppbyggnad</b>; hudsparing). Sedan sjunker den på grund av attenuering och avståndslagen.
+abe195be	Byt till lungfönster på ett thoraxsnitt
+abe68d6f	Andningsfrekvens
+ac5b89c3	Dos per fraktion
+ac720a66	Smalt och brett strålknippe: build-up
+ac737796	Avbildar den utgående behandlingsstrålen (portalbild); används för att verifiera fältform och levererad dos.
+aca79e3e	Steg: 
+aced2b71	Fraktionering (äldre patient)
+ada7afdb	ingen
+ada880a8	Teori kommer snart.
+adbf56a0	Energin: γ-strålning har alltid högre energi
+add79038	Fett / muskel
+ae20a6a3	Bromsförmågan ökar som #/β² när protonen bromsas; det mesta av energin avsätts i slutet av räckvidden (Braggtoppen). Räckviddsspridning (≈ # %·R) och energispridning breddar toppen. En viktad summa av toppar med olika energier bildar den SOBP som täcker tumören. Bortom toppen är dosen ~#: distala organ skonas.
+ae27b827	Läget kliniska fall
+ae6bb2bb	max 
+ae888d5f	Elektronernas #%-isodos smalnar av på djupet: avskärmningen bör vara ~# cm större än lesionen.
+aef94af7	Rätt. 
+af010c63	Ben (revben/bäcken)
+afe72516	Det skarpa dosmaximumet i slutet av en tung laddad partikels räckvidd.
+afe8043f	tid (h)
+b081abb7	isomer övergång (IT)
+b0adb207	Varför är det andra HVL för en polyenergetisk stråle större än det första?
+b0c23fb1	Aktiviteter (transient jämvikt)
+b0db6938	 dagar
+b0f260dc	Inte förstahandsvalet vid misstänkt lunginflammation; en sidobild kräver högre dos och räcker inte ensam.
+b11e7606	Vilka punkter på screeningformuläret kräver EXTRA ÅTGÄRDER före MR? (välj alla som stämmer)
+b1b83851	djup i vatten (cm)
+b1c222ab	EQD2 = n·d·(d + α/β)/(# + α/β). Tumörer med lågt α/β (prostata ≈ #) gynnas av hypofraktionering.
+b1c8c38e	Stapel: daglig andel för en arbetstagare (# mSv/år ÷ # dagar = # µSv).
+b1e88af6	Om en foton på # keV från Tc-#m bakåtsprids med #°: E′ = # / (# + #·#/#) = # / # ≈ # keV. Gammakamerans energifönster (≈ #–# keV) sorterar bort de flesta sådana spridda fotoner.
+b21a4f64	Medeldos lunga < # Gy
+b232d1f0	Lesionstäckning: minst # % — fullständig.
+b2697ad8	Röntgen- och γ-strålning är samma sorts fotoner; de skiljer sig bara i ursprung. Röntgenstrålning kommer från elektroner (bromsstrålning eller skalövergångar), γ-strålning från kärnan (radioaktivt sönderfall).
+b2972ae3	Huvud
+b2aad11c	Skanningsparametrar
+b33eb976	Modell: parallellstrålegeometri (omsorterade solfjäderdata), energiintegrerande detektor, spridning försummad.
+b34b3fcd	Paus / Kör
+b3755394	Sannolikheten för fotoeffekt ökar mycket brant med atomnumret och minskar brant med energin — därför ökar en låg kVp benkontrasten.
+b38452f0	Markör (TR eller TE)
+b3af5cc8	#. ALARA och gränser
+b3f9f066	Det gör så ont … och jag vet inte om jag kan vara gravid.
+b48eaaae	#. k-rummet
+b4d90f43	Patientdos
+b528da3e	Ogenomskinlig
+b5377fa4	Stål
+b54b4085	Gå närmare behållaren (< # m).
+b54d1bc5	Utforska labben
+b58894f8	I det roterande systemet (x', y') roterar vi med larmorfrekvensen: bara frekvensavvikelser (Δω) syns.
+b589c5ea	Fältbredd (isocentrum)
+b5f6bbb8	mål 
+b6b8c8bf	Larmorprecession, Blochekvationer, T1/T2, spinneko, k-rummet.
+b6e00083	Hjärta
+b6e56670	Halv- och tiondelsvärdesskikt
+b6fab935	PD-viktad
+b72c1283	#. Fotonstrålar och djupdos
+b7312de4	Luft −#, vatten #, fett ≈ −#, mjukdelar #…#, ben #…# HU. Eftersom ögat bara skiljer ~#–# gråtoner visas bilderna genom ett fönster (bredd W, nivå L): lunga W1#/L−#, mjukdelar W4#/L4#, ben W2#/L4#, hjärna W8#/L3#.
+b77556fd	En fotons energi är proportionell mot dess frekvens: E = h·ν. En praktisk tumregel är E[keV] ≈ # / λ[nm]. Radiovågor (MR), synligt ljus och röntgen-/γ-strålning är samma fenomen vid olika energier.
+b7d0e925	Infallande fotonenergi
+b7fdc96d	Sedan senaste elueringen
+b8095719	EANM: A·t ~ vikt. En längre undersökning tillåter lägre aktivitet och dos.
+b846a137	Välj snittnivå och tryck på SKANNA. Tryck på bilden för att mäta HU.
+b85a81d5	Fraktioneringsschema
+b8628c9b	Spongiöst ben
+b86f8853	LÖST EXEMPEL
+b8757751	Ja; extern strålbehandling gör dig inte radioaktiv — inget finns kvar när maskinen är avstängd
+b8932bde	Hela lektionen  →
+b89df01a	Hjälp
+b8ccfa2e	Testa dig själv
+b8de25e7	Jods K-kant ligger på # keV och strax ovanför gör absorptionen ett språng
+b8e79c59	För vatten är μ/ρ (# keV) = # cm²/g, alltså μ = # cm⁻¹. HVL = #/# = # cm. Transmissionen genom # cm vatten är e^(−#) = #: bara # % av fotonerna tar sig igenom.
+b8ebb4eb	Tidpunkt för maximal Tc-#m
+b8f48602	Konstanter
+b8ff3ac7	Fält #×# cm: passar lungorna.
+b92e17d6	Raster använt: en barnbröstkorg på ~# cm ger lite spridd strålning; ett raster (Buckyfaktor #–#) höjer dosen i onödan.
+b95e783d	Gå närmare källan (< # m).
+b999f041	# cm basalcellscancer på vänster kind (biopsiverifierad)
+b9a92b6b	Dos ≈ # µSv: ungefär # dagars naturlig bakgrundsstrålning. Nyttan av att diagnostisera lunginflammation överväger klart risken.
+ba151840	Hur skalar sannolikheten för fotoeffekt ungefär?
+ba1de520	Larmorfrekvens f = γ̄·B₀ (# MHz/T). SAR ~ B₀²: ~#× RF-uppvärmning vid # T.
+ba44e340	SSDE 
+ba66cab6	Accepterat brus hos en stor patient: ≤ # HU i lever-ROI:n (≈ # HU hos en genomsnittlig vuxen). Välj kV och mAs och tryck på SKANNA. Håll SSDE under # mGy.
+bade5b16	Roterar med gantryt #–# varv per sekund och skickar en solfjäderformad stråle genom patienten från alla vinklar.
+bb5bd1d0	Medel- / effektiv energi
+bb62355a	Lesionstäckning: minst # % — den djupa kanten ligger under # %: för låg energi.
+bb757050	eluera
+bbabaa0a	Längre skanning än nödvändigt: höftbenskam till symfys räcker vid appendicit.
+bc38932a	Referensdosimetri (IAEA TRS-#) och PDD-/profilmätningar: en jonkammare förs genom vattnet. Här är varje spår en partikel som följs med Monte Carlo.
+bc506327	Zeynep: ”Måste jag vila i lugn och ro efter injektionen?”
+bc566d93	Fosterdos ≈ SSDE = 
+bc5d4211	Ge alla
+bd77abf8	Akutkirurgi: akut appendicit? DT buk-bäcken med kontrast (Dr Şahin)
+bd7bba09	signal
+bd9533e5	Hodgkins lymfom — stadieindelning
+be5b1f2d	Patientens fråga
+be65f185	Järnoxidpigment kan bli varma: informera patienten, kall kompress vid behov. Ingen kontraindikation.
+bf06df89	Elektronenergi
+bf300ab6	filtrerad
+bf62a8bf	Den gula pilen är nettomagnetiseringen M. En RF-puls tippar bort den från B₀; den återhämtar sig longitudinellt med T1 och avklingar transversellt med T2. De färgade pilarna är isokromater med olika frekvenser (T2*).
+bf6d791a	I breda strålar når även spridda fotoner detektorn; uppbyggnadsfaktorn B ≥ # tar hänsyn till det. Här används B ≈ # + k·μx.
+bfaba695	Relativ aktivitetskoncentration (mot bildens maximum)
+bfb0dfa4	Inga allergier; normalt kreatinin
+bfce608a	Patient / fantom
+bfe05f84	Mjukdelar
+bfe92fa7	Blod
+c013320b	VÄNTRUM
+c03749ef	Fynd
+c0455b80	# MV tränger bra men alstrar fotoneutroner via (γ,n) → extra helkroppsdos och skärmningsbehov.
+c06853d2	Nollnings-TI (likvor / fett)
+c07735e3	↻ Försök igen
+c0774077	Lägg källan i blybehållaren; total dos < # µSv
+c09eec06	MLEM är en iterativ metod som direkt modellerar Poissonstatistiken; den ger färre strimmor än FBP, men bruset ökar med många iterationer.
+c0aad756	Visa partikelspår
+c0f5bb27	Rotationsaxeln. Att centrera patienten här är viktigt: felcentrering motverkar bowtie-filtret och ökar både brus och dos.
+c124dd95	Varje cell överlever en fraktion med sannolikheten S(d) = exp(−αd − βd²). Vävnader med lågt α/β är känsligare för dos per fraktion.
+c1329b8d	Elif: ”Snälla, använd den lägsta dosen för mitt barn.”
+c14f1584	Total skanning (# bäddpositioner)
+c1811e60	Daglig IGRT korrigerar #–# mm organrörelse och tillåter PTV-marginaler på ~# mm (van Herk: M = #Σ + #σ).
+c1d1684b	Strålar
+c285174a	djup i patienten (cm)
+c2dcb4a3	Att vänta mycket längre är onödigt: F-# har nästan helt sönderfallit och amningen störs i onödan.
+c2e4e241	isomer övergång
+c2f67ba3	# mm Al + # mm Cu
+c341622f	Bebisens dos kommer främst från #-keV-fotonerna från mammans kropp (extern exponering); mycket lite FDG går över i mjölken. När kan nära kontakt (hålla, amma på ~# cm) återupptas? Spelmål: spädbarnsdos ≤ # µSv.
+c35ec4c3	Anterior-posterior (AP)
+c3a14e9a	vatten μen/ρ
+c3e47672	Spinneko
+c3ff1e50	Elektroner från katoden accelereras av rörspänningen (kVp) mot en volframanod. ~#% av energin blir värme, ~#% röntgenstrålning. Elektroner som bromsas i kärnornas fält sänder ut <b>bromsstrålning</b> med kontinuerligt spektrum upp till E_max = kVp.
+c4547490	Spinnfysik
+c487c009	Fönster W(f): Ram-Lak (skarpt, brusigt), Shepp-Logan (sinc), Cosinus, Hann (mjukt, lite brus). Avvägning skärpa ↔ brus.
+c4a7b302	Spårfärger: gul = foton, blå = elektron, magenta = positron, orange = proton, grön = kärnväxelverkan.
+c4ef192a	utan raster, 
+c558bcea	Yrke: svetsare / slipning (# år)
+c5748eb4	MR-säkerhetsscreening
+c57b585f	Konsolen visar CTDIvol. Vilken storhet återger bäst dosen till den här stora patienten?
+c59c3c01	Ayşe: ”Vad är det här geléaktiga? Ska ni lägga det på mitt ansikte?”
+c5d4754f	# mg/dL
+c5e874f2	Gonadskydd rekommenderas inte längre rutinmässigt; kollimering är det bästa skyddet.
+c60cf4ca	Jämför dosraterna för Co-# och Tc-#m på # m
+c69a5477	Spridning: gör samma exponering med och utan raster
+c6a141c6	Djupdos längs centralaxeln
+c6b800d4	#. Spinn och precession
+c6c23301	Rätt. (Ett permanent implantat med I-#-korn skulle innebära kortvariga begränsningar för nära kontakt.)
+c6c4ee23	Sannolikhet för tumörkontroll
+c6d6b1b5	Det gäller bara ~# cm (ett HVL).
+c6d8a5ee	 (huvud)
+c7801b3c	NÄSTA LEKTION
+c7e4693e	Modellanteckning: spridningen använder en förenklad kärna som beror på fält och tjocklek; detektorns DQE och fokusoskärpa försummas.
+c81dd039	Ryggmärg Dmax < # Gy
+c8423429	Lämpligt för spädbarn och sängbundna patienter, men hjärtskuggan förstoras och främre organ får högre dos.
+c8828318	Avståndslagen: registrera mätvärden på ~# m, ~# m och ~# m
+c8f76d70	Dosen ligger långt under tröskeln på ~# mGy för missbildningar; den extra risken för barncancer är mycket liten (≈ # % per # mGy). Det finns inget medicinskt skäl att avbryta graviditeten.
+c901ddc3	Ledvätska
+c91a26b5	Prostata rör sig från dag till dag med blåsans och tarmens fyllnad. Hur verifierar du varje fraktion?
+c9248cc8	Strålskydd och kollimering
+c926cd17	Vatten / likvor / urin
+c944c820	Comptonspridningen försvinner vid den energin
+c964528c	Vid detektorn (mitten)
+c9db273f	Välj språk
+ca1a3109	Varför syns jodkontrast bäst med ett spektrum som har sitt maximum nära # keV?
+ca42e28e	Fatta besluten i Emirs fall med lungröntgen på barn, se utfallet och lär dig skälet bakom varje steg. De tekniska labben väntar på dig när du är redo.
+caa249cb	k-rummet (log |S(kx, ky)|)
+cae55017	Foton
+cae6e1b1	Åtta ämnen från grunderna i medicinsk fysik till kliniken. Varje lektion har förklaringar, formler, lösta exempel, interaktiva figurer byggda på verkliga fysikmodeller och ett kort quiz. Till sist kan du gå vidare till motsvarande labb och kliniska fall.
+cb988a96	Efter # h (från # MBq)
+cbad3f92	Positronen annihileras inom ~# mm vävnad; bara fotonerna på # keV tar sig ut.
+cbd54f80	Material
+cbd7b457	Snabbformler
+cc25a532	Hals
+cc4c7f13	Lektion 
+cc4da60f	Slumpvisa koincidenser
+cca2c192	Total filtrering = # mm Al (inneboende) + extra. Föreskrift: ≥ # mm Al (># kVp).
+ccdfbfa0	Allmänheten
+cd38aa8b	Väntetid före nära kontakt
+cd4c6563	Manöverbord
+cd86acc3	Stäng
+cd9bfde6	Visa gantrykåpan genomskinlig
+cdd62ae0	Båge (VMAT-liknande)
+cde4341b	Vinkel: #° = anterior (AP), #° = patientens vänster, #° = posterior (PA), #° = höger.
+ce0454c7	Små sfärer visar lägre uppmätt aktivitet på grund av partialvolymeffekten (RC < #).
+ce3486fb	horisontellt: x (−#…# cm) • vertikalt: djup #→# cm
+ce483eb5	Tjocklek
+ce6b3dac	R8# distal (MC)
+ce715e71	En CsI:Tl-scintillator omvandlar röntgenstrålning till ljus och en a-Si-fotodiodmatris omvandlar ljuset till laddning. Exponeringsindex (EI) anger dosen som når detektorn.
+cf377b43	Övningsprov
+cf781cab	Mamman ber om ett blyförkläde till Emir. Vad gör du?
+cfc2c2f6	Filtrering (Al, Cu) tar i förväg bort de lågenergetiska fotoner som patienten ändå skulle absorbera och som aldrig når bilden, vilket sänker huddosen. Även "cupping"-artefakten i DT kommer från strålhärdning.
+d020ae28	I en blyskärmad aluminiumoxidkolonn sönderfaller Mo-# (T½ # h) till Tc-#m (T½ # h). Koksaltlösning som leds genom kolonnen sköljer bara ut Tc-#m-perteknetatet (eluering).
+d070218a	Djup
+d0a43715	En supraledande magnet kan inte bara stängas av; en quench släpper ut heliumet, är dyr och farlig — endast vid livshotande situationer.
+d0fd90b6	Exponera automatiskt vid ändring
+d1998663	Ja, men bara Kβ-linjen syns
+d1af3044	Amalgam- och kompositfyllningar är säkra; de kan bara ge artefakter.
+d1b7ec5b	Tumör-EQD2 = n·d·(d + #)/(# + #) = # Gy — underdoserat, risk för biokemiskt recidiv.
+d21058ed	Tryck på golvet för att placera skärmen.
+d22ff1b4	Cu-filtret tar bort lågenergetiska fotoner: mycket lägre huddos vid samma DI.
+d252b05e	Välj en patient i väntrummet, läs journalen och starta fallet. I varje steg bestämmer du: svara på en fråga, ställ in apparatparametrar eller ta fram en bild. Fysikmotorn beräknar utfallet; tryck på BEKRÄFTA för poäng och en förklaring.
+d28e3e42	Poäng: diagnostisk kvalitet / behandlingseffekt, patientdos (ALARA), säkerhet och kommunikation. ★★★ kräver ≥ # %.
+d2ab41fb	förväntat 
+d2c74831	Första steget
+d2db263e	En positron från β⁺-sönderfall annihileras med en elektron inom några mm (positronräckvidd → förlorad upplösning) och ger två fotoner på # keV som går nästan rakt motsatt (±#°). Om två kristaller i ringen reagerar inom tidsfönstret (~# ns) registreras en koincidens och en responslinje (LOR).
+d350ad22	Fettvävnad
+d4066030	Exponentiell försvagning
+d4601b55	• <b>Attenuering:</b> sannolikheten att båda fotonerna slipper ut är exp(−∫μ dl) längs LOR — oberoende av emissionspunkten! Därför görs attenueringskorrektionen i PET direkt från DT.\n• <b>Spridning:</b> comptonspridda fotoner ger felaktiga LOR; energifönstret (#–# keV) sorterar bort en del.\n• <b>Slumpvisa:</b> två orelaterade fotoner hamnar i samma fönster; frekvens ~ aktivitet².\n• <b>NEC</b> = T²/(T+S+R): ett mått på bildkvaliteten.
+d46b8bd4	Steg
+d4ab7bf3	Verkar ofarligt men kan hamna i fältet → omtagning och dosökning via exponeringsautomatiken. Bättre att bemöta mammans oro med en förklaring.
+d4beda32	Spridningsraster
+d4c68488	volym %
+d4ffd893	Kvot ben / vatten (kontrast)
+d51a0c7d	fraktionerad, α/β = #
+d54bb772	Märgödem
+d584bb20	Vänster lunga
+d5c4ed9d	prostata
+d5cc8e12	Barnakuten: lungröntgen PA — pneumoni? (Dr Aydın)
+d5f8859c	Quiz om ämnet
+d618a937	Stråle och kalibrering
+d63556b0	Vatten
+d64fa515	med bly
+d68f0065	Öppna lektion: 
+d720c7e2	Besvär och remiss
+d77aac98	#. Röntgenstrålningens uppkomst
+d77bb8f6	Öppna fallet
+d7b6610e	Elektroner på # MeV når bara ≈ # cm (Rp ≈ E/#): de kan inte nå prostata.
+d7fcdf81	Allmänkirurgi: divertikulit / abscess? Buk-DT med kontrast (Dr Tunç)
+d908d184	Dosstorhet
+d9370cf8	Inversion (#°)
+d9556410	Exponeringsparametrar
+d9b3e49e	Blod / hjärta
+da35274d	Lesionen är # cm. Vilken avskärmningsstorlek och vilket ögonskydd väljer du?
+da435822	Förra gången tog det en evighet … Får jag ens plats i maskinen?
+da880d68	Källan i handen! Bär den snabbt till blybehållaren.
+dad956f3	Tc-#m når max vid t_max = ln(λTc/λMo)/(λTc − λMo) ≈ # h efter eluering. Vid jämvikt gäller A_Tc/A_Mo → #·λTc/(λTc − λMo) ≈ #.
+db90e18f	ben
+dba8b336	Vi visar dig det bästa första steget.
+dbb638ff	SPECT-avbildning (skelett, myokardperfusion)
+dbbc21b7	Fysik: varför ökar bruset?
+dbf4470f	Poäng 
+dc0b6beb	Referenser
+dc411606	Blochekvationerna • precession • spinneko
+dcc0d7a5	inte körd än
+dce06e30	MR med gadolinium
+dd2558f8	# kg / # cm
+ddd13aac	Tid # s — för lång, rörelseartefakter troliga; korta TR eller höj turbofaktorn.
+de128bc0	Akustiskt buller
+deb145c5	Ge ett blyförkläde och skanna direkt
+deea998c	TR (repetitionstid)
+deeed36b	Bildkvalitet
+df0c22b3	Magnetresonans
+df3faa41	Tilläggsfiltrering
+df518691	Avskärmning exakt i lesionens storlek (# cm)
+df697a33	Först en sidobild
+df6e8cfc	Aktuellt steg
+df7177fa	NYCKELPUNKT
+df76eace	aktivitet A(t)
+df926a69	Brus (ROI lever, SD)
+dfe4e404	Tid
+e026c507	spridd foton E′
+e03ac455	HVL = ln2/μ = #/# ≈ # cm.
+e0a49aab	Starta provet  →
+e0bbd3df	Tröskel för parbildning
+e0ccc31f	Huvudmeny
+e0e1e90f	 dagars naturlig bakgrund)
+e0fe199e	Strålskyddets tre principer (ICRP #)
+e15b5d80	Cellöverlevnadskurva (LQ)
+e1940a73	Tips: du kan när som helst klicka på en apparat i bakgrunden; det behövs inte för att komma igång.
+e19d9fd0	man
+e232e2c1	Praktisk räckvidd Rp (ref.)
+e2433a82	Fosterdos ≈ SSDE (livmodern i fältet). CTDIvol är en fantomdos och måste korrigeras för patientens storlek.
+e2d84590	Antal fraktioner n
+e2e5fdc7	PTV (GTV + # mm) medel = # Gy / # fraktioner (# Gy)
+e3232976	Räknestatistik # — för få pulser: brusig bild, små lymfkörtlar kan missas.
+e3726bce	Nästa morgon: fastande i # h, blodsocker # mg/dL.
+e3f06eaf	spridningsvinkel θ (°)
+e41d8109	djup (cm)
+e43e04b0	Röntgenrör (generator)
+e4ab1899	Fönsterbredd (W)
+e4c140b2	Sönderfallet är slumpmässigt: man kan inte förutsäga när en enskild kärna sönderfaller, men många kärnor följer exponentiallagen. Aktivitet mäts i becquerel (# Bq = # sönderfall/s); den gamla enheten är curie (# Ci = #·#¹⁰ Bq).
+e4e5be6e	Elif frågar gråtande: ”Har det skadat mitt barn?” Uppskattad fosterdos ≈ # mGy.
+e4ff8488	Fönsternivå (L)
+e53403f8	blandad
+e549237e	Prostata α/β ≈ # Gy, rektum (sena effekter) α/β ≈ # Gy. Mål: tumör-EQD2 #–# Gy, främre rektalväggen (anta att den får # %) EQD2 ≤ # Gy.
+e56e73a9	Bländare + MLC
+e5dcf84a	Ackumulerad dos
+e5e8cc94	Kvot topp / ingång
+e5f27121	Inversion recovery
+e5f6fa50	Fältstyrka
+e621da6d	Comptonkant T_max
+e636070c	Partiell Fourier # %
+e670f9a4	Uppskattad fosterdos
+e6862f05	ofiltrerad
+e70efde8	Patientrotation
+e73b4300	Extra Al-filter
+e74c644a	Moduler
+e75dfe28	Väntrum — välj en patient
+e78631fd	Fönster
+e7883571	#. Dosplanering
+e8145ea3	 % av kVp)
+e8511c37	Förinställningar
+e8f9a7ba	← Enkel startsida
+e934bbc7	Total behandlingstid
+e9cef8c2	Elektroner har ändlig räckvidd: idealiskt för ytliga tumörer. Tumregler: R5# ≈ E₀/# cm, Rp ≈ #·E₀ cm, terapeutiskt djup R8# ≈ E/# cm. Den lilla svansen på djupet kommer från bromsstrålningsfotoner.
+e9eeaebf	ingen joniserande strålning
+e9f3813b	Spädbarnets dos (# % nära kontakt)
+ea3ff3b9	Fallen är endast för utbildning, inte för kliniska beslut.
+ea445006	NEMA-fantom för bildkvalitet
+ea617450	Misstänkt appendicit hos en gravid patient. Vad ska komma först?
+eab8f509	Filtrering: höj HVL över # mm Al
+eac26593	Effektiv dos (# cm)
+ead12e43	Comptonkinematik
+ead463ae	Effektiv energi
+eaeaaa7b	Förstå varför
+eaf105c7	Markera
+eaf5e11d	Om μ = # cm⁻¹, hur stort är HVL?
+eaff7e77	eGFR # mL/min/# m², tar metformin. Vad gör du med det jodbaserade kontrastmedlet?
+eb1b05b8	Neutron
+eb267579	 (utan AC)
+eb2ba7e2	Fälthöjd
+eb5ba0e3	#. Filtrerad bakåtprojektion (FBP)
+eb6d0c3f	Förberedelse av patienten
+ebb00912	ingen skärmning behövs
+ebee5570	Emir: ”Ska jag hålla andan? Okej, jag håller!”
+ec3c5945	Tips: sidan ”Teori” i den övre raden listar de viktigaste formlerna.
+ec3ea500	Modellanteckningar: MC använder condensed history (Highlands multipelspridning); planeringen är #D och försummar lateral spridning.
+ec88aab2	Klar
+ece35ca8	Prova i labbet  →
+ece838e8	skanning
+ed03c7fc	≈ Delvis rätt
+ed465190	Mål: visa meniskskadan och benmärgsödemet. Spinneko: S = PD·(# − e^(−TR/T1))·e^(−TE/T2). Välj TR, TE, fettmättnad och B₀ och tryck sedan på KÖR SEKVENS.
+eda30c59	Uppgift klar: 
+edbd8b07	Viktning
+eddfea6b	Hundratals kanaler × många rader keramisk scintillator. Den mäter en projektion per vinkel; tillsammans bildar de sinogrammet.
+edf0d031	Återställ quiz
+ee5e0890	Kollimerar tätt mot lungorna; inget gonadskydd, och förklarar varför för mamman
+ee69cbe6	Elif frågar gråtande: ”Har det skadat mitt barn?” Uppskattad fosterdos ≈ 
+ee88a3cc	Vid helkroppsundersökning flyttas patienten genom bordspositioner; det axiella synfältet är #–# cm, #–# m i long-axial-system.
+ee940d80	Ljust = hög attenuering (ben, metall). Visas enligt radiologisk konvention: patientens höger till vänster. Fönstret ställs in automatiskt.
+ef57cd07	Blodsocker
+ef646af7	Verkliga röntgenstrålar är polyenergetiska. Lågenergetiska fotoner absorberas företrädesvis i de första centimetrarna, så medelenergin hos den återstående strålen ökar: strålhärdning. Därför är det andra HVL större än det första; HVL₁/HVL₂ kallas homogenitetskoefficienten.
+ef945465	RF-pulser
+efce91bf	Uppmätt T½ (MC)
+efd604d5	Temperatur
+efd9baf3	Kvot Tc/Mo (transient jämvikt)
+f02abde8	Strålhärdning
+f0565afa	Fraktionerad (fast d)
+f0c79167	Post
+f10c7001	Hastigheten: γ-strålning färdas snabbare än ljuset
+f1d69164	Halvvärdesskikt (HVL)
+f1e3d43f	Gadolinium passerar placentan; under graviditet bara om det är nödvändigt. MR utan kontrast räcker vid blindtarmsinflammation.
+f1e5a8a5	När kVp överstiger bindningsenergin för volframs K-skal (# keV) uppträder <b>karakteristiska</b> linjer: Kα ≈ #–# keV, Kβ ≈ #–# keV. Intensitet ~ (U − #)^#, U = kVp / E_K.
+f2125926	Leverbrus # HU: abscess och fett går att skilja åt.
+f215c98f	DI # → överexponering (DI # ≈ # %, # ≈ #× dosen).
+f2586cb3	Fält (vid detektorn)
+f25c8ffb	Naturlig bakgrund (världsmedel)
+f28c5bf6	Lektioner • interaktiva figurer • quiz
+f2e56345	Ställ blytjockleken på HVL för Cs-# (≈ # cm) och se halveringen
+f2f0b95b	väntetid (h)
+f38b9efa	#. Projektioner och radontransformen
+f3952697	rekylelektron T
+f3987859	Rörutbytet ökar ungefär med kVp² och linjärt med mAs: #% högre kVp fördubblar ungefär detektorsignalen (#%-regeln).
+f3b48ff1	Stoppa henne: den supraledande magneten är alltid på och ferromagnetiska föremål blir projektiler; endast MR-säker utrustning
+f3f36daf	Strålning med tillräcklig energi (≥ # eV) för att slå loss elektroner från atomer.
+f425bff1	  → eko väntas vid: 
+f48a9bb6	Monte Carlo-djupdos, Braggtopp, dosplanering, DVH, strålbiologi.
+f4a277c4	Planering
+f4a9c097	Filter
+f5c1b5b5	Fältstorlek (vid ytan)
+f5e305fa	Fält #×# cm: bröstkorgen är ≈ #×# cm; bländ ned (DAP och spridning).
+f5efdcd1	# mg/L
+f60d1c54	T2-viktad bild: likvor ljusare än vit substans
+f67cc940	Sönderfallssätt
+f6862a0b	Skärmens transmission (inkl. uppbyggnad)
+f6d42ce8	Braggtoppens djup
+f6f22637	Kontroller
+f71b5abf	Biologiskt effektiv dos
+f728f992	genomsnittlig vuxen (# cm)
+f7c4fef9	”Tack, du var väldigt omtänksam!”
+f80ba400	Så använder du den här delen
+f810e311	Rektum-EQD2 (α/β #) = # Gy — acceptabelt.
+f8486832	Använd bara mitten av k-rummet: kontrasten finns kvar, detaljerna försvinner
+f84b8da5	Fel och ångestskapande vid extern strålbehandling.
+f8c4150d	# MeV e⁻
+f8d6f331	Ursprunget: röntgenstrålning kommer från elektroner, γ från kärnan
+f900a313	Kära du, blir det ett ärr i ansiktet? Och var snäll och skada inte mitt öga.
+fa033cd5	Uppdrag: hämta källan
+fa73ce08	Bra jobbat — några saker att förbättra.
+faa8e755	FLAIR: TI = T1·ln2 nollar likvor (≈ # ms vid # T). STIR: kort TI undertrycker fett (≈ #–# ms).
+fad26615	Sänder B₁-pulser med larmorfrekvensen (~# MHz vid # T) som tippar M. Vävnadsuppvärmningen (SAR) kommer härifrån.
+fae02622	Orbitaröntgen: INGEN metallisk främmande kropp. Undersökningen genomförs.
+faff56b8	Förfluten tid
+fb079007	Dos per fraktion d
+fb5419ac	Underdoserade kanter → risk för återfall; R9# blir dessutom grundare i mycket små fält.
+fb77122a	Starta det första fallet
+fb8da0b7	Blindtarmsinflammation under graviditet: UL → MR utan kontrast → lågdos-DT vid behov.
+fb990b3e	★★★ ≥ # %, ★★ ≥ # %, ★ ≥ # %. Ditt bästa resultat sparas; spela igen för att förbättra det.
+fba0b4a2	Cosinus
+fbb64dbd	Rörspänning
+fc6adbf7	Ingångsytans luftkerma (ESAK)
+fc7e5fc3	Räknestatistik # — mer aktivitet än nödvändigt; extradosen ger inget diagnostiskt värde.
+fc82911d	relativ
+fcdeb802	överexponerad
+fcff6168	Bäcken
+fd4e03b8	Tid per bäddposition
+fd53e067	efter injektionen (min)
+fd7f93f9	Parametrar
+fd8f9de5	Gradienterna kodar positionen i frekvens och fas; den registrerade signalen är bildens #D-fouriertransform (k-rummet). Bilden fås med en invers FFT. Matrisstorleken bestämmer upplösningen, FOV pixelstorleken; undersampling ger invikning och rörelse ger spökbilder längs faskodningen.
+fd9045b9	#–# kV tränger bättre igenom stora patienter: färre mAs för samma brus.
+fddaa9d0	Konformitetsindex (Paddick)
+fe0012eb	Föråldrat råd; onödigt vid eGFR ≥ # och fördröjer diagnosen.
+fe2bb7a7	Linda ett blyförkläde runt bäckenet
+feb29647	Polyenergetisk stråle (realistisk)
+feb7cede	Hypertoni (välinställd)
+febab6f7	IGRT: före behandlingen tas en kV-bild eller konstråle-DT (CBCT) och patientens läge korrigeras på millimetern.
+fec9a6c7	Daglig kV-avbildning / CBCT med matchning mot guldmarkörerna
+ff1483ac	Pacemaker (titan)
+ff559aca	Can: ”Tur att ni gav mig hörlurar. Här kommer ljuden!”
+ff97f266	Medelenergi för fotonerna
+ffedd789	Ammar ett #-månaders barn

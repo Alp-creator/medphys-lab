@@ -1,0 +1,134 @@
+@topic basics | TF | Temel Radyasyon Fiziği | Radiation Physics Basics | xray
+@desc Atom ve çekirdek, radyasyon türleri, fotonların ve yüklü parçacıkların maddeyle etkileşimi; tüm medikal fiziğin temeli. || Atoms and nuclei, types of radiation, and how photons and charged particles interact with matter — the foundation of all medical physics.
+@formula Foton enerjisi || Photon energy :: E = h·ν = h·c/λ    E[keV] ≈ 1.24 / λ[nm]
+@formula Üstel zayıflama || Exponential attenuation :: I = I₀·e^(−μx)
+@formula Yarı ve onda bir değer kalınlığı || Half- and tenth-value layer :: HVL = ln2/μ    TVL = ln10/μ ≈ 3.32·HVL
+@formula Compton saçılması || Compton scattering :: E′ = E / [1 + (E/511 keV)(1 − cosθ)]
+@formula Çift oluşumu eşiği || Pair production threshold :: E ≥ 2·m₀c² = 1.022 MeV
+@formula Proton menzili (Bragg–Kleeman) || Proton range (Bragg–Kleeman) :: R ≈ 0.0022·E^1.77   (su, R cm, E MeV)
+@term İyonlaştırıcı radyasyon || Ionising radiation :: Atomdan elektron koparabilecek enerjiye (≥ 10 eV) sahip radyasyon. || Radiation energetic enough (≥ 10 eV) to remove electrons from atoms.
+@term Doğrudan iyonlaştırıcı || Directly ionising :: Yüklü parçacıklar (elektron, proton, α); Coulomb etkileşimiyle enerji bırakır. || Charged particles (electrons, protons, α) that deposit energy through Coulomb interactions.
+@term Dolaylı iyonlaştırıcı || Indirectly ionising :: Yüksüz parçacıklar (foton, nötron); önce yüklü parçacık üretir. || Uncharged particles (photons, neutrons) that first set charged particles in motion.
+@term Lineer zayıflama katsayısı μ || Linear attenuation coefficient μ :: Birim yolda etkileşme olasılığı (cm⁻¹). μ/ρ kütle zayıflama katsayısıdır (cm²/g). || Interaction probability per unit path (cm⁻¹); μ/ρ is the mass attenuation coefficient (cm²/g).
+@term LET || LET :: Lineer enerji transferi: yüklü parçacığın birim yolda bıraktığı enerji (keV/µm). || Linear energy transfer: energy a charged particle deposits per unit path (keV/µm).
+@term Bragg piki || Bragg peak :: Ağır yüklü parçacıkların menzilin sonunda dozun keskin biçimde arttığı bölge. || The sharp dose maximum at the end of a heavy charged particle's range.
+
+@lesson atom | Atom, çekirdek ve radyasyon | Atoms, nuclei and radiation | 8
+## Atomun yapısı || The structure of the atom
+Atom, Z protonlu ve N nötronlu bir çekirdek ile çevresindeki Z elektrondan oluşur. Kütle numarası A = Z + N'dir. Aynı Z'ye fakat farklı N'ye sahip çekirdekler izotoptur: ¹²C ve ¹⁴C gibi. || An atom consists of a nucleus with Z protons and N neutrons, surrounded by Z electrons. The mass number is A = Z + N. Nuclei with the same Z but different N are isotopes, such as ¹²C and ¹⁴C.
+Elektronlar K, L, M… kabuklarında bulunur. İç kabuk elektronlarının bağlanma enerjisi Z ile hızla artar: tungstenin K kabuğu 69.5 keV, iyotunki 33.2 keV, suyun oksijeninki yalnızca 0.5 keV'dir. || Electrons occupy K, L, M… shells. Inner-shell binding energies rise steeply with Z: tungsten's K shell is 69.5 keV, iodine's 33.2 keV, and the oxygen in water only 0.5 keV.
+İç kabuktan bir elektron koparılınca dış kabuktan bir elektron boşluğu doldurur ve fark ya karakteristik X-ışını ya da bir Auger elektronu olarak salınır. Karakteristik enerjiler elemente özgüdür; röntgen tüpündeki tungstenin Kα çizgisi ≈ 59 keV'dir. || When an inner-shell electron is removed, an outer electron fills the vacancy and the difference is emitted as a characteristic X-ray or an Auger electron. Characteristic energies are element-specific; the tungsten Kα line in an X-ray tube is ≈ 59 keV.
+## Elektromanyetik spektrum || The electromagnetic spectrum
+Fotonun enerjisi frekansıyla orantılıdır: E = h·ν. Pratik bir kısayol E[keV] ≈ 1.24 / λ[nm] bağıntısıdır. Radyo dalgaları (MR), görünür ışık ve X/γ ışınları aynı olgunun farklı enerjileridir. || A photon's energy is proportional to its frequency: E = h·ν. A handy shortcut is E[keV] ≈ 1.24 / λ[nm]. Radio waves (MRI), visible light and X/γ rays are the same phenomenon at different energies.
+$ E = h·ν = h·c/λ        h = 6.626×10⁻³⁴ J·s,  1 eV = 1.602×10⁻¹⁹ J
+X-ışınları ve γ-ışınları aynı türden fotonlardır; aralarındaki fark kökenleridir. X-ışınları elektronlardan (frenleme ışınımı veya kabuk geçişleri), γ-ışınları ise çekirdekten (radyoaktif bozunma) gelir. || X-rays and γ-rays are the same kind of photon; they differ only in origin. X-rays come from electrons (bremsstrahlung or shell transitions), γ-rays from the nucleus (radioactive decay).
+> İyonlaştırıcı radyasyon, atomdan elektron koparabilecek (≥ 10 eV) enerjidedir. Morötesinin üst ucu, X ve γ ışınları ile tüm hızlı yüklü parçacıklar iyonlaştırıcıdır; radyo dalgaları ve görünür ışık değildir. || Ionising radiation carries enough energy (≥ 10 eV) to free electrons from atoms. The top of the UV range, X and γ rays and all fast charged particles are ionising; radio waves and visible light are not.
+## Doğrudan ve dolaylı iyonlaştırma || Direct and indirect ionisation
+Yüklü parçacıklar (elektron, proton, α) yolları boyunca sürekli Coulomb etkileşimleri yapar ve doğrudan iyonlaştırıcıdır. Fotonlar ve nötronlar yüksüzdür: önce bir yüklü parçacık üretirler (foton → elektron, nötron → geri tepen proton), dozu asıl bırakan o parçacıktır. || Charged particles (electrons, protons, α) undergo continuous Coulomb interactions along their path and are directly ionising. Photons and neutrons are uncharged: they first set a charged particle in motion (photon → electron, neutron → recoil proton), and that particle deposits the dose.
+! 100 keV'lik bir X-ışını fotonunun dalga boyu: λ ≈ 1.24 / 100 = 0.0124 nm, yani bir atom çapının (~0.1 nm) onda biri kadar. || The wavelength of a 100 keV X-ray photon: λ ≈ 1.24 / 100 = 0.0124 nm — about a tenth of an atomic diameter (~0.1 nm).
+? X-ışını ile γ-ışınını ayıran nedir? || What distinguishes an X-ray from a γ-ray?
++ Kökeni: X-ışını elektronlardan, γ-ışını çekirdekten gelir || Its origin: X-rays come from electrons, γ-rays from the nucleus
+- Enerjisi: γ-ışınları her zaman daha enerjiktir || Its energy: γ-rays are always more energetic
+- Hızı: γ-ışınları ışıktan hızlıdır || Its speed: γ-rays travel faster than light
+= Her ikisi de fotondur ve enerji aralıkları örtüşür (Tc-99m'in 140 keV γ'sı, 150 kVp'lik bir tüpün X-ışınından düşüktür). Fark yalnızca kökendir. || Both are photons and their energy ranges overlap (the 140 keV γ of Tc-99m is lower than X-rays from a 150 kVp tube). Only the origin differs.
+? Aşağıdakilerden hangisi dolaylı iyonlaştırıcıdır? || Which of these is indirectly ionising?
++ Nötron || Neutron
+- Proton || Proton
+- Alfa parçacığı || Alpha particle
+= Nötron yüksüzdür; enerjisini önce geri tepen protonlara (özellikle hidrojene) aktarır, dozu bu protonlar bırakır. || The neutron is uncharged; it first transfers energy to recoil protons (mainly hydrogen), which then deposit the dose.
+? Tungstenin K kabuğu bağlanma enerjisi 69.5 keV'dir. 60 kVp'de çalışan bir tüpte tungsten K karakteristik çizgileri oluşur mu? || Tungsten's K-shell binding energy is 69.5 keV. Does a tube run at 60 kVp produce tungsten K characteristic lines?
++ Hayır; elektronların en yüksek enerjisi (60 keV) K kabuğunu iyonlaştırmaya yetmez || No — the maximum electron energy (60 keV) cannot ionise the K shell
+- Evet; karakteristik çizgiler kVp'den bağımsızdır || Yes — characteristic lines do not depend on kVp
+- Evet, ama yalnızca Kβ çizgisi oluşur || Yes, but only the Kβ line appears
+= K çizgileri için gelen elektronun K kabuğu bağlanma enerjisini aşması gerekir; bu yüzden W K çizgileri ancak > 69.5 kVp'de görünür. || K lines require the incident electron to exceed the K-shell binding energy, so tungsten K lines only appear above 69.5 kVp.
+
+@lesson photon | Fotonların maddeyle etkileşimi | Photon interactions with matter | 10
+## Beş etkileşim || Five interactions
+Tanısal ve tedavi enerjilerinde fotonlar başlıca beş yolla etkileşir: koherent (Rayleigh) saçılma, fotoelektrik soğurma, Compton saçılması, çift oluşumu ve fotonükleer reaksiyonlar. Hangisinin baskın olduğu foton enerjisine ve ortamın atom numarasına bağlıdır. || At diagnostic and therapy energies photons interact mainly in five ways: coherent (Rayleigh) scattering, photoelectric absorption, Compton scattering, pair production and photonuclear reactions. Which one dominates depends on the photon energy and the atomic number of the medium.
+* <b>Koherent saçılma:</b> foton enerji kaybetmeden yön değiştirir; düşük enerjide küçük bir katkı verir. || <b>Coherent scattering:</b> the photon changes direction without losing energy; a small contribution at low energies.
+* <b>Fotoelektrik olay:</b> foton tamamen soğurulur, iç kabuktan bir elektron fırlar. Olasılık yaklaşık Z³/E³ ile orantılıdır. || <b>Photoelectric effect:</b> the photon is absorbed completely and an inner-shell electron is ejected. The probability scales roughly as Z³/E³.
+* <b>Compton saçılması:</b> foton gevşek bağlı bir elektrona enerjisinin bir kısmını aktarıp saçılır. Elektron yoğunluğuna bağlıdır, Z'den neredeyse bağımsızdır. || <b>Compton scattering:</b> the photon gives part of its energy to a loosely bound electron and scatters. It depends on the electron density and hardly on Z.
+* <b>Çift oluşumu:</b> çekirdeğin alanında foton bir elektron–pozitron çiftine dönüşür; eşik 1.022 MeV'dir, olasılık ~Z² ile artar. || <b>Pair production:</b> in the field of a nucleus the photon becomes an electron–positron pair; the threshold is 1.022 MeV and the probability rises as ~Z².
+%fig murho
+## Hangi enerjide ne baskın? || What dominates where?
+Yumuşak dokuda fotoelektrik olay yaklaşık 30 keV'in altında baskındır; 30 keV ile ~25 MeV arasında Compton, daha yukarıda çift oluşumu baskındır. Kurşun gibi yüksek Z'li maddelerde fotoelektrik bölge 500 keV'e kadar uzanır. Kurşunun iyi bir zırh olmasının nedeni budur. || In soft tissue the photoelectric effect dominates below about 30 keV, Compton between 30 keV and ~25 MeV, and pair production above that. In high-Z materials such as lead the photoelectric region extends up to about 500 keV, which is why lead is a good shield.
+> Görüntülemede kontrast büyük ölçüde fotoelektrik olaydan gelir, çünkü Z³ bağımlılığı kemik (Ca, Z = 20) ile yumuşak doku (etkin Z ≈ 7.4) arasında büyük fark yaratır. Compton ise kontrastı azaltan saçılmanın ana kaynağıdır. || In imaging, contrast comes largely from the photoelectric effect, because the Z³ dependence separates bone (Ca, Z = 20) strongly from soft tissue (effective Z ≈ 7.4). Compton is the main source of scatter, which reduces contrast.
+Kontrast maddeler bu fiziği kullanır: iyotun K kenarı 33.2 keV, gadolinyumunki 50.2 keV'dir. Fotonun enerjisi K kenarının hemen üstündeyse soğurma birden artar. || Contrast agents exploit this physics: iodine's K-edge is at 33.2 keV and gadolinium's at 50.2 keV. Absorption jumps when the photon energy lies just above the K-edge.
+## Compton kinematiği || Compton kinematics
+%fig compton
+$ E′ = E / [1 + (E / 511 keV)(1 − cos θ)]
+! Tc-99m'in 140 keV fotonu 180° geri saçılırsa: E′ = 140 / (1 + 2·140/511) = 140 / 1.548 ≈ 90 keV. Gama kameranın enerji penceresi (≈ 126–154 keV) bu saçılmış fotonları büyük ölçüde dışlar. || If a 140 keV Tc-99m photon backscatters at 180°: E′ = 140 / (1 + 2·140/511) = 140 / 1.548 ≈ 90 keV. The gamma camera's energy window (≈ 126–154 keV) rejects most such scattered photons.
+? Yumuşak dokuda 1 MeV'lik bir foton için baskın etkileşim hangisidir? || What is the dominant interaction of a 1 MeV photon in soft tissue?
++ Compton saçılması || Compton scattering
+- Fotoelektrik olay || Photoelectric effect
+- Çift oluşumu || Pair production
+= Yumuşak dokuda ~30 keV – 25 MeV aralığında Compton baskındır. Çift oluşumu 1.022 MeV eşiğinin altında hiç olamaz. || In soft tissue Compton dominates from about 30 keV to 25 MeV. Pair production cannot occur at all below its 1.022 MeV threshold.
+? Fotoelektrik olasılığı yaklaşık nasıl değişir? || How does the photoelectric probability scale, roughly?
++ Z³ / E³ || Z³ / E³
+- Z / E || Z / E
+- E² / Z || E² / Z
+= Fotoelektrik olasılık atom numarasıyla çok hızlı artar, enerjiyle çok hızlı azalır. Bu yüzden düşük kVp kemik kontrastını artırır. || The photoelectric probability rises very steeply with atomic number and falls steeply with energy, which is why low kVp increases bone contrast.
+? Neden iyotlu kontrast, 33 keV civarında foton üreten bir spektrumla en iyi görünür? || Why is iodine contrast seen best with a spectrum peaking near 33 keV?
++ İyotun K kenarı 33.2 keV'dedir; hemen üstünde soğurma birden artar || Iodine's K-edge is at 33.2 keV and absorption jumps just above it
+- İyot o enerjide ışık yayar || Iodine emits light at that energy
+- Compton saçılması o enerjide kaybolur || Compton scattering vanishes at that energy
+= K kenarının hemen üstündeki fotonlar K elektronlarını koparabilir ve fotoelektrik soğurma sıçrama yapar. Düşük kV'lik BT protokollerinin iyot kontrastını artırması bu yüzdendir. || Photons just above the K-edge can eject K electrons, so photoelectric absorption jumps. This is why low-kV CT protocols boost iodine contrast.
+
+@lesson atten | Zayıflama, HVL ve ışın sertleşmesi | Attenuation, HVL and beam hardening | 9
+## Üstel zayıflama || Exponential attenuation
+Tek enerjili ve dar bir foton demeti x kalınlığından geçerken her birim yolda sabit bir etkileşme olasılığı vardır. Sonuç üstel bir azalmadır: || A narrow monoenergetic photon beam passing through a thickness x has a constant interaction probability per unit path. The result is an exponential fall-off:
+$ I(x) = I₀ · e^(−μ·x)        μ = (μ/ρ) · ρ
+μ lineer zayıflama katsayısıdır (cm⁻¹); dört etkileşimin toplamıdır. μ/ρ (cm²/g) maddenin yoğunluğundan bağımsız olduğu için tablolarda bu verilir (NIST XCOM). || μ is the linear attenuation coefficient (cm⁻¹), the sum of the four interaction terms. μ/ρ (cm²/g) is independent of density, so tables (NIST XCOM) list it.
+%fig atten
+## HVL ve TVL || HVL and TVL
+Yarı değer kalınlığı (HVL), şiddeti yarıya indiren kalınlıktır: HVL = ln2/μ. Onda bir değer kalınlığı TVL = ln10/μ ≈ 3.32 HVL'dir. n tane HVL şiddeti 2ⁿ kat azaltır. || The half-value layer (HVL) is the thickness that halves the intensity: HVL = ln2/μ. The tenth-value layer is TVL = ln10/μ ≈ 3.32 HVL. n HVLs reduce the intensity by a factor of 2ⁿ.
+! Su için μ/ρ (60 keV) = 0.206 cm²/g, yani μ = 0.206 cm⁻¹. HVL = 0.693/0.206 = 3.4 cm. 10 cm suyun geçirgenliği e^(−2.06) = 0.13, yani fotonların yalnızca %13'ü geçer. || For water μ/ρ (60 keV) = 0.206 cm²/g, so μ = 0.206 cm⁻¹. HVL = 0.693/0.206 = 3.4 cm. The transmission through 10 cm of water is e^(−2.06) = 0.13: only 13 % of the photons get through.
+## Dar ve geniş ışın: build-up || Narrow and broad beam: build-up
+Üstel yasa yalnızca saçılan fotonların dedektöre ulaşmadığı dar ışın geometrisinde geçerlidir. Geniş ışında saçılan fotonlar da ölçüme katkı verir ve geçirgenlik B·e^(−μx) olur (B ≥ 1 build-up faktörü). Zırh hesaplarında B ihmal edilirse zırh yetersiz kalır. || The exponential law holds only in narrow-beam geometry, where scattered photons do not reach the detector. In a broad beam scattered photons also contribute and the transmission becomes B·e^(−μx), with build-up factor B ≥ 1. Ignoring B in shielding calculations under-designs the shield.
+## Işın sertleşmesi || Beam hardening
+Gerçek X-ışını demetleri çok enerjilidir. Düşük enerjili fotonlar ilk santimetrelerde tercihli olarak soğurulur ve kalan demetin ortalama enerjisi yükselir; buna ışın sertleşmesi denir. Bu yüzden ikinci HVL birinciden büyüktür; HVL₁/HVL₂ oranına homojenlik katsayısı denir. || Real X-ray beams are polyenergetic. Low-energy photons are preferentially absorbed in the first centimetres, so the mean energy of the remaining beam rises: beam hardening. As a result the second HVL is larger than the first; HVL₁/HVL₂ is called the homogeneity coefficient.
+> Filtrasyon (Al, Cu) hasta tarafından zaten soğurulacak ve görüntüye katkı vermeyecek düşük enerjili fotonları önceden ayıklar. Böylece cilt dozu düşer. BT'deki "cupping" artefaktı da ışın sertleşmesinden kaynaklanır. || Filtration (Al, Cu) removes in advance the low-energy photons that the patient would absorb anyway and that never reach the image, which lowers the skin dose. The CT "cupping" artefact also comes from beam hardening.
+? Bir zırh 3 HVL kalınlığındadır. Dar ışın geçirgenliği nedir? || A shield is 3 HVL thick. What is the narrow-beam transmission?
++ 1/8 (%12.5) || 1/8 (12.5 %)
+- 1/3 || 1/3
+- 1/30 || 1/30
+= Her HVL şiddeti yarıya indirir: (1/2)³ = 1/8. || Each HVL halves the intensity: (1/2)³ = 1/8.
+? μ = 0.2 cm⁻¹ ise HVL kaç cm'dir? || If μ = 0.2 cm⁻¹, what is the HVL?
++ ≈ 3.5 cm || ≈ 3.5 cm
+- 5 cm || 5 cm
+- 0.14 cm || 0.14 cm
+= HVL = ln2/μ = 0.693/0.2 ≈ 3.47 cm. || HVL = ln2/μ = 0.693/0.2 ≈ 3.47 cm.
+? Çok enerjili bir demette ikinci HVL neden birinciden büyüktür? || Why is the second HVL of a polyenergetic beam larger than the first?
++ İlk HVL yumuşak fotonları ayıklar, kalan demet daha serttir || The first HVL removes the soft photons, so the remaining beam is harder
+- Build-up faktörü küçülür || The build-up factor decreases
+- Malzemenin yoğunluğu artar || The material's density increases
+= Işın sertleşmesi: ortalama enerji arttıkça μ azalır, bu yüzden ikinci yarıya indirme için daha kalın malzeme gerekir. || Beam hardening: as the mean energy rises μ falls, so the second halving needs a thicker layer.
+
+@lesson charged | Yüklü parçacıklar: durdurma gücü ve menzil | Charged particles: stopping power and range | 10
+## Durdurma gücü || Stopping power
+Yüklü bir parçacık ortamdaki elektronlarla sayısız küçük Coulomb etkileşimi yapar ve enerjisini sürekli kaybeder. Birim yoldaki enerji kaybına durdurma gücü S = −dE/dx denir (MeV/cm). Kütle durdurma gücü S/ρ (MeV·cm²/g) olarak da verilir. || A charged particle makes countless small Coulomb interactions with the electrons of the medium and loses energy continuously. The energy lost per unit path is the stopping power S = −dE/dx (MeV/cm), also given as the mass stopping power S/ρ (MeV·cm²/g).
+Bethe formülüne göre çarpışma durdurma gücü yaklaşık z²/v² ile orantılıdır: parçacık yavaşladıkça enerji kaybı artar. Ağır parçacıklardaki Bragg pikinin nedeni budur. || According to the Bethe formula, the collision stopping power scales roughly as z²/v²: as the particle slows down it loses energy faster. This is the origin of the Bragg peak for heavy particles.
+$ S_col ~ (z² / v²) · ln(2 m_e v² / I)        (I: ortalama uyarılma enerjisi; su için ≈ 75 eV)
+## Elektronlar || Electrons
+Elektronlar hafif olduğundan her çarpışmada büyük açılarla saçılır ve izleri zikzaklıdır. Yüksek Z'li ortamlarda frenleme ışınımı (radyatif kayıp) da önemlidir; röntgen tüpünde X-ışını böyle üretilir. Kabaca bir kural: suda elektron menzili ≈ E/2 cm'dir (E MeV cinsinden). || Electrons are light, so they scatter through large angles and follow zig-zag tracks. In high-Z media bremsstrahlung (radiative loss) also matters; this is how an X-ray tube produces X-rays. A rough rule: the electron range in water is ≈ E/2 cm (E in MeV).
+## Protonlar ve Bragg piki || Protons and the Bragg peak
+Protonlar neredeyse düz bir çizgide ilerler. Dozun büyük kısmını menzilin sonundaki birkaç milimetrede bırakırlar ve ardından doz neredeyse sıfıra iner. Menzil enerjiyle keskin biçimde belirlenir (Bragg–Kleeman kuralı R ≈ 0.0022·E^1.77). Menzil boyunca bireysel protonların menzili biraz farklıdır (straggling); bu yüzden pik birkaç mm genişliktedir. || Protons travel in an almost straight line. They deposit most of their dose in the last few millimetres of their range, after which the dose drops to nearly zero. The range is sharply determined by the energy (Bragg–Kleeman rule R ≈ 0.0022·E^1.77). Individual protons stop at slightly different depths (range straggling), so the peak is a few mm wide.
+%fig bragg
+! 150 MeV'lik proton: R ≈ 0.0022 × 150^1.77 ≈ 0.0022 × 7100 ≈ 15.6 cm. NIST PSTAR'ın verdiği CSDA menzili 15.8 cm'dir; kural iyi bir tahmindir. || A 150 MeV proton: R ≈ 0.0022 × 150^1.77 ≈ 0.0022 × 7100 ≈ 15.6 cm. NIST PSTAR gives a CSDA range of 15.8 cm, so the rule is a good estimate.
+## LET ve biyolojik etki || LET and biological effect
+Lineer enerji transferi (LET), birim yolda bırakılan enerjidir. Fotonlar ve elektronlar düşük LET'lidir (~0.2–2 keV/µm). α parçacıkları ve yavaş ağır iyonlar yüksek LET'lidir (~100 keV/µm) ve DNA'da onarılması zor, yoğun hasar bırakır. Bu yüzden α'nın radyasyon ağırlık faktörü 20'dir. || Linear energy transfer (LET) is the energy deposited per unit path. Photons and electrons are low-LET (~0.2–2 keV/µm); α particles and slow heavy ions are high-LET (~100 keV/µm) and leave dense DNA damage that is hard to repair — hence the radiation weighting factor of 20 for α.
+? Bragg pikinin temel fiziksel nedeni nedir? || What is the basic physical reason for the Bragg peak?
++ Durdurma gücü yaklaşık 1/v² ile artar; parçacık yavaşladıkça daha fazla enerji bırakır || Stopping power rises roughly as 1/v², so the slowing particle deposits more and more energy
+- Protonlar menzil sonunda çift oluşumu yapar || Protons undergo pair production at the end of their range
+- Saçılan fotonlar pikte toplanır || Scattered photons accumulate in the peak
+= Bethe formülündeki 1/v² terimi: hız düştükçe birim yoldaki enerji kaybı artar ve menzilin sonunda keskin bir pik oluşur. || The 1/v² term in the Bethe formula: as the speed falls the energy loss per unit path grows, producing a sharp peak at the end of the range.
+? 12 MeV'lik bir elektron demetinin suda yaklaşık pratik menzili nedir? || What is the approximate practical range of a 12 MeV electron beam in water?
++ ≈ 6 cm || ≈ 6 cm
+- ≈ 12 cm || ≈ 12 cm
+- ≈ 30 cm || ≈ 30 cm
+= Kural: menzil ≈ E/2 cm, yani 12 MeV için ≈ 6 cm. Yüzeysel tümörler için elektronların tercih edilmesinin nedeni budur. || Rule: range ≈ E/2 cm, so about 6 cm for 12 MeV. This is why electrons are used for superficial tumours.
+? Hangisi en yüksek LET'e sahiptir? || Which has the highest LET?
++ 5 MeV'lik α parçacığı || A 5 MeV α particle
+- 6 MV foton demetindeki elektronlar || Electrons in a 6 MV photon beam
+- 140 keV γ fotonları || 140 keV γ photons
+= α parçacığı çift yüklü (z² = 4) ve yavaştır; LET'i ~100 keV/µm'dir. Fotonların ürettiği elektronlarınki ise ~1 keV/µm'dir. || The α particle is doubly charged (z² = 4) and slow, with an LET of ~100 keV/µm, compared with ~1 keV/µm for the electrons set in motion by photons.

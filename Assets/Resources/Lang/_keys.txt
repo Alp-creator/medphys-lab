@@ -1,0 +1,2115 @@
+Accompanied by his mother; first imaging
+Can stand, cooperative
+No chronic illness, fully vaccinated
+Temperature
+Pulse
+Resp. rate
+Projection and positioning
+Emir can stand and cooperates. Which technique do you choose?
+PA, erect, SID # cm
+Correct. In PA the heart is close to the detector → less magnification; a long SID reduces geometric magnification and blur. Anterior organs (breast, thyroid) also receive less dose in PA.
+AP, supine, SID # cm
+Appropriate for infants and bed-bound patients, but the heart shadow is magnified and anterior organs receive more dose.
+Lateral view first
+Not the first choice for suspected pneumonia; a lateral needs more dose and is insufficient on its own.
+Chest CT
+Not justified: paediatric chest CT ≈ #–# mSv versus ≈ # mSv for a PA radiograph. Violates the justification principle (ICRP #).
+Shielding and collimation
+The mother asks for a lead apron on Emir. What do you do?
+Collimate tightly to the lungs; no gonad shield, and explain why to the mother
+Current guidance (AAPM #, BIR/IPEM #): collimation is the most effective protection. Out-of-field gonad dose is already tiny; a shield that slips into the field hides anatomy and makes the AEC raise the dose.
+Wrap a lead apron around the pelvis
+Looks harmless but may enter the field → repeat exposure and AEC-driven dose increase. Better to address the mother's worry with an explanation.
+Open a wide field and put lead on the thyroid
+A wide field increases scatter and DAP; the real protection is a narrow field.
+Tube voltage
+Current × time
+Added filtration
+# mm Al + # mm Cu
+Anti-scatter grid
+Field width
+Field height
+Field (at detector)
+Image
+not exposed yet
+Deviation index (DI)
+Effective dose
+The Cu filter removes low-energy photons: much lower skin dose for the same DI.
+no grid, 
+Talking to the family
+The mother asks: "Can this X-ray harm my son?" Emir's effective dose ≈ 
+Right: a numeric comparison (natural background ≈ # mSv/yr ≈ # µSv/day), justification and ALARA explained together.
+There is no risk at all, zero radiation.
+Misleading. The LNT model assumes a tiny but non-zero risk; use honest yet reassuring language.
+Yes, it is dangerous; let's avoid it if possible.
+Creates needless fear and delays diagnosis; a justified examination should not be blocked.
+Dose ≈ 
+Children are #–#× more radiosensitive than adults and have a long life expectancy → ALARA matters even more.
+Paediatric chest: no grid, added Cu filtration, high kVp / low mAs, tight collimation, short exposure (motion).
+DI = #·log₁₀(EI / EI_target): # ≈ # % more, −# ≈ # % less, # ≈ #× detector dose.
+Gonad shields are no longer recommended routinely; collimation is the best protection.
+Last menstrual period: # weeks ago (irregular)
+No contraception
+No allergies; creatinine normal
+Blood pressure
+Ask about pregnancy and request a β-hCG test
+Correct: pregnancy must be ruled out in every woman of childbearing age when the pelvis is in the beam (ICRP #, IAEA SSG-#).
+Give a lead apron and scan right away
+In abdominal CT the uterus is in the primary beam; an apron cannot protect and degrades the image.
+There is a request, scan immediately
+Pregnancy screening skipped: the fetus could have been irradiated unknowingly.
+Ultrasound; non-contrast MRI if inconclusive
+ACR Appropriateness Criteria and ACOG: ultrasound first, then MRI without gadolinium — no ionising radiation.
+MRI with gadolinium
+Gadolinium crosses the placenta; in pregnancy only if essential. Non-contrast MRI suffices for appendicitis.
+Contrast CT straight away
+Possible but not first-line; US and MRI should come first.
+Erect abdominal radiograph
+Low diagnostic value for appendicitis; unnecessary dose.
+Tube load
+Scan length
+Effective diameter → SSDE
+Estimated fetal dose
+Noise (bladder ROI, SD)
+not scanned yet
+Fetal dose ≈ SSDE = 
+Low kV boosts iodine contrast (K-edge # keV); a good choice in a slim patient.
+Counselling
+Elif asks in tears: "Did it harm my baby?" Estimated fetal dose ≈ 
+The dose is far below the ~# mGy threshold for malformations; the added childhood-cancer risk is very small (≈ # % per # mGy). There is no medical reason to terminate.
+ICRP # and ACOG: no deterministic effects below # mGy; termination is not recommended below # mGy. Communicate risk with numbers and calm.
+There is no risk at all.
+Reassuring but inaccurate: the stochastic risk is tiny, not zero.
+It is risky; you should consider termination.
+Scientifically unfounded and harmful advice.
+Women of childbearing age with the pelvis in the beam: rule out pregnancy first (β-hCG if needed).
+Appendicitis in pregnancy: US → non-contrast MRI → low-dose CT if needed.
+Fetal dose ≈ SSDE (uterus in the field). CTDIvol is a phantom dose and must be corrected for patient size.
+During organogenesis (weeks #–#) the deterministic threshold is ~#–# mGy; diagnostic exams are far below it.
+Type # diabetes (metformin)
+eGFR # mL/min/# m²
+Table limit # kg, gantry bore # cm
+# mg/L
+Dose metric
+The console shows CTDIvol. Which quantity best represents the dose to this large patient?
+SSDE — CTDIvol corrected for the effective diameter
+CTDIvol is the dose in a # cm PMMA phantom, not the patient's. AAPM #/#: SSDE = f(D_eff)·CTDIvol; in large patients f < #.
+CTDIvol itself
+It describes scanner output and ignores patient size.
+DLP = CTDIvol × length; it describes total irradiation, not organ dose.
+Physics: why does noise rise?
+Mehmet's abdomen is 
+Correct: I/I₀ = e^(−μx). Since σ ~ #/√N, the noise rises ≈ √# ≈ #× at the same mAs.
+That holds for only ~# cm (one HVL).
+No change; same mAs
+Attenuation depends exponentially on thickness.
+Tube load (pitch #)
+Effective diameter / f
+Effective dose (# cm)
+Noise (liver ROI, SD)
+SSDE 
+# kV in a large patient causes photon-starvation streaks and excessive noise.
+#–# kV penetrates large patients better: less mAs for the same noise.
+Contrast and kidneys
+eGFR # mL/min/# m², on metformin. What do you do about iodinated contrast?
+Give contrast; with eGFR ≥ # and no AKI, metformin is not stopped
+ACR (#) and ESUR #: metformin continues with eGFR ≥ #; IV contrast is needed to detect an abscess.
+Stop metformin for # h, then scan
+Outdated advice; unnecessary with eGFR ≥ # and delays diagnosis.
+Scan without contrast
+The abscess wall enhances with contrast; non-contrast CT may miss it.
+CTDIvol is a phantom dose; use SSDE = f(D_eff)·CTDIvol for patient-specific dose (AAPM #/#).
+Noise σ ~ #/√(mAs) and grows exponentially with thickness; large patients need #–# kV + more mAs (or AEC).
+Low kV increases iodine contrast but causes photon starvation in large patients.
+Hypertension (controlled)
+Anterior rectal wall abuts the prostate
+# gold fiducial markers implanted
+# ng/mL
+Stage
+cT2b N0 M0
+# MeV e⁻
+Beam
+depth (cm)
+Surface dose (skin sparing)
+Photoneutrons
+yes (> # MV)
+#–# MV VMAT gives enough dose to the deep target from many angles; skin is spared and neutrons are negligible.
+# MV penetrates well but produces photoneutrons via (γ,n) → extra whole-body dose and shielding needs.
+Co-# has a low PDD and wide penumbra; not used for modern curative prostate RT.
+# MeV electrons reach only ≈ # cm (Rp ≈ E/#): they cannot reach the prostate.
+Dose per fraction
+Number of fractions
+Chosen schedule
+Total dose
+Tumour EQD2 (α/β #)
+Rectum EQD2 (α/β #)
+Overall time
+Hypofractionation: the prostate's α/β is lower than the rectum's, so large fractions favour the tumour (CHHiP #/#, PACE-B #/#) and the patient travels less.
+Image guidance (IGRT)
+The prostate moves from day to day with bladder and rectal filling. How do you verify each fraction?
+Daily kV imaging / CBCT matching the gold markers
+Daily IGRT corrects #–# mm organ motion and allows ~# mm PTV margins (van Herk: M = #Σ + #σ).
+Weekly portal image
+Catches systematic set-up error but not daily organ motion → larger margins and rectal dose.
+Skin marks and lasers are enough
+Skin marks do not show internal motion; high risk of missing the target.
+The patient's question
+Hasan: "Can I hug my grandchildren after treatment? Will I be radioactive?"
+Yes; external beam RT does not make you radioactive — nothing remains once the machine is off
+Correct. (A permanent I-# seed implant would involve short-term close-contact restrictions.)
+Just keep away from pregnant women
+No such restriction for external beam; that may apply to brachytherapy seeds.
+Avoid all contact for a week
+Wrong and anxiety-provoking for external beam therapy.
+EQD2 = n·d·(d + α/β)/(# + α/β). Low-α/β tumours (prostate ≈ #) benefit from hypofractionation.
+Photoneutron production starts above ~# MV; with VMAT, #–# MV suffices for deep targets.
+Daily IGRT corrects organ motion, shrinking margins and rectal dose.
+Declines surgery (on anticoagulants)
+Maxillary bone ≈ # cm beneath the lesion
+Lesion # cm from the left eye
+Lesion
+Depth
+Electron energy
+# MeV
+patient depth (cm)
+Depth dose
+Skin surface dose
+Minimum dose in lesion (#–# cm)
+R9# (patient depth)
+Bone dose (# cm)
+Rule of thumb: R9# ≈ E/# cm, R5# ≈ E/# cm, Rp ≈ E/# cm. Electrons stop at a sharp depth — ideal for superficial tumours.
+Field and eye protection
+The lesion is # cm. What cutout size and eye protection do you choose?
+Lesion + ~# cm margin (≈ # cm lead cutout); eye outside the field, internal eye shield if needed
+In electron fields the # % isodose narrows with depth; a ~#–# cm margin is needed. Output factors must be measured for small fields (TG-#).
+#×# cm applicator, no cutout
+Needless dose to the eye and healthy facial skin.
+Cutout exactly the lesion size (# cm)
+Underdosed edges → recurrence risk; R9# also gets shallower in very small fields.
+Fractionation (elderly patient)
+Tumour α/β ≈ # Gy, late skin / cartilage effects α/β ≈ # Gy. Which suits a #-year-old who struggles to come daily?
+Electron PDD: surface dose rises with energy (# MeV ≈ # %, # MeV ≈ # %); bolus raises the surface dose and shortens the range.
+Quick rules (nominal energy): R9# ≈ E/#, R8# ≈ E/#, R5# ≈ E/#, Rp ≈ E/# (cm).
+The electron # % isodose narrows at depth: the cutout should be ~# cm larger than the lesion.
+Breastfeeding a #-month-old
+Breakfast # hours ago
+No diabetes
+Blood glucose
+# mg/dL
+Weight / height
+# kg / # cm
+Reschedule: ≥ #–# h fasting, glucose must be < # mg/dL
+EANM: glucose < # mmol/L (≈ # mg/dL). Hyperglycaemia competes with FDG and lowers tumour uptake.
+Give rapid-acting insulin and inject right away
+Insulin drives FDG into muscle and fat; wait ≥ # h afterwards.
+Inject immediately
+Low tumour-to-background ratio → risk of staging errors.
+Injected activity
+Time per bed
+Uptake time
+after injection (min)
+EANM recommendation
+Count adequacy A·t / (#·kg)
+Effective dose (# mSv/MBq)
+Activity at scan start
+Total scan (# beds)
+ min/bed, uptake 
+Effective dose ≈ # × 
+Zeynep: "I pumped milk beforehand. My husband can bottle-feed her."
+Wait before close contact
+wait (h)
+Infant dose
+Activity in body after scan
+Dose rate at # m
+Dose rate at # cm
+Infant dose (# % close contact)
+ h wait
+Infant dose ≈ 
+Guidelines (ICRP #, IAEA) do not require interrupting breastfeeding for FDG; limiting close contact for a few hours and using expressed milk is advised.
+Waiting much longer is unnecessary: F-# has almost fully decayed, and breastfeeding is disrupted needlessly.
+PET physics
+What is produced when the positron from FDG annihilates, and how does PET detect it?
+Two # keV photons ~#° apart, detected by two detectors within a few-ns coincidence window → line of response (LOR)
+Correct: e⁺ + e⁻ → #γ (# × m₀c² = # × # keV). Random and scattered coincidences are corrected; attenuation is corrected with CT.
+A single # keV photon
+Momentum korunumu iki foton gerektirir.
+Momentum conservation requires two photons.
+The detectors measure the positron itself
+The positron annihilates within ~# mm of tissue; only # keV photons escape.
+For FDG: glucose < # mg/dL and ≥ #–# h fasting; uptake time # ± # min.
+EANM: A·t ~ weight. A longer scan allows lower activity and dose.
+Dose rate from the patient ~ A/d²; F-# T½ = # min. Delaying close contact by a few hours cuts the infant dose sharply.
+Occupation: welder / grinding (# years)
+Tattoo on the left arm (#)
+Dental fillings
+# shoulder arthroscopy: titanium anchors
+Weight
+Claustrophobia
+Pacemaker
+Welder / grinding: possible intra-ocular metal
+A ferromagnetic intra-ocular fragment can move in B₀ and cause blindness → orbit radiographs (or CT) first.
+Tattoo
+Iron-oxide pigments may heat: inform the patient, cold compress if needed. Not a contraindication.
+Amalgam and composite fillings are safe; they may only cause artefacts.
+Titanium anchors
+Titanium is not ferromagnetic (MR safe / conditional); no action needed.
+TR (repetition time)
+TE (echo time)
+Fat saturation (FS)
+Field strength
+Tissue signal
+T1-weighted
+PD-weighted
+T2-weighted
+mixed
+Weighting
+Scan time (# phase, ETL #)
+CNR tear / meniscus
+CNR oedema / marrow
+not run yet
+Acoustic noise
+Loud knocking sounds are heard during the scan. Cause and precaution?
+Rapidly switched gradient currents feel Lorentz forces in B₀; noise can exceed # dB → earplugs / headphones are mandatory
+Correct: F = I·L × B. Noise grows with B₀ (louder at # T); IEC ### requires hearing protection.
+RF pulses make the noise; no precaution needed
+RF is inaudible; the noise comes from the gradients and can damage hearing.
+It comes from the cryogen; harmless
+The helium pump hums softly, but the knocking comes from the gradients.
+Zone IV rule
+A nurse wants to bring a steel oxygen cylinder into the scanner room (Zone IV) in an emergency. What do you do?
+Stop them: the superconducting magnet is always on and ferromagnetic objects become projectiles; MR-safe equipment only
+Correct: the attractive force ~ B·dB/dz and peaks near the bore entrance. If needed, move the patient out to Zone III for care.
+Switch the magnet off, then let them in
+A superconducting magnet cannot simply be switched off; a quench vents the helium, is costly and hazardous — life-threatening situations only.
+Fine if they are quick
+The pull is instantaneous; serious injuries and deaths have been reported.
+Short TR/TE → T1; long TR, short TE → PD; long TR/TE → T2 weighting.
+Bone-marrow oedema in fatty marrow becomes visible only with fat suppression (or STIR).
+Larmor frequency f = γ̄·B₀ (# MHz/T). SAR ~ B₀²: ~#× RF heating at # T.
+MR safety: screening form, orbit radiographs (metal workers), Zone IV rules, hearing protection.
+None
+Missed: 
+Air
+Fat
+Muscle
+Cortical bone
+Cartilage
+Meniscus
+Joint fluid
+Meniscal tear
+Marrow oedema
+Tendon / ligament
+Bone marrow
+Ant
+Post
+female
+boy
+Spine
+Chest
+Neck
+Head
+INTERACTIVE FIGURE
+thickness (cm)
+narrow-beam transmission
+Material
+Water
+Bone
+Lead
+Photon energy
+Mean free path #/μ
+photon energy
+Read-out energy
+Water / bone / lead
+Bone / water ratio (contrast)
+relative photons
+Al filter (added)
+Cu filter
+Mean energy
+ % of kVp)
+Tube output (# m)
+scattering angle θ (°)
+scattered photon E′
+recoil electron T
+Incident photon energy
+Backscatter E′(#°)
+Compton edge T_max
+Tc-#m
+distance (m)
+unshielded
+with lead
+Source
+Activity
+Lead thickness
+At # m (shielded)
+Shield transmission (incl. build-up)
+lead
+activity A(t)
+Radionuclide
+time (days)
+time (h)
+Mean life τ = #/λ
+After # h (from # MBq)
+Decay mode
+isomeric transition
+after elution (h)
+Next elution time
+elute
+Time of maximum Tc-#m
+Tc-#m at elution
+Tc/Mo ratio (transient equilibrium)
+depth in water (cm)
+Highlight
+Surface dose
+relative dose
+Proton energy
+Spread-out Bragg peak (SOBP, # cm)
+Range R₀ (CSDA)
+Peak / entrance ratio
+Rule: R ≈ #·E^#
+total dose (Gy)
+surviving fraction
+single dose, α/β = # (early / tumour)
+single dose, α/β = # (late)
+fractionated, α/β = #
+Dose per fraction d
+Number of fractions n
+Plot
+T1 recovery
+T2 decay
+SE signal vs TE
+Marker (TR or TE)
+TR (for the SE plot)
+White / grey matter contrast (at marker)
+Larmor frequency
+Kan
+Kas
+Süngerimsi kemik
+Kortikal kemik
+Kontrastlı kan
+Blood
+Spongy bone
+Contrast blood
+Effective (monoenergetic) energy
+Fat / muscle
+Cortical bone / contrast blood
+effective diameter D_eff (cm)
+Anterior-posterior (AP)
+Lateral (LAT)
+noise σ (HU)
+chosen diameter
+average adult (# cm)
+Patient diameter
+mAs for the same σ (vs # cm)
+Lung
+Clinical Cases
+Waiting room — choose a patient
+Patient file
+Current step
+Tap a patient or pick one from the list. Each patient is a clinical case solved with real physics.
+Reception
+WAITING ROOM
+Waiting patients
+Level 
+Best 
+Clinical case mode
+You are the hospital's medical physicist. Each patient is a case: read the file, make your decisions and see results computed with real physics models. After every step you learn why it was right or wrong.
+Scoring: diagnostic quality / treatment efficacy, patient dose (ALARA), safety and communication. ★★★ needs ≥ # %.
+Tip: the 'Theory' page in the top bar lists the key formulas.
+X-ray
+Radiotherapy
+Nuclear med.
+Age / sex
+Height / weight
+Complaint and request
+History
+Findings
+Steps: 
+max 
+Your best: 
+START CASE  →
+Steps
+Status
+Patient dose (effective)
+Diagnostic / treatment quality
+Score 
+Step 
+You may tick more than one option.
+Read-outs
+Settings changed — run again before confirming.
+Computing…
+Best answer: 
+✓ Excellent
+≈ Partly right
+✗ Wrong
+SEE DEBRIEF  →
+CONTINUE  →
+Case complete — 
+Excellent — a true medical physicist!
+Good work — a few points to improve.
+Passed — read the feedback carefully.
+Try again — the explanations will guide you.
+Summary
+Patient
+Score
+Effective dose to the patient
+no ionising radiation
+Natural background equivalent
+ days
+Time
+Your decision
+Points
+Learning points
+References
+↻ Try again
+Waiting room
+Next patient: 
+Case complete
+Open debrief
+"Thank you, you were very caring!"
+Done. Review the results; change settings and run again if needed.
+Time 
+How to play the case mode
+Pick a patient in the waiting room, read the file and start the case. At each step you decide: answer a question, set device parameters or produce an image. The physics engine computes the outcome; press CONFIRM to get points and an explanation.
+The three principles of radiation protection (ICRP #)
+#) Justification: the benefit must outweigh the risk. #) Optimisation (ALARA): keep the dose as low as reasonably achievable while preserving diagnostic quality. #) Dose limits: for workers and the public (not for patients; diagnostic reference levels are used instead).
+Quick formulas
+Scoring
+★★★ ≥ # %, ★★ ≥ # %, ★ ≥ # %. Your best result is saved; replay to improve it.
+Cases are for education only, not for clinical decisions.
+Computed Tomography
+Radon transform • FBP • Hounsfield • Artefacts
+Run your first scan and watch the sinogram fill
+Measure HU: tap lung (< −#), fat (−#…−#) and bone (> #)
+Scan with few views (≤ #): see the streak artefacts
+Beam hardening: scan polyenergetic with BHC off (cupping)
+Metal artefact: scan a pelvis slice with the hip prosthesis
+Switch to the lung window on a chest slice
+Heart
+Liver
+Kidney
+Choose the slice level and press SCAN. Tap the image to measure HU.
+X-ray tube
+Spins with the gantry #–# times a second and sends a fan beam through the patient from every angle.
+Bowtie filter + collimator
+Thin in the middle and thick at the edges, it cuts the dose to the thin edges of the patient and evens out the detector signal. The collimator sets the slice width.
+Detector arc
+Hundreds of channels × many rows of ceramic scintillator. It measures one projection per angle; together they form the sinogram.
+Slip ring
+Power and data cross without cables, so the tube can spin continuously, which makes helical scanning possible.
+Patient couch
+Moves at constant speed during a helical scan. Pitch = table feed per rotation / total beam width; pitch > # lowers the dose.
+Isocentre
+The rotation axis. Centring the patient here matters: off-centring defeats the bowtie filter and raises both noise and dose.
+Slice level
+Table position (z)
+Scan parameters
+# kVp
+Number of views (#°)
+Detector channels
+Reconstruction
+Filter
+Shepp-Logan
+Cosine
+Polyenergetic beam (realistic)
+Water beam-hardening correction (BHC)
+Quantum noise
+Patient / phantom
+Lung tumour
+Titanium hip prosthesis
+Iodine contrast (heart/aorta)
+Show gantry cover transparent
+Scan
+Axial slice (HU)
+Probe (tap)
+tap the image
+Window
+Soft tissue
+Brain
+Window width (W)
+Window level (L)
+horizontal: detector s  •  vertical: angle θ (#→#°)
+Beam and calibration
+Mean / effective energy
+μ(water) reference
+Noise (σ, uniform region)
+Dose
+DLP (# cm scan)
+CTDIw: # cm body (# cm head) phantom; E = DLP × k (chest #, abdomen #, head # mSv/mGy·cm).
+Scanning…
+ (head)
+Done: 
+ views, 
+#. Projections and the Radon transform
+The tube and detector rotate around the patient. For each angle θ and detector position s, the measured attenuation is a line integral of μ(x,y). The set of all projections is the <b>sinogram</b>: a point object traces a sine curve.
+#. Filtered back-projection (FBP)
+Fourier slice theorem: the #D Fourier transform of a projection is a slice through the #D Fourier transform of the image. So projections are first filtered with the |f| ramp, then back-projected. Unfiltered back-projection gives #/r blur.
+Window W(f): Ram-Lak (sharp, noisy), Shepp-Logan (sinc), Cosine, Hann (smooth, low noise). Sharpness ↔ noise trade-off.
+#. Hounsfield units and windowing
+Air −#, water #, fat ≈ −#, soft tissue #…#, bone #…# HU. Because the eye separates only ~#–# grey levels, images are shown through a window (width W, level L): lung W1#/L−#, soft tissue W4#/L4#, bone W2#/L4#, brain W8#/L3#.
+#. Artefacts
+• <b>Beam hardening:</b> low energies are absorbed first; along long paths the effective μ drops → 'cupping' in the centre and dark streaks between dense bones. Water calibration (BHC) fixes cupping but not bone streaks.\n• <b>Metal:</b> almost all photons are absorbed (photon starvation) → bright/dark radial streaks.\n• <b>Few views:</b> insufficient angular sampling → streak (aliasing) artefacts.\n• <b>Noise:</b> σ ~ #/√(mAs); the fundamental dose–noise trade-off.
+#. Dose
+Model: parallel-beam geometry (rebinned fan-beam data), energy-integrating detector, scatter neglected.
+Explore the labs
+Choose any topic. If you are new, try the short starter case first.
+Explore medical physics in small steps with real calculations.
+FOR FIRST-TIME LEARNERS
+Start with your first case
+Make decisions in Emir's paediatric chest X-ray case, see the outcome, and learn the reason behind every step. The technical labs will be there when you are ready.
+Start the first case  →
+Learning Centre
+Explore all topics
+Open the case
+We show you the best first step.
+Make a choice
+You make just one decision at a time.
+Learn why
+Each answer comes with an explanation and feedback.
+Tip: You can click a machine in the background whenever you want; you do not need to do that to get started.
+← Simple home
+Start the first case
+Step-by-step lessons from the atom to radiotherapy, interactive figures, worked examples, quizzes and a practice exam.
+Clinical Cases — 
+Real patients, real decisions: paediatric chest X-ray, CT in pregnancy, a large patient, prostate RT, skin cancer, PET and MR safety.
+Language
+Larger text
+About
+Reset progress
+Developer
+Reset all progress?
+Completed tasks, case stars and lesson progress will be deleted. This cannot be undone.
+Cancel
+This app teaches the core topics of medical physics through interactive #D simulations. All calculations are based on real physical models and reference data, but it is NOT for clinical use.
+Data sources
+photon attenuation and energy-absorption coefficients (# materials)
+proton and electron stopping power / range references
+tissue compositions, dose quantities, weighting factors
+Modules
+Controls
+Mouse: left drag = orbit, right drag = pan, wheel = zoom. Touch: one finger = orbit, two fingers = zoom/pan.
+Lessons • interactive figures • quizzes
+Topics
+Formulas
+How to study
+Pick a topic and lesson on the left. Play with the figure sliders and test yourself at the end of each lesson.
+Progress
+Completed
+Overview
+Practice exam
+Eight topics from the foundations of medical physics to the clinic. Every lesson has explanations, formulas, worked examples, interactive figures driven by real physics models and a short quiz. At the end you can jump to the matching lab and clinical case.
+NEXT LESSON
+ lessons • 
+ % done
+# random questions from all topics — good preparation for master's interviews and exams.
+Your best
+Start the exam  →
+Start with lesson #  →
+Quiz on this topic
+Open the lab
+Lesson 
+ min read
+ quiz questions
+Apply it
+Try it in the lab  →
+Related clinical case  →
+KEY POINT
+WORKED EXAMPLE
+Test yourself
+Correct. 
+Not quite. 
+Score: 
+  — lesson mastered!
+  — read the explanations and try again.
+Reset quiz
+No questions found.
+Question 
+Next question  →
+See the result  →
+Result: 
+Excellent! You have mastered the material.
+Good. Revisit the lessons of the topics you missed.
+More study needed — the lessons below will help.
+Review
+Open lesson: 
+New exam
+Formula sheet — 
+Glossary
+How to use this section
+#) Choose a topic on the left; topics are ordered from foundations to the clinic. #) Read the lesson; don't skip KEY POINT boxes and worked examples. #) Move the figure sliders to see what the formulas say. #) Take the end-of-lesson quiz: all correct marks the lesson with ★. #) Use 'Try it in the lab' and 'Related clinical case' to apply what you learnt.
+Study tips
+• Check the units in every formula (cm⁻¹, Gy, Sv, MBq). • Solve worked examples yourself first, then check. • After the practice exam, revisit the lessons of the questions you missed. • For interviews: ICRP principles, HVL, inverse square law, LQ/EQD2, CTDIvol/SSDE, T1/T2, PDD and the Bragg peak come up most often.
+Educational content only — not for clinical decisions.
+Settings
+Results
+Help
+Main menu
+Tasks
+Task complete: 
+Theory coming soon.
+Theory and formulas
+Full lesson  →
+Parts
+Magnetic Resonance
+Bloch equations • precession • spin echo
+T1 / T2 / PD contrast
+k-space and the Fourier transform
+Apply #° – τ – #° and form a spin echo
+Find the proton Larmor frequency at # T (≈ # MHz)
+T2-weighted image: CSF brighter than white matter
+FLAIR: suppress CSF while the lesion stays bright
+Use only the centre of k-space: contrast stays, detail is lost
+Section
+Spin physics
+Contrast
+k-space
+Main field B₀
+Bloch sphere (rotating frame)
+The yellow arrow is the net magnetisation M. An RF pulse tips it away from B₀; it recovers longitudinally with T1 and decays transversely with T2. Coloured arrows are isochromats at different frequencies (T2*).
+Superconducting magnet
+NbTi windings cooled by liquid helium to ~# K. B₀ (# / # T) is always on: ferromagnetic objects become projectiles.
+Gradient coils
+Coils around the bore make the field vary linearly with position (mT/m): slice selection, frequency and phase encoding. Fast switching is what makes the noise.
+RF body coil
+Transmits B₁ pulses at the Larmor frequency (~# MHz at # T) that tip M. Tissue heating (SAR) comes from here.
+Receive coil
+A multi-channel receive coil close to the tissue raises SNR and enables parallel imaging.
+Tissue
+RF pulses
+Spin echo
+Inversion (#°)
+Reset (M || B₀)
+Custom flip angle α
+View
+Time speed
+Laboratory frame (show precession)
+In the rotating frame (x', y') we rotate with the Larmor frequency: only frequency offsets (Δω) remain visible.
+Magnetisation
+Mx (signal)
+Parameters
+Larmor frequency f₀ = γ̄·B₀
+A #° pulse tips M into the xy-plane. Spins fan out as they precess at different rates (T2*). A #° pulse flips them and an echo forms.
+  → echo expected at: 
+Spin echo! t = 
+ (T2 loss: e^(−TE/T2))
+Sequence
+Gradient echo
+Inversion recovery
+Presets
+Flip angle α
+Averages (NEX)
+Lesion (oedema / tumour)
+Axial brain slice
+Mz recovery (TI)
+Signal vs TE (T2 decay)
+Ernst angle (WM)
+Null TI (CSF / fat)
+Short TR + short TE → T1-weighted; long TR + long TE → T2-weighted; long TR + short TE → proton density.
+Sampling
+Matrix (resolution)
+k-space sampling
+Full
+Centre only
+Periphery only
+Partial Fourier # %
+Patient motion (phase errors)
+R = acceleration factor: every R-th line is acquired → wrap-around by FOV/R (aliasing). Parallel imaging (SENSE/GRAPPA) unfolds it with coil sensitivities.
+k-space (log |S(kx, ky)|)
+Reconstruction (inverse #D FFT)
+The centre of k-space carries image contrast; the periphery carries fine detail (edges).
+#. Spin and precession
+Hydrogen nuclei (protons) carry a magnetic moment. In the field B₀ a tiny excess aligns with the field, creating a net magnetisation M₀ (M₀ ~ B₀). Spins precess about B₀ at the Larmor frequency.
+#. Bloch equations and relaxation
+An RF pulse (B₁ at the Larmor frequency) tips M by the flip angle α. Then:\n• <b>T1 (spin–lattice)</b>: Mz recovers: Mz(t) = M₀ + (Mz(#) − M₀)·e^(−t/T1)\n• <b>T2 (spin–spin)</b>: transverse magnetisation dephases: Mxy(t) = Mxy(#)·e^(−t/T2)\n• <b>T2*</b>: field inhomogeneity adds dephasing (#/T2* = #/T2 + γΔB) — a #° pulse reverses this part: the <b>spin echo</b>.
+#. Contrast
+FLAIR: choosing TI = T1·ln2 nulls CSF (≈ # ms at # T). STIR: a short TI suppresses fat (≈ #–# ms).
+#. k-space
+Gradients encode position into frequency and phase; the acquired signal is the #D Fourier transform of the image (k-space). The image follows from an inverse FFT. Matrix size sets resolution, FOV sets pixel size; undersampling causes wrap-around, motion causes ghosts along phase encoding.
+Nuclear Medicine
+Radioactive decay (Monte Carlo)
+Mo-# / Tc-#m generator
+PET: coincidences and reconstruction
+Measure the Tc-#m half-life by Monte Carlo within # %
+Add a biological half-life and see the effective half-life (I-#)
+Elute the generator #–# h after the previous elution (maximum yield)
+Collect ≥ # # coincidences and reconstruct with MLEM
+Compare the effect of attenuation correction at the image centre
+Decay
+Generator
+Lead container (pig)
+Shields the gamma rays while the vial is stored or carried; a few mm of lead is enough for the # keV photons of Tc-#m.
+Survey meter
+A GM counter or ion chamber showing the dose rate in µSv/h; used for contamination checks in the hot lab.
+Radioactive nuclei
+Each sphere is a nucleus. In every time step it decays with probability p = # − e^(−λΔt) and emits a photon line; with few nuclei N(t) fluctuates statistically.
+Initial atoms N₀
+Biological half-life (# = none)
+Time speed (half-lives / # s)
+Pause / Run
+Restart
+Remaining nuclei N(t)
+Effective (physical + biological)
+Elapsed time
+Remaining / decayed
+Measured T½ (MC)
+Constants
+Decay constant λ
+Specific activity (pure)
+Effective half-life
+Every atom decays in each time step with probability p = # − e^(−λΔt). With few atoms the curve fluctuates statistically.
+isomeric transition (IT)
+excreted 
+true 
+Mo-#/Tc-#m generator
+In a lead-shielded alumina column Mo-# (T½ # h) decays to Tc-#m (T½ # h). Saline passed through the column washes out only the Tc-#m pertechnetate (elution).
+Eluate vial
+An evacuated vial in a lead pot draws the saline and Tc-#m through the column. Mo-# breakthrough must stay < # kBq Mo per MBq Tc.
+Mo-# (T½ # h) → # % → Tc-#m (T½ # h). Mo-# is held on an alumina column; Tc-#m builds up as it decays and is 'eluted' with saline.
+Initial Mo-# activity
+Last elution yield
+Activities (transient equilibrium)
+Eluted
+Since last elution
+Tc-#m peaks t_max = ln(λTc/λMo)/(λTc − λMo) ≈ # h after elution. At equilibrium A_Tc/A_Mo → #·λTc/(λTc − λMo) ≈ #.
+Press ELUTE to extract Tc-#m. For the highest yield wait ≈ # h after the previous elution.
+ h after
+Detector ring (LYSO + SiPM)
+A positron annihilates with an electron into two opposite # keV photons. If two opposing detectors catch them within a few ns, a coincidence (line of response, LOR) is recorded.
+NEMA image-quality phantom
+Hot spheres of several sizes and a lung insert in a water-filled cylinder: recovery coefficients, the partial-volume effect and attenuation correction are tested with it.
+For a whole-body scan the patient is stepped through bed positions; the axial field of view is #–# cm, #–# m in long-axial systems.
+Radiopharmaceutical
+Isotope
+Ga-# (# mm)
+Sphere / background ratio
+Physical effects
+Compton scatter
+Random coincidences
+Algorithm
+MLEM iterations
+Attenuation correction (AC)
+Reconstruct
+Reset
+Counts
+Trues
+Scattered
+Randoms
+horizontal: radial s • vertical: angle φ
+Reconstructed image
+Relative activity concentration (to the image maximum)
+Recovery coefficient (largest / smallest sphere)
+Small spheres show lower measured activity due to the partial-volume effect (RC < #).
+Each line is a coincidence (LOR): green = true, yellow = scattered, red = random. Collect enough counts, then 'Reconstruct'.
+Reconstructing…
+Done. Centre/background ratio: 
+ (no AC)
+#. Radioactive decay
+Decay is random: one cannot predict when a single nucleus decays, but many nuclei follow the exponential law. Activity is measured in becquerel (# Bq = # decay/s); the old unit is the curie (# Ci = #·#¹⁰ Bq).
+#. Generator and transient equilibrium
+When the parent (Mo-#) lives longer than the daughter (Tc-#m), A₂/A₁ tends to a constant: transient equilibrium. If the parent is much longer-lived (e.g. Sr-#/Y-#) secular equilibrium arises: A₂ = A₁.
+A positron from β⁺ decay annihilates with an electron within a few mm (positron range → resolution loss), producing two # keV photons almost back-to-back (±#°). If two crystals of the ring fire within the timing window (~# ns), a coincidence and a line of response (LOR) are recorded.
+• <b>Attenuation:</b> the probability that both photons escape is exp(−∫μ dl) along the LOR — independent of the emission point! That is why PET attenuation correction is done directly from CT.\n• <b>Scatter:</b> Compton-scattered photons create wrong LORs; the energy window (#–# keV) rejects some.\n• <b>Randoms:</b> two unrelated photons fall into the same window; rate ~ activity².\n• <b>NEC</b> = T²/(T+S+R): a measure of image quality.
+MLEM is an iterative method that models Poisson statistics directly; it produces fewer streaks than FBP but noise grows with many iterations.
+Radiation Protection
+Time • Distance • Shielding
+Inverse square law: record readings at ~# m, ~# m and ~# m
+Bring the dose rate at the control desk (green mark) below # µSv/h
+Set the lead thickness to the Cs-# HVL (≈ # cm) and see the halving
+Put the source into the lead container; total dose < # µSv
+Compare the dose rates of Co-# and Tc-#m at # m
+Control desk
+Lead container
+Once the source is inside, a few cm of lead cut the dose rate hundreds of times (each HVL halves it, each TVL divides it by ten).
+Point source
+The dose rate falls with the square of the distance, Ḣ = Γ·A/d². The floor colours show this dose rate; the white line marks # µSv/h.
+The worker's meter reads the ambient dose-equivalent rate H*(#) where it is; accumulated dose = dose rate × time.
+Floor: dose rate H*(#), µSv/h (log scale) • white line = # µSv/h
+Tap the floor → walk (keyboard: WASD). Watch the meter's dose rate. Time, distance and shielding reduce dose.
+Shielding
+Steel
+Concrete
+Thickness
++ Place shield
+Tap the floor to place the shield.
+Remove all
+Needed for < # µSv/h at desk
+Mission: retrieve the source
+Use long tongs (source # cm from body)
+Pick up source
+Put in container
+Walk to the source (< # m), pick it up, carry it to the lead container.
+Dose rate H*(#)
+Distance to source
+Accumulated dose
+Bar: daily share for a worker (# mSv/yr ÷ # days = # µSv).
+Record reading
+Clear readings
+Inverse square law
+Readings
+Dose limits (ICRP #)
+Worker (effective)
+Public
+Eye lens
+Skin / hands
+Pregnant worker (fetus)
+Natural background (world avg.)
+no shielding needed
+Shield placed. Change thickness and material in the left panel.
+Get closer to the source (< # m).
+Source in hand! Carry it quickly to the lead container.
+Get closer to the container (< # m).
+Source secured! Dose during the mission: 
+#. Three principles: time, distance, shielding
+• <b>Time:</b> dose is proportional to the time spent near the source.\n• <b>Distance:</b> for a point source the dose rate falls as #/d²: doubling the distance quarters the dose. That is why tongs are so effective.\n• <b>Shielding:</b> dense, high-Z materials (lead) attenuate photons best. One HVL halves, one TVL reduces the dose rate to one tenth.
+In broad beams scattered photons also reach the detector; the build-up factor B ≥ # accounts for this. Here B ≈ # + k·μx is used.
+#. Dose quantities
+• Absorbed dose D (Gy = J/kg)\n• Equivalent dose H_T = w_R · D_T (Sv); w_R = # for photons and electrons, # for alpha, # for protons\n• Effective dose E = Σ w_T · H_T (Sv); tissue weighting factors from ICRP #\n• Survey meters show the ambient dose equivalent H*(#) (≈ # × air kerma for Cs-#).
+#. ALARA and limits
+The three principles of radiation protection: justification, optimisation (ALARA: as low as reasonably achievable) and dose limits. Worker: # mSv/yr (averaged over # years, max # in one year), public: # mSv/yr, eye lens: # mSv/yr.
+Monte Carlo depth dose • Bragg peak
+Treatment planning • DVH
+Linear-quadratic model • BED
+Measure dmax and PDD1# of # MV photons (≥ # # histories)
+Compare the # MeV proton Bragg peak with the NIST CSDA range
+Build a # cm wide SOBP
+See that an electron beam's R5# follows the E/# rule
+Make a photon plan that meets all dose constraints
+Reduce the cord dose with a proton plan
+Compare tumour BED of SBRT (#×# Gy) and conventional (#×# Gy)
+Beam physics
+Planning
+Radiobiology
+Treatment head
+Electrons accelerated to MeV in the waveguide are bent onto a target (photons) or through a scattering foil (electrons). The flattening filter and the monitor chambers (MU) sit here too.
+Jaws + MLC
+The multileaf collimator (#–# mm leaves) shapes the field to the tumour and moves during the beam in IMRT and VMAT.
+Gantry
+Rotates the head #° around the patient. The RF source (magnetron/klystron) and the waveguide are inside the gantry and its stand.
+EPID (MV imaging)
+Images the exit treatment beam (portal image); used to verify the field shape and the delivered dose.
+kV X-ray source
+IGRT: before treatment a kV image or cone-beam CT (CBCT) is taken and the patient position is corrected to the millimetre.
+kV detector
+The flat panel opposite the kV source; it collects hundreds of projections for CBCT while the gantry rotates.
+Where the gantry, collimator and couch rotation axes meet (±# mm). The source-to-axis distance (SAD) is # cm.
+Water phantom
+Reference dosimetry (IAEA TRS-#) and PDD/profile measurements: an ion chamber is scanned through the water. Here each track is a particle followed by Monte Carlo.
+Particle
+Photon
+Electron
+Energy
+Field size (at surface)
+Show particle tracks
+Dose map (x–depth): dose relative to the maximum, %
+Show dose map (x–z)
+Track colours: yellow = photon, blue = electron, magenta = positron, orange = proton, green = nuclear interaction.
+Spread-out Bragg peak (SOBP)
+Show SOBP (analytic)
+Distal depth
+Modulation width
+Simulation
+Histories
+Rate
+Central-axis depth dose
+Reference / analytic
+Dose distribution (x–z plane)
+horizontal: x (−#…# cm) • vertical: depth #→# cm
+Photon spectrum (target + flattening filter)
+relative
+Real-time Monte Carlo: each track is a particle. More histories = less statistical noise (σ ~ #/√N).
+Mean photon energy
+R8# (≈ therapeutic depth)
+Practical range Rp (ref)
+Bragg peak depth
+CSDA range (Bethe / NIST)
+Entrance / peak ratio
+Plan presets
+#-field
+Arc (VMAT-like)
+Modality of all beams
+Beams
++ Add beam
+− Remove
+Gantry angle
+Field width (isocentre)
+Angle: #° = anterior (AP), #° = patient's left, #° = posterior (PA), #° = right.
+Prescription
+PTV (GTV + # mm) mean = # Gy / # fractions (# Gy)
+Axial dose distribution
+Colour: #%·#%·#%·#%·#% isodose. Contours: green PTV, yellow cord, red heart, pink lungs.
+Dose-volume histogram (DVH)
+volume %
+Cord
+Left lung
+Right lung
+Dose constraints (QUANTEC / RTOG)
+Change beam angles and weights: cover the target while sparing cord, heart and lungs.
+Selected beam: 
+Spinal cord Dmax < # Gy
+Lung V2# < # %
+Mean lung dose < # Gy
+Heart mean < # Gy
+Conformity index (Paddick)
+Plan score
+Fractionation schedule
+#×# Gy (SBRT)
+Tissue parameters
+α/β tumour
+α/β late-responding tissue
+Potential doubling time Tpot
+Cell culture (#D)
+Deliver # fraction
+Deliver all
+Fractions delivered
+Surviving fraction S
+Cell survival curve (LQ)
+Single dose, α/β=
+Fractionated (fixed d)
+Biologically effective dose
+Total dose / time
+BED tumour
+EQD2 tumour
+BED late tissue
+EQD2 late tissue
+Tumour control probability
+TCP for this schedule (N₀ = #⁹)
+Each cell survives a fraction with probability S(d) = exp(−αd − βd²). Low α/β tissues are more sensitive to dose per fraction.
+ (incl. repopulation)
+clonogens: 
+#. Photon beams and depth dose
+MV photons interact in water mainly by Compton scattering; energy is deposited by secondary electrons over several cm. Hence the dose is low at the surface and rises to dmax (<b>build-up</b>; skin sparing). It then falls due to attenuation and the inverse square law.
+The Klein–Nishina cross section sets the Compton scattering angle and recoil-electron energy. The Monte Carlo simulation follows every photon and electron; the dose converges with statistical uncertainty σ ~ #/√N.
+#. Electron beams
+Electrons have a finite range: ideal for superficial tumours. Rules of thumb: R5# ≈ E₀/# cm, Rp ≈ #·E₀ cm, therapeutic depth R8# ≈ E/# cm. The small tail at depth comes from bremsstrahlung photons.
+#. Protons and the Bragg peak
+The stopping power rises as #/β² while the proton slows; most energy is deposited at the end of range (Bragg peak). Range straggling (≈ # %·R) and energy spread broaden the peak. A weighted sum of peaks of different energies forms the SOBP covering the tumour. Beyond the peak the dose is ~#: distal organs are spared.
+#. Treatment planning
+Dose is calculated with equivalent path length heterogeneity correction (radiological depth = Σ ρₑ·Δl): a beam through lung is attenuated less. Plan quality is judged by the DVH: PTV D9# ≥ # %, cord Dmax < # Gy, lung V2# < # %, mean lung dose < # Gy, heart mean < # Gy (QUANTEC).
+#. Radiobiology
+α/β ≈ # Gy (tumour, early-responding) and ≈ # Gy (late-responding normal tissue, e.g. spinal cord). Small doses per fraction spare late tissues; high doses per fraction such as SBRT give very high tumour BED but need precise targeting. TCP = exp(−N₀·S).
+Model notes: MC uses condensed history (Highland multiple scattering); planning is #D and neglects lateral scatter.
+X-ray Radiography
+Spectrum • Attenuation • Scatter • Dose
+kVp effect: expose at ≤# kVp and ≥# kVp; compare bone contrast
+Correct exposure: bring the deviation index (DI) of a chest image within −#…#
+Filtration: raise the HVL above # mm Al
+Scatter: make the same exposure with and without the grid
+Image the pacemaker on a chest radiograph
+ALARA: chest image with ESAK < # mGy and DI ≥ −#
+Change parameters → image and dose are recomputed (polyenergetic ray tracing + NIST data).
+Electrons from the heated cathode are accelerated by the kVp into a rotating tungsten anode. Only ~# % of their energy becomes X-rays (bremsstrahlung + characteristic); the rest is heat.
+Collimator + added filtration
+Lead shutters limit the field: less patient dose and scatter. Al/Cu filtration removes low-energy photons, hardening the beam and lowering the skin dose.
+Anti-scatter grid (Bucky)
+Focused thin lead strips absorb photons scattered in the patient. Contrast improves, but the mAs must rise for the same detector dose (Bucky factor #–#).
+Flat-panel detector
+A CsI:Tl scintillator turns X-rays into light and an a-Si photodiode array into charge. The exposure index (EI) reports the dose reaching the detector.
+Anthropomorphic phantom
+Lungs, bone, soft tissue and heart are modelled with NIST attenuation coefficients; a polyenergetic ray is traced for every detector pixel.
+Region and projection
+Abdomen
+Skull
+OBL #°
+Patient rotation
+X-ray tube (generator)
+Tube current × time
+Added Al filter
+Added Cu filter
+Total filtration = # mm Al (inherent) + added. Regulation: ≥ # mm Al (># kVp).
+Geometry and detector
+Source–image distance (SID)
+Anti-scatter grid (#:#)
+Phantom
+Lung nodule (tumour)
+Pacemaker (titanium)
+Skin view
+Opaque
+Hidden
+Exposure
+Auto-expose on change
+Digital radiograph (CsI detector)
+Bright = high attenuation (bone, metal). Shown in radiological convention: patient's right on the left. Window is set automatically.
+Spectrum
+Unfiltered
+Filtered (entrance)
+At detector (centre)
+Mean energy (entrance / detector)
+Half-value layer (HVL)
+Effective energy
+Image quality
+Exposure index (EI)
+SNR (centre)
+Bone contrast (# cm in # cm tissue)
+Patient dose
+Patient thickness / SSD
+Entrance surface air kerma (ESAK)
+Dose-area product (DAP)
+Effective dose (approx.)
+Effective dose = DAP × conversion coefficient (by region). Natural background ≈ # mSv/yr.
+Computing… (
+under-exposed / noisy
+ days background)
+Done. 
+#. X-ray production
+Electrons from the cathode are accelerated by the tube voltage (kVp) onto a tungsten anode. ~#% of the energy becomes heat, ~#% X-rays. Electrons decelerating in nuclear fields emit <b>bremsstrahlung</b> with a continuous spectrum up to E_max = kVp.
+When kVp exceeds the W K-shell binding energy (# keV), <b>characteristic</b> lines appear: Kα ≈ #–# keV, Kβ ≈ #–# keV. Intensity ~ (U − #)^#, U = kVp / E_K.
+Tube output scales roughly with kVp² and linearly with mAs: #% kVp roughly doubles the detector signal (#% rule).
+#. Attenuation and filtration
+Two interactions dominate at diagnostic energies: the <b>photoelectric effect</b> (~ Z³/E³, source of contrast) and <b>Compton scattering</b> (~ electron density, source of scatter). The simulation uses NIST μ/ρ(E) tables for every material.
+A filter preferentially removes low-energy photons (<b>beam hardening</b>) that would only add skin dose. More filtration raises mean energy and HVL and lowers the output.
+in air kerma
+#. Image formation
+For every pixel a ray is traced from the focal spot to the detector; the path length in each tissue is computed and Beer–Lambert is applied per energy bin. CsI absorption efficiency η(E) = # − e^(−μ_CsI·t). The signal is energy-weighted (energy-integrating detector).
+<b>Scatter</b> reduces contrast: the scatter-to-primary ratio grows with field size and patient thickness. A grid transmits ~#% of primary and ~#% of scatter. Collimation reduces both scatter and dose.
+<b>Exposure index</b> EI = # × K_detector [µGy] (IEC ##). Deviation index DI = #·log₁₀(EI / EI_target); |DI| ≤ # is appropriate. DI = # means twice the needed dose.
+#. Dosimetry
+Backscatter factor BSF ≈ #. DAP (Gy·cm²) is independent of distance and is converted to effective dose with coefficients: chest PA ≈ #, abdomen ≈ #, pelvis ≈ #, skull ≈ # mSv/(Gy·cm²). Typical chest PA: ESAK ~#–# mGy, E ~# mSv.
+<b>Inverse square law:</b> intensity ~ #/d². Going from SID # to # cm needs ~#× mAs for the same detector dose, but skin dose rises less and magnification drops.
+Model note: scatter uses a simplified kernel depending on field and thickness; detector DQE and focal-spot blur are neglected.
+Bone (rib/pelvis)
+Adipose
+Blood / heart
+Water / CSF / urine
+Titanium implant
+Blood + iodine contrast
+Tumour
+Choose a language
+Languages other than Turkish and English are machine-assisted translations; please report any errors.
+Close
+Dose ≈ # µSv: about # days of natural background. The benefit of diagnosing pneumonia far outweighs the risk.
+Mehmet's abdomen is # × # cm (average adult ≈ # × #). For water μ(# keV) ≈ # cm⁻¹. By how much do # extra cm of tissue reduce the photons reaching the detector?
+Learning Centre — # topics, # lessons
+Clinical Cases — # patients waiting
+Computing… (#×# pixel ray tracing)
+Paediatric chest X-ray
+Fever (# °C) and cough for # days
+Paediatric ED: PA chest radiograph — pneumonia? (Dr Aydın)
+Hi! Will the machine hurt? Can my mum wait outside?
+Exposure factors
+Emir's chest is ≈ # cm thick (adult ≈ # cm). Set kVp, mAs, filter, grid and field, then EXPOSE. Goal: DI −#…# and ESAK ≤ # µGy.
+Emir: "Should I hold my breath? OK, holding!"
+Possible pregnancy and appendicitis
+Right lower abdominal pain, nausea (# h)
+Emergency surgery: acute appendicitis? Contrast CT abdomen-pelvis (Dr Şahin)
+It hurts a lot... and I don't know whether I might be pregnant.
+First step
+A CT request arrives. Elif's last period was # weeks ago. What do you do before any ionising examination?
+β-hCG POSITIVE: about # weeks pregnant.
+Imaging modality
+Suspected appendicitis in a pregnant patient. What should come first?
+US: appendix not visualised. No MRI at night; the surgeon stresses the risk of perforation. Shared decision: low-dose CT.
+Low-dose CT protocol
+Fetal dose ≈ SSDE (uterus fully in the field). Diagnostic noise limit ≈ # HU (low-dose appendicitis protocol). Choose kV, mAs, pitch and scan length, then SCAN.
+Elif: "Please use the lowest dose for my baby."
+Pitch
+Abdominal CT in a large patient
+Left lower abdominal pain, fever
+General surgery: diverticulitis / abscess? Contrast CT abdomen (Dr Tunç)
+Last time it took ages... Will I fit in the machine?
+Size-adapted protocol
+Accepted noise in a large patient: ≤ # HU in the liver ROI (≈ # HU in an average adult). Choose kV and mAs, SCAN. Keep SSDE below # mGy.
+Mehmet: "Arms above my head? OK."
+Prostate cancer — external beam RT
+Prostate adenocarcinoma, intermediate risk (Gleason ##, PSA #)
+Radiation oncology: curative EBRT, prostate ± seminal vesicles (Dr Kılıç)
+I don't want surgery. What is this radiation treatment like, does it hurt?
+Beam energy
+The prostate lies ≈ # cm deep from the front and ≈ # cm from the side. Compare the depth doses (PDD) and choose an energy for VMAT.
+Hasan: "How do you reach something that deep?"
+AP
+lat
+Fractionation (LQ model)
+Prostate α/β ≈ # Gy, rectum (late effects) α/β ≈ # Gy. Goal: tumour EQD2 #–# Gy, anterior rectal wall (assume it gets # %) EQD2 ≤ # Gy.
+Hasan: "How many days will I need to come? I travel in from the village."
+prostate
+rectum
+ weeks
+Skin cancer on the cheek — electron therapy
+# cm basal cell carcinoma on the left cheek (biopsy-proven)
+Radiation oncology: electron therapy, left cheek BCC; ultrasound depth # cm (Dr Öz)
+Dear, will it leave a scar on my face? And please don't hurt my eye.
+Electron energy and bolus
+Goal: ≥ # % dose everywhere from the skin down to # cm; ≤ # % at the bone at # cm. Choose energy and bolus thickness.
+Ayşe: "What is this jelly-like thing? Will you put it on my face?"
+Bolus
+lesion
+bone
+FDG PET/CT in a breastfeeding mother
+Hodgkin lymphoma — staging
+Nuclear medicine: F-# FDG PET/CT, staging (Dr Er)
+I'm breastfeeding my baby. Could this scan harm her?
+Patient preparation
+Breakfast # hours ago, blood glucose # mg/dL. What do you do?
+Next morning: fasted # h, blood glucose # mg/dL.
+Activity, time and uptake
+EANM (bed overlap > # %): A·t ≥ # MBq·min·kg⁻¹ × weight. Less activity + longer time gives the same image at lower dose. Uptake time # ± # min is recommended.
+Zeynep: "Do I need to rest quietly after the injection?"
+ min
+scan
+Breastfeeding and close contact
+The baby's dose comes mainly from # keV photons from the mother's body (external exposure); very little FDG enters the milk. When may close contact (holding, breastfeeding ~# cm) resume? Game target: infant dose ≤ # µSv.
+ h
+Knee MRI and MR safety
+Right knee twisted playing football; locking, swelling
+Orthopaedics: right knee MRI — meniscal tear? bone bruise? (Dr Polat)
+Will it be quick? I need to be back at work tomorrow — I do grinding in the workshop.
+none
+MR safety screening
+Which items on the screening form need ADDITIONAL ACTION before MRI? (select all that apply)
+Orbit radiographs: NO metallic foreign body. The scan proceeds.
+Sequence design
+Goal: show the meniscal tear and the bone-marrow oedema. Spin echo: S = PD·(# − e^(−TR/T1))·e^(−TE/T2). Choose TR, TE, fat saturation and B₀, then RUN SEQUENCE.
+Can: "Good thing you gave me headphones. Here come the noises!"
+signal
+EXPOSE
+SCAN
+RUN SEQUENCE
+ y, 
+male
+water μen/ρ
+unfiltered
+filtered
+photons
+protons
+CT
+ points
+CONFIRM
+Pelvis
+Sinogram  p(θ, s)
+ channels
+expected 
+Tube spectrum, filtration, HVL, scatter, detector and patient dose.
+Sinogram, filtered back-projection, Hounsfield units, artefacts.
+Monte Carlo depth dose, Bragg peak, treatment planning, DVH, radiobiology.
+Nuclear Medicine / PET
+Radioactive decay, Mo-#/Tc-#m generator, PET coincidences and MLEM.
+Larmor precession, Bloch equations, T1/T2, spin echo, k-space.
+Time-distance-shielding, inverse square law, dose-rate map, missions.
+ questions
+CAUTION
+pulse
+ d
+ y
+error 
+ELUTE
+hours
+Sinogram
+yr
+time 
+Proton
+R8# distal (MC)
+Hologram
+target 
+OK
+over-exposed
+SPECT imaging (bone, myocardial perfusion)
+PET (glucose metabolism with FDG)
+Thyroid cancer and hyperthyroidism therapy
+Radioligand therapy (PSMA, DOTATATE)
+Liver radioembolisation (SIRT)
+Bone metastases (alpha therapy)
+Teletherapy, Gamma Knife
+Calibration source, brachytherapy (historic)
+HDR brachytherapy
+White matter
+Grey matter
+Bone / air
+DI # → correct exposure.
+DI # → over-exposure (DI # ≈ # %, # ≈ #× dose).
+DI # → under-exposure: quantum noise, non-diagnostic.
+ESAK # µGy > DRL: reduce dose (higher kVp + Cu filter, remove the grid, lower mAs).
+Grid used: a ~# cm child chest produces little scatter; a grid (Bucky factor #–#) raises the dose needlessly.
+No grid: right choice for a thin paediatric chest.
+Field #×# cm: fits the lungs.
+Field #×# cm: the chest is ≈ #×# cm; collimate (DAP and scatter).
+The mother asks: "Can this X-ray harm my son?" Emir's effective dose ≈ # µSv. What do you say?
+Noise # HU: diagnostic.
+Noise # HU: non-diagnostic — a repeat would be needed, raising the total dose.
+Fetal dose ≈ SSDE = # mGy (CTDIvol # × f #).
+Scan length limited (iliac crest to symphysis): lower DLP.
+Scan longer than needed: iliac crest to symphysis suffices for appendicitis.
+Elif asks in tears: "Did it harm my baby?" Estimated fetal dose ≈ # mGy.
+Liver noise # HU: abscess and fat are distinguishable.
+Liver noise # HU: a low-contrast abscess may be lost in the noise.
+Tumour EQD2 = n·d·(d + #)/(# + #) = # Gy — curative range.
+Tumour EQD2 = n·d·(d + #)/(# + #) = # Gy — underdosed, risk of biochemical failure.
+Tumour EQD2 = n·d·(d + #)/(# + #) = # Gy — higher than needed.
+Rectum EQD2 (α/β #) = # Gy — acceptable.
+Rectum EQD2 (α/β #) = # Gy — risk of late rectal toxicity (bleeding, proctitis).
+Lesion coverage: minimum # % — complete.
+Lesion coverage: minimum # % — the skin surface is underdosed: bolus pulls the electron dose up to the surface.
+Lesion coverage: minimum # % — the deep edge is below # %: energy too low.
+Bone (# cm) # % — spared.
+Bone (# cm) # % — unnecessarily high: risk of osteoradionecrosis. Choose a lower energy.
+Count adequacy # — EANM-level image quality.
+Count adequacy # — too few counts: noisy image, small nodes may be missed.
+Count adequacy # — more activity than needed; extra dose adds no diagnostic value.
+Effective dose ≈ # × # = # mSv (ICRP #).
+Uptake time appropriate: standard tumour/background ratio (comparable SUVs).
+Non-standard uptake time: SUVs are not comparable with previous/later scans.
+Infant dose ≈ # µSv (inverse square: the dose rate at # cm is #× that at # m; F-# mean life τ = T½/ln2 ≈ # h).
+Tear/meniscus CNR #: tear conspicuous (fluid bright, meniscus dark on PD/T2).
+Tear/meniscus CNR #: tear not visible — a long TR (PD/T2) is needed.
+Oedema/marrow CNR #: bone bruise visible.
+Oedema/marrow CNR #: weak contrast.
+Oedema/marrow CNR #: fatty marrow masks the oedema — use fat saturation (FS).
+Time # s — the patient can keep still.
+Time # s — too long, motion artefacts likely; shorten TR or raise the turbo factor.
+EQD2 tumour (α/β #) = # Gy, late skin (α/β #) = # Gy. A good balance of control and cosmesis.
+EQD2 tumour (α/β #) = # Gy, late skin (α/β #) = # Gy. Acceptable: fewer visits but higher late-effect risk (atrophy, telangiectasia).
+EQD2 tumour (α/β #) = # Gy, late skin (α/β #) = # Gy. Underdosed: high recurrence risk.
+EQD2 tumour (α/β #) = # Gy, late skin (α/β #) = # Gy. One large fraction risks late necrosis and cartilage damage.
+Radiation Physics Basics
+Atoms and nuclei, types of radiation, and how photons and charged particles interact with matter — the foundation of all medical physics.
+Exponential attenuation
+Half- and tenth-value layer
+Compton scattering
+Pair production threshold
+Proton range (Bragg–Kleeman)
+Ionising radiation
+Radiation energetic enough (≥ # eV) to remove electrons from atoms.
+Directly ionising
+Charged particles (electrons, protons, α) that deposit energy through Coulomb interactions.
+Indirectly ionising
+Uncharged particles (photons, neutrons) that first set charged particles in motion.
+Linear attenuation coefficient μ
+Interaction probability per unit path (cm⁻¹); μ/ρ is the mass attenuation coefficient (cm²/g).
+LET
+Linear energy transfer: energy a charged particle deposits per unit path (keV/µm).
+Bragg peak
+The sharp dose maximum at the end of a heavy charged particle's range.
+Atoms, nuclei and radiation
+The structure of the atom
+An atom consists of a nucleus with Z protons and N neutrons, surrounded by Z electrons. The mass number is A = Z + N. Nuclei with the same Z but different N are isotopes, such as ¹²C and ¹⁴C.
+Electrons occupy K, L, M… shells. Inner-shell binding energies rise steeply with Z: tungsten's K shell is # keV, iodine's # keV, and the oxygen in water only # keV.
+When an inner-shell electron is removed, an outer electron fills the vacancy and the difference is emitted as a characteristic X-ray or an Auger electron. Characteristic energies are element-specific; the tungsten Kα line in an X-ray tube is ≈ # keV.
+The electromagnetic spectrum
+A photon's energy is proportional to its frequency: E = h·ν. A handy shortcut is E[keV] ≈ # / λ[nm]. Radio waves (MRI), visible light and X/γ rays are the same phenomenon at different energies.
+X-rays and γ-rays are the same kind of photon; they differ only in origin. X-rays come from electrons (bremsstrahlung or shell transitions), γ-rays from the nucleus (radioactive decay).
+Ionising radiation carries enough energy (≥ # eV) to free electrons from atoms. The top of the UV range, X and γ rays and all fast charged particles are ionising; radio waves and visible light are not.
+Direct and indirect ionisation
+Charged particles (electrons, protons, α) undergo continuous Coulomb interactions along their path and are directly ionising. Photons and neutrons are uncharged: they first set a charged particle in motion (photon → electron, neutron → recoil proton), and that particle deposits the dose.
+The wavelength of a # keV X-ray photon: λ ≈ # / # = # nm — about a tenth of an atomic diameter (~# nm).
+What distinguishes an X-ray from a γ-ray?
+Its origin: X-rays come from electrons, γ-rays from the nucleus
+Its energy: γ-rays are always more energetic
+Its speed: γ-rays travel faster than light
+Both are photons and their energy ranges overlap (the # keV γ of Tc-#m is lower than X-rays from a # kVp tube). Only the origin differs.
+Which of these is indirectly ionising?
+Neutron
+Alpha particle
+The neutron is uncharged; it first transfers energy to recoil protons (mainly hydrogen), which then deposit the dose.
+Tungsten's K-shell binding energy is # keV. Does a tube run at # kVp produce tungsten K characteristic lines?
+No — the maximum electron energy (# keV) cannot ionise the K shell
+Yes — characteristic lines do not depend on kVp
+Yes, but only the Kβ line appears
+K lines require the incident electron to exceed the K-shell binding energy, so tungsten K lines only appear above # kVp.
+Photon interactions with matter
+Five interactions
+At diagnostic and therapy energies photons interact mainly in five ways: coherent (Rayleigh) scattering, photoelectric absorption, Compton scattering, pair production and photonuclear reactions. Which one dominates depends on the photon energy and the atomic number of the medium.
+<b>Coherent scattering:</b> the photon changes direction without losing energy; a small contribution at low energies.
+<b>Photoelectric effect:</b> the photon is absorbed completely and an inner-shell electron is ejected. The probability scales roughly as Z³/E³.
+<b>Compton scattering:</b> the photon gives part of its energy to a loosely bound electron and scatters. It depends on the electron density and hardly on Z.
+<b>Pair production:</b> in the field of a nucleus the photon becomes an electron–positron pair; the threshold is # MeV and the probability rises as ~Z².
+What dominates where?
+In soft tissue the photoelectric effect dominates below about # keV, Compton between # keV and ~# MeV, and pair production above that. In high-Z materials such as lead the photoelectric region extends up to about # keV, which is why lead is a good shield.
+In imaging, contrast comes largely from the photoelectric effect, because the Z³ dependence separates bone (Ca, Z = #) strongly from soft tissue (effective Z ≈ #). Compton is the main source of scatter, which reduces contrast.
+Contrast agents exploit this physics: iodine's K-edge is at # keV and gadolinium's at # keV. Absorption jumps when the photon energy lies just above the K-edge.
+Compton kinematics
+If a # keV Tc-#m photon backscatters at #°: E′ = # / (# + #·#/#) = # / # ≈ # keV. The gamma camera's energy window (≈ #–# keV) rejects most such scattered photons.
+What is the dominant interaction of a # MeV photon in soft tissue?
+Photoelectric effect
+Pair production
+In soft tissue Compton dominates from about # keV to # MeV. Pair production cannot occur at all below its # MeV threshold.
+How does the photoelectric probability scale, roughly?
+Z³ / E³
+Z / E
+E² / Z
+The photoelectric probability rises very steeply with atomic number and falls steeply with energy, which is why low kVp increases bone contrast.
+Why is iodine contrast seen best with a spectrum peaking near # keV?
+Iodine's K-edge is at # keV and absorption jumps just above it
+Iodine emits light at that energy
+Compton scattering vanishes at that energy
+Photons just above the K-edge can eject K electrons, so photoelectric absorption jumps. This is why low-kV CT protocols boost iodine contrast.
+Attenuation, HVL and beam hardening
+A narrow monoenergetic photon beam passing through a thickness x has a constant interaction probability per unit path. The result is an exponential fall-off:
+μ is the linear attenuation coefficient (cm⁻¹), the sum of the four interaction terms. μ/ρ (cm²/g) is independent of density, so tables (NIST XCOM) list it.
+HVL and TVL
+The half-value layer (HVL) is the thickness that halves the intensity: HVL = ln2/μ. The tenth-value layer is TVL = ln1#/μ ≈ # HVL. n HVLs reduce the intensity by a factor of #ⁿ.
+For water μ/ρ (# keV) = # cm²/g, so μ = # cm⁻¹. HVL = #/# = # cm. The transmission through # cm of water is e^(−#) = #: only # % of the photons get through.
+Narrow and broad beam: build-up
+The exponential law holds only in narrow-beam geometry, where scattered photons do not reach the detector. In a broad beam scattered photons also contribute and the transmission becomes B·e^(−μx), with build-up factor B ≥ #. Ignoring B in shielding calculations under-designs the shield.
+Beam hardening
+Real X-ray beams are polyenergetic. Low-energy photons are preferentially absorbed in the first centimetres, so the mean energy of the remaining beam rises: beam hardening. As a result the second HVL is larger than the first; HVL₁/HVL₂ is called the homogeneity coefficient.
+Filtration (Al, Cu) removes in advance the low-energy photons that the patient would absorb anyway and that never reach the image, which lowers the skin dose. The CT "cupping" artefact also comes from beam hardening.
+A shield is # HVL thick. What is the narrow-beam transmission?
+#/# (# %)
+#/#
+Each HVL halves the intensity: (#/#)³ = #/#.
+If μ = # cm⁻¹, what is the HVL?
+≈ # cm
+# cm
+HVL = ln2/μ = #/# ≈ # cm.
+Why is the second HVL of a polyenergetic beam larger than the first?
+The first HVL removes the soft photons, so the remaining beam is harder
+The build-up factor decreases
+The material's density increases
+Beam hardening: as the mean energy rises μ falls, so the second halving needs a thicker layer.
+Charged particles: stopping power and range
+Stopping power
+A charged particle makes countless small Coulomb interactions with the electrons of the medium and loses energy continuously. The energy lost per unit path is the stopping power S = −dE/dx (MeV/cm), also given as the mass stopping power S/ρ (MeV·cm²/g).
+According to the Bethe formula, the collision stopping power scales roughly as z²/v²: as the particle slows down it loses energy faster. This is the origin of the Bragg peak for heavy particles.
+Electrons
+Electrons are light, so they scatter through large angles and follow zig-zag tracks. In high-Z media bremsstrahlung (radiative loss) also matters; this is how an X-ray tube produces X-rays. A rough rule: the electron range in water is ≈ E/# cm (E in MeV).
+Protons and the Bragg peak
+Protons travel in an almost straight line. They deposit most of their dose in the last few millimetres of their range, after which the dose drops to nearly zero. The range is sharply determined by the energy (Bragg–Kleeman rule R ≈ #·E^#). Individual protons stop at slightly different depths (range straggling), so the peak is a few mm wide.
+A # MeV proton: R ≈ # × #^# ≈ # × # ≈ # cm. NIST PSTAR gives a CSDA range of # cm, so the rule is a good estimate.
+LET and biological effect
+Linear energy transfer (LET) is the energy deposited per unit path. Photons and electrons are low-LET (~#–# keV/µm); α particles and slow heavy ions are high-LET (~# keV/µm) and leave dense DNA damage that is hard to repair — hence the radiation weighting factor of # for α.
+What is the basic physical reason for the Bragg peak?
+Stopping power rises roughly as #/v², so the slowing particle deposits more and more energy
+Protons undergo pair production at the end of their range
+Scattered photons accumulate in the peak
+The #/v² term in the Bethe formula: as the speed falls the energy loss per unit path grows, producing a sharp peak at the end of the range.
+What is the approximate practical range of a # MeV electron beam in water?
+Rule: range ≈ E/# cm, so about # cm for # MeV. This is why electrons are used for superficial tumours.
+Which has the highest LET?
+A # MeV α particle
+Electrons in a # MV photon beam
+# keV γ photons
+The α particle is doubly charged (z² = #) and slow, with an LET of ~# keV/µm, compared with ~# keV/µm for the electrons set in motion by photons.
+Dosimetry and Radiobiology
+Kerma, absorbed dose, equivalent and effective dose; dosimeters; how radiation affects cells, the LQ model, BED and EQD2.
+Kerma
+Absorbed dose
+Equivalent dose
+Ion chamber (TRS-#)
+LQ survival
+BED / EQD2
+Gray (Gy)
+Unit of absorbed dose, # J/kg.
+Sievert (Sv)
+Unit of equivalent and effective dose; represents stochastic risk.
+Charged particle equilibrium (CPE)
+Charged-particle energy entering and leaving a volume balance; then D = K_col.
+Deterministic effect
+A tissue reaction with a threshold whose severity rises with dose (erythema, cataract).
+Stochastic effect
+An effect whose probability rises with dose, assumed to have no threshold (cancer, heritable).
+α/β ratio
+The dose at which the linear and quadratic LQ terms are equal; a measure of fractionation sensitivity.
+Dose quantities
+Kerma and absorbed dose
+Photons deposit dose in two steps: first they transfer energy to charged particles (kerma = kinetic energy released per unit mass), then those particles deposit it in the medium (absorbed dose). Kerma is counted where the interaction happens, dose where the electrons go.
+Under charged particle equilibrium (CPE), with negligible bremsstrahlung loss, the absorbed dose equals the collision kerma: D = K_col. There is no CPE in the build-up region near the surface, which is the reason for the skin sparing of megavoltage beams.
+The historic quantity exposure (C/kg) measures only ionisation in air. Creating one ion pair in air costs on average W/e = # J/C, so K_air = X · #.
+Equivalent and effective dose
+The same physical dose causes different biological effects for different radiations. The equivalent dose is H_T = Σ w_R D_T,R. Radiation weighting factors (ICRP #): # for photons and electrons, # for protons, # for α, and #–# for neutrons depending on energy.
+The effective dose E = Σ w_T H_T expresses the stochastic risk of a non-uniform exposure as a single number. Tissue weighting factors (ICRP #): red bone marrow, colon, lung, stomach, breast and "remainder" #; gonads #; bladder, oesophagus, liver and thyroid #; bone surface, brain, salivary glands and skin #. They sum to #.
+Effective dose is a population-averaged risk quantity. It is meant for comparing procedures and optimising protection, not for computing an individual patient's risk; that needs organ doses.
+In a chest radiograph let the lungs receive # mGy and the breasts # mGy (others negligible). E ≈ #·# + #·# = # mSv ≈ # mSv — about # days of natural background.
+Operational quantities
+Effective dose cannot be measured directly, so operational quantities are used: ambient dose equivalent H*(#) for area monitoring, and Hp(#) (whole body) and Hp(#) (skin, hands) for personal dosimetry.
+What equivalent dose does # Gy of α radiation give?
+# Sv
+ICRP # gives w_R = # for α: H = # × # Gy = # Sv.
+Which tissue has a weighting factor of #?
+Thyroid
+Skin
+Lung, colon, stomach, breast, red marrow and remainder are #; thyroid #; skin #.
+Why is D ≠ K_col in the build-up region?
+Charged particle equilibrium has not yet been established
+Photons do not interact there
+Bremsstrahlung dominates there
+Near the surface fewer electrons enter than leave; the dose builds up over the electron range (d_max) until it approaches the kerma.
+Dosimeters and calibration
+Ionisation chamber
+An ionisation chamber is a capacitor that collects the charge radiation creates in a gas. It is the gold standard of reference dosimetry. The cylindrical Farmer type (# cm³) is used for megavoltage photons and plane-parallel chambers for electrons.
+By Bragg–Gray cavity theory, the dose in the medium equals the cavity dose times the medium-to-gas mass stopping-power ratio. In practice the IAEA TRS-# or AAPM TG-# protocol is used:
+M_Q is the reading corrected for temperature-pressure, polarity, recombination and the electrometer; N_D,w,Q0 is the water-dose calibration factor from the standards lab (in Co-#), and k_Q corrects for beam quality.
+Warmer air means less gas in the chamber and a lower reading. The TRS-# reference is # °C and # kPa. At # °C and # kPa, k_TP = (##)/(##) × #/# ≈ # × # ≈ #. Without this correction the dose would read # % low.
+Other dosimeters
+<b>TLD (LiF:Mg,Ti):</b> releases stored energy as light when heated; nearly tissue-equivalent, used for personal and in-vivo dosimetry.
+<b>OSL (Al₂O₃:C):</b> read out by optical stimulation and can be re-read; most personal badges are this type.
+<b>Radiochromic film (EBT3/EBT4):</b> #D dose distribution with high spatial resolution, used for IMRT patient QA.
+<b>Diodes and MOSFETs:</b> small and sensitive, used for in-vivo and small-field measurements; they show energy and angular dependence.
+<b>Geiger–Müller counter:</b> a very sensitive counter for finding contamination; gives no energy information. For dose-rate measurement an ion-chamber survey meter is preferred.
+Choosing the right dosimeter means knowing what you measure: an ion chamber for reference dose, film or arrays for distributions, OSL/TLD for personal dose, a GM counter for contamination.
+In TRS-#, what does k_Q correct for?
+The difference between the user's beam quality and the calibration quality (Co-#)
+Temperature and pressure
+Chamber polarity
+N_D,w is given in Co-#. At the user's quality (e.g. # MV, TPR₂₀,₁₀ ≈ #) stopping-power ratios and perturbation factors differ, and k_Q corrects for this.
+Which instrument is best for searching a room for contamination?
+Geiger–Müller counter
+Farmer ion chamber
+Radiochromic film
+A GM counter counts individual events and finds low-level contamination quickly; for dose measurement a calibrated ion chamber is more accurate.
+Biological effects of radiation
+DNA damage
+DNA is the main target for cell killing. For low-LET radiation about two-thirds of the damage is indirect: OH· radicals from water radiolysis attack the DNA. Single-strand breaks are repaired easily; double-strand breaks (DSBs) are the main lethal lesion.
+Oxygen "fixes" free-radical damage, so hypoxic cells are #–# times more resistant (oxygen enhancement ratio, OER). The hypoxic core of tumours is therefore a treatment problem.
+The # Rs of radiotherapy
+<b>Repair:</b> healthy tissue repairs sublethal damage between fractions (≥ # h apart).
+<b>Redistribution:</b> cells move into sensitive cycle phases (G2/M).
+<b>Reoxygenation:</b> hypoxic tumour cells become oxygenated between fractions.
+<b>Repopulation:</b> the tumour proliferates during treatment; a prolonged overall time reduces control.
+<b>Radiosensitivity:</b> the intrinsic sensitivity of each tissue and cell type.
+Deterministic and stochastic effects
+Deterministic effects (tissue reactions) have a threshold and their severity grows with dose. Examples: transient skin erythema ~# Gy, temporary epilation ~# Gy, lens opacity/cataract ~# Gy (ICRP #). This is why skin dose is monitored in long fluoroscopy-guided procedures.
+For stochastic effects (cancer, heritable effects) protection assumes the linear no-threshold (LNT) model: probability is proportional to dose, while severity does not depend on it. ICRP #'s nominal risk coefficient for cancer is ≈ # % per Sv for the whole population.
+For a # mSv CT the nominal excess cancer risk is ≈ # Sv × # / Sv ≈ # %, about # in # — small next to the ~# % lifetime baseline cancer incidence, but it still requires justification.
+How does most DNA damage arise for low-LET radiation?
+Indirectly, through OH· radicals from water radiolysis
+Directly, by photons breaking the DNA
+Through heating
+Most of the cell is water; radiolysis OH· radicals cause about two-thirds of the damage, and oxygen makes it permanent.
+Which is a deterministic effect?
+Cataract
+Leukaemia
+Heritable mutation
+Cataract has a threshold (ICRP #: ~# Gy) and its severity increases with dose; cancers and heritable effects are stochastic.
+How much more resistant are hypoxic cells than well-oxygenated ones (low LET), roughly?
+#–# times
+# %
+# times
+The oxygen enhancement ratio for X-rays is ~#–#; for high-LET radiation it approaches #.
+The LQ model, BED and EQD2
+The linear-quadratic model
+Cell survival is best described by the linear-quadratic (LQ) model. The α term represents lethal damage from a single track, the β term the interaction of damage from two separate tracks.
+The α/β ratio (Gy) is the dose at which the two terms are equal: ≈ # Gy for early-responding tissues and most tumours, ≈ # Gy for late-responding tissues (spinal cord, rectum, skin fibrosis). Prostate (~# Gy) and breast (~# Gy) cancers have low α/β.
+BED and EQD2
+To compare fractionation schedules we use the biologically effective dose (BED) and the equivalent dose in # Gy fractions (EQD2):
+# Gy in # fractions (# Gy): for tumour (α/β = #) EQD2 = #·(##)/(##) = # Gy; for late tissue (α/β = #) EQD2 = #·(##)/(##) = # Gy. Larger fractions "penalise" late-responding tissue more.
+Small fractions spare late-responding tissue because the β term shrinks. But if the tumour's α/β is lower than the late tissue's (prostate), hypofractionation favours the tumour — the reason the CHHiP (# Gy/#) and PACE-B (# Gy/#) trials succeeded.
+Overall time and treatment gaps
+In fast-proliferating tumours (head and neck) repopulation kicks in if treatment lasts longer than ~# days, costing roughly ~# Gy EQD2 per day. Unplanned treatment gaps must therefore be compensated (e.g. an extra weekend fraction or twice-daily fractions).
+What is the BED of # Gy × # = # Gy for a tissue with α/β = # Gy?
+# Gy
+BED = # × (# + #/#) = # Gy. With α/β = # it would be # Gy.
+Why is hypofractionation advantageous for prostate cancer?
+Prostate α/β (~# Gy) is lower than that of the surrounding late tissue (rectum ~# Gy)
+The prostate is hypoxic
+Large fractions spare the rectum
+Low-α/β tissue is more sensitive to large fractions. Because the tumour's α/β is below the rectum's, a higher biological tumour dose is possible at the same late toxicity.
+What happens, roughly, if head-and-neck treatment is prolonged by one week?
+≈ # Gy EQD2 of effectiveness is lost to repopulation
+Nothing — the total dose is the same
+Tumour control improves
+With accelerated repopulation ~# Gy is lost per day: # days × # ≈ # Gy. That is why gaps are compensated.
+X-ray Imaging
+The X-ray tube and spectrum, image formation, contrast and noise, scatter and grids, detectors, EI/DI, patient dose; fluoroscopy and mammography.
+Tube efficiency
+Tube output
+Magnification
+Geometric unsharpness
+Deviation index
+Dose–area product
+kVp
+The tube's peak voltage; sets the maximum photon energy and beam penetration.
+mAs
+Tube current × time; sets the number of photons (and the dose) linearly.
+Grid
+A grid of lead strips that absorbs scattered photons.
+ESAK
+Entrance surface air kerma, including backscatter.
+DRL
+Diagnostic reference level: the #th percentile of the national distribution. An optimisation tool, not a limit.
+The X-ray tube and spectrum
+Tube construction
+Electrons leave a heated tungsten filament (cathode) by thermionic emission and are accelerated towards the anode by the kVp. Only ~# % of their energy becomes X-rays; the rest is heat, which is why the anode rotates and has a large heat capacity.
+The line-focus principle: the angled anode spreads the heat over a large area while keeping the effective focal spot seen from the detector small. Because of the anode heel effect, the anode side of the beam is slightly weaker.
+The spectrum
+The spectrum has two parts: continuous bremsstrahlung from # up to the kVp (Kramers: I(E) ~ Z(E_max − E)), and characteristic lines — for tungsten Kα ≈ # keV and Kβ ≈ # keV, which appear only when kVp > #.
+<b>Higher kVp:</b> maximum and mean energy rise and the beam penetrates better; output rises roughly as kVp²; contrast falls.
+<b>Higher mAs:</b> the spectral shape is unchanged; photon number and dose rise linearly.
+<b>Filtration:</b> removes low energies, raises the HVL and lowers skin dose. Regulations require at least # mm Al total filtration above # kVp.
+The "# % rule": raising kVp by # % roughly doubles the exposure at the detector, so the mAs can be halved. Patient dose usually falls, but so does contrast.
+How does doubling the tube current (mA) change the spectrum?
+The shape stays the same; the number of photons at every energy doubles
+The mean energy increases
+The characteristic lines disappear
+mA and time only set the number of electrons and hence photons; the energy distribution is set by kVp and filtration.
+At # kV, roughly what fraction of the energy becomes X-rays in a tungsten anode?
+≈ # %
+η ≈ #×#⁻⁹ × # × #⁵ ≈ #; the other # % is heat, so tube heat management is critical.
+How does more filtration affect the HVL?
+The HVL increases (the beam hardens)
+The HVL decreases
+It does not change
+The filter removes low-energy photons, so the mean energy and hence the HVL increase.
+Image formation: contrast, scatter and grids
+Subject contrast
+Image contrast arises from the attenuation difference between neighbouring paths. Bone differs strongly from soft tissue at low energy (photoelectric-dominated) and weakly at high energy (Compton-dominated) — hence #–# kVp for mammography and #–# kVp for chest radiography.
+Scatter and grids
+Photons that Compton-scatter in the patient reach the detector from random directions, reducing contrast and adding noise. In thick body parts the scatter-to-primary ratio can reach #–#. Ways to reduce scatter:
+<b>Collimation:</b> shrinks the irradiated volume, cutting both scatter and dose — the most important step.
+<b>Grid:</b> lead strips absorb scatter (grid ratio #:#–#:#) at the cost of dose — Bucky factor #–#. A grid is usually unnecessary for parts thinner than #–# cm and in children.
+<b>Air gap:</b> a space between patient and detector lets part of the scatter miss the detector, at the price of magnification.
+Geometry
+Magnification (M) and geometric unsharpness (U_g) grow with the object-to-detector distance (OID). That is why chest radiographs are taken PA (heart near the detector) at # cm SID. A small focal spot (f) sharpens the image but limits the tube's heat loading.
+Noise and detectors
+Photons obey Poisson statistics: noise is √N for N photons and SNR ~ √N, so doubling SNR costs four times the dose. Digital detectors use indirect (CsI scintillator + a-Si photodiode) or direct (a-Se) conversion. Detector efficiency is expressed by the DQE = SNR²_out / SNR²_in.
+A grid improves contrast — but what else does it increase?
+Patient dose (by the Bucky factor)
+Spatial resolution
+The grid also absorbs part of the primary beam, so the mAs must rise #–#× for the same detector signal.
+How must the photon number change to double the SNR?
+It must quadruple
+It must double
+It must rise by √#
+Since SNR ~ √N, doubling SNR needs #× the photons — and #× the dose.
+Why is a chest radiograph taken PA at # cm SID?
+The heart sits close to the detector, reducing magnification and geometric unsharpness
+PA produces more scatter
+The tube heats less at # cm
+M = SID/SOD and U_g ~ OID/SOD: with a small OID and large SID the heart appears close to its true size and sharp.
+Exposure index and patient dose
+Why EI?
+In the film era excess dose blackened the image and was noticed at once. Digital systems auto-window, so even an overexposed image looks "nice": the risk of dose creep. IEC ## therefore defines the exposure index (EI), proportional to the air kerma at the detector: EI = # × K (µGy).
+The deviation index (DI) shows how far EI is from its target: DI = # on target, # ≈ # % over, # = twice, −# ≈ # % under. The usual acceptance range is −# to #.
+With EI_T = # an image with EI # has DI = #·log₁₀(#) = #: twice the detector dose. Even if the image looks good, the mAs should be halved next time.
+Patient dose quantities
+<b>ESAK:</b> entrance surface air kerma including backscatter (BSF ≈ #–#); used for deterministic effects and DRL comparisons.
+<b>DAP (KAP):</b> kerma × area in Gy·cm². It does not depend on the distance from the tube (area grows as d², kerma falls as #/d²) and reflects the total energy imparted.
+<b>Effective dose:</b> DAP × conversion coefficient — e.g. PA chest ≈ # mSv, lumbar spine ≈ # mSv.
+Diagnostic reference levels (DRLs) are the #th percentile of the national distribution (ICRP #). They are not dose limits; centres whose typical doses exceed them should optimise.
+How does the DAP reading change if the chamber is placed closer to or further from the tube?
+It does not change: area scales as d² and kerma as #/d²
+It decreases with distance
+It increases with distance
+The product K·A is distance-independent, which is why DAP can be measured with a chamber on the tube collimator.
+What is the most likely problem with an image of DI = −#?
+Underexposure; the image may be noisy
+Overexposure; the patient got unnecessary dose
+The grid is inserted the wrong way
+A negative DI means the detector dose is below target (−# ≈ # % low), and quantum noise may impair the diagnosis.
+Fluoroscopy and mammography
+Fluoroscopy
+Fluoroscopy images in real time (image intensifier or flat panel). Automatic brightness control (ABC) raises kVp and mA as the patient gets thicker. The total dose is dose rate × time, and in long interventions the skin dose can exceed deterministic thresholds: transient erythema ~# Gy, epilation ~# Gy, serious injury > #–# Gy.
+Pulsed fluoroscopy and low frame rates (e.g. # fps) cut the dose proportionally.
+Last image hold, collimation and moving the detector close to the patient reduce dose.
+Magnification modes (smaller FOV) increase the dose rate.
+The tube should be under the table: staff get most of their dose from patient backscatter on the tube side.
+Mammography
+Breast tissues (fat, fibroglandular tissue, tumour) differ very little in attenuation, so low energies where the photoelectric effect dominates are used: #–# kVp with Mo/Mo, Mo/Rh, W/Rh or W/Ag anode/filter. Compression reduces thickness, scatter, motion and dose. Microcalcifications need a very small focal spot (#–# mm).
+The dose metric in mammography is the mean glandular dose (MGD), ≈ #–# mGy per view for a standard breast. Tomosynthesis (DBT) is a limited-angle tomography that reduces tissue overlap.
+In fluoroscopy most staff dose comes from radiation scattered by the patient. Use a lead apron, thyroid collar, lead glasses and a ceiling-mounted shield, and keep your distance (inverse square law).
+What is the approximate threshold for skin erythema in fluoroscopy?
+≈ # Gy
+≈ # mGy
+Transient erythema starts at ~# Gy skin dose; in long interventions the peak skin dose must be monitored and recorded.
+Why is low kVp used in mammography?
+To amplify the small attenuation differences between breast tissues through the photoelectric effect
+To protect the tube
+To eliminate scatter completely
+At low energy μ is very sensitive to Z and density differences; dose and compression are balanced against this contrast.
+Where should staff stand during fluoroscopy (C-arm horizontal)?
+On the detector (image receptor) side
+On the tube side
+It makes no difference
+Backscatter is highest on the tube side, where the beam enters the patient; the detector side is safer.
+Projections and the sinogram, filtered back-projection and iterative reconstruction, Hounsfield units, image quality and artefacts, CTDI/DLP/SSDE.
+Projection
+Hounsfield unit
+CTDIw / CTDIvol
+DLP and effective dose
+SSDE (AAPM #)
+Noise
+The angle-versus-detector-position map of all projections.
+FBP
+Filtered back-projection: projections are ramp-filtered and back-projected.
+Window / level
+The displayed HU range (W) and its centre (L).
+CTDIvol
+The average dose defined in a # or # cm PMMA phantom — not the patient's dose.
+CT principles: projections and the sinogram
+A line integral
+CT measures the attenuation profile of a slice from every direction with a tube rotating around the patient and a detector array opposite it. Each detector element sees the integral of μ along its ray:
+All detector values at one angle form a projection; arranged by angle and position over #°+fan angle they form the sinogram. Each point in the slice traces a sine curve in the sinogram.
+Scanner generations and helical scanning
+Modern CT is third generation: tube and curved detector rotate together (~#–# s per rotation). Slip rings allow continuous rotation, so helical scanning is done while the table moves. Multi-slice detectors (#–# rows) cover #–# cm per rotation.
+Pitch > # means faster scanning at lower dose, with gaps filled by interpolation; pitch < # means overlap and higher dose.
+What does a projection value p represent?
+The integral of μ along the ray
+μ at a single point
+The scatter at the detector
+p = ln(I₀/I) = ∫μ dl: one measurement gives the total attenuation along the path, so many angles are needed to recover the slice.
+What is the pitch for # mm collimation and # mm table feed per rotation?
+#
+pitch = #/# = #; at the same mAs the CTDIvol is #/# of its pitch-# value.
+Reconstruction and Hounsfield units
+Why filter the back-projection?
+Smearing each projection back across the slice along its direction (simple back-projection) produces a #/r blur. To correct it, the projections are first ramp-filtered (|f|); filtered back-projection (FBP) combines the two steps. Because the ramp also amplifies noise it is windowed (Shepp–Logan, Hann…): a sharp kernel means high resolution and high noise.
+Iterative reconstruction (ASIR, SAFIRE, model-based) guesses an image, compares it with the measured projections and corrects it, and can model the noise statistics — allowing #–# % dose reduction at equal quality, at the price of a sometimes "plastic" texture.
+The Hounsfield scale
+Water is # HU and air −# HU; fat ≈ −#, lung ≈ −#…−#, soft tissue #…#, bone #…# HU. Because μ depends on energy (especially for bone and iodine), HU values change with kVp.
+A display can only show ~# grey levels, so a window (W) and level (L) are chosen: typical values are W # / L # for soft tissue, W # / L −# for lung and W # / L # for bone.
+If a tissue's μ is # % above water's, what is its HU (μ_air ≈ #)?
+≈ # HU
+HU = # × (# μ_w − μ_w)/μ_w = # × # = # — typical of soft tissue.
+What does the ramp filter do in FBP?
+It removes the #/r blur of simple back-projection
+It reduces noise
+It corrects beam hardening
+The ramp (|f|) boosts high frequencies to exactly undo the blur, which also raises noise; windowed kernels set the balance.
+Image quality and artefacts
+CT noise comes from quantum statistics. The standard deviation (σ) of HU in an ROI scales as the inverse square root of the mAs and of the slice thickness. As the patient gets thicker, the photons reaching the detector fall exponentially and the noise rises fast.
+To halve the noise the mAs (and dose) must quadruple. Alternatively, going from # mm to # mm slices also halves the noise, at the cost of z-resolution.
+Automatic tube current modulation (AEC) adjusts the mA at every angle and z position to the patient's thickness, holding noise at a target level and optimising dose.
+Artefacts
+<b>Beam hardening:</b> cupping (dark centre) and dark streaks between dense bones; water calibration corrects the cupping.
+<b>Metal:</b> star-shaped bright/dark streaks from photon starvation and hardening; MAR algorithms and higher kV help.
+<b>Partial volume:</b> in thick slices different tissues are averaged inside one voxel.
+<b>Motion:</b> streaks and ghosts, reduced by short rotation times and breath-holding.
+<b>Rings:</b> a faulty or miscalibrated detector element.
+<b>Photon starvation:</b> in large patients, especially across the shoulders and pelvis, too few photons arrive laterally and horizontal streaks form.
+How can the noise be halved?
+Quadruple the mAs
+Double the mAs
+Narrow the window
+σ ~ #/√mAs; narrowing the window only makes noise more visible.
+If the centre of a water phantom looks darker than its edge, what is the cause?
+Beam hardening (cupping)
+A ring artefact
+Motion
+Rays through the centre travel further and harden more, so the effective μ falls and the centre appears darker (lower HU).
+CT dose: CTDI, DLP and SSDE
+The CTDI family
+CTDI is the integral of the dose profile of one rotation, measured with a # mm pencil chamber in PMMA phantoms (head # cm, body # cm). The weighted CTDIw combines centre and periphery; CTDIvol accounts for pitch and is what the console displays.
+The k coefficients (mSv per mGy·cm) for adults are: head #, neck #, chest #, abdomen and pelvis #.
+Abdominal scan: CTDIvol # mGy over # cm. DLP = # mGy·cm, E ≈ # × # ≈ # mSv — about # years of natural background.
+CTDIvol is not patient dose
+CTDIvol is the dose in a # cm PMMA cylinder. A slim patient (or a child) receives much more dose at the same CTDIvol, a large patient less. AAPM Report # gives a conversion factor based on the effective diameter: the size-specific dose estimate (SSDE).
+In a pregnant patient with the uterus in the primary beam, fetal dose ≈ SSDE; it is far below # mGy, where no deterministic effects are expected (ICRP #).
+The console shows CTDIvol # mGy. What is the approximate SSDE of a child with # cm effective diameter?
+f(# cm) = # × e^(−#) ≈ #, so SSDE ≈ # × # ≈ # mGy. That is why paediatric protocols must be optimised separately.
+What is the approximate effective dose of a chest CT with a DLP of # mGy·cm?
+≈ # mSv
+E ≈ # × # = # mSv.
+If the pitch goes from # to # at constant mAs, how does CTDIvol change?
+It falls to #/# of its value
+It rises #×
+CTDIvol = CTDIw / pitch. Many scanners use "effective mAs" (mAs/pitch), in which case the CTDIvol stays constant.
+Radioactive decay, radionuclide production and generators, the gamma camera and SPECT, PET, internal dosimetry and patient safety.
+Decay law
+Generator (transient equilibrium)
+SUV
+MIRD
+# keV γ, T½ # h; the most widely used radionuclide.
+Coincidence
+In PET, detection of two # keV photons in opposite detectors within a few ns.
+Collimator
+The lead plate with holes that lets only photons from a given direction through to the gamma camera crystal.
+Cumulated activity Ã
+The total number of decays in an organ (time integral of activity).
+Radioactive decay
+The decay law
+An unstable nucleus has a constant probability per unit time of decaying (λ). The activity A = λN is the decay rate and falls exponentially:
+The unit is the becquerel (# Bq = # decay/s); the old unit is the curie (# Ci = # GBq). Diagnostic activities are in MBq, therapeutic ones in GBq.
+Decay modes
+<b>β⁻:</b> neutron → proton + electron + antineutrino (I-#, Lu-#, Y-#); the short-range electrons are used in therapy.
+<b>β⁺:</b> proton → neutron + positron + neutrino (F-#, Ga-#); the positron annihilates into # × # keV photons — the basis of PET.
+<b>Electron capture and isomeric transition:</b> Tc-#m is a metastable state emitting a # keV γ — an ideal imaging energy with little particulate emission.
+<b>α:</b> a He-# nucleus with very high LET and a range < # mm (Ra-#).
+Activity in the body decreases both by physical decay and by biological excretion:
+For I-# T_phys = # days; let the thyroid T_bio be # days. T_eff = (# × #)/(# + #) = # days — always shorter than the smaller of the two.
+How much is # MBq of Tc-#m after # hours?
+≈ # MBq
+# h ≈ # half-lives (T½ = # h): # × (#/#)² = # MBq.
+Which decay mode is the basis of PET?
+β⁺ (positron) decay
+β⁻ decay
+α decay
+The positron annihilates with an electron into two opposite # keV photons, which PET detects in coincidence.
+Radionuclide production and the generator
+Where do they come from?
+<b>Reactor:</b> neutron capture (n,γ) or fission; Mo-# (Tc-#m's parent) and I-# mostly come from U-# fission.
+<b>Cyclotron:</b> proton bombardment; F-# is made from enriched water by ¹⁸O(p,n)¹⁸F. With T½ = # min it is distributed from regional cyclotrons.
+<b>Generator:</b> a long-lived parent produces a short-lived daughter: Mo-#/Tc-#m, Ge-#/Ga-#.
+The Mo-#/Tc-#m generator
+Mo-# (T½ # h) is bound to an alumina column; ~# % of its decays go to Tc-#m. Saline passed through the column (elution) dissolves only the pertechnetate (TcO₄⁻). Because the parent lives longer — but not much longer — than the daughter, transient equilibrium sets in: Tc-#m activity peaks ~# h after an elution.
+Quality control: Mo-# breakthrough in the eluate must not exceed # kBq Mo-# per MBq Tc-#m, checked with a lead canister that stops Tc's # keV but passes Mo's # keV photons. Aluminium ion content and radiochemical purity are also checked.
+About how long after an elution does Tc-#m activity peak in a generator?
+≈ # hours
+t_max = ln(λ_Tc/λ_Mo)/(λ_Tc − λ_Mo) ≈ # h, which is why hospitals usually elute once a day.
+How is F-# produced?
+In a cyclotron by the ¹⁸O(p,n)¹⁸F reaction
+By uranium fission in a reactor
+By eluting a generator
+An enriched H₂¹⁸O target is bombarded with protons, followed by FDG synthesis.
+The gamma camera and SPECT
+The Anger camera
+A gamma camera consists of a collimator, a large NaI(Tl) crystal, photomultiplier tubes (PMTs) and position/energy electronics. A photon absorbed in the crystal produces a flash of light; the weighted average of the PMT signals gives the event position (Anger logic), and their sum gives its energy.
+The collimator: sensitivity versus resolution
+Photons cannot be refracted, so the image is formed by a lead collimator that passes only photons from a given direction — only ~# % get through. With a parallel-hole collimator resolution degrades with source distance, so the detector is placed as close to the patient as possible. Longer, narrower holes improve resolution and lower sensitivity.
+The energy window (# keV ± # % for Tc-#m) rejects most scattered photons.
+System resolution ≈ #–# mm (at # cm); intrinsic resolution ≈ #–# mm.
+Daily QC: uniformity (flood) and energy peaking; weekly resolution/linearity.
+SPECT
+SPECT reconstructs slices, as in CT, from projections acquired by rotating the camera around the patient (usually OSEM). Attenuation correction uses the CT of a SPECT/CT.
+How is the event position determined in a gamma camera?
+By the weighted average of the PMT signals (Anger logic)
+By reading out directly which collimator hole it passed through
+By measuring the time of flight
+The light spreads over many PMTs, and the centroid of their signals gives the position.
+With a parallel-hole collimator, what happens as the source moves away from the detector?
+Spatial resolution degrades
+Sensitivity drops to zero
+The image is magnified
+Each hole accepts photons from a cone whose footprint grows with distance, degrading resolution — hence the detector is placed close to the patient.
+PET
+Coincidence detection
+The positron travels ~# mm in tissue and annihilates with an electron into two nearly opposite # keV photons. If ring detectors (LYSO, BGO) catch both within a coincidence window of a few nanoseconds, the event lies on the line of response (LOR) between them. No collimator is needed, so sensitivity is far higher than a gamma camera's.
+<b>True, scattered and random coincidences:</b> randoms grow with the square of activity (corrected with a delayed window); scatter is corrected by modelling.
+<b>Attenuation correction:</b> the two photons together cross the whole body thickness; a # keV μ-map is built from the CT.
+<b>Time of flight (TOF):</b> the arrival-time difference (~#–# ps) localises the event along the LOR to a few cm and lowers noise.
+<b>Resolution limits:</b> positron range (mean F-# ≈ # mm, Ga-# ≈ # mm), non-collinearity and crystal size; clinical PET resolution is ≈ #–# mm.
+SUV compares a tumour's FDG uptake independently of the patient, but it is sensitive to uptake time, blood glucose, reconstruction and partial volume — hence EANM's # ± # min uptake time and blood glucose < # mg/dL.
+A tumour measures # kBq/mL; a # kg patient received # MBq (decay-corrected). SUV = # / (# # / # #) = # / # = #.
+Why does PET need no collimator?
+The coincidence of the two photons already defines the event's line (LOR)
+# keV photons cannot pass through lead
+PET only uses scattered photons
+Electronic collimation: the two detectors that catch the back-to-back photons define the line on which the annihilation occurred.
+How does the random coincidence rate scale with activity?
+As the square of the activity
+Linearly with activity
+Independently of activity
+R = #τ·S₁·S₂: both singles rates rise with activity, so randoms grow as A² — one reason excess activity does not improve the image.
+Internal dosimetry and patient safety
+The MIRD method
+In internal exposure the dose is the total number of decays in the source organ (cumulated activity Ã) times the S value that gives the energy reaching the target organ:
+In practice, diagnostic procedures use ICRP #'s effective dose per unit activity, e.g. F-# FDG ≈ # mSv/MBq and Tc-#m bone scan (MDP) ≈ # mSv/MBq.
+# MBq FDG: E ≈ # × # = # mSv; the CT part of a PET/CT can add another #–# mSv.
+Patient, family and staff
+A radioactive patient is a source for a while: the dose rate at # m follows Γ·A/d². Therapy patients (e.g. I-#) are discharged against dose-rate or activity limits set by national rules, with written instructions on limiting close contact with children and pregnant women.
+<b>Breastfeeding:</b> for FDG and most Tc-#m agents no interruption or only a few hours is needed; with I-# breastfeeding must stop.
+<b>Pregnancy:</b> must be asked about beforehand; radioiodine can ablate the fetal thyroid (from weeks #–#).
+<b>Staff:</b> syringe shields, distance and time rather than lead aprons, and finger dosimeters (Hp(#)).
+What is the approximate effective dose of # MBq FDG?
+E ≈ # × # = # mSv (ICRP #).
+For which radionuclide must breastfeeding stop completely?
+I-#
+F-# FDG
+Tc-#m MDP
+I-# passes into milk and concentrates in the infant's thyroid; at therapy activities breastfeeding is stopped for that child.
+Magnetic Resonance Imaging
+Spin and the Larmor frequency, relaxation (T1, T2, T2*), sequences and contrast, spatial encoding and k-space, MR safety.
+Spin-echo signal
+Inversion null
+Scan time
+SAR
+The precession frequency of protons around B₀; # MHz at # T.
+TR / TE
+Repetition time (between excitations) / echo time (between excitation and signal).
+The spatial-frequency representation of raw MR data; the image is its Fourier transform.
+Specific absorption rate: how fast RF energy is turned into heat in tissue (W/kg).
+Spin, the Larmor frequency and magnetisation
+Protons in a magnetic field
+The hydrogen nucleus (proton) behaves like a tiny magnet. In a strong field B₀ protons align parallel or antiparallel and precess around the field at the Larmor frequency:
+The excess in the parallel state is tiny (~# ppm at # T), but the huge number of protons in a voxel gives a measurable net magnetisation M₀, which grows with B₀ — the reason high fields give better signal-to-noise.
+Resonance and the RF pulse
+An RF pulse at the Larmor frequency tips M away from B₀ (a #° pulse lays it in the transverse plane). The rotating transverse magnetisation induces a current in the receive coil — the free induction decay (FID). The resonance condition lets MRI excite only the chosen nucleus and location.
+What is the proton Larmor frequency at # T?
+≈ # MHz
+≈ # kHz
+f = # × # ≈ # MHz.
+What is the main advantage of a higher field (# T)?
+Net magnetisation, and hence SNR, increases
+SAR decreases
+T1 values shorten
+M₀ ~ B₀ and SNR rises roughly with B₀, but SAR rises as ~B₀² and T1s lengthen.
+Relaxation: T1, T2 and T2*
+T1: longitudinal recovery
+After an RF pulse the longitudinal magnetisation recovers as the spins give energy to their surroundings (the lattice) — spin-lattice relaxation, T1. Fat has a short T1 (~# ms at # T), fluid a long one (CSF ~# ms); T1 lengthens as B₀ rises.
+T2 and T2*: transverse decay
+Transverse magnetisation decays as spins interact and lose phase coherence — spin-spin relaxation, T2. In practice field inhomogeneities speed up the dephasing, so the observed decay is T2* < T2. A #° refocusing pulse (spin echo) undoes static inhomogeneities and recovers the true T2.
+Typical values (# T): white matter T1 ≈ # ms, T2 ≈ # ms; grey matter T1 ≈ # ms, T2 ≈ # ms; CSF T1 ≈ # ms, T2 ≈ # ms; fat T1 ≈ # ms, T2 ≈ # ms. Most pathology (oedema, tumour) adds water and lengthens both T1 and T2.
+What fraction of M₀ has the longitudinal magnetisation recovered one T1 after a #° pulse?
+Mz = M₀(# − e^(−#)) ≈ # M₀; # % is what remains of the transverse magnetisation after one T2.
+What does a spin echo cancel?
+Dephasing from static field inhomogeneities (the T2* effect)
+T1 relaxation
+True T2 relaxation
+The #° pulse reverses the phase order so static inhomogeneities refocus at TE; random spin-spin interactions (T2) cannot be undone.
+Sequences and contrast
+Choosing the weighting with TR and TE
+The spin-echo signal contains both T1 and T2 terms:
+<b>T1-weighted:</b> short TR (~#–# ms), short TE (~#–# ms). Fat is bright and fluid dark; used for anatomy and contrast enhancement.
+<b>T2-weighted:</b> long TR (> # ms), long TE (~#–# ms). Fluid and oedema are bright; most pathology shows.
+<b>PD-weighted:</b> long TR, short TE. Shows proton density differences; used in musculoskeletal imaging (menisci).
+Inversion recovery and fat suppression
+After a #° inversion, a tissue excited just as its Mz crosses zero gives no signal: TI_null = T1·ln2. STIR (TI ≈ #–# ms at # T) nulls fat, FLAIR (TI ≈ #–# ms) nulls CSF. Chemical fat saturation uses the # ppm frequency offset between fat and water (≈ # Hz at # T).
+Gradient echo and contrast agents
+Gradient-echo sequences use no #° pulse, so they are fast but T2*-weighted (haemorrhage, calcification). Small flip angles allow short TR, with maximum signal at the Ernst angle: cos α_E = e^(−TR/T1). Gadolinium agents are paramagnetic: they shorten T1 and make enhancing tissue bright on T1-weighted images.
+STIR inversion time for fat (T1 ≈ # ms) at # T: TI ≈ # × # ≈ # ms; in practice #–# ms is used because TR is finite.
+Which parameters give a T2-weighted spin echo?
+TR # ms, TE # ms
+A long TR removes the T1 effect, a long TE brings out T2 differences.
+What does a FLAIR sequence suppress?
+The CSF (free fluid) signal
+The fat signal
+The muscle signal
+A long TI (≈ #–# ms) nulls CSF, whose T1 is very long, revealing periventricular lesions.
+How does a gadolinium contrast agent work?
+It shortens the T1 of nearby protons
+It produces signal itself
+It increases B₀
+Gd³⁺'s unpaired electrons speed up relaxation, so enhancement appears bright on T1-weighted images.
+Spatial encoding and k-space
+Position from gradients
+Gradient coils add a small field that varies linearly with position, making the Larmor frequency position-dependent:
+<b>Slice selection:</b> a gradient during the RF pulse, so a narrow-band pulse excites only one slice.
+<b>Frequency encoding:</b> during readout, so each column signals at a different frequency.
+<b>Phase encoding:</b> a short gradient of different strength in every TR that separates rows by phase.
+The acquired signals fill k-space, and the image is its #D Fourier transform. The centre of k-space carries contrast and overall signal; the periphery carries fine detail and edges. In a spin echo one line is acquired per TR.
+TR = # ms, # phase lines, NEX = #: a conventional spin echo takes # × # = # s ≈ # min; a turbo spin echo with ETL = # takes #/# = # s.
+SNR scales with voxel volume and √(N_phase · N_freq · NEX). Doubling in-plane resolution (a quarter of the voxel) costs a lot of SNR; parallel imaging (SENSE/GRAPPA) speeds up acquisition at an SNR cost.
+Common artefacts
+<b>Aliasing (wrap-around):</b> tissue outside the FOV folds over in the phase direction.
+<b>Chemical shift:</b> a bright/dark band at fat-water boundaries in the frequency direction.
+<b>Motion and flow:</b> ghosts in the phase direction.
+<b>Susceptibility:</b> signal loss and distortion at metal and air-tissue interfaces (especially GRE and EPI).
+What does the centre of k-space determine?
+Image contrast and overall signal level
+Fine detail and edges
+Slice thickness
+Low spatial frequencies sit in the centre: without the centre the image loses contrast, without the periphery it becomes blurred.
+How long does a conventional spin echo with TR # ms, # lines and NEX # take?
+≈ # minutes
+≈ # minute
+# s × # × # = # s ≈ # min — which is why turbo spin echo is the clinical standard.
+MR safety
+Three fields, three risks
+<b>Static field (B₀):</b> ferromagnetic objects become projectiles. The pull scales with B·dB/dz and peaks at the bore entrance. A superconducting magnet is always on. Some implants (older pacemakers, aneurysm clips) are contraindicated.
+<b>Gradients (dB/dt):</b> peripheral nerve stimulation and loud acoustic noise (> # dB); hearing protection is mandatory above # dB(A).
+<b>RF (B₁):</b> tissue heating, limited by SAR (W/kg): whole-body ≤ # W/kg and head ≤ # W/kg in normal mode (IEC ###). Conductive leads and loops can cause burns.
+Zones and screening
+The ACR defines four zones: I public, II screening, III controlled access, IV the magnet room. Every patient and staff member is screened in writing before entering Zone III; metal workers with possible intra-ocular metal get orbit radiographs or CT first. Implants are labelled MR Safe, MR Conditional or MR Unsafe, and their conditions are followed.
+A superconducting magnet cannot simply be "switched off". A quench vents the helium, is costly and can deplete oxygen in the room; it is done only when life is at risk (e.g. someone pinned to the magnet). In cardiac arrest the patient is moved out to Zone III for resuscitation.
+In pregnancy MRI is preferred because it involves no ionising radiation, but gadolinium crosses the placenta and is given only when essential. In patients with eGFR < # gadolinium requires caution because of the risk of nephrogenic systemic fibrosis (NSF).
+Where is the pull on a ferromagnetic object greatest in MRI?
+Near the bore entrance, where the spatial field gradient is largest
+Exactly at the centre of the bore
+In the control room
+The force scales with B·dB/dz; at the centre B is largest but dB/dz ≈ #, while at the entrance the product peaks.
+What is the whole-body SAR limit in normal operating mode?
+# W/kg
+IEC ###: # W/kg in normal mode, # W/kg in first-level mode (under medical supervision).
+What must be done before MRI in a welder?
+Orbit radiographs or CT to exclude intra-ocular metal
+Using a lower-field (# T) scanner is enough
+Taping the eye shut is enough
+A ferromagnetic fragment can move at # T too and cause blindness, so it must be excluded first.
+Radiotherapy Physics
+The linear accelerator, depth dose and MU calculation, treatment planning (volumes, IMRT/VMAT, DVH), proton therapy, brachytherapy and quality assurance.
+Percentage depth dose
+Mayneord F factor
+MU calculation (SAD)
+Electron rules
+PTV margin (van Herk)
+Brachytherapy (TG-#, point)
+MU (monitor unit)
+The accelerator output measured by its monitor chambers, calibrated e.g. to # cGy/MU under reference conditions.
+TMR
+Tissue-maximum ratio: dose at depth d divided by dose at d_max at the same point (fixed SAD).
+PTV
+Planning target volume: CTV plus a margin for set-up and motion uncertainties.
+DVH
+Dose-volume histogram: the fraction of a structure that receives at least a given dose.
+IGRT
+Image-guided radiotherapy: verifying the patient position with kV/CBCT before each fraction.
+The linear accelerator
+From electrons to photons
+Electrons from the gun are accelerated to MeV energies in a waveguide fed by S-band (~# GHz) microwaves; a bending magnet steers them onto the target. In photon mode a high-Z target produces bremsstrahlung and a flattening filter evens out the beam; in electron mode the target is withdrawn and a scattering foil spreads the narrow electron beam.
+<b>Monitor chambers:</b> continuously measure the output (MU) and beam symmetry; they are dual and independent.
+<b>Collimation:</b> jaws and a multileaf collimator (MLC, #–# mm leaves) shape the field to the target and make IMRT/VMAT possible.
+<b>FFF (flattening-filter-free):</b> raises the dose rate #–#×, giving short stereotactic treatments.
+<b>Neutrons:</b> above ~# MV (γ,n) reactions produce photoneutrons; the door and maze are designed for them.
+The key advantages of megavoltage photons are deep penetration and skin sparing: the dose is low at the surface and peaks at d_max (# MV: # cm, # MV: # cm).
+Why is the target withdrawn and a scattering foil used in electron mode?
+The electrons themselves are the treatment beam; the foil spreads the narrow beam into a broad uniform field
+The foil converts electrons into photons
+The target accelerates the electrons
+Electrons that do not hit a target are used directly; the pencil beam from the waveguide is scattered by a thin high-Z foil into a clinical field.
+Above which energy does photoneutron production become important?
+≈ # MV
+(γ,n) thresholds in most materials lie around #–# MeV, so #–# MV beams have noticeable neutron contamination.
+Depth dose and MU calculation
+PDD and what affects it
+The percentage depth dose (PDD) is the change of central-axis dose with depth at fixed SSD. PDD rises with energy, with field size (more scatter) and with SSD (weaker inverse-square effect — the Mayneord F factor).
+Isocentric (SAD) techniques use the TMR, a depth-dose curve free of the inverse-square effect at a fixed source-point distance. Output factors account for collimator scatter (S_c) and phantom scatter (S_p) of the field size.
+# MV, #×# cm² field, # cGy to the isocentre at # cm depth. Calibration: # cGy/MU at d_max at the isocentre. TMR(# cm) ≈ #, S_c = S_p = #, ISF = #. MU = # / (# × #) ≈ # MU.
+Electron beams
+Electron dose falls rapidly beyond a certain depth, ideal for superficial targets. Quick rules (E in MeV, depth in cm): R9# ≈ E/# (treatment depth), R8# ≈ E/#, practical range Rp ≈ E/#. The surface dose is high (#–# %) and rises with energy; bolus raises it further and shortens the range in the patient.
+How does PDD at a given depth change as the field size grows?
+It increases (more scatter contribution)
+It decreases
+In a larger field more scattered photons reach the central axis, raising the PDD, especially at depth.
+Which electron energy covers a tumour down to # cm with the # % isodose (no bolus)?
+≈ # MeV
+R9# ≈ E/# → E ≈ # × # ≈ # MeV; # MeV would dose unnecessarily deep.
+How does TMR differ from PDD?
+In TMR the source-to-point distance is fixed, so it contains no inverse-square effect
+TMR is defined only for electrons
+TMR is independent of field size
+PDD is defined at fixed SSD, so deeper points are further from the source; TMR suits isocentric treatment.
+Treatment planning: volumes, IMRT/VMAT and DVH
+ICRU volumes
+<b>GTV:</b> visible tumour. <b>CTV:</b> GTV + microscopic spread. <b>ITV:</b> CTV + internal motion (e.g. breathing).
+<b>PTV:</b> CTV/ITV + set-up margin; the prescription goes to the PTV.
+<b>OAR / PRV:</b> organ at risk and its planning margin (e.g. spinal cord + # mm).
+Planning techniques
+#D conformal therapy uses a few fixed MLC-shaped fields. IMRT splits each field into small segments to modulate the intensity, with inverse planning optimising an objective function (target doses and OAR constraints). VMAT varies the MLC, dose rate and gantry speed continuously while the gantry rotates, delivering IMRT quality in a few minutes.
+Tissue heterogeneity (lung, bone, air cavities) affects the dose calculation: low-density lung raises the dose at depth and widens the penumbra. Modern algorithms (AAA, Acuros, Monte Carlo) account for this.
+DVH and constraints
+The cumulative DVH shows what percentage of a structure gets at least dose D. Targets use D9# (the dose covering # % of the volume); OARs use Vx (percentage receiving x Gy), Dmax and Dmean. QUANTEC examples: lung V2# ≤ #–# % and mean ≤ #–# Gy (pneumonitis < # %); spinal cord Dmax ≤ # Gy (# Gy fractions); rectum V7# < # %; parotid mean < # Gy.
+With systematic SD Σ = # mm and random SD σ = # mm, the PTV margin is # × # + # × # = # mm. If daily IGRT cuts Σ to # mm, the margin becomes # + # = # mm.
+Which volume is the prescription given to?
+GTV
+ITV
+The PTV is the geometric concept that guarantees the CTV receives the prescription despite set-up and motion uncertainties.
+In the van Herk formula, why does the systematic error (Σ) carry a larger coefficient than the random error (σ)?
+A systematic error shifts every fraction the same way and moves the dose permanently
+Random errors do not matter at all
+Systematic errors are always larger
+Random errors blur the dose over the fractions (they average out), whereas a systematic error shifts the whole distribution off the target.
+What does QUANTEC suggest for lung V2#?
+≤ #–# %
+≤ # %
+V2# ≤ #–# % and mean lung dose ≤ #–# Gy keep symptomatic pneumonitis risk below # %.
+Proton therapy and the Bragg peak
+Why protons?
+Protons deliver most of their dose in the Bragg peak and almost none beyond it, whereas photons also deposit substantial exit dose behind the target. Proton therapy therefore cuts the integral dose markedly, especially in children and for tumours near critical organs (eye, skull base, spine).
+A single peak is a few mm wide. To cover a target, peaks of different energies are weighted and summed into a spread-out Bragg peak (SOBP). Modern systems paint the target layer by layer and spot by spot with pencil beam scanning (PBS), which enables intensity-modulated proton therapy (IMPT).
+Uncertainties
+The sharp distal fall-off of protons is an advantage, but range uncertainty is a risk. Because of errors in converting CT HU to stopping power and anatomical changes, a range margin of typically "# % + # mm" is used, and beams are arranged so that they do not point straight at a critical organ.
+Clinically, proton doses are prescribed in Gy(RBE) with a constant RBE of #, although the RBE can exceed # at the distal end of the peak where LET rises.
+What is the main dosimetric advantage of protons over photons?
+They deposit almost no dose beyond the target (no exit dose)
+Their skin dose is zero
+Their RBE is #
+The dose drops sharply after the Bragg peak; the entrance dose is not zero, but lower than for photons.
+What RBE value is used in clinical proton therapy?
+Gy(RBE) = # × physical dose; not to be confused with ICRP's protection weighting factor w_R = #.
+Brachytherapy and quality assurance
+Brachytherapy
+In brachytherapy the source is placed inside or next to the tumour. Dose falls steeply with distance (inverse square), giving a high target dose while sparing surrounding tissue. HDR uses Ir-# (T½ # days, mean ~# keV, ~# GBq) in a remote afterloader; permanent LDR seeds use I-# (T½ # days, #–# keV) or Pd-#.
+Source strength is given as the air-kerma strength S_K (U = µGy·m²/h); Λ is the dose-rate constant, g(r) the radial dose function and F(r,θ) the anisotropy function. An Ir-# source loses ~# % per day, so treatment times are lengthened automatically and the source is replaced about every # months.
+Quality assurance
+<b>Daily:</b> output constancy ±# %, lasers, safety interlocks, light/radiation coincidence (AAPM TG-#).
+<b>Monthly / annual:</b> PDD and profiles, MLC positional accuracy, isocentre, imaging systems; annual reference dosimetry (TRS-#).
+<b>Patient-specific QA:</b> the IMRT/VMAT plan is measured in a phantom and compared by gamma analysis (e.g. # %/# mm, ≥ # % passing; TG-#).
+<b>End-to-end tests:</b> verify the whole chain from CT simulation to delivery with an anthropomorphic phantom.
+Errors in radiotherapy are systematic and can affect many patients, so independent MU checks, two-person plan approval and an incident-reporting culture are core responsibilities of the medical physicist.
+In HDR, how does the dose change at # cm instead of # cm from the source (inverse square only)?
+It falls fourfold
+It halves
+(#/#)² = #/#; attenuation and scatter in tissue are corrected by g(r), but the inverse square dominates.
+What is a typical gamma criterion for IMRT patient QA?
+# % / # mm with ≥ # % of points passing
+# % / # mm
+AAPM TG-# recommends # %/# mm with ≥ # % as the tolerance/action level.
+Protection principles and dose limits, time–distance–shielding, room shielding design, personal dosimetry, pregnancy, children and risk communication.
+Dose = dose rate × time
+Shield transmission
+NCRP #/# design
+ALARA
+As Low As Reasonably Achievable — keeping doses as low as reasonably achievable, taking economic and social factors into account.
+Controlled area
+An area with special rules and trained staff where dose limits could otherwise be exceeded.
+Use factor U
+The fraction of time the primary beam points at a given barrier.
+Occupancy factor T
+The fraction of time the most-exposed person occupies an area.
+Protection principles and dose limits
+Three fundamental principles (ICRP #)
+<b>Justification:</b> any practice involving radiation must do more good than harm; in medicine this is judged for each examination.
+<b>Optimisation (ALARA):</b> doses are kept as low as reasonably achievable; for patients this means reducing dose while preserving diagnostic quality (DRLs are a tool).
+<b>Dose limitation:</b> limits apply to workers and the public — not to patients, because the benefit is theirs.
+Dose limits
+<b>Occupational:</b> effective dose # mSv/yr (averaged over # years, at most # mSv in any one year); eye lens # mSv/yr (ICRP #); skin and extremities # mSv/yr.
+<b>Public:</b> # mSv/yr; eye lens # mSv/yr; skin # mSv/yr.
+<b>Pregnant worker:</b> after declaring pregnancy, the fetal dose should not exceed ~# mSv for the rest of the pregnancy.
+For comparison: the world-average natural background is ≈ # mSv/yr (UNSCEAR). A PA chest X-ray is ≈ # mSv (~# days), an abdominal CT ≈ # mSv (~# years), an Istanbul–New York flight ≈ # mSv.
+Which group has no dose limit?
+Patients undergoing medical exposure
+Members of the public
+Radiation workers
+In medical exposure the benefit goes to the patient, so justification and optimisation (DRLs) apply but no limit.
+What is the annual eye-lens dose limit for workers (ICRP #)?
+# mSv
+ICRP # found a cataract threshold of ~# Gy and cut the limit from # to # mSv/yr — why lead glasses matter in interventional cardiology.
+Time, distance and shielding
+Three tools
+There are three tools against external exposure: shorten the time (dose = dose rate × time), increase the distance (from a point source the dose rate falls as #/d²) and put shielding in between (each HVL halves the dose).
+For # MBq Cs-# (Γ ≈ # µGy·m²/(MBq·h)) the air-kerma rate at # m is ≈ # × # ≈ # µGy/h, i.e. H*(#) ≈ # µSv/h. At # m it drops to a quarter (≈ # µSv/h), at # m to a ninth. With a lead HVL of ≈ # cm for Cs-#, # cm of lead (≈ # HVL) cuts it by another ~#×.
+The inverse square law holds for point sources at distances larger than the source size. Very close up (e.g. holding a source) the dose rises extremely fast: always use tongs — # cm instead of # cm cuts the hand dose about #-fold.
+Shielding materials
+At diagnostic energies (photoelectric-dominated) lead is very effective: #–# mm Pb stops #–# % of the photons at # kVp. At MV energies (Compton-dominated) attenuation follows electron density, so treatment rooms use cheap, thick concrete. Neutrons need hydrogenous materials (polyethylene, borated concrete).
+If the dose rate is # µSv/h at # m, what is it at # m?
+# µSv/h
+Ḣ ~ #/d²: # × (#/#)² = # µSv/h.
+How many TVLs of shielding reduce the dose rate #-fold?
+Each TVL gives a factor of #: #³ = #, about # HVLs.
+Why are MV treatment rooms shielded with concrete rather than lead?
+At MV Compton dominates, attenuation depends on electron density, and thick concrete is cheap and structural
+Concrete is denser than lead
+Lead does not transmit MV photons
+The Z³ advantage of the photoelectric effect vanishes at MV; attenuation per unit mass is nearly material-independent, so lead/steel is added only where space is tight.
+Room shielding design
+The NCRP # and # method
+The weekly dose at a point behind a barrier must not exceed the design goal P: # mSv/week (# mSv/yr) for controlled areas and # mSv/week (# mSv/yr) for uncontrolled areas. The required transmission follows from the workload W, use factor U, occupancy T and distance d:
+<b>Primary barrier:</b> a wall the beam can hit directly (U < #).
+<b>Secondary barrier:</b> against patient scatter and head leakage (~# % of the workload); U = #.
+<b>Occupancy:</b> offices T = #, corridors T ≈ #/#, waiting rooms T ≈ #/# (NCRP suggestions).
+# MV linac primary barrier: W = # Gy/week (at # m), U = #, T = # (office), P = # mSv/week = #×#⁻⁵ Sv (uncontrolled), d = # m from isocentre. B = #×#⁻⁵ × # / (# × # × #) ≈ #×#⁻⁶ → n = # TVL. For concrete TVL₁ = # cm, TVL_e = # cm (NCRP #): x ≈ # + # × # ≈ # cm of concrete.
+A maze makes scattered photons bounce several times before reaching the door. Above # MV the door also contains borated polyethylene and lead for neutrons and capture gammas. A radiation survey after installation is mandatory.
+What does a use factor U = # mean?
+The primary beam points at that barrier # % of the time
+The room is # % occupied
+The barrier transmits # %
+U represents the beam direction distribution and T the occupancy; secondary barriers use U = #.
+What is a secondary barrier designed against?
+Radiation scattered by the patient and leaking from the head
+The primary beam
+Neutrons only
+Leakage is limited to ~# % of the workload; scatter depends on angle and field size.
+Personal dosimetry and monitoring
+Who is monitored, and how?
+Radiation workers wear personal dosimeters (OSL/TLD): Hp(#) for whole-body dose, Hp(#) for skin, ring dosimeters for the hands. With a lead apron the dosimeter is usually worn under it on the trunk, and a second one at collar level over the apron is recommended for the eye-lens dose.
+<b>Lead apron:</b> #–# mm Pb equivalent; stops #–# % of diagnostic photons but is almost useless against # keV PET photons.
+<b>Thyroid collar and lead glasses:</b> in fluoroscopy and interventional work.
+<b>Survey meters:</b> ion chamber for dose rate; GM or pancake probe for contamination.
+Area classification and incidents
+Areas are classified as controlled or supervised according to expected dose, signposted and access-restricted. A lost source, an unexpectedly high dosimeter reading or a wrong-patient/wrong-site exposure is an incident: it is recorded, its root cause is analysed and, where required, it is reported to the regulator (NDK in Turkey).
+How is the eye-lens dose monitored for a worker wearing a lead apron?
+With a second dosimeter at collar level, outside the apron
+With the dosimeter under the apron
+It is not needed
+The under-apron dosimeter does not represent the eye; with a # mSv/yr lens limit this measurement matters for interventional staff.
+What does a lead apron offer a technologist preparing a PET tracer?
+Very little — thin lead is inadequate for # keV photons
+Complete protection
+Beta protection only
+At # keV the HVL of lead is ~# mm, so # mm Pb stops only ~# % of the photons. PET relies on distance, time, syringe shields and L-blocks.
+Pregnancy, children and risk communication
+The pregnant patient
+In women of childbearing age, pregnancy is asked about first if the pelvis is in the primary beam or a radionuclide will be given, with a β-hCG test if needed. Fetal doses from diagnostic exams are mostly < # mGy; below ~# mGy no deterministic effects are expected and termination cannot be justified medically (ICRP #). The added childhood-cancer risk is ≈ # % per # mGy (baseline ≈ #–# %).
+Alternatives (US, MRI) come first; if CT is needed, use a low-dose protocol and a limited scan length.
+Estimating fetal dose is the medical physicist's job: in CT, fetal dose ≈ SSDE when the uterus is in the field.
+Children
+Children are #–# times more radiosensitive than adults and have a long life ahead. Size-based protocols ("Image Gently") apply: low mAs, no grid, added Cu filtration, tight collimation; in CT dose should be judged by SSDE. Gonad shields are no longer recommended routinely (AAPM #); collimation is more effective.
+Risk communication
+Patients and families are often afraid of radiation. A good explanation is numerical yet understandable, compares with natural background, stresses the benefit of the examination, and avoids exaggerations such as "zero risk" or "very dangerous".
+"This chest X-ray gives about # mSv — the radiation we receive from nature in about # days. The benefit of diagnosing pneumonia correctly is far greater than this very small risk."
+A fetal dose of # mGy is estimated after a diagnostic CT. What is the correct counselling?
+Far below the deterministic threshold; very small added risk; no reason to terminate
+The pregnancy should be terminated
+There is no risk at all
+ICRP #: termination is not medically justified below # mGy. The stochastic risk is very small but not zero, so communication should be honest and calm.
+What is the most effective protection measure in a paediatric chest radiograph?
+Tight collimation (with a gridless, low-dose technique)
+A gonad shield
+Placing a lead apron inside the field
+Out-of-field organ doses are already tiny; a shield in the field degrades the image and makes the AEC raise the dose.

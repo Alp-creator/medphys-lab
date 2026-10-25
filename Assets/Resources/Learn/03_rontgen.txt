@@ -1,0 +1,122 @@
+@topic xray | XR | Röntgen Görüntüleme | X-ray Imaging | xray
+@desc X-ışını tüpü ve spektrum, görüntü oluşumu, kontrast–gürültü, saçılma ve grid, dedektörler, EI/DI, hasta dozu; floroskopi ve mamografi. || The X-ray tube and spectrum, image formation, contrast and noise, scatter and grids, detectors, EI/DI, patient dose; fluoroscopy and mammography.
+@sim xray
+@formula Tüp verimi || Tube efficiency :: η ≈ 1.1×10⁻⁹ · Z · V   (W, 100 kV: ≈ %0.8)
+@formula Tüp çıkışı || Tube output :: K ~ kVp² · mAs / d²
+@formula Büyütme || Magnification :: M = SID / SOD
+@formula Geometrik bulanıklık || Geometric unsharpness :: U_g = f · OID / SOD
+@formula Sapma indeksi || Deviation index :: DI = 10 · log₁₀(EI / EI_T)
+@formula Kuantum gürültüsü || Quantum noise :: SNR ~ √N
+@formula Doz–alan çarpımı || Dose–area product :: DAP = K · A   (mesafeden bağımsız)
+@term kVp || kVp :: Tüpün tepe gerilimi; en yüksek foton enerjisini ve demetin girginliğini belirler. || The tube's peak voltage; sets the maximum photon energy and beam penetration.
+@term mAs || mAs :: Tüp akımı × süre; foton sayısını (ve dozu) doğrusal olarak belirler. || Tube current × time; sets the number of photons (and the dose) linearly.
+@term Grid || Grid :: Saçılan fotonları soğuran kurşun lamellerden oluşan ızgara. || A grid of lead strips that absorbs scattered photons.
+@term ESAK || ESAK :: Giriş yüzey hava kerması; geri saçılma dahil cilt girişindeki kerma. || Entrance surface air kerma, including backscatter.
+@term DRL || DRL :: Tanısal referans düzeyi; ulusal dağılımın 75. persentili. Sınır değil, optimizasyon aracıdır. || Diagnostic reference level: the 75th percentile of the national distribution. An optimisation tool, not a limit.
+
+@lesson tube | X-ışını tüpü ve spektrum | The X-ray tube and spectrum | 10
+## Tüpün yapısı || Tube construction
+Isıtılan tungsten flamandan (katot) termiyonik yayınımla elektronlar çıkar ve kVp gerilimiyle anoda doğru hızlanır. Anoda çarpan elektronların enerjisinin yalnızca ~%1'i X-ışınına dönüşür; geri kalanı ısıdır. Bu yüzden anot döner ve yüksek ısı kapasitelidir. || Electrons leave a heated tungsten filament (cathode) by thermionic emission and are accelerated towards the anode by the kVp. Only ~1 % of their energy becomes X-rays; the rest is heat, which is why the anode rotates and has a large heat capacity.
+$ η ≈ 1.1×10⁻⁹ · Z · V    (tungsten Z = 74, V = 100 kV → η ≈ %0.8)
+Çizgi odak ilkesi: eğik anot yüzeyi, ısının büyük bir alana yayılmasını sağlarken dedektörden görünen etkin odak noktasını küçük tutar. Anot topuk etkisi nedeniyle demetin anot tarafı biraz daha zayıftır. || The line-focus principle: the angled anode spreads the heat over a large area while keeping the effective focal spot seen from the detector small. Because of the anode heel effect, the anode side of the beam is slightly weaker.
+## Spektrum || The spectrum
+Spektrum iki bileşenden oluşur. Sürekli frenleme ışınımı (bremsstrahlung) 0'dan kVp'ye kadar uzanır (Kramers: I(E) ~ Z(E_max − E)). Karakteristik çizgiler ise tungsten için Kα ≈ 59 keV ve Kβ ≈ 67 keV'dedir ve yalnızca kVp > 69.5 olduğunda oluşur. || The spectrum has two parts: continuous bremsstrahlung from 0 up to the kVp (Kramers: I(E) ~ Z(E_max − E)), and characteristic lines — for tungsten Kα ≈ 59 keV and Kβ ≈ 67 keV, which appear only when kVp > 69.5.
+%fig spectrum
+* <b>kVp artınca:</b> en yüksek ve ortalama enerji artar, demet daha girgindir. Çıkış yaklaşık kVp² ile artar. Kontrast düşer. || <b>Higher kVp:</b> maximum and mean energy rise and the beam penetrates better; output rises roughly as kVp²; contrast falls.
+* <b>mAs artınca:</b> spektrumun şekli değişmez, foton sayısı ve doz doğrusal artar. || <b>Higher mAs:</b> the spectral shape is unchanged; photon number and dose rise linearly.
+* <b>Filtrasyon:</b> düşük enerjileri ayıklar, HVL'yi artırır, cilt dozunu düşürür. Yönetmelik 70 kVp üstünde en az 2.5 mm Al toplam filtrasyon ister. || <b>Filtration:</b> removes low energies, raises the HVL and lowers skin dose. Regulations require at least 2.5 mm Al total filtration above 70 kVp.
+> "%15 kuralı": kVp'yi %15 artırmak dedektöre ulaşan ışınlamayı yaklaşık iki katına çıkarır. Bu yüzden mAs yarıya indirilebilir; hasta dozu genellikle düşer ama kontrast da azalır. || The "15 % rule": raising kVp by 15 % roughly doubles the exposure at the detector, so the mAs can be halved. Patient dose usually falls, but so does contrast.
+? Tüp akımını (mA) iki katına çıkarmak spektrumu nasıl değiştirir? || How does doubling the tube current (mA) change the spectrum?
++ Şekil aynı kalır; her enerjideki foton sayısı iki katına çıkar || The shape stays the same; the number of photons at every energy doubles
+- Ortalama enerji artar || The mean energy increases
+- Karakteristik çizgiler kaybolur || The characteristic lines disappear
+= mA ve süre yalnızca elektron sayısını, dolayısıyla foton sayısını belirler. Enerji dağılımını kVp ve filtrasyon belirler. || mA and time only set the number of electrons and hence photons; the energy distribution is set by kVp and filtration.
+? 100 kV'de tungsten anotta enerjinin yaklaşık ne kadarı X-ışınına dönüşür? || At 100 kV, roughly what fraction of the energy becomes X-rays in a tungsten anode?
++ ≈ %1 || ≈ 1 %
+- ≈ %50 || ≈ 50 %
+- ≈ %99 || ≈ 99 %
+= η ≈ 1.1×10⁻⁹ × 74 × 10⁵ ≈ 0.008. Geri kalan %99 ısıdır; tüp ısı yönetimi bu yüzden kritiktir. || η ≈ 1.1×10⁻⁹ × 74 × 10⁵ ≈ 0.008; the other 99 % is heat, so tube heat management is critical.
+? Filtrasyonu artırmak HVL'yi nasıl etkiler? || How does more filtration affect the HVL?
++ HVL artar (demet sertleşir) || The HVL increases (the beam hardens)
+- HVL azalır || The HVL decreases
+- Değişmez || It does not change
+= Filtre düşük enerjili fotonları ayıklar, ortalama enerji ve dolayısıyla HVL artar. || The filter removes low-energy photons, so the mean energy and hence the HVL increase.
+
+@lesson image | Görüntü oluşumu: kontrast, saçılma ve grid | Image formation: contrast, scatter and grids | 11
+## Konu kontrastı || Subject contrast
+Görüntüdeki kontrast, yan yana iki yoldan geçen fotonların zayıflama farkından doğar. Kemiğin yumuşak dokudan farkı düşük enerjide (fotoelektrik baskın) büyük, yüksek enerjide (Compton baskın) küçüktür. Bu yüzden mamografi 25–32 kVp, göğüs grafisi 110–125 kVp kullanır. || Image contrast arises from the attenuation difference between neighbouring paths. Bone differs strongly from soft tissue at low energy (photoelectric-dominated) and weakly at high energy (Compton-dominated) — hence 25–32 kVp for mammography and 110–125 kVp for chest radiography.
+## Saçılma ve grid || Scatter and grids
+Hastada Compton saçılması yapan fotonlar dedektöre rastgele yönlerden ulaşır, kontrastı azaltır ve gürültü ekler. Kalın vücut bölgelerinde saçılma/birincil oranı 3–5'e çıkabilir. Saçılmayı azaltmanın yolları: || Photons that Compton-scatter in the patient reach the detector from random directions, reducing contrast and adding noise. In thick body parts the scatter-to-primary ratio can reach 3–5. Ways to reduce scatter:
+* <b>Kolimasyon:</b> ışınlanan hacmi küçültür; hem saçılmayı hem dozu azaltır. En önemli adımdır. || <b>Collimation:</b> shrinks the irradiated volume, cutting both scatter and dose — the most important step.
+* <b>Grid:</b> kurşun lameller saçılmayı soğurur (grid oranı 8:1–16:1). Bedeli dozdur: Bucky faktörü 2–6. Kalınlığı < 10–12 cm olan bölgelerde ve çocuklarda grid genellikle gereksizdir. || <b>Grid:</b> lead strips absorb scatter (grid ratio 8:1–16:1) at the cost of dose — Bucky factor 2–6. A grid is usually unnecessary for parts thinner than 10–12 cm and in children.
+* <b>Hava aralığı:</b> hasta ile dedektör arasındaki boşluk saçılmanın bir kısmını dedektörden uzaklaştırır, ancak büyütme getirir. || <b>Air gap:</b> a space between patient and detector lets part of the scatter miss the detector, at the price of magnification.
+## Geometri || Geometry
+$ M = SID / SOD        U_g = f · OID / SOD
+Büyütme (M) ve geometrik bulanıklık (U_g), nesnenin dedektörden uzaklığıyla (OID) artar. Bu yüzden göğüs grafisi PA (kalp dedektöre yakın) ve 180 cm SID ile çekilir. Küçük odak (f) keskinliği artırır ama tüpün ısı kapasitesini sınırlar. || Magnification (M) and geometric unsharpness (U_g) grow with the object-to-detector distance (OID). That is why chest radiographs are taken PA (heart near the detector) at 180 cm SID. A small focal spot (f) sharpens the image but limits the tube's heat loading.
+## Gürültü ve dedektörler || Noise and detectors
+Fotonlar Poisson istatistiğine uyar: N foton için gürültü √N'dir, SNR ~ √N. SNR'yi iki katına çıkarmak dört kat doz gerektirir. Dijital dedektörler dolaylı (CsI sintilatör + a-Si fotodiyot) ya da doğrudan (a-Se) dönüşümlüdür. Dedektörün verimini DQE gösterir: SNR²_çıkış / SNR²_giriş. || Photons obey Poisson statistics: noise is √N for N photons and SNR ~ √N, so doubling SNR costs four times the dose. Digital detectors use indirect (CsI scintillator + a-Si photodiode) or direct (a-Se) conversion. Detector efficiency is expressed by the DQE = SNR²_out / SNR²_in.
+? Bir grid kontrastı artırır, ama neyi de artırır? || A grid improves contrast — but what else does it increase?
++ Hasta dozunu (Bucky faktörü kadar) || Patient dose (by the Bucky factor)
+- Uzaysal çözünürlüğü || Spatial resolution
+- Büyütmeyi || Magnification
+= Grid birincil fotonların da bir kısmını soğurur. Aynı dedektör sinyali için mAs'ın 2–6 kat artırılması gerekir. || The grid also absorbs part of the primary beam, so the mAs must rise 2–6× for the same detector signal.
+? SNR'yi iki katına çıkarmak için foton sayısı nasıl değişmeli? || How must the photon number change to double the SNR?
++ 4 katına çıkmalı || It must quadruple
+- 2 katına çıkmalı || It must double
+- √2 katına çıkmalı || It must rise by √2
+= SNR ~ √N olduğundan 2 kat SNR için N'nin 4 kat olması gerekir; doz da 4 kat artar. || Since SNR ~ √N, doubling SNR needs 4× the photons — and 4× the dose.
+? Göğüs grafisi neden PA ve 180 cm SID ile çekilir? || Why is a chest radiograph taken PA at 180 cm SID?
++ Kalp dedektöre yakın olur, büyütme ve geometrik bulanıklık azalır || The heart sits close to the detector, reducing magnification and geometric unsharpness
+- PA'da daha fazla saçılma olur || PA produces more scatter
+- 180 cm'de tüp daha az ısınır || The tube heats less at 180 cm
+= M = SID/SOD ve U_g ~ OID/SOD: OID küçük, SID büyük olunca kalp gerçek boyutuna yakın ve keskin görünür. || M = SID/SOD and U_g ~ OID/SOD: with a small OID and large SID the heart appears close to its true size and sharp.
+
+@lesson ei | Pozlama indeksi ve hasta dozu | Exposure index and patient dose | 10
+@case emir
+## Neden EI? || Why EI?
+Film döneminde fazla doz görüntüyü karartırdı, bu yüzden hemen fark edilirdi. Dijital sistemler pencere/seviyeyi otomatik ayarlar ve aşırı ışınlanmış görüntü bile "güzel" görünür. Bu doz sürüklenmesi (dose creep) riskini önlemek için IEC 62494-1 standardı pozlama indeksini (EI) tanımlar. EI, dedektöre ulaşan hava kermasıyla orantılıdır: EI = 100 × K (µGy). || In the film era excess dose blackened the image and was noticed at once. Digital systems auto-window, so even an overexposed image looks "nice": the risk of dose creep. IEC 62494-1 therefore defines the exposure index (EI), proportional to the air kerma at the detector: EI = 100 × K (µGy).
+$ DI = 10 · log₁₀(EI / EI_T)
+Sapma indeksi (DI), EI'nin hedef değerden sapmasını gösterir. DI = 0 hedefte, +1 yaklaşık %26 fazla, +3 iki kat fazla, −1 yaklaşık %21 eksik ışınlama demektir. Kabul edilen aralık genellikle −1 ile +1'dir. || The deviation index (DI) shows how far EI is from its target: DI = 0 on target, +1 ≈ 26 % over, +3 = twice, −1 ≈ 21 % under. The usual acceptance range is −1 to +1.
+! EI_T = 300 iken bir görüntünün EI'si 600 çıkarsa DI = 10·log₁₀(2) = +3.0 olur. Dedektör dozu iki katıdır. Görüntü iyi görünse de bir sonraki çekimde mAs yarıya indirilmelidir. || With EI_T = 300 an image with EI 600 has DI = 10·log₁₀(2) = +3.0: twice the detector dose. Even if the image looks good, the mAs should be halved next time.
+## Hasta dozu büyüklükleri || Patient dose quantities
+* <b>ESAK:</b> giriş yüzey hava kerması (geri saçılma dahil, BSF ≈ 1.3–1.4). Deterministik etkiler ve DRL karşılaştırmaları için. || <b>ESAK:</b> entrance surface air kerma including backscatter (BSF ≈ 1.3–1.4); used for deterministic effects and DRL comparisons.
+* <b>DAP (KAP):</b> kerma × alan, Gy·cm². Tüpten uzaklığa bağlı değildir (alan d² ile büyür, kerma 1/d² ile küçülür). Toplam enerjinin göstergesidir. || <b>DAP (KAP):</b> kerma × area in Gy·cm². It does not depend on the distance from the tube (area grows as d², kerma falls as 1/d²) and reflects the total energy imparted.
+* <b>Efektif doz:</b> DAP × dönüşüm katsayısı. Örnek: PA göğüs ≈ 0.02 mSv, lomber omurga ≈ 1 mSv. || <b>Effective dose:</b> DAP × conversion coefficient — e.g. PA chest ≈ 0.02 mSv, lumbar spine ≈ 1 mSv.
+> Tanısal referans düzeyleri (DRL) ulusal dağılımın 75. persentilidir (ICRP 135). Bir doz sınırı değildir; tipik dozları DRL'nin üzerinde olan merkezler optimizasyon yapmalıdır. || Diagnostic reference levels (DRLs) are the 75th percentile of the national distribution (ICRP 135). They are not dose limits; centres whose typical doses exceed them should optimise.
+? DAP ölçüm odası tüpe yakın ya da uzak konulsa ölçüm nasıl değişir? || How does the DAP reading change if the chamber is placed closer to or further from the tube?
++ Değişmez; alan d² ile, kerma 1/d² ile değişir || It does not change: area scales as d² and kerma as 1/d²
+- Uzaklıkla azalır || It decreases with distance
+- Uzaklıkla artar || It increases with distance
+= Çarpım K·A mesafeden bağımsızdır. DAP'ın tüp çıkışına takılan bir odayla ölçülebilmesinin nedeni budur. || The product K·A is distance-independent, which is why DAP can be measured with a chamber on the tube collimator.
+? DI = −2 olan bir görüntü için en olası sorun nedir? || What is the most likely problem with an image of DI = −2?
++ Az ışınlama; görüntü gürültülü olabilir || Underexposure; the image may be noisy
+- Aşırı ışınlama; hasta gereksiz doz aldı || Overexposure; the patient got unnecessary dose
+- Grid yanlış yönde takılı || The grid is inserted the wrong way
+= DI negatifse dedektör dozu hedefin altındadır (−2 ≈ %37 eksik). Kuantum gürültüsü tanıyı zorlaştırabilir. || A negative DI means the detector dose is below target (−2 ≈ 37 % low), and quantum noise may impair the diagnosis.
+
+@lesson fluoro | Floroskopi ve mamografi | Fluoroscopy and mammography | 10
+## Floroskopi || Fluoroscopy
+Floroskopi gerçek zamanlı görüntüleme yapar (görüntü yükselticisi veya düz panel). Otomatik parlaklık kontrolü (ABC), hasta kalınlaştıkça kVp ve mA'yı artırır. Toplam doz, doz hızının süreyle çarpımıdır. Uzun girişimsel işlemlerde cilt dozu deterministik eşikleri aşabilir: geçici eritem ~2 Gy, epilasyon ~3 Gy, ciddi hasar > 10–15 Gy. || Fluoroscopy images in real time (image intensifier or flat panel). Automatic brightness control (ABC) raises kVp and mA as the patient gets thicker. The total dose is dose rate × time, and in long interventions the skin dose can exceed deterministic thresholds: transient erythema ~2 Gy, epilation ~3 Gy, serious injury > 10–15 Gy.
+* Darbeli (pulsed) floroskopi ve düşük kare hızı (ör. 7.5 kare/s) dozu orantılı olarak azaltır. || Pulsed fluoroscopy and low frame rates (e.g. 7.5 fps) cut the dose proportionally.
+* Son görüntüyü tut (LIH), kolimasyon ve dedektörü hastaya yaklaştırmak doz azaltır. || Last image hold, collimation and moving the detector close to the patient reduce dose.
+* Büyütme modları (küçük FOV) doz hızını artırır. || Magnification modes (smaller FOV) increase the dose rate.
+* Tüp masanın altında olmalıdır: personel en çok hastadan geri saçılan radyasyonu, tüp tarafında alır. || The tube should be under the table: staff get most of their dose from patient backscatter on the tube side.
+## Mamografi || Mammography
+Meme dokuları (yağ, fibroglandüler doku, tümör) arasındaki zayıflama farkı çok küçüktür. Bu yüzden 25–32 kVp ile fotoelektrik olayın baskın olduğu düşük enerjiler kullanılır. Anot/filtre Mo/Mo, Mo/Rh, W/Rh veya W/Ag olabilir. Kompresyon kalınlığı azaltır; saçılmayı, hareketi ve dozu düşürür. Mikrokalsifikasyonlar için çok küçük odak (0.1–0.3 mm) gerekir. || Breast tissues (fat, fibroglandular tissue, tumour) differ very little in attenuation, so low energies where the photoelectric effect dominates are used: 25–32 kVp with Mo/Mo, Mo/Rh, W/Rh or W/Ag anode/filter. Compression reduces thickness, scatter, motion and dose. Microcalcifications need a very small focal spot (0.1–0.3 mm).
+Mamografide dozun ölçütü ortalama glandüler dozdur (MGD); standart meme için görüntü başına ≈ 1–2 mGy'dir. Tomosentez (DBT), dokuların üst üste binmesini azaltan sınırlı açılı bir tomografidir. || The dose metric in mammography is the mean glandular dose (MGD), ≈ 1–2 mGy per view for a standard breast. Tomosynthesis (DBT) is a limited-angle tomography that reduces tissue overlap.
+!! Floroskopide personel dozunun en büyük kaynağı hastadan saçılan radyasyondur. Kurşun önlük, tiroid koruyucu, kurşun gözlük ve tavana asılı kalkan kullanılmalı; hastadan uzak durulmalıdır (ters kare yasası). || In fluoroscopy most staff dose comes from radiation scattered by the patient. Use a lead apron, thyroid collar, lead glasses and a ceiling-mounted shield, and keep your distance (inverse square law).
+? Floroskopide cilt eritemi için yaklaşık eşik nedir? || What is the approximate threshold for skin erythema in fluoroscopy?
++ ≈ 2 Gy || ≈ 2 Gy
+- ≈ 20 mGy || ≈ 20 mGy
+- ≈ 50 Gy || ≈ 50 Gy
+= Geçici eritem ~2 Gy cilt dozunda başlar. Uzun girişimlerde tepe cilt dozu izlenmeli ve kaydedilmelidir. || Transient erythema starts at ~2 Gy skin dose; in long interventions the peak skin dose must be monitored and recorded.
+? Mamografide neden düşük kVp kullanılır? || Why is low kVp used in mammography?
++ Meme dokuları arasındaki küçük zayıflama farkını fotoelektrik olayla büyütmek için || To amplify the small attenuation differences between breast tissues through the photoelectric effect
+- Tüpü korumak için || To protect the tube
+- Saçılmayı tamamen yok etmek için || To eliminate scatter completely
+= Düşük enerjide μ'nun Z ve yoğunluk farkına duyarlılığı büyüktür. Bu kontrast için doz ve kompresyon dengesi kurulur. || At low energy μ is very sensitive to Z and density differences; dose and compression are balanced against this contrast.
+? Floroskopi sırasında personel nerede durmalıdır (C-kol yatay)? || Where should staff stand during fluoroscopy (C-arm horizontal)?
++ Dedektör (görüntüleyici) tarafında || On the detector (image receptor) side
+- Tüp tarafında || On the tube side
+- Fark etmez || It makes no difference
+= Geri saçılma tüp tarafında, yani ışının hastaya girdiği tarafta en yüksektir. Dedektör tarafı daha güvenlidir. || Backscatter is highest on the tube side, where the beam enters the patient; the detector side is safer.

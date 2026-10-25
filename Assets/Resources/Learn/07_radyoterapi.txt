@@ -1,0 +1,128 @@
+@topic rt | RT | Radyoterapi Fiziği | Radiotherapy Physics | therapy
+@desc Lineer hızlandırıcı, derin doz ve MU hesabı, tedavi planlama (hacimler, IMRT/VMAT, DVH), proton tedavisi, brakiterapi ve kalite güvence. || The linear accelerator, depth dose and MU calculation, treatment planning (volumes, IMRT/VMAT, DVH), proton therapy, brachytherapy and quality assurance.
+@formula Yüzde derin doz || Percentage depth dose :: PDD(d) = 100 · D(d) / D(d_max)   (SSD sabit)
+@formula Mayneord F faktörü || Mayneord F factor :: F = [(SSD₂ + d_max)/(SSD₁ + d_max)]² · [(SSD₁ + d)/(SSD₂ + d)]²
+@formula MU hesabı (SAD) || MU calculation (SAD) :: MU = D / (Ḋ_ref · S_c · S_p · TMR(d, s) · ISF)
+@formula Elektron kuralları || Electron rules :: R90 ≈ E/3.2,  R80 ≈ E/2.8,  Rp ≈ E/2   (cm, MeV)
+@formula PTV marjı (van Herk) || PTV margin (van Herk) :: M = 2.5·Σ + 0.7·σ
+@formula Brakiterapi (TG-43, nokta) || Brachytherapy (TG-43, point) :: Ḋ(r) ≈ S_K · Λ · (r₀/r)² · g(r) · φ_an
+@term MU (monitör birimi) || MU (monitor unit) :: Hızlandırıcının monitör odalarıyla ölçülen çıkış birimi; kalibre edilir (ör. 1 cGy/MU referans koşulda). || The accelerator output measured by its monitor chambers, calibrated e.g. to 1 cGy/MU under reference conditions.
+@term TMR || TMR :: Doku–maksimum oranı: aynı noktada d derinliğindeki dozun d_max'taki doza oranı (SAD sabit). || Tissue-maximum ratio: dose at depth d divided by dose at d_max at the same point (fixed SAD).
+@term PTV || PTV :: Planlama hedef hacmi: CTV + kurulum ve hareket belirsizlikleri için marj. || Planning target volume: CTV plus a margin for set-up and motion uncertainties.
+@term DVH || DVH :: Doz–hacim histogramı: bir yapının hangi oranının en az belirli bir dozu aldığı. || Dose-volume histogram: the fraction of a structure that receives at least a given dose.
+@term IGRT || IGRT :: Görüntü kılavuzluğunda radyoterapi: her fraksiyon öncesi kV/CBCT ile hasta konumunu doğrulama. || Image-guided radiotherapy: verifying the patient position with kV/CBCT before each fraction.
+
+@lesson linac | Lineer hızlandırıcı | The linear accelerator | 10
+## Elektronlardan fotonlara || From electrons to photons
+Elektron tabancasından çıkan elektronlar, S-bant (~3 GHz) mikrodalgalarla beslenen bir dalga kılavuzunda MeV enerjilere hızlandırılır. Bükme mıknatısı demeti hedefe yönlendirir. Foton modunda yüksek Z'li bir hedefte frenleme ışınımı üretilir ve düzleştirici filtre demeti düzgünleştirir. Elektron modunda hedef çekilir ve saçıcı folyo dar elektron demetini genişletir. || Electrons from the gun are accelerated to MeV energies in a waveguide fed by S-band (~3 GHz) microwaves; a bending magnet steers them onto the target. In photon mode a high-Z target produces bremsstrahlung and a flattening filter evens out the beam; in electron mode the target is withdrawn and a scattering foil spreads the narrow electron beam.
+* <b>Monitör odaları:</b> çıkışı (MU) ve demet simetrisini sürekli ölçer; çift ve bağımsız olarak çalışır. || <b>Monitor chambers:</b> continuously measure the output (MU) and beam symmetry; they are dual and independent.
+* <b>Kolimasyon:</b> çeneler ve çok yapraklı kolimatör (MLC, 5–10 mm yaprak). Alanı hedefe uydurur ve IMRT/VMAT'ı mümkün kılar. || <b>Collimation:</b> jaws and a multileaf collimator (MLC, 5–10 mm leaves) shape the field to the target and make IMRT/VMAT possible.
+* <b>FFF (düzleştirici filtresiz):</b> doz hızını 2–4 kat artırır; stereotaktik tedavilerde kısa süre sağlar. || <b>FFF (flattening-filter-free):</b> raises the dose rate 2–4×, giving short stereotactic treatments.
+* <b>Nötronlar:</b> ~10 MV üzerinde (γ,n) reaksiyonlarıyla fotonötron oluşur; oda kapısı ve labirent buna göre tasarlanır. || <b>Neutrons:</b> above ~10 MV (γ,n) reactions produce photoneutrons; the door and maze are designed for them.
+> Megavoltaj fotonlarının en büyük avantajı derin girginlik ve cilt korumasıdır (skin sparing). Doz yüzeyde düşüktür ve d_max derinliğinde en yüksek değere ulaşır (6 MV: 1.5 cm, 18 MV: 3.3 cm). || The key advantages of megavoltage photons are deep penetration and skin sparing: the dose is low at the surface and peaks at d_max (6 MV: 1.5 cm, 18 MV: 3.3 cm).
+? Elektron modunda neden hedef çekilir ve saçıcı folyo kullanılır? || Why is the target withdrawn and a scattering foil used in electron mode?
++ Elektronların kendisi tedavi demetidir; folyo dar demeti geniş ve düzgün bir alana yayar || The electrons themselves are the treatment beam; the foil spreads the narrow beam into a broad uniform field
+- Folyo elektronları fotonlara dönüştürür || The foil converts electrons into photons
+- Hedef elektronları hızlandırır || The target accelerates the electrons
+= Hedefe çarpmayan elektronlar doğrudan kullanılır. Dalga kılavuzundan çıkan kalem demet, ince bir yüksek Z folyoda saçılarak klinik alana yayılır. || Electrons that do not hit a target are used directly; the pencil beam from the waveguide is scattered by a thin high-Z foil into a clinical field.
+? Hangi enerjinin üzerinde fotonötron üretimi önem kazanır? || Above which energy does photoneutron production become important?
++ ≈ 10 MV || ≈ 10 MV
+- ≈ 1 MV || ≈ 1 MV
+- ≈ 50 MV || ≈ 50 MV
+= Çoğu malzemede (γ,n) eşikleri 7–10 MeV civarındadır; 15–18 MV demetlerde nötron kontaminasyonu belirgindir. || (γ,n) thresholds in most materials lie around 7–10 MeV, so 15–18 MV beams have noticeable neutron contamination.
+
+@lesson depthdose | Derin doz ve MU hesabı | Depth dose and MU calculation | 12
+@case ayse
+## PDD ve onu etkileyenler || PDD and what affects it
+Yüzde derin doz (PDD), sabit SSD'de merkez eksende dozun derinlikle değişimidir. Enerji arttıkça PDD artar. Alan büyüdükçe saçılma katkısı artar ve PDD yükselir. SSD büyüdükçe ters kare etkisi azalır ve PDD yükselir (Mayneord F faktörü). || The percentage depth dose (PDD) is the change of central-axis dose with depth at fixed SSD. PDD rises with energy, with field size (more scatter) and with SSD (weaker inverse-square effect — the Mayneord F factor).
+%fig pdd
+Izomerkezli (SAD) tekniklerde TMR kullanılır. TMR, ters kare etkisinden arındırılmış derin doz eğrisidir ve kaynak–nokta mesafesi sabit kalır. Çıkış faktörleri, alan boyutunun kolimatör saçılmasını (S_c) ve fantom saçılmasını (S_p) hesaba katar. || Isocentric (SAD) techniques use the TMR, a depth-dose curve free of the inverse-square effect at a fixed source-point distance. Output factors account for collimator scatter (S_c) and phantom scatter (S_p) of the field size.
+$ MU = D / (Ḋ_ref · S_c · S_p · TMR(d, s) · ISF)
+! 6 MV, 10×10 cm² alan, 10 cm derinlikte izomerkeze 200 cGy. Kalibrasyon: izomerkezde d_max'ta 1 cGy/MU. TMR(10 cm) ≈ 0.74, S_c = S_p = 1, ISF = 1. MU = 200 / (1 × 0.74) ≈ 270 MU. || 6 MV, 10×10 cm² field, 200 cGy to the isocentre at 10 cm depth. Calibration: 1 cGy/MU at d_max at the isocentre. TMR(10 cm) ≈ 0.74, S_c = S_p = 1, ISF = 1. MU = 200 / (1 × 0.74) ≈ 270 MU.
+## Elektron demetleri || Electron beams
+Elektronların dozu belirli bir derinlikten sonra hızla düşer. Bu yüzden yüzeysel hedefler için idealdir. Hızlı kurallar (E MeV, derinlik cm): R90 ≈ E/3.2 (tedavi derinliği), R80 ≈ E/2.8, pratik menzil Rp ≈ E/2. Yüzey dozu yüksektir (%75–95) ve enerjiyle artar. Bolus yüzey dozunu artırır ve menzili hastaya göre kısaltır. || Electron dose falls rapidly beyond a certain depth, ideal for superficial targets. Quick rules (E in MeV, depth in cm): R90 ≈ E/3.2 (treatment depth), R80 ≈ E/2.8, practical range Rp ≈ E/2. The surface dose is high (75–95 %) and rises with energy; bolus raises it further and shortens the range in the patient.
+? Alan boyutu büyüdükçe belirli bir derinlikteki PDD nasıl değişir? || How does PDD at a given depth change as the field size grows?
++ Artar (daha fazla saçılma katkısı) || It increases (more scatter contribution)
+- Azalır || It decreases
+- Değişmez || It does not change
+= Büyük alanda merkez eksene daha fazla saçılmış foton ulaşır; özellikle derinlerde PDD yükselir. || In a larger field more scattered photons reach the central axis, raising the PDD, especially at depth.
+? 3 cm derinliğe kadar bir tümörü %90 izodozla kapsamak için hangi elektron enerjisi gerekir (bolus yok)? || Which electron energy covers a tumour down to 3 cm with the 90 % isodose (no bolus)?
++ ≈ 10 MeV || ≈ 10 MeV
+- ≈ 6 MeV || ≈ 6 MeV
+- ≈ 20 MeV || ≈ 20 MeV
+= R90 ≈ E/3.2 → E ≈ 3 × 3.2 ≈ 9.6 MeV. 20 MeV gereksiz derinlere doz verir. || R90 ≈ E/3.2 → E ≈ 3 × 3.2 ≈ 9.6 MeV; 20 MeV would dose unnecessarily deep.
+? TMR'nin PDD'den farkı nedir? || How does TMR differ from PDD?
++ TMR'de kaynak–nokta mesafesi sabittir, ters kare etkisi içermez || In TMR the source-to-point distance is fixed, so it contains no inverse-square effect
+- TMR yalnızca elektronlar için tanımlıdır || TMR is defined only for electrons
+- TMR alan boyutundan bağımsızdır || TMR is independent of field size
+= PDD sabit SSD'de tanımlıdır ve derinleştikçe nokta kaynaktan uzaklaşır. TMR ise izomerkezli tedaviye uygundur. || PDD is defined at fixed SSD, so deeper points are further from the source; TMR suits isocentric treatment.
+
+@lesson planning | Tedavi planlama: hacimler, IMRT/VMAT ve DVH | Treatment planning: volumes, IMRT/VMAT and DVH | 12
+@case hasan
+## ICRU hacimleri || ICRU volumes
+* <b>GTV:</b> görülebilen tümör. <b>CTV:</b> GTV + mikroskobik yayılım. <b>ITV:</b> CTV + iç hareket (ör. solunum). || <b>GTV:</b> visible tumour. <b>CTV:</b> GTV + microscopic spread. <b>ITV:</b> CTV + internal motion (e.g. breathing).
+* <b>PTV:</b> CTV/ITV + kurulum belirsizliği marjı. Reçete dozu PTV'ye verilir. || <b>PTV:</b> CTV/ITV + set-up margin; the prescription goes to the PTV.
+* <b>OAR / PRV:</b> risk altındaki organ ve onun hareket marjı (ör. omurilik + 5 mm). || <b>OAR / PRV:</b> organ at risk and its planning margin (e.g. spinal cord + 5 mm).
+$ M_PTV = 2.5·Σ + 0.7·σ    (Σ: sistematik, σ: rastgele hata SD'leri)
+## Planlama teknikleri || Planning techniques
+3D konformal tedavi, MLC ile şekillendirilmiş birkaç sabit alan kullanır. IMRT, her alanı küçük segmentlere bölerek yoğunluğu modüle eder. Ters planlama bir hedef fonksiyonunu (hedef dozları ve OAR kısıtları) optimize eder. VMAT, gantri dönerken MLC, doz hızı ve hızı sürekli değiştirerek IMRT kalitesini birkaç dakikada verir. || 3D conformal therapy uses a few fixed MLC-shaped fields. IMRT splits each field into small segments to modulate the intensity, with inverse planning optimising an objective function (target doses and OAR constraints). VMAT varies the MLC, dose rate and gantry speed continuously while the gantry rotates, delivering IMRT quality in a few minutes.
+Doku heterojenliği (akciğer, kemik, hava boşlukları) doz hesabını etkiler. Akciğerde düşük yoğunluk derinlerde dozu artırır, penumbrayı genişletir. Modern algoritmalar (AAA, Acuros, Monte Carlo) bunu hesaba katar. || Tissue heterogeneity (lung, bone, air cavities) affects the dose calculation: low-density lung raises the dose at depth and widens the penumbra. Modern algorithms (AAA, Acuros, Monte Carlo) account for this.
+## DVH ve kısıtlar || DVH and constraints
+Kümülatif DVH, bir yapının hacminin hangi yüzdesinin en az D dozunu aldığını gösterir. Hedef için D95 (hacmin %95'inin aldığı doz), OAR'lar için Vx (x Gy alan hacim yüzdesi), Dmax ve Dmean kullanılır. QUANTEC örnekleri: akciğer V20 ≤ %30–35 ve ortalama ≤ 20–23 Gy (pnömoni < %20); omurilik Dmax ≤ 50 Gy (2 Gy fraksiyonda); rektum V70 < %20; parotis ortalama < 25 Gy. || The cumulative DVH shows what percentage of a structure gets at least dose D. Targets use D95 (the dose covering 95 % of the volume); OARs use Vx (percentage receiving x Gy), Dmax and Dmean. QUANTEC examples: lung V20 ≤ 30–35 % and mean ≤ 20–23 Gy (pneumonitis < 20 %); spinal cord Dmax ≤ 50 Gy (2 Gy fractions); rectum V70 < 20 %; parotid mean < 25 Gy.
+! Sistematik hata SD'si Σ = 2 mm, rastgele hata SD'si σ = 3 mm olsun. PTV marjı = 2.5 × 2 + 0.7 × 3 = 7.1 mm. Günlük IGRT Σ'yı 1 mm'ye indirirse marj 2.5 + 2.1 = 4.6 mm olur. || With systematic SD Σ = 2 mm and random SD σ = 3 mm, the PTV margin is 2.5 × 2 + 0.7 × 3 = 7.1 mm. If daily IGRT cuts Σ to 1 mm, the margin becomes 2.5 + 2.1 = 4.6 mm.
+? Reçete dozu hangi hacme verilir? || Which volume is the prescription given to?
++ PTV || PTV
+- GTV || GTV
+- ITV || ITV
+= PTV, CTV'nin kurulum ve hareket belirsizliklerine rağmen reçete dozunu almasını garanti eden geometrik kavramdır. || The PTV is the geometric concept that guarantees the CTV receives the prescription despite set-up and motion uncertainties.
+? van Herk formülünde neden sistematik hata (Σ) rastgele hatadan (σ) daha ağır bir katsayıyla çarpılır? || In the van Herk formula, why does the systematic error (Σ) carry a larger coefficient than the random error (σ)?
++ Sistematik hata tüm fraksiyonlarda aynı yönde kayma yaratır ve dozu kalıcı olarak kaydırır || A systematic error shifts every fraction the same way and moves the dose permanently
+- Rastgele hatalar hiç önemli değildir || Random errors do not matter at all
+- Sistematik hatalar her zaman daha büyüktür || Systematic errors are always larger
+= Rastgele hatalar fraksiyonlar boyunca dozu bulanıklaştırır (ortalaması alınır); sistematik hata ise tüm dağılımı hedeften kaydırır. || Random errors blur the dose over the fractions (they average out), whereas a systematic error shifts the whole distribution off the target.
+? Akciğer için QUANTEC'in V20 önerisi nedir? || What does QUANTEC suggest for lung V20?
++ ≤ %30–35 || ≤ 30–35 %
+- ≤ %80 || ≤ 80 %
+- ≤ %5 || ≤ 5 %
+= V20 ≤ %30–35 ve ortalama akciğer dozu ≤ 20–23 Gy ile semptomatik pnömoni riski < %20 tutulur. || V20 ≤ 30–35 % and mean lung dose ≤ 20–23 Gy keep symptomatic pneumonitis risk below 20 %.
+
+@lesson protons | Proton tedavisi ve Bragg piki | Proton therapy and the Bragg peak | 10
+## Neden proton? || Why protons?
+Protonlar dozlarının çoğunu Bragg pikinde bırakır ve ardından neredeyse hiç doz vermez. Fotonlarda ise hedefin arkasında da önemli doz (çıkış dozu) vardır. Bu yüzden proton tedavisi, özellikle çocuklarda ve kritik organlara yakın tümörlerde (göz, kafa tabanı, omurga) integral dozu belirgin azaltır. || Protons deliver most of their dose in the Bragg peak and almost none beyond it, whereas photons also deposit substantial exit dose behind the target. Proton therapy therefore cuts the integral dose markedly, especially in children and for tumours near critical organs (eye, skull base, spine).
+%fig bragg
+Tek bir pik birkaç mm genişliğindedir. Hedefi kapsamak için farklı enerjilerdeki pikler ağırlıklandırılarak toplanır: yayılmış Bragg piki (SOBP). Modern sistemler kalem ışın taraması (PBS) ile hedefi enerji katmanları ve noktalar halinde boyar; bu yöntem yoğunluk modülasyonlu proton tedavisine (IMPT) izin verir. || A single peak is a few mm wide. To cover a target, peaks of different energies are weighted and summed into a spread-out Bragg peak (SOBP). Modern systems paint the target layer by layer and spot by spot with pencil beam scanning (PBS), which enables intensity-modulated proton therapy (IMPT).
+## Belirsizlikler || Uncertainties
+!! Protonların keskin distal düşüşü bir avantajdır, ama menzil belirsizliği bir risktir. BT HU'larının durdurma gücüne dönüşümündeki hatalar ve anatomik değişiklikler nedeniyle tipik olarak "%3.5 + 1 mm" menzil marjı kullanılır. Demetler kritik bir organı doğrudan hedeflemeyecek şekilde düzenlenir. || The sharp distal fall-off of protons is an advantage, but range uncertainty is a risk. Because of errors in converting CT HU to stopping power and anatomical changes, a range margin of typically "3.5 % + 1 mm" is used, and beams are arranged so that they do not point straight at a critical organ.
+Klinikte proton dozları sabit RBE = 1.1 ile Gy(RBE) olarak reçete edilir. Gerçekte RBE pikin distal ucunda LET arttıkça 1.1'in üzerine çıkabilir. || Clinically, proton doses are prescribed in Gy(RBE) with a constant RBE of 1.1, although the RBE can exceed 1.1 at the distal end of the peak where LET rises.
+? Protonların fotonlara göre temel dozimetrik avantajı nedir? || What is the main dosimetric advantage of protons over photons?
++ Hedefin arkasında neredeyse hiç doz bırakmamaları (çıkış dozu yok) || They deposit almost no dose beyond the target (no exit dose)
+- Cilt dozlarının sıfır olması || Their skin dose is zero
+- RBE'lerinin 20 olması || Their RBE is 20
+= Bragg pikinden sonra doz keskin düşer. Giriş dozu sıfır değildir ama fotonlardan düşüktür. || The dose drops sharply after the Bragg peak; the entrance dose is not zero, but lower than for photons.
+? Klinik proton tedavisinde kullanılan RBE değeri nedir? || What RBE value is used in clinical proton therapy?
++ 1.1 || 1.1
+- 2 || 2
+- 20 || 20
+= Gy(RBE) = 1.1 × fiziksel doz. ICRP'nin korunma amaçlı w_R = 2 değeri ile karıştırılmamalıdır. || Gy(RBE) = 1.1 × physical dose; not to be confused with ICRP's protection weighting factor w_R = 2.
+
+@lesson brachyqa | Brakiterapi ve kalite güvence | Brachytherapy and quality assurance | 11
+## Brakiterapi || Brachytherapy
+Brakiterapide kaynak tümörün içine veya yakınına yerleştirilir. Doz kaynaktan uzaklaştıkça ters kare yasasıyla hızla düşer. Bu yüzden hedefte yüksek doz verilirken çevredeki dokular korunur. HDR tedavide Ir-192 kullanılır (T½ 73.8 gün, ortalama ~380 keV, ~370 GBq), uzaktan yüklemeli cihazla uygulanır. Kalıcı LDR tohumlarda I-125 (T½ 59 gün, 27–35 keV) veya Pd-103 kullanılır. || In brachytherapy the source is placed inside or next to the tumour. Dose falls steeply with distance (inverse square), giving a high target dose while sparing surrounding tissue. HDR uses Ir-192 (T½ 73.8 days, mean ~380 keV, ~370 GBq) in a remote afterloader; permanent LDR seeds use I-125 (T½ 59 days, 27–35 keV) or Pd-103.
+$ Ḋ(r, θ) = S_K · Λ · [G(r, θ)/G(r₀, θ₀)] · g(r) · F(r, θ)       (AAPM TG-43)
+Kaynak gücü hava kerma gücü S_K ile belirtilir (U = µGy·m²/h). Λ doz hızı sabitidir, g(r) radyal doz fonksiyonu, F(r,θ) anizotropi fonksiyonudur. Ir-192 kaynağının aktivitesi her gün ~%1 azalır; tedavi süresi otomatik olarak uzatılır ve kaynak yaklaşık her 3 ayda bir değiştirilir. || Source strength is given as the air-kerma strength S_K (U = µGy·m²/h); Λ is the dose-rate constant, g(r) the radial dose function and F(r,θ) the anisotropy function. An Ir-192 source loses ~1 % per day, so treatment times are lengthened automatically and the source is replaced about every 3 months.
+## Kalite güvence || Quality assurance
+* <b>Günlük:</b> çıkış sabitliği ±%3, lazerler, emniyet kilitleri, ışık–ışın uyumu (AAPM TG-142). || <b>Daily:</b> output constancy ±3 %, lasers, safety interlocks, light/radiation coincidence (AAPM TG-142).
+* <b>Aylık / yıllık:</b> PDD ve profiller, MLC konum doğruluğu, izomerkez, görüntüleme sistemleri; yıllık referans dozimetri (TRS-398). || <b>Monthly / annual:</b> PDD and profiles, MLC positional accuracy, isocentre, imaging systems; annual reference dosimetry (TRS-398).
+* <b>Hastaya özgü QA:</b> IMRT/VMAT planı fantomda ölçülür ve gama analiziyle karşılaştırılır (ör. %3/2 mm, geçen nokta oranı ≥ %95; TG-218). || <b>Patient-specific QA:</b> the IMRT/VMAT plan is measured in a phantom and compared by gamma analysis (e.g. 3 %/2 mm, ≥ 95 % passing; TG-218).
+* <b>Uçtan uca testler:</b> BT çekiminden tedaviye kadar tüm zinciri antropomorfik fantomla doğrular. || <b>End-to-end tests:</b> verify the whole chain from CT simulation to delivery with an anthropomorphic phantom.
+> Radyoterapide hatalar sistematiktir ve birçok hastayı etkileyebilir. Bu yüzden bağımsız MU kontrolü, iki kişilik plan onayı ve olay raporlama kültürü medikal fizikçinin temel sorumluluklarıdır. || Errors in radiotherapy are systematic and can affect many patients, so independent MU checks, two-person plan approval and an incident-reporting culture are core responsibilities of the medical physicist.
+? HDR'de kaynaktan 1 cm yerine 2 cm uzakta doz yaklaşık nasıl değişir (yalnızca ters kare)? || In HDR, how does the dose change at 2 cm instead of 1 cm from the source (inverse square only)?
++ 4 kat azalır || It falls fourfold
+- 2 kat azalır || It halves
+- Değişmez || It does not change
+= (1/2)² = 1/4. Dokudaki zayıflama ve saçılma g(r) ile düzeltilir, ama baskın etki ters karedir. || (1/2)² = 1/4; attenuation and scatter in tissue are corrected by g(r), but the inverse square dominates.
+? IMRT hasta QA'sında tipik gama kriteri nedir? || What is a typical gamma criterion for IMRT patient QA?
++ %3 / 2 mm, geçen noktalar ≥ %95 || 3 % / 2 mm with ≥ 95 % of points passing
+- %10 / 10 mm || 10 % / 10 mm
+- %0.1 / 0.1 mm || 0.1 % / 0.1 mm
+= AAPM TG-218, %3/2 mm ve ≥ %95 eylem/tolerans düzeylerini önerir. || AAPM TG-218 recommends 3 %/2 mm with ≥ 95 % as the tolerance/action level.

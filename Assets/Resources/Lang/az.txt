@@ -1,0 +1,1332 @@
+002e566d	Klinik hallar
+005ef20f	Vəziyyət
+006f11ff	Ağciyər düyünü (şiş)
+00e896c1	dmax və PDD1# dəyərlərini # MV fotonlar üçün ölçün (≥ # # tarixçə)
+00e97d3d	Heç bir risk yoxdur.
+01446da3	Kontrastlı qan
+01b10287	Qaraciyər
+022ebff6	  — izahları oxuyun və yenidən cəhd edin.
+02307551	Radiasiya mühafizəsinin üç prinsipi: əsaslandırma, optimallaşdırma (ALARA: ağlabatan dərəcədə mümkün qədər aşağı) və doza həddləri. İşçi: # mSv/il (# il üzrə orta, bir ildə maks. #), əhali: # mSv/il, göz bülluru: # mSv/il.
+0282b42b	Qəfəssiz: nazik uşaq döş qəfəsi üçün düzgün seçim.
+02875262	Arterial təzyiq
+028cc680	Geniş sahə açıb qalxanabənzər vəzinin üzərinə qurğuşun qoyuram
+02daa186	Qradiyent exo
+02ff0734	saat
+03410798	# nömrəli dərslə başla  →
+03aded2d	Proton
+03d9f12f	TƏSDİQLƏ
+04215fff	Müalicə başlığı
+04665812	Orta enerji (giriş / detektor)
+04b21fef	Yalnız periferiya
+04c33449	İlkin atom sayı N₀
+05446544	İonlaşdırıcı şüalanma
+054ed6b1	#. Protonlar və Breqq piki
+0551e426	Superkeçirici maqnit
+05735a1f	Müayinə zamanı güclü taqqıltılar eşidilir. Səbəbi və ehtiyat tədbiri?
+05747e6b	Cari tövsiyələr (AAPM #, BIR/IPEM #): kollimasiya ən effektiv qorumadır. Sahədən kənar gonad dozası onsuz da çox kiçikdir; sahəyə sürüşən qoruyucu anatomiyanı gizlədir və avtomatik ekspozisiya dozanı artırır.
+05883f18	Doza gücü H*(#)
+05aeb14d	Gözə və sağlam üz dərisinə lazımsız doza.
+05b19ab8	Öyrənmə məsləhətləri
+05b21be8	Şiş EQD2 = n·d·(d + #)/(# + #) = # Gy — kurativ aralıq.
+05f6dc9a	Əsas sahə B₀
+069d81b7	 kanal
+06ba43bc	Hər kürə bir nüvədir. Hər zaman addımında p = # − e^(−λΔt) ehtimalı ilə parçalanır və foton xətti buraxır; nüvə az olduqda N(t) statistik olaraq dəyişir.
+06df51de	Yeridilən aktivlik
+07001202	Meyl bucağı α
+07157b8f	Yod bu enerjidə işıq buraxır
+078f2dfe	Pasiyent
+07a4c4cc	Futbol oynayarkən sağ diz burulub; kilidlənmə, şişkinlik
+07ef138f	SEKANSI İŞƏ SAL
+0827bee2	Doza həddləri (ICRP #)
+086c6bbb	Rəng: #%·#%·#%·#%·#% izodozlar. Konturlar: yaşıl PTV, sarı onurğa beyni, qırmızı ürək, çəhrayı ağciyərlər.
+08c92619	Uşaqlar böyüklərdən #–#× daha radiohəssasdır və qarşıda uzun ömürləri var → ALARA daha da vacibdir.
+09138ded	Əməliyyat istəmirəm. Bu şüa müalicəsi necədir, ağrıdırmı?
+096813ae	Küy (σ, bircins sahə)
+098d1ad9	Qaraciyərin radioembolizasiyası (SIRT)
+09c4871c	Yumşaq toxumada # MeV-lik fotonun əsas qarşılıqlı təsiri hansıdır?
+09f71920	Larmor tezliyi
+09feeabb	# MeV protonların Breqq pikini NIST CSDA qaçış məsafəsi ilə müqayisə edin
+0a496fc5	Döl dozası ≈ SSDE (uşaqlıq tamamilə sahədədir). Diaqnostik küy həddi ≈ # HU (aşağı dozalı appendisit protokolu). kV, mAs, pitch və skan uzunluğunu seç, sonra SKAN ET düyməsini bas.
+0a52c35c	T1-çəkili
+0aa78268	Hipofraksiya: prostatın α/β-sı düz bağırsağınkından aşağıdır, buna görə böyük fraksiyalar şişin xeyrinədir (CHHiP #/#, PACE-B #/#) və xəstə daha az yol gedir.
+0ac8a560	Sıfırla
+0acf4d25	Böyük mətn
+0b4677ab	EANM: qlükoza < # mmol/L (≈ # mg/dL). Hiperqlikemiya FDG ilə rəqabət aparır və şişdə toplanmanı azaldır.
+0b4d8f40	sağ qalan hissə
+0b81ff1c	Üst çənə sümüyü ≈ # sm ocağın altındadır
+0b8b3199	Doza məhdudiyyətləri (QUANTEC / RTOG)
+0bbe8b9f	Real vaxt Monte Karlo: hər iz bir hissəcikdir. Daha çox tarixçə = daha az statistik küy (σ ~ #/√N).
+0c1c4f42	Radiasiya onkologiyası: kurativ EBRT, prostat ± toxum qovuqcuqları (Dr. Kılıç)
+0c2610e2	Cırıq/menisk CNR #: cırıq aydın görünür (maye parlaq, menisk PD/T2-də tünd).
+0c433245	Aşağı şiş/fon nisbəti → mərhələləndirmə xətası riski.
+0c903e49	Qurğuşun pərdələr sahəni məhdudlaşdırır: daha az pasiyent dozası və səpilmə. Al/Cu filtrləmə aşağı enerjili fotonları çıxarır, dəstəni sərtləşdirir və dəri dozasını azaldır.
+0ccd4680	Kürə / fon nisbəti
+0ce92428	CTDIw: # cm bədən (# cm baş) fantomu; E = DLP × k (döş #, qarın #, baş # mSv/mGy·cm).
+0d78d08a	# cm enində SOBP qurun
+0db9cc3e	Nəbz
+0dec8195	#° – τ – #° tətbiq edib spin exo yaradın
+0e1a0a7b	tək doza, α/β = # (erkən / şiş)
+0e32111a	Şüa dəstəsi
+0e629e6c	Yenidən planla: ≥ #–# saat aclıq, qlükoza < # mg/dL olmalıdır
+0f01dfcb	Növbəti elüsiya vaxtı
+0f6a0301	#×# sm aplikator, kəsiksiz
+0ff4383c	Hamilə işçi (döl)
+10225e52	Kortikal sümük
+10bddc32	Gözdəki ferromaqnit qəlpə B₀-da yerini dəyişib korluğa səbəb ola bilər → əvvəlcə orbit rentgenoqrafiyası (və ya KT).
+10bee102	Kənarlaşma indeksi (DI)
+10f562e1	Sürətli təsirli insulin verib dərhal inyeksiya edirəm
+10f6a1bd	Xətti-kvadratik model • BED
+113249ae	Bütün doza məhdudiyyətlərinə cavab verən foton planı qurun
+114fa830	Çoxlövhəli kollimator (#–# mm lövhələr) sahəni şişə uyğunlaşdırır və IMRT ilə VMAT-da şüalanma zamanı hərəkət edir.
+116e6f62	Hologram
+11a18b82	Hamısını sil
+11a4e77a	Diaqnostik / müalicə keyfiyyəti
+124f5fe7	Ağ / boz maddə kontrastı (işarədə)
+129b582e	DI # → düzgün ekspozisiya.
+132d55ba	nisbi fotonlar
+134c264b	Metal artefaktı: bud protezi olan çanaq kəsiyini skan edin
+135a8cc7	 saat sonra
+136685c9	EQD2 şiş (α/β #) = # Gy, gec dəri (α/β #) = # Gy. Nəzarət və kosmetika arasında yaxşı balans.
+1370333f	Sahənin eni
+138fb3e1	Doğrudur: I/I₀ = e^(−μx). σ ~ #/√N olduğundan, eyni mAs-da küy ≈ √# ≈ #× artır.
+13ad4851	β-hCG MÜSBƏT: təxminən # həftəlik hamilə.
+13bea53e	# qızıl marker implantasiya edilib
+13f06473	Göstəriciləri təmizlə
+1451f91f	həqiqi 
+14d5133a	ACR (#) və ESUR #: eGFR ≥ # olduqda metformin davam etdirilir; absesi aşkar etmək üçün venadaxili kontrast lazımdır.
+14e77c03	İrəliləyişi sıfırla
+151c3f35	Detektor halqası (LYSO + SiPM)
+1527c7a5	Tibbi fizikanı real hesablamalarla kiçik addımlarla öyrənin.
+15b23cec	 xal
+15c3229f	α/β şiş
+15cf43c6	kV mənbəyinin qarşısındakı yastı panel; qentri fırlanarkən CBCT üçün yüzlərlə proyeksiya toplayır.
+15f25e35	Ana südü ilə qidalandırma və yaxın təmas
+15fd9964	Türk və ingilis dillərindən başqa dillər maşın dəstəkli tərcümələrdir; xahiş edirik, səhvləri bildirin.
+16092a9e	Yenidən cəhd edin — izahlar sizə yol göstərəcək.
+160c0541	Neytron yüksüzdür; enerjisini əvvəlcə geri itələnən protonlara (əsasən hidrogen) ötürür, dozanı isə sonra onlar ötürür.
+16280e6a	Pasiyentdən gələn doza gücü ~ A/d²; F-# T½ = # dəq. Yaxın təması bir neçə saat təxirə salmaq körpənin dozasını kəskin azaldır.
+1640e3a4	məsafə (m)
+164b6930	Göstəricini qeyd et
+16b19be2	kVp effekti: ≤# kVp və ≥# kVp-də ekspozisiya edin; sümük kontrastını müqayisə edin
+16d4a955	Radioterapiya
+17098140	Prostat adenokarsinoması, orta risk (Gleason ##, PSA #)
+1716fced	Döl dozası ≈ SSDE = # mGy (CTDIvol # × f #).
+1725def4	K xətləri üçün düşən elektron K təbəqəsinin rabitə enerjisini aşmalıdır; buna görə volframın K xətləri yalnız # kVp-dən yuxarıda yaranır.
+17278db5	Enerji
+17a150b4	Bəli — xarakterik xətlər kVp-dən asılı deyil
+17a890d2	Qalan nüvələr N(t)
+17c2afe2	Yumşaq toxumada təxminən # keV-dən aşağıda fotoelektrik effekt, # keV ilə ~# MeV arasında Kompton, ondan yuxarıda isə cüt yaranma üstünlük təşkil edir. Qurğuşun kimi yüksək Z-li materiallarda fotoelektrik oblastı təxminən # keV-ə qədər uzanır — buna görə qurğuşun yaxşı qoruyucudur.
+17cd8fa8	 dərs • 
+1808f4a6	Yumşaq toxumada Kompton təxminən # keV-dən # MeV-ə qədər üstünlük təşkil edir. Cüt yaranma # MeV həddindən aşağıda ümumiyyətlə baş verə bilməz.
+18279c08	Genişləndirilmiş Breqq piki (SOBP)
+18284597	<b>Ekspozisiya indeksi</b> EI = # × K_detektor [µGy] (IEC ##). Sapma indeksi DI = #·log₁₀(EI / EI_hədəf); |DI| ≤ # uyğundur. DI = # lazım olan dozanın iki qatı deməkdir.
+182fdbbe	EANM (yataq örtüşməsi > # %): A·t ≥ # MBq·dəq·kg⁻¹ × çəki. Daha az aktivlik + daha uzun vaxt eyni təsviri daha aşağı dozada verir. Tövsiyə olunan toplanma müddəti # ± # dəq.
+18674089	<b>Koherent səpilmə:</b> foton enerji itirmədən istiqamətini dəyişir; aşağı enerjilərdə kiçik pay.
+18d0a565	Döş qəfəsinin KT-si
+1904dc9d	EANM tövsiyəsi
+19201036	Vaxt–məsafə–ekranlama, tərs kvadrat qanunu, doza gücü xəritəsi, tapşırıqlar.
+193ee1fd	Genişləndirilmiş Breqq piki (SOBP, # cm)
+19b5eb24	Praktik qayda: R9# ≈ E/# sm, R5# ≈ E/# sm, Rp ≈ E/# sm. Elektronlar kəskin müəyyən dərinlikdə dayanır — səthi şişlər üçün idealdır.
+19c23656	 saat gözləmə
+1a36a166	İrəliləyiş
+1ace7035	Yastı panel detektor
+1b01a1c6	Atom Z proton və N neytrondan ibarət nüvədən və onu əhatə edən Z elektrondan ibarətdir. Kütlə ədədi A = Z + N-dir. Z-i eyni, N-i fərqli olan nüvələr izotoplardır, məsələn ¹²C və ¹⁴C.
+1b06e46e	≥ # # koinsidens toplayın və MLEM ilə rekonstruksiya edin
+1b12fad7	# tip diabet (metformin)
+1bbe9bf8	Mehmet: "Qollar başın üstündə? Yaxşı."
+1be9e2d9	Yarımzəifləmə qatı (HVL) intensivliyi yarıya endirən qalınlıqdır: HVL = ln2/μ. Onda birzəifləmə qatı TVL = ln1#/μ ≈ # HVL-dir. n HVL intensivliyi #ⁿ dəfə azaldır.
+1c872a31	bəli (> # MV)
+1ca87565	Dəri nişanları və lazerlər kifayətdir
+1cb740a3	<b>Tərs kvadrat qanunu:</b> intensivlik ~ #/d². SID-i # cm-dən # cm-ə dəyişmək eyni detektor dozası üçün ~#× mAs tələb edir, lakin dəri dozası daha az artır və böyütmə azalır.
+1cc0e3d5	Ana soruşur: "Bu rentgen oğluma zərər verə bilərmi?" Emirin effektiv dozası ≈ 
+1d4b8ac2	Dərhal inyeksiya
+1d6b9aba	Orqanogenez dövründə (#–# həftə) deterministik hədd ~#–# mGy-dir; diaqnostik müayinələr bundan çox aşağıdır.
+1d8a20dd	Mehmetin qarnı 
+1dd9a37f	Qeyri-standart toplanma müddəti: SUV-lar əvvəlki/sonrakı skanlarla müqayisə oluna bilməz.
+1e6a827e	# T-da protonun Larmor tezliyini tapın (≈ # MHz)
+1e836d59	T2 sönməsi
+1f05f68e	Toxuma parametrləri
+1f12087d	Doza ≈ 
+1f4ea376	İlkin Mo-# aktivliyi
+1f6b3b4a	Sümük (# sm) # % — qorunur.
+20170133	Diş plombları
+2056fe0a	Co-#-un PDD-si aşağı, yarımkölgəsi genişdir; müasir radikal prostat şüa terapiyasında istifadə olunmur.
+20c4a5a9	Dəri görünüşü
+20c53222	İstənilən mövzunu seçin. Yenisinizsə, əvvəlcə qısa başlanğıc halını sınayın.
+20caf1bb	Generatoru əvvəlki elüsiyadan #–# saat sonra elüsiya edin (maksimum çıxım)
+210acf6e	Hasan: "Neçə gün gəlməli olacağam? Kənddən gəlirəm."
+218447b4	Yağ
+21db31eb	Qısa TR/TE → T1; uzun TR, qısa TE → PD; uzun TR/TE → T2 çəkilənmə.
+21f331e9	# çiyin artroskopiyası: titan ankerlər
+224a7dd2	Xarici şüalanmada belə məhdudiyyət yoxdur; braxiterapiya toxumlarına aid ola bilər.
+229566cb	Həsən: "Müalicədən sonra nəvələrimi qucaqlaya bilərəmmi? Radioaktiv olacağammı?"
+22a06b53	ALARA: ESAK < # mGy və DI ≥ −# olan döş qəfəsi təsviri
+22fd0749	Gündəlik IGRT orqan hərəkətini düzəldir, kənarları və düz bağırsaq dozasını azaldır.
+2357d727	Dəstə fizikası
+23f641a4	• Hər düsturda vahidləri yoxlayın (cm⁻¹, Gy, Sv, MBq). • Nümunələri əvvəlcə özünüz həll edin, sonra yoxlayın. • Sınaq imtahanından sonra səhv etdiyiniz sualların dərslərini təkrarlayın. • Müsahibələrdə ən çox soruşulanlar: ICRP prinsipləri, HVL, tərs kvadrat qanunu, LQ/EQD2, CTDIvol/SSDE, T1/T2, PDD və Breqq piki.
+24176da5	Mo-# / Tc-#m generatoru
+2448ca2f	qurğuşun
+2456b993	Kontrast
+2523a664	Mənbəyə yaxınlaşın (< # m), onu götürün və qurğuşun konteynerə aparın.
+25266a5c	Hazırdır. Mərkəz/fon nisbəti: 
+252a0fa6	qorunmasız
+253898c0	Sayım kifayətliliyi # — EANM səviyyəli təsvir keyfiyyəti.
+25517e15	Brəqq piki
+2576aae7	Çəki / boy
+25941612	Sümük dozası (# sm)
+25b31f5d	Borunun çıxışı (# m)
+25c2fc03	Sual tapılmadı.
+25e14a19	Cərəyan × zaman
+25edd5e3	proton və elektronların tormozlama qabiliyyəti / qaçış məsafəsi istinadları
+26f973b0	Zəifləmə düzəlişi (AC)
+26fbd2ec	Rentgen şüasını γ şüasından nə fərqləndirir?
+2731d14d	HALA BAŞLA  →
+2749a496	Pasiyentin effektiv dozası
+27c35a89	 (T2 itkisi: e^(−TE/T2))
+280f0096	İlk halınızla başlayın
+287f6fa8	Verilmiş fraksiyalar
+2885d27b	Səpilməyə qarşı şəbəkə (#:#)
+28a6f0c2	Qrafik
+28ce8c15	Detektorlar pozitronun özünü ölçür
+290489df	Vahid yol üzrə qarşılıqlı təsir ehtimalı (cm⁻¹); μ/ρ kütləvi zəifləmə əmsalıdır (cm²/g).
+296d75eb	Radiobiologiya
+29aac115	tək doza, α/β = # (gec)
+29e178a3	Ailə ilə söhbət
+29e32f3e	Qeydiyyat
+2a17c8fd	Qaraciyər küyü # HU: aşağı kontrastlı absses küydə itə bilər.
+2a72143f	Pultda < # µSv/saat üçün lazımdır
+2ab93b6c	Hədəf: hər yerdə ≥ # % doza (dəridən # sm dərinliyə qədər); sümükdə ≤ # % (# sm dərinlikdə). Enerji və bolus qalınlığını seç.
+2ad83ea8	SKAN ET
+2afcdfa8	CNR cırıq / menisk
+2b05bc17	Hər atom hər zaman addımında p = # − e^(−λΔt) ehtimalı ilə parçalanır. Atom az olduqda əyri statistik olaraq dəyişir.
+2b45b1f2	MLEM iterasiyaları
+2b8ee748	Seçilmiş sxem
+2bab58c8	MR təhlükəsizliyi: sorğu forması, orbit rentgenoqrafiyası (metal işçiləri), IV zona qaydaları, eşitmə qorunması.
+2bbeecb2	Real pasiyentlər, real qərarlar: uşaq döş qəfəsi rentgeni, hamiləlikdə KT, iri pasiyent, prostat radioterapiyası, dəri xərçəngi, PET və MR təhlükəsizliyi.
+2bd2dbd1	Titan bud protezi
+2be6e625	HDR braxiterapiya
+2bfaf1fc	hələ çəkilməyib
+2c30aab8	Ümumi doza / vaxt
+2c89960f	EQD2 şiş (α/β #) = # Gy, gec dəri (α/β #) = # Gy. Tək böyük fraksiya gec nekroz və qığırdaq zədələnməsi riski daşıyır.
+2cafb291	Klinik hallar — 
+2cb28fc5	Hissələr
+2ceef116	Maqniti söndürüb sonra içəri buraxmaq
+2d0ea9f2	Ümumi doza
+2d435572	Lazımsız qorxu yaradır və diaqnozu gecikdirir; əsaslandırılmış müayinə əngəllənməməlidir.
+2d877b6c	Bölmə
+2d93483f	Birdən çox variant seçə bilərsiniz.
+2dcee2fc	elüsiyadan sonra (saat)
+2e160bcd	Mərhələ
+2e6390f7	Hazırdır. 
+2e83162e	Sekansın tərtibi
+2eafe887	Sürət
+2ebd290f	Boru yükü (pitch #)
+2ecb2727	Aşağı kV yodun kontrastını artırır, lakin iri xəstələrdə foton çatışmazlığı yaradır.
+2f0820de	Kontrastsız skan edirəm
+2f44ed8c	Yenidən başla
+2f828120	Su ilə dolu silindrdə müxtəlif ölçülü isti kürələr və ağciyər əlavəsi: bərpa əmsalları, qismən həcm effekti və zəifləmə düzəlişi onunla yoxlanılır.
+2fc8666a	CNR ödem / iliyi
+3000eed2	vaxt (gün)
+304ff7fb	Yoxdur
+30b6e97d	Elektron enerjisi və bolus
+30fa92b1	Rekonstruksiya olunmuş təsvir
+3152bf83	Sümük metastazları (alfa terapiyası)
+31b9a47d	T1 bərpası
+31e91d5f	Ortada nazik, kənarlarda qalındır: pasiyentin nazik kənarlarında dozanı azaldır və detektor siqnalını bərabərləşdirir. Kollimator kəsik qalınlığını təyin edir.
+327a15b7	Fotoneytron yaranması ~# MV-dən yuxarı başlayır; VMAT ilə dərin hədəflər üçün #–# MV kifayətdir.
+32abb5ec	Əvvəlcə yüklü hissəcikləri hərəkətə gətirən yüksüz hissəciklər (fotonlar, neytronlar).
+32d80beb	toxuma tərkibləri, doza kəmiyyətləri, çəki əmsalları
+33449df1	#. Zəifləmə və filtrləmə
+3377af3e	Düzdür: F = I·L × B. Səs-küy B₀ ilə artır (# T-da daha güclü); IEC ### eşitmə qorunmasını tələb edir.
+33c3fd73	Nüvə Təbabəti
+33d5539e	Göndəriş var, dərhal skan edirəm
+33d5b2f2	Əzələ
+34049cb1	Şiş
+340a8d84	Spiral skan zamanı sabit sürətlə hərəkət edir. Pitch = bir dövrdə masanın irəliləməsi / dəstənin ümumi eni; pitch > # dozanı azaldır.
+340d8b25	Geri səpilmə E′(#°)
+347ac991	Birinci HVL yumşaq fotonları çıxarır, buna görə qalan dəstə daha sərtdir
+34895938	Döşəmə: doza gücü H*(#), µSv/saat (log şkala) • ağ xətt = # µSv/saat
+34a0fb80	Yüklü hissəciklər (elektronlar, protonlar, α) yolları boyu daim Kulon qarşılıqlı təsirlərinə məruz qalır və birbaşa ionlaşdırıcıdır. Fotonlar və neytronlar yüksüzdür: əvvəlcə yüklü bir hissəciyi hərəkətə gətirirlər (foton → elektron, neytron → geri itələnən proton) və dozanı həmin hissəcik ötürür.
+34a3d9ed	Tərtibatçı
+34aaa379	 dəq
+34dd8fb9	#. Blox tənlikləri və relaksasiya
+3510b740	İnsulin FDG-ni əzələ və piyə yönəldir; sonra ≥ # saat gözləmək lazımdır.
+35143fb3	TE (exo müddəti)
+35afca3b	Ləğv et
+35dd3154	Atomlar və nüvələr, şüalanma növləri, fotonların və yüklü hissəciklərin maddə ilə qarşılıqlı təsiri — bütün tibbi fizikanın təməli.
+35dfee4a	Atomun quruluşu
+35fca6f7	Tarixçələr
+36014d05	k-fəza
+360983be	Su ilə dəstə sərtləşməsi düzəlişi (BHC)
+36315a9f	Kortikal sümük / kontrastlı qan
+363200c3	Hazırdır: 
+36375dc7	Bütün irəliləyiş sıfırlansın?
+365bad67	Səviyyə 
+368f3298	 sual
+36c94f4b	Diabet yoxdur
+36cc1e6f	İdarəetmə pultunda (yaşıl işarə) doza gücünü # µSv/saat-dan aşağı salın
+3769e565	#. Doza
+3809b45a	Spin exo! t = 
+381fcf9b	Küy (sidik kisəsi ROI, SD)
+38362f62	Tamamlanmış tapşırıqlar, hal ulduzları və dərs irəliləyişi silinəcək. Bunu geri qaytarmaq olmaz.
+38652f80	Toplanma vaxtı
+38ec0bda	Effektiv doza (# mSv/MBq)
+38f2a757	Xüsusi aktivlik (təmiz)
+38f6bec6	Aksial kəsik (HU)
+38f9308a	Kəllə
+39547f25	Filtrsiz
+396c9c92	Ağciyər V2# < # %
+398977ad	Detektor kanalları
+399e986d	Tapşırıqlar
+3a6a3b1d	Qalan / parçalanmış
+3ad53794	AP
+3b1cbe1c	Müayinədən sonra bədəndəki aktivlik
+3b272149	✗ Səhvdir
+3b2ac288	Yağlı iliyin ödemi yalnız yağ supressiyası (və ya STIR) ilə görünür.
+3b6eb64c	Düz bağırsağın ön divarı prostata bitişikdir
+3b7e32aa	Giriş / pik nisbəti
+3b8987c9	  — dərs mənimsənildi!
+3ba1a0c6	Hər HVL intensivliyi yarıya endirir: (#/#)³ = #/#.
+3c21cd4d	Təyinat
+3c2dfe59	Gizli
+3c4cfbae	Titan ferromaqnit deyil (MR üçün təhlükəsiz / şərti); heç bir tədbir lazım deyil.
+3c988cc0	Orta enerji
+3d27f064	<b>Cüt yaranma:</b> nüvənin sahəsində foton elektron–pozitron cütünə çevrilir; hədd # MeV-dir və ehtimal təxminən Z² kimi artır.
+3d6b9f1f	Ağciyər şişi
+3dbec6d5	Ekspozisiya indeksi (EI)
+3e04a9b3	# keV-lik rentgen fotonunun dalğa uzunluğu: λ ≈ # / # = # nm — atom diametrinin təxminən onda biri (~# nm).
+3e0553f6	Döş qəfəsi
+3e233fe3	Orta ömür τ = #/λ
+3e246e80	Ana soruşur: "Bu rentgen oğluma zərər verə bilərmi?" Emirin effektiv dozası ≈ # µSv. Nə deyirsən?
+3e26d09f	Ödem/ilik CNR #: zəif kontrast.
+3e3a239c	Görüntüləmə üsulu
+3e5c100c	Ortopediya: sağ diz MRT — menisk cırılması? sümük əzilməsi? (Dr. Polat)
+3e6fed3c	Blox sferası (fırlanan sistem)
+3ea76ce8	BED şiş
+3f01de3a	Beş qarşılıqlı təsir
+3f6fbd86	k-fəza seçməsi
+3f99f636	Küy # HU: diaqnostik deyil — təkrar lazım olardı və bu, ümumi dozanı artırar.
+3fa74db5	Foton spektri (hədəf + hamarlayıcı filtr)
+3fddf4f8	Əla! Materialı mənimsəmisiniz.
+3fe8604c	Döymə
+3feef465	− Sil
+4007d15d	Öyrənmə Mərkəzi — # mövzu, # dərs
+40253cf6	μ xətti zəifləmə əmsalıdır (cm⁻¹), dörd qarşılıqlı təsir həddinin cəmi. μ/ρ (cm²/g) sıxlıqdan asılı deyil, buna görə cədvəllərdə verilir (NIST XCOM).
+40361aca	Fraksiyaların sayı
+4036e7f4	Bu tətbiq tibbi fizikanın əsas mövzularını interaktiv #D simulyasiyalarla öyrədir. Bütün hesablamalar real fiziki modellərə və istinad məlumatlarına əsaslanır, lakin klinik istifadə üçün DEYİL.
+4068c7dd	# saat əvvəl səhər yeməyi, qanda qlükoza # mg/dL. Nə edirsən?
+4078f8e8	Tunelin ətrafındakı sarğılar sahəni mövqeyə görə xətti dəyişdirir (mT/m): kəsik seçimi, tezlik və faza kodlaşdırması. Sürətli keçid səs-küy yaradır.
+41086ad1	eyni σ üçün mAs (# cm-ə nisbətən)
+411cbb0d	Sadəcə hamilə qadınlardan uzaq durun
+414eb5b3	Xülasə
+41d150aa	Qentri
+41e0bccc	fotonlar
+421ed9be	Diaqnostik enerjilərdə iki qarşılıqlı təsir üstünlük təşkil edir: <b>fotoeffekt</b> (~ Z³/E³, kontrastın mənbəyi) və <b>Kompton səpilməsi</b> (~ elektron sıxlığı, səpilmənin mənbəyi). Simulyasiya hər material üçün NIST μ/ρ(E) cədvəllərindən istifadə edir.
+422af40c	Siçan: sol düymə ilə sürükləmə = fırlatma, sağ ilə = sürüşdürmə, təkər = yaxınlaşdırma. Toxunma: bir barmaq = fırlatma, iki barmaq = yaxınlaşdırma/sürüşdürmə.
+42347061	Boru cərəyanı × vaxt
+424c4852	#. Təsvirin yaranması
+426e4933	Klaustrofobiya
+42720baf	Sümük
+427f78a4	Sürətli qaydalar (nominal enerji): R9# ≈ E/#, R8# ≈ E/#, R5# ≈ E/#, Rp ≈ E/# (sm).
+439ee205	Təsvirin mərkəzində zəifləmə düzəlişinin təsirini müqayisə edin
+43b2aeba	Parametrləri dəyişin → təsvir və doza yenidən hesablanır (polienerjili şüa izləmə + NIST məlumatları).
+43b5e592	Radionuklid
+43cb67fd	Volframın K təbəqəsinin rabitə enerjisi # keV-dir. # kVp-də işləyən boru volframın xarakterik K xətlərini yaradırmı?
+43d93074	EQD2 şiş (α/β #) = # Gy, gec dəri (α/β #) = # Gy. Az doza: yüksək residiv riski.
+446ceec2	hava kermasında
+44fb5dc7	Mənbə təhlükəsizdir! Tapşırıq ərzində doza: 
+4531ef7f	Zəifləmə qalınlıqdan eksponensial asılıdır.
+4581c4fb	#. Radioaktiv parçalanma
+45901efd	Qradiyent sarğıları
+4602d9ec	təsvirə toxunun
+46143215	Qentri, kollimator və masanın fırlanma oxlarının kəsişdiyi yer (±# mm). Mənbə–ox məsafəsi (SAD) # cm-dir.
+467b083e	Bolus
+46ac079e	Skan edilir…
+46e87af2	 % tamamlandı
+472bd5d7	Aşağı kV yodun kontrastını gücləndirir (K-kənar # keV); arıq xəstədə yaxşı seçimdir.
+475a075b	Sinoqram  p(θ, s)
+477692bf	Nüvə tibbi
+47f9a72c	Qızdırma (# °C) və # gündür davam edən öskürək
+48bee2b3	KT sorğusu gəlir. Elifin son aybaşısı # həftə əvvəl olub. İstənilən ionlaşdırıcı müayinədən əvvəl nə edirsən?
+48cabbff	#-sahəli
+48f82113	xaric olunmuş 
+49059469	Tez olacaq? Sabah işə qayıtmalıyam — emalatxanada daşlama edirəm.
+491836e3	xəta 
+499a20d5	AP, uzanıqlı, SID # sm
+49cf1cfd	Larmor tezliyi f₀ = γ̄·B₀
+49e1196b	Menisk cırığı
+4a690915	Qəbuledici sarğı
+4ac37c75	Kompton səpilməsi
+4b058728	Ayarlar
+4b20e113	Nüvə təbabəti / PET
+4b6a214c	Kalibrləmə mənbəyi, braxiterapiya (tarixi)
+4b7042c7	eGFR # mL/dəq/# m²
+4b81b768	SNR (mərkəz)
+4be56c9f	Sual 
+4bf1fc72	Yağ saturasiyası (FS)
+4c3b45ab	• Udulmuş doza D (Gy = J/kg)\n• Ekvivalent doza H_T = w_R · D_T (Sv); w_R = # fotonlar və elektronlar üçün, # alfa üçün, # protonlar üçün\n• Effektiv doza E = Σ w_T · H_T (Sv); toxuma çəki əmsalları ICRP #-dən\n• Cihazlar ətraf doza ekvivalentini H*(#) göstərir (≈ # × hava kerması, Cs-# üçün).
+4c498c6f	Körpəmi əmizdirirəm. Bu müayinə ona zərər verə bilərmi?
+4c4a1ccb	Fotoneytronlar
+4c790b94	Ayarlar dəyişdi — təsdiqləməzdən əvvəl yenidən işə salın.
+4c94eaa4	Yaxşı. Səhv etdiyiniz mövzuların dərslərini təkrarlayın.
+4c96524b	Proton planı ilə onurğa beyni dozasını azaldın
+4cf38cb8	Oxunan enerji
+4d1aa535	Mövzular
+4d5f9cf2	il
+4daa2b83	Radiasiya mühafizəsi
+4dd7913c	Döş qəfəsi rentgenində kardiostimulyatoru təsvir edin
+4de2c891	Ağciyərlər, sümük, yumşaq toxuma və ürək NIST zəifləmə əmsalları ilə modelləşdirilib; hər detektor pikseli üçün polienerjili şüa izlənilir.
+4df6b638	Göstəricilər
+4e0d4ec8	Qoruyucunun qalınlığı # HVL-dir. Dar dəstədə keçid nə qədərdir?
+4e6c5d36	Simulyasiya
+4e7651ae	Birbaşa kontrastlı KT
+4e8632ff	Birbaşa ionlaşdıran
+4ea60106	#. Doza kəmiyyətləri
+4ebc9931	Şiş EQD2 (α/β #)
+4eed3c07	az ekspozisiya / küylü
+4ef63472	nisbi doza
+4f56491a	Tc-#m-in yarımparçalanma dövrünü Monte Karlo ilə # % dəqiqliklə ölçün
+4f5e1d34	#. Üç prinsip: vaxt, məsafə, qoruyucu
+4f8bf6fa	Qaynaqçı / cilalama: gözdə metal ola bilər
+4fca6bb4	Xroniki xəstəliyi yoxdur, peyvəndləri tamdır
+4fd01b06	Şüa enerjisi
+5009de05	# m məsafədə doza gücü
+5009fb9e	SBRT (#×# Gy) və adi fraksiyalaşdırmada (#×# Gy) şişin BED-ini müqayisə edin
+504443a0	Ekspozisiya
+5060769e	yan
+506f8881	düz bağırsaq
+50793575	Lüğət
+50b3cd30	Rəqəmsal rentgenoqram (CsI detektor)
+50f75e70	Ödem/ilik CNR #: yağlı ilik ödemi gizlədir — yağ supressiyasından (FS) istifadə et.
+51301586	DİQQƏT
+514a1189	TR (SE qrafiki üçün)
+515cc083	T2-çəkili
+5169f3c5	Xətti enerji ötürülməsi: yüklü hissəciyin vahid yolda ötürdüyü enerji (keV/µm).
+51880252	Doza paylanması (x–z müstəvisi)
+51b48ac4	Qoruyucu yerləşdirildi. Qalınlığı və materialı sol paneldə dəyişin.
+51d5b7b0	EQD2 şiş (α/β #) = # Gy, gec dəri (α/β #) = # Gy. Qəbul ediləndir: daha az gəliş, amma gec təsirlərin riski daha yüksəkdir (atrofiya, teleangiektaziya).
+51ea5d41	Pasiyentə toxunun və ya siyahıdan seçin. Hər pasiyent real fizika ilə həll edilən klinik haldır.
+51f21a4b	Məlumat mənbələri
+51f7e789	ümumi doza (Gy)
+51fa3930	Hazırdır. Nəticələri yoxlayın; lazım olsa ayarları dəyişib yenidən işə salın.
+523e597b	Ağ maddə
+524fb8d1	Tc-#m almaq üçün ELÜSİYA düyməsini basın. Ən yüksək çıxım üçün əvvəlki elüsiyadan sonra ≈ # saat gözləyin.
+52af1039	Elektron sahələrində # % izodoza dərinliklə daralır; ~#–# sm kənar lazımdır. Kiçik sahələr üçün çıxış əmsalları ölçülməlidir (TG-#).
+537cf34e	Son elüsiyanın çıxımı
+539143ed	Bu sxem üçün TCP (N₀ = #⁹)
+5394c2c1	Doza–sahə hasili (DAP)
+53a02dda	α/β ≈ # Gy (şiş, erkən reaksiya verən) və ≈ # Gy (gec reaksiya verən normal toxuma, məs. onurğa beyni). Fraksiya başına kiçik dozalar gec toxumaları qoruyur; SBRT kimi fraksiya başına yüksək dozalar çox yüksək şiş BED-i verir, lakin dəqiq hədəfləmə tələb edir. TCP = exp(−N₀·S).
+53f501c6	Skanın əvvəlində aktivlik
+542674c2	Fantom
+543dd434	Cüt yaranma
+543f87d4	Onurğa
+548c82d8	Maqnitləşmə
+5490dc6c	 həftə
+54ba96a0	Effektiv yarımparçalanma dövrü
+54ebaaec	Effektiv diametr → SSDE
+550bfe9e	impuls
+55231493	Beyin
+55437eb0	Proyeksiya və vəziyyət
+554740bc	Dəstə bucaqlarını və çəkilərini dəyişin: hədəfi örtün, onurğa beynini, ürəyi və ağciyərləri qoruyun.
+5566f444	Tətbiq edin
+556bb28a	Konteynerə qoy
+556d6936	Mənbə içəri qoyulan kimi bir neçə cm qurğuşun doza gücünü yüzlərlə dəfə azaldır (hər HVL yarıya, hər TVL onda birə endirir).
+5586c1bb	Masanın mövqeyi (z)
+55af7f60	Ayaq üstə dura bilir, əməkdaşlıq edir
+55b7844c	Birbaşa və dolayı ionlaşma
+55c427dd	Bərpa əmsalı (ən böyük / ən kiçik kürə)
+55f81dfb	PET fizikası
+56a82532	Rentgen radioqrafiyası
+56aaa165	Yanaqda dəri xərçəngi — elektron terapiyası
+56e6dfdf	Qurğuşun konteyner
+57270c3f	# fraksiya ver
+57426dc2	Radiometr
+580581bf	Tək doza, α/β=
+58390f45	Sol qolda döymə (#)
+584aaa85	Elektromaqnit spektri
+584ba3f5	klonogenlər: 
+5865c9d9	Seçilmiş dəstə: 
+5865ea2d	ICRP # və ACOG: # mGy-dən aşağı deterministik təsir yoxdur; # mGy-dən aşağı hamiləliyin dayandırılması tövsiyə edilmir. Riski rəqəmlərlə və sakit şəkildə çatdır.
+5876c756	Gözləyən pasiyentlər
+5878a2bf	Dərinlik dozası
+58820d8d	Ən yaxşı cavab: 
+589a5df5	Pasiyentin hərəkəti (faza xətaları)
+58c52672	 il
+58e096de	Haqqında
+590ca79a	Təsvir
+5951ffab	İşçi (effektiv)
+59c7842a	Ocağın örtülməsi: minimum # % — dəri səthi az doza alır: bolus elektron dozasını səthə qədər qaldırır.
+59c80f5b	Uşaqda döş qəfəsi rentgeni
+5a09a50e	Protonların qaçış məsafəsi (Bragg–Kleeman)
+5a296842	Hazır planlar
+5a53afe8	Prostat öndən ≈ # sm, yandan ≈ # sm dərinlikdədir. Dərinlik dozalarını (PDD) müqayisə et və VMAT üçün enerji seç.
+5a54e20e	Nəticə: 
+5aaf54e6	#. Elektron dəstələri
+5ab00023	Ödem/ilik CNR #: sümük əzilməsi görünür.
+5af0fb47	Monte Karlo dərinlik dozası • Breqq piki
+5b6df32a	Növbəti sual  →
+5b765e84	Qarın KT-sində uşaqlıq birbaşa şüa dəstəsindədir; önlük qoruya bilməz və təsviri pisləşdirir.
+5bac8b63	Fərdi meyl bucağı α
+5c1604f3	Növbəti pasiyent: 
+5c1cca76	• <b>Vaxt:</b> doza mənbənin yanında keçirilən vaxtla mütənasibdir.\n• <b>Məsafə:</b> nöqtəvi mənbə üçün doza gücü #/d² kimi azalır: məsafəni iki qat artırmaq dozanı dörddə birə endirir. Ona görə maşa bu qədər effektivdir.\n• <b>Qoruyucu:</b> sıx, yüksək Z-li materiallar (qurğuşun) fotonları ən yaxşı zəiflədir. Bir HVL yarıya, bir TVL doza gücünü onda birə endirir.
+5c60f76f	ocaq
+5c6467e1	Doza xəritəsini göstər (x–z)
+5cae40c9	Hidrogen nüvələrinin (protonların) maqnit momenti var. B₀ sahəsində kiçik bir artıq sahə boyunca düzülür və xalis maqnitləşmə M₀ yaradır (M₀ ~ B₀). Spinlər B₀ ətrafında Larmor tezliyi ilə presessiya edir.
+5ce2e06a	Doğrudur. PA-da ürək detektora yaxındır → daha az böyümə; uzun SID həndəsi böyüməni və bulanıqlığı azaldır. Öndə yerləşən orqanlar (süd vəzi, qalxanabənzər vəzi) da PA-da daha az doza alır.
+5d155c86	Nəticəni gör  →
+5d27c72a	Elüsiya anında Tc-#m
+5d74c24a	Müalicə planlaşdırması • DVH
+5dc26de3	Necə öyrənməli
+5ddb2028	Radiasiya fizikasının əsasları
+5de75a0b	Sağ ağciyər
+5dea53d0	Radiasiya onkologiyası: elektron terapiyası, sol yanaq BHK; USM dərinliyi # sm (Dr. Öz)
+5deb5e94	Əməliyyatdan imtina edir (antikoaqulyant qəbul edir)
+5e0275a6	#. Generator və keçid tarazlığı
+5e4baa18	Görünüş
+5e840e69	Sağ qalan hissə S
+5e8aae31	Onurğa beyni
+5e8f4863	RF eşidilmir; səs-küy qradiyentlərdən gəlir və eşitməyə zərər verə bilər.
+5ed62a66	Qan + yodlu kontrast
+5f38ef7b	Əlavə Cu filtri
+5f594fad	Rekonstruksiya
+6032454b	Kompton səpilməsi
+6053526e	FDG üçün: qlükoza < # mg/dL və ≥ #–# saat aclıq; toplanma müddəti # ± # dəq.
+605c9960	Kvant küyü
+60bf7d6c	Küy σ ~ #/√(mAs)-dır və qalınlıqla eksponensial artır; iri xəstələrə #–# kV + daha çox mAs (və ya AEC) lazımdır.
+6129d920	Düzdür: e⁺ + e⁻ → #γ (# × m₀c² = # × # keV). Təsadüfi və səpələnmiş koinsidenslər düzəldilir; zəifləmə KT ilə düzəldilir.
+6174d861	CTDIvol xəstənin deyil, # sm-lik PMMA fantomunun dozasıdır. AAPM #/#: SSDE = f(D_eff)·CTDIvol; iri xəstələrdə f < #.
+61814715	Matris (ayırdetmə)
+61999a6b	Skan uzunluğu məhdudlaşdırılıb (qalça darağından simfizə): daha aşağı DLP.
+61e2a3f8	Mənbə
+61f84dec	Doza ekvivalent yol uzunluğu ilə qeyri-bircinslik düzəlişi edilərək hesablanır (radioloji dərinlik = Σ ρₑ·Δl): ağciyərdən keçən dəstə daha az zəifləyir. Planın keyfiyyəti DVH ilə qiymətləndirilir: PTV D9# ≥ # %, onurğa beyni Dmax < # Gy, ağciyər V2# < # %, orta ağciyər dozası < # Gy, ürək orta < # Gy (QUANTEC).
+6246a72c	Sıfırla (M || B₀)
+6283a899	 dəq/mövqe, toplanma 
+6292946b	Modulyasiya eni
+62b33346	μ(su) istinadı
+62dc212b	Orta sərbəst yol #/μ
+6337b9a5	RF impulsu (Larmor tezliyində B₁) M-i α meyl bucağı qədər əyir. Sonra:\n• <b>T1 (spin–qəfəs)</b>: Mz bərpa olunur: Mz(t) = M₀ + (Mz(#) − M₀)·e^(−t/T1)\n• <b>T2 (spin–spin)</b>: eninə maqnitləşmə fazasını itirir: Mxy(t) = Mxy(#)·e^(−t/T2)\n• <b>T2*</b>: sahə qeyri-bircinsliyi əlavə faza itkisi yaradır (#/T2* = #/T2 + γΔB) — #°-lik impuls bu hissəni geri çevirir: <b>spin exo</b>.
+638a3d27	Səpilməyə qarşı şəbəkə (Bucky)
+63e33069	Distal dərinlik
+63e87165	Yaş / cins
+64053f4c	Sinoqram, filtrli geri proyeksiya, Hounsfield vahidləri, artefaktlar.
+64ab923e	dar dəstə ötürülməsi
+64cec188	Ardıcıllıq
+650b51c9	CTDIvol fantom dozasıdır; xəstəyə xas doza üçün SSDE = f(D_eff)·CTDIvol istifadə et (AAPM #/#).
+65297d00	 (repopulyasiya daxil)
+652cb5da	Daha çox oxumaq lazımdır — aşağıdakı dərslər kömək edəcək.
+656c2bdf	Dəri / əllər
+65b3c1bb	Boz maddə
+660f2bd2	Həndəsə və detektor
+662c7590	Menisk
+6644745a	Effektiv diametr / f
+66597e63	Təsadüfi
+66c80500	foton zəifləmə və enerji udulma əmsalları (# material)
+66f00e9c	Doğrudur: çanaq şüa dəstəsində olduqda hər doğum yaşındakı qadında hamiləlik istisna edilməlidir (ICRP #, MAQATE SSG-#).
+6705e1b1	Atomdan radioterapiyaya qədər addım-addım dərslər, interaktiv şəkillər, həll olunmuş nümunələr, testlər və sınaq imtahanı.
+672a70aa	SOBP-ni göstər (analitik)
+6750e405	Effektiv doza = DAP × çevirmə əmsalı (bölgəyə görə). Təbii fon ≈ # mSv/il.
+675d82e1	Sinoqram
+6779effc	Elüsiya edildi
+67b8f497	BED gec toxuma
+67ebc3e7	#. Hounsfield vahidləri və pəncərələmə
+67fabac5	Düz bağırsaq EQD2 (α/β #) = # Gy — gec rektal toksiklik riski (qanaxma, proktit).
+6808f26e	Risklidir; hamiləliyi dayandırmağı düşünməlisiniz.
+6817ce15	USM: appendiks görünmür. Gecə MRT yoxdur; cərrah perforasiya riskini vurğulayır. Birgə qərar: aşağı dozalı KT.
+687d1f08	Tibb bacısı təcili vəziyyətdə polad oksigen balonunu maqnit otağına (IV zona) gətirmək istəyir. Nə edərsiniz?
+68de0f88	Düstur vərəqi — 
+69069946	Dəstənin sərtləşməsi: BHC söndürülmüş polienerjili skan (cupping)
+69338848	İlk halı başla  →
+69607fdf	EPID (MV təsvir)
+69762965	Qarın
+69c54135	 saat
+69d97846	Toxuma siqnalı
+69fc5799	Cu filtri
+6a494fba	İcmal
+6a4f8e94	Diaqnostik və terapevtik enerjilərdə fotonlar əsasən beş yolla qarşılıqlı təsir göstərir: koherent (Reley) səpilmə, fotoelektrik udulma, Kompton səpilməsi, cüt yaranma və fotonüvə reaksiyaları. Hansının üstünlük təşkil etməsi foton enerjisindən və mühitin atom nömrəsindən asılıdır.
+6a8f4d0e	Tam deyil. 
+6ab344fe	Effektiv (fiziki + bioloji)
+6ada0052	KT
+6ae55601	Təkrar
+6b26a05c	Dəri səthi dozası
+6b7a6181	R = sürətləndirmə əmsalı: hər R-ci sətir alınır → FOV/R qədər üst-üstə düşmə (aliasing). Paralel təsvir (SENSE/GRAPPA) onu sarğı həssaslıqları ilə açır.
+6b8da132	# cm məsafədə doza gücü
+6bb77736	Nöqtəvi mənbə
+6bbe4f23	Al filtri (əlavə)
+6bc09210	Dəyişiklik yoxdur; eyni mAs
+6be9432d	Səth dozası
+6bf0564a	Enerjini Kulon qarşılıqlı təsirləri ilə ötürən yüklü hissəciklər (elektronlar, protonlar, α).
+6bf28b9c	Elmi əsası olmayan və zərərli məsləhət.
+6c025c20	hələ skan edilməyib
+6c168d60	Hal tamamlandı
+6c3c9505	foton enerjisi
+6c6870d7	Seçim edin
+6c8fcda6	YENİ BAŞLAYANLAR ÜÇÜN
+6cc46a6f	 dəq oxu
+6cc784fd	Hər dəfə yalnız bir qərar verirsiniz.
+6cec06d7	# ng/mL
+6d148508	Skan et
+6d8836d2	Mümkündür, amma ilk seçim deyil; əvvəlcə USM və MRT.
+6d94e783	k-fəza və Furye çevrilməsi
+6dc54781	 gün
+6e2eab59	Düzgün ekspozisiya: döş qəfəsi təsvirinin sapma indeksini (DI) −#…# aralığına gətirin
+6e67bd16	İstinad / analitik
+6e8c7b25	Foton enerjisi
+6eb5b73c	Pasiyent kartı
+6ef0f4ce	FLAIR: onurğa beyni mayesini söndürün, ocaq isə parlaq qalsın
+6f441d09	FDG-dən çıxan pozitron annigilyasiya edəndə nə yaranır və PET bunu necə aşkarlayır?
+6f7079de	Teleterapiya, Qamma-bıçaq
+6fb2dc0f	 proyeksiya, 
+70491c5e	Son menstruasiya: # həftə əvvəl (nizamsız)
+705dbc6f	Kontrasepsiya yoxdur
+70689f04	Skan uzunluğu
+706aba83	Masa həddi # kg, gentri dəliyi # sm
+706fb9f9	PET (FDG ilə qlükoza mübadiləsi)
+7074357f	#) Əsaslandırma: fayda riskdən üstün olmalıdır. #) Optimallaşdırma (ALARA): diaqnostik keyfiyyəti qoruyaraq dozanı ağlabatan dərəcədə mümkün qədər aşağı saxlamaq. #) Doza həddləri: işçilər və əhali üçün (pasiyentlər üçün yox; onlar üçün diaqnostik istinad səviyyələri tətbiq olunur).
+707b359b	Absesin divarı kontrastla güclənir; kontrastsız KT onu buraxa bilər.
+709e0d80	Qurğuşun konteyner
+70c9432b	Zəifləmə, HVL və dəstənin sərtləşməsi
+70e6ad0e	Radioaktiv nüvələr
+71c67fc5	oğlan
+720bb6d5	İzosentr
+72103ea7	Uşaq döş qəfəsi: qəfəssiz, əlavə Cu filtri, yüksək kVp / aşağı mAs, sıx kollimasiya, qısa ekspozisiya (hərəkət).
+7211792a	<b>Kompton səpilməsi:</b> foton enerjisinin bir hissəsini zəif bağlı elektrona verir və səpilir. Elektron sıxlığından asılıdır, Z-dən isə demək olar ki, asılı deyil.
+72133fde	#. Kontrast
+721471f0	ELÜSİYA
+72467d86	Ayaq üstə qarın rentgenoqramı
+729ea19a	+ Qoruyucu yerləşdir
+72a6030d	Eksponensial qanun yalnız səpilmiş fotonların detektora çatmadığı dar dəstə həndəsəsində doğrudur. Geniş dəstədə səpilmiş fotonlar da töhfə verir və keçid B·e^(−μx) olur, burada yığılma əmsalı B ≥ #. Qoruma hesablamalarında B nəzərə alınmasa, qoruma zəif layihələndirilir.
+72b715d3	Hasan: "Bu qədər dərindəki bir şeyə necə çatırsınız?"
+72daab8b	Vətər / bağ
+72f6d05f	k-fəzanın mərkəzi təsvir kontrastını, periferiyası isə incə detalları (kənarları) daşıyır.
+72f991f9	Xətti zəifləmə əmsalı μ
+72fb1a0a	Spektr
+72fc2e5a	Buraxılıb: 
+732be2f9	Görüntü ilə idarə (IGRT)
+7342c4c8	Kontrast verirəm; eGFR ≥ # olduqda və kəskin böyrək zədəsi yoxdursa, metformin dayandırılmır
+73715b63	Əlaqəli klinik hal  →
+738f6b5a	#°-lik impuls M-i xy müstəvisinə meyl etdirir. Spinlər müxtəlif sürətlə presessiya etdikləri üçün yelpik kimi açılır (T2*). #°-lik impuls onları çevirir və exo yaranır.
+7393264d	Bütün mövzuları kəşf et
+73a87380	Nəzəriyyə və düsturlar
+73bf80aa	K kənarından bir az yuxarı olan fotonlar K elektronlarını qopara bilir, buna görə fotoelektrik udulma sıçrayışla artır. Aşağı kV-li KT protokollarının yod kontrastını gücləndirməsinin səbəbi budur.
+73d792b6	Az proyeksiya ilə skan edin (≤ #): zolaqlı artefaktlara baxın
+73e93954	USM; nəticə aydın deyilsə, kontrastsız MRT
+74148df9	Kriogendən gəlir; zərərsizdir
+7564d845	Bəli, təhlükəlidir; mümkünsə, ondan qaçaq.
+75793978	Mehmetin qarnı # × # cm-dir (orta yetkin ≈ # × #). Su üçün μ(# keV) ≈ # cm⁻¹. Əlavə # cm toxuma detektora çatan fotonları nə qədər azaldır?
+758e615c	Hesablanır… (#×# piksel şüa izləmə)
+75a97a00	Yeni imtahan
+75afa3bb	Appendisitdə diaqnostik dəyəri azdır; lazımsız doza.
+75d4759c	Sol aşağı qarın ağrısı, qızdırma
+760d8617	Qurğuşun qabda olan vakuum flakon fizioloji məhlulu və Tc-#m-i sütundan sorur. Mo-# sızması MBq Tc başına < # kBq Mo qalmalıdır.
+763fa74b	Hər ikisi fotondur və enerji diapazonları üst-üstə düşür (# keV-lik γ (Tc-#m) # kVp-lik borunun rentgen şüalarından aşağı enerjilidir). Yalnız mənşə fərqlidir.
+7647a3ac	Keçdiniz — rəyi diqqətlə oxuyun.
+765e2544	IV zona qaydası
+76dd194b	Ürək orta < # Gy
+77384e8c	Yanıldıcıdır. LNT modeli çox kiçik, lakin sıfır olmayan risk fərz edir; dürüst və sakitləşdirici dil işlət.
+774a6613	x qalınlığından keçən dar monoenerjili foton dəstəsinin vahid yolda qarşılıqlı təsir ehtimalı sabitdir. Nəticədə eksponensial azalma alınır:
+777502bf	Dəri nişanları daxili hərəkəti göstərmir; hədəfi qaçırma riski yüksəkdir.
+77eb0235	Xal
+78197beb	ESAK # µGy > DRL: dozanı azalt (daha yüksək kVp + Cu filtr, qəfəsi çıxar, mAs-ı azalt).
+7835c649	Elektronlar K, L, M… təbəqələrində yerləşir. Daxili təbəqələrin rabitə enerjiləri Z ilə kəskin artır: volframın K təbəqəsi # keV, yodunku # keV, sudakı oksigeninki isə cəmi # keV-dir.
+785a8151	Pitch
+78cd4207	Eluat flakonu
+792a98a9	• <b>Dəstənin sərtləşməsi:</b> aşağı enerjilər əvvəlcə udulur; uzun yollar boyunca effektiv μ azalır → mərkəzdə "cupping" və sıx sümüklər arasında tünd zolaqlar. Su kalibrləməsi (BHC) cupping-i aradan qaldırır, sümük zolaqlarını isə yox.\n• <b>Metal:</b> demək olar ki, bütün fotonlar udulur (photon starvation) → açıq/tünd radial zolaqlar.\n• <b>Az proyeksiya:</b> kifayətsiz bucaq seçməsi → zolaqlı (aliasing) artefaktlar.\n• <b>Küy:</b> σ ~ #/√(mAs); doza–küy arasında əsas kompromis.
+793c090c	Aşağı dozalı KT protokolu
+793c5a46	seçilmiş diametr
+794db469	Sümük iliyi
+79525074	Yalnız mərkəz
+79a399e0	Doza
+79ae5968	Zamanın sürəti (yarımparçalanma dövrü / # s)
+7a696fee	Təbii fon ekvivalenti
+7a9ee904	Döşəməyə toxunun → yeriyin (klaviatura: WASD). Cihazdakı doza gücünü izləyin. Vaxt, məsafə və qoruyucu dozanı azaldır.
+7ab00d8b	Aksial doza paylanması
+7b06fb7d	TE-yə görə SE siqnalı
+7b0ee643	Ocaqda minimal doza (#–# sm)
+7b3a2d83	Alfa hissəciyi
+7b4e65c1	Düz bağırsaq EQD2 (α/β #)
+7b804b26	Fiziki effektlər
+7bdb6a90	üfüqi: detektor s  •  şaquli: bucaq θ (#→#°)
+7be2d594	Mənbə–təsvir məsafəsi (SID)
+7bef2f61	Doza xəritəsi (x–dərinlik): maksimuma nisbətən doza, %
+7bf995f5	Ölçmə nöqtəsi (toxun)
+7c162dc9	Spektr • Zəifləmə • Səpilmə • Doza
+7c5092be	İonlaşdırıcı şüalanma atomlardan elektron azad etmək üçün kifayət qədər enerji (≥ # eV) daşıyır. UV diapazonunun yuxarı hissəsi, rentgen və γ şüaları və bütün sürətli yüklü hissəciklər ionlaşdırıcıdır; radiodalğalar və görünən işıq isə deyil.
+7c72fb1b	Ernst bucağı (AM)
+7c7da947	Effektiv doza
+7c941c55	R8# (≈ terapevtik dərinlik)
+7d7615e3	Prostat xərçəngi — xarici şüa terapiyası
+7d96597f	Anamnez
+7d972bea	Anası ilə gəlib; ilk görüntüləmə müayinəsi
+7dd6f549	Titan implant
+7de1562e	 yaş, 
+7e0e48e1	cT2b N0 M0
+7e0faf28	Cazibə anidir; ağır xəsarətlər və ölüm halları qeydə alınıb.
+7e323ea2	Enerji və məlumat kabelsiz ötürülür, ona görə boru fasiləsiz fırlana bilir; bu, spiral skanı mümkün edir.
+7e3a630c	Qaçış məsafəsi R₀ (CSDA)
+7e5ca532	Göz bülluru
+7e64d602	Boru və detektor pasiyentin ətrafında fırlanır. Hər θ bucağı və s detektor mövqeyi üçün ölçülən zəifləmə μ(x,y)-nin xətti inteqralıdır. Bütün proyeksiyaların toplusu <b>sinoqramdır</b>: nöqtəvi obyekt sinusoid çəkir.
+7e6646b7	İri xəstədə qarın KT-si
+7e86bdae	Qiymətləndirmə
+7e8c6db6	HVL və TVL
+7ec52420	Radioliqand terapiyası (PSMA, DOTATATE)
+7f8ed8ff	Helium nasosu yavaşca uğuldayır, amma taqqıltı qradiyentlərdən gəlir.
+7fa4aa8f	Ocaq sol gözdən # sm aralıdadır
+7fa59d83	üfüqi: radial s • şaquli: bucaq φ
+7fa5ff5c	Tam
+7fb12b63	Detektor qövsü
+8077377d	Həftəlik portal təsvir
+807b9275	Düzdür: cazibə qüvvəsi ~ B·dB/dz və tunelin girişi yaxınlığında maksimumdur. Lazım olsa, pasiyenti yardım üçün III zonaya çıxarın.
+80cc6fb4	Pozitron elektronla annigilyasiya edərək iki əks istiqamətli # keV foton yaradır. İki qarşı-qarşıya detektor onları bir neçə ns ərzində tutsa, koinsidens (cavab xətti, LOR) qeydə alınır.
+80d6fd98	α/β gec reaksiya verən toxuma
+80f76b66	Hamiləliyi soruşuram və β-hCG testi istəyirəm
+80fd59df	Hissəcik
+811c30cd	Proyeksiya sayı (#°)
+8190561a	Sağ aşağı qarın ağrısı, ürəkbulanma (# saat)
+819c9d03	Mo-#/Tc-#m generatoru
+81ad7d36	Uzun maşa istifadə edin (mənbə bədəndən # cm uzaqda)
+81b60676	Ön
+8202e478	Qoruyucu
+8210c814	Beynin aksial kəsiyi
+826d7453	Elektron
+82ce6c55	Qığırdaq
+82e2dbbd	Bölgə və proyeksiya
+82e733b7	<b>Səpilmə</b> kontrastı azaldır: səpilmiş/ilkin nisbəti sahə ölçüsü və pasiyent qalınlığı ilə artır. Şəbəkə ilkin şüalanmanın ~#%-ni və səpilmişin ~#%-ni buraxır. Kollimasiya həm səpilməni, həm dozanı azaldır.
+82fa204f	Geniş sahə səpələnmiş şüalanmanı və DAP-ı artırır; əsl qoruma dar sahədir.
+832d529e	Diz MRT-si və MR təhlükəsizliyi
+832f8681	Ağciyər
+835889e9	Böyrək
+836bc242	#–# MV VMAT çox bucaqdan dərin hədəfə kifayət qədər doza verir; dəri qorunur və neytronlar əhəmiyyətsizdir.
+83754be6	Ən yaxşı nəticəniz: 
+83d4e55a	İri xəstədə # kV foton çatışmazlığı zolaqları və həddindən artıq küy yaradır.
+84737e5d	Göstəricilər
+85124f40	Küy # HU: diaqnostik.
+8516948a	Düsturlar
+851ad665	Qentri bucağı
+852fc0ce	Zeynep: "Südümü əvvəlcədən sağdım. Həyat yoldaşım ona şüşə ilə verə bilər."
+8567c350	Təhlili aç
+85e4b82f	uyğun
+86260ec0	Hal rejimi necə oynanılır
+8647f589	DI # → az ekspozisiya: kvant küyü, diaqnostik deyil.
+869cfa26	EQD2 gec toxuma
+86c813a5	Sayılar
+86e1dbb8	İki # keV foton, bir-birinə ~#° bucaq altında; iki detektor bunları bir neçə ns-lik koinsidens pəncərəsində qeydə alır → cavab xətti (LOR)
+87025a9c	Nüvə təbabəti: F-# FDG PET/KT, mərhələləndirmə (Dr. Er)
+871c36f0	Titan ankerlər
+875c3058	Ocaq (ödem / şiş)
+875f29ca	Hər piksel üçün fokus ləkəsindən detektora qədər bir şüa izlənilir; hər toxumada yol uzunluğu hesablanır və hər enerji intervalı üçün Ber–Lambert qanunu tətbiq olunur. CsI-nin udma effektivliyi η(E) = # − e^(−μ_CsI·t). Siqnal enerji ilə çəkilidir (enerjini inteqrallayan detektor).
+8762cac3	Proton enerjisi
+876b129d	Addım 
+8786af42	✓ Əla
+87e69378	Səpilmiş
+882ac676	Körpənin dozası
+88674cd6	#) Soldan mövzu seçin; mövzular əsaslardan klinikaya doğru sıralanıb. #) Dərsi oxuyun; ƏSAS FİKİR qutularını və həll olunmuş nümunələri ötürməyin. #) Düsturların nə dediyini görmək üçün şəkillərin sürgülərini hərəkət etdirin. #) Dərsin sonundakı testi həll edin: hamısı düz olsa, dərs ★ ilə işarələnir. #) Öyrəndiklərinizi tətbiq etmək üçün "Laboratoriyada sınayın" və "Əlaqəli klinik hal" düymələrindən istifadə edin.
+886d0cbf	Səs-küyü RF impulsları yaradır; ehtiyat tədbiri lazım deyil
+888cc345	# m-də (qorunmuş)
+89235979	Ana nüvə (Mo-#) qız nüvədən (Tc-#m) uzun yaşadıqda A₂/A₁ sabitə yaxınlaşır: keçid tarazlığı. Ana nüvə çox daha uzunömürlüdürsə (məs. Sr-#/Y-#), əsrlik tarazlıq yaranır: A₂ = A₁.
+892ef903	Tək bir # keV foton
+897fe13f	Kontrast və böyrəklər
+89d558f4	Toxumaya yaxın çoxkanallı qəbuledici sarğı SNR-i artırır və paralel təsvirə imkan verir.
+89f4c462	Cırıq/menisk CNR #: cırıq görünmür — uzun TR (PD/T2) lazımdır.
+8a2fa41a	Aktivlik, vaxt və toplanma
+8a355b34	PA, ayaq üstə, SID # sm
+8a69358c	vaxt 
+8aa94879	Təlimatlar (ICRP #, MAQATE) FDG zamanı ana südü ilə qidalandırmanın dayandırılmasını tələb etmir; yaxın təması bir neçə saat məhdudlaşdırmaq və sağılmış süddən istifadə etmək tövsiyə olunur.
+8b0d147c	Sümük kontrastı (# cm sümük, # cm toxumada)
+8b0eb3c2	Həqiqi
+8b5a89a7	Harada nə üstünlük təşkil edir?
+8b68a871	Mümkün hamiləlik və appendisit
+8c032c1a	Öyrənmə məqamları
+8c5db0a7	<b>Fotoelektrik effekt:</b> foton tam udulur və daxili təbəqədən bir elektron qopardılır. Ehtimal təxminən Z³/E³ kimi dəyişir.
+8c7d3087	Xal: 
+8c880991	Hər cavabın izahı və rəyi var.
+8ca7a950	Doza gücünü µSv/saat ilə göstərən GM sayğacı və ya ionlaşma kamerası; isti laboratoriyada çirklənmə yoxlamaları üçün istifadə olunur.
+8cde5d5c	Kollimator + əlavə filtrləmə
+8d46a34c	qalınlıq (cm)
+8d815095	Fotonların maddə ilə qarşılıqlı təsiri
+8d8cee46	Tərs kvadrat qanunu
+8dbd5185	Vaxt # s — xəstə hərəkətsiz qala bilər.
+8de41236	Kardiostimulyator
+8e5380f5	Emir ayaq üstə dura bilir və əməkdaşlıq edir. Hansı texnikanı seçirsən?
+8e925209	Radon çevrilməsi • FBP • Hounsfield • Artefaktlar
+8ea57a5e	R9# (xəstədə dərinlik)
+8f1b876c	Ən yaxşı nəticəniz
+8f30fea5	Boy / çəki
+8fb29e12	Soldan mövzu və dərs seçin. Şəkillərin sürgüləri ilə oynayın və hər dərsin sonunda özünüzü yoxlayın.
+8fd05dbc	Qalxanabənzər vəzi xərçəngi və hipertireozun müalicəsi
+8fed86d7	Tez olarsa problem yoxdur
+8ff1e887	Zamanın sürəti
+9017c010	+ Dəstə əlavə et
+90571e3f	 test sualı
+907a4bcf	Pasiyent dozası (effektiv)
+90d642b7	Şiş α/β ≈ # Gy, gec dəri / qığırdaq təsirləri α/β ≈ # Gy. Hər gün gəlməkdə çətinlik çəkən #-yaşlı xəstəyə hansı uyğundur?
+90da7a12	Rentgen
+90e8ad1a	Toxuma
+91078d77	Boru spektri, filtrasiya, HVL, səpilmə, detektor və xəstə dozası.
+91258979	Radiofarmpreparat
+91882d73	CSDA qaçış məsafəsi (Bethe / NIST)
+91a7732a	Sürətlə dəyişdirilən qradiyent cərəyanlarına B₀-da Lorens qüvvələri təsir edir; səs-küy # dB-ni keçə bilər → qulaq tıxacları / qulaqlıq məcburidir
+91b76332	Sakitləşdirici, amma qeyri-dəqiqdir: stoxastik risk çox kiçikdir, sıfır deyil.
+926d87c3	Sistematik yerləşdirmə xətasını tutur, amma gündəlik orqan hərəkətini yox → daha geniş kənarlar və düz bağırsaq dozası.
+928ef299	qadın
+92fe3fad	Yalnız təhsil məzmunu — klinik qərarlar üçün deyil.
+9340f08a	Parçalanma sabiti λ
+93798b62	Generator
+93926697	Antropomorf fantom
+93fd33cf	Mx (siqnal)
+94397cd5	Potensial ikiqatlanma vaxtı Tpot
+9441540c	DLP = CTDIvol × uzunluq; ümumi şüalanmanı təsvir edir, orqan dozasını yox.
+948fe972	kV rentgen mənbəyi
+94a38054	Qərarınız
+94cc8d3b	Körpənin dozası ≈ 
+94f37251	CTDIvol-un özü
+951e2e51	TƏHLİLƏ BAX  →
+95a8c428	Mo-# (T½ # saat) → # % → Tc-#m (T½ # saat). Mo-# alüminium oksid sütununda saxlanır; Tc-#m onun parçalanması ilə toplanır və fizioloji məhlulla "elüsiya edilir".
+95bce1b7	Hava
+95be3cc5	Ən yaxşı 
+95d6d65a	Laboratoriya sistemi (presessiyanı göstər)
+95f4d5de	Sahə və gözün qorunması
+963b7c8f	Salam! Aparat ağrıdır? Anam çöldə gözləyə bilər?
+966d8f4b	Emirin döş qəfəsi ≈ # sm qalınlığındadır (böyüklərdə ≈ # sm). kVp, mAs, filtr, qəfəs və sahəni qur, sonra ÇƏK düyməsini bas. Hədəf: DI −#…# və ESAK ≤ # µGy.
+96c251ec	Furye kəsik teoremi: proyeksiyanın #D Furye çevrilməsi təsvirin #D Furye çevrilməsinin bir kəsiyidir. Ona görə proyeksiyalar əvvəlcə |f| rampası ilə filtrlənir, sonra geri proyeksiya edilir. Filtrsiz geri proyeksiya #/r bulanıqlığı verir.
+97080889	Pasiyentin diametri
+97197ddf	Bir həftə hər cür təmasdan çəkinin
+971c410e	Radioaktiv parçalanma, Mo-#/Tc-#m generatoru, PET koinsidensləri və MLEM.
+9741e45e	Heç bir risk yoxdur, sıfır radiasiya.
+97563b2a	Flakon saxlanarkən və ya daşınarkən qamma şüalarını qoruyur; # keV-lik Tc-#m fotonları üçün bir neçə mm qurğuşun kifayətdir.
+979c2167	Səth dozası (dərinin qorunması)
+97fc3c0a	Siz xəstəxananın tibbi fizikisiniz. Hər pasiyent bir haldır: kartı oxuyun, qərarlarınızı verin və real fiziki modellərlə hesablanan nəticələri görün. Hər addımdan sonra onun niyə düz və ya səhv olduğunu öyrənirsiniz.
+981c2b72	kV detektor
+98333fde	Beton
+9837047f	Ocaq + ~# sm kənar (≈ # sm qurğuşun kəsik); göz sahədən kənarda, lazım olsa daxili göz qoruyucusu
+98582d5e	Dolayı ionlaşdıran
+9867b7d1	Doza gücü məsafənin kvadratı ilə azalır, Ḣ = Γ·A/d². Döşəmənin rəngləri bu doza gücünü göstərir; ağ xətt # µSv/saat-ı işarələyir.
+9895bce3	EQD2 şiş
+98b07aa5	Xeyr — maksimal elektron enerjisi (# keV) K təbəqəsini ionlaşdıra bilməz
+98f224a5	ÇƏK
+9920e564	Plan balı
+993014d9	Çəki
+9945210a	Alqoritm
+994bbd58	Qayda: R ≈ #·E^#
+995324ac	Vaxt 
+995c9ab4	#. Dozimetriya
+9970e954	PET: koinsidenslər və rekonstruksiya
+997b38dc	Ölçüyə uyğunlaşdırılmış protokol
+99a15c5e	Effektiv doza (təxm.)
+99a7a50a	DAVAM ET  →
+99f7bee7	Sürüşən halqa
+99fa0dc1	Sayım kifayətliyi A·t / (#·kg)
+9a125d51	Qızdırılmış katoddan çıxan elektronlar kVp ilə fırlanan volfram anoda doğru sürətləndirilir. Enerjilərinin yalnız ~# %-i rentgen şüalarına çevrilir (tormozlanma + xarakteristik); qalanı istilikdir.
+9a23c97b	Ana südü ilə qidalandıran anada FDG PET/KT
+9a2b880f	Pasiyentin qalınlığı / SSD
+9a73db9b	Dil
+9b012adc	Mənbəyə məsafə
+9c4aa55c	Rentgen borusu
+9c506f53	Kəsik səviyyəsi
+9c528492	Maye heliumla ~# K-ə qədər soyudulan NbTi dolaqları. B₀ (# / # T) həmişə işləkdir: ferromaqnit əşyalar mərmiyə çevrilir.
+9c70fc8a	Fokuslanmış nazik qurğuşun zolaqlar pasiyentdə səpilən fotonları udur. Kontrast yaxşılaşır, amma eyni detektor dozası üçün mAs artırılmalıdır (Bucky əmsalı #–#).
+9c8081f1	Laboratoriyanı aç
+9cabb538	Vaxt • Məsafə • Qoruyucu
+9cf82695	Nəticələr
+9d145291	Fotoelektrik effekt
+9d2b5423	Cihazın çıxışını təsvir edir və xəstənin ölçüsünü nəzərə almır.
+9d3d585c	Bütün dəstələrin modallığı
+9d6f6466	Filtr əsasən aşağı enerjili fotonları çıxarır (<b>dəstənin sərtləşməsi</b>); bunlar yalnız dəri dozasını artırardı. Daha çox filtrləmə orta enerjini və HVL-i artırır, çıxışı isə azaldır.
+9d70bd7a	DI = #·log₁₀(EI / EI_target): # ≈ # % çox, −# ≈ # % az, # ≈ #× detektor dozası.
+9e134627	Klinik hallar — # pasiyent gözləyir
+9e1d18ea	#. Radiobiologiya
+9e452222	Bunlardan hansı dolayı ionlaşdırıcıdır?
+9e75940c	Aktivlik
+9e7b7a87	Şiş EQD2 = n·d·(d + #)/(# + #) = # Gy — lazım olandan yüksək.
+9e8abbb2	İşçinin cihazı olduğu yerdə ətraf doza ekvivalenti gücünü H*(#) göstərir; toplanmış doza = doza gücü × vaxt.
+9e995ba1	Fraksiyalaşdırma (LQ modeli)
+9ebe06d9	# saat əvvəl səhər yeməyi
+9f24f2f7	Kontrast maddələri bu fizikadan istifadə edir: yodun K kənarı # keV-də, qadoliniumunku isə # keV-dədir. Foton enerjisi K kənarından bir az yuxarı olduqda udulma sıçrayışla artır.
+9f3f7105	Rekonstruksiya edilir…
+9faeab39	İmpulsun saxlanması iki foton tələb edir.
+9fc55136	TE-yə görə siqnal (T2 sönməsi)
+9ffc9a24	HU ölçün: ağciyərə (< −#), yağa (−#…−#) və sümüyə (> #) toxunun
+a049bc94	T1 / T2 / PD kontrastı
+a0cf38d2	Toplanma müddəti uyğundur: standart şiş/fon nisbəti (SUV-lar müqayisə oluna bilər).
+a12d8b93	Atomlar, nüvələr və şüalanma
+a13c66b3	Effektiv doza ≈ # × 
+a14e7f7e	Yodlu kontrast (ürək/aorta)
+a15fa5b0	Seçmə
+a1793be6	Sümük / hava
+a17f6a53	Bütün mövzulardan # təsadüfi sual — magistratura müsahibələri və imtahanlar üçün yaxşı hazırlıq.
+a1be3d2c	Yan (LAT)
+a1d821ab	#. Artefaktlar
+a219bf8b	Gözləmə zalı
+a22bd65a	protonlar
+a267e784	Effektiv doza ≈ # × # = # mSv (ICRP #).
+a26d32ed	Mz bərpası (TI)
+a28c2366	Dalğa ötürücüsündə MeV-ə qədər sürətləndirilmiş elektronlar hədəfə (fotonlar) və ya səpici folqadan (elektronlar) yönəldilir. Hamarlayıcı filtr və monitor kameraları (MU) da buradadır.
+a2c330b1	Elektron dəstəsinin R5# dəyərinin E/# qaydasına uyduğunu görün
+a2eb2f51	Radioaktiv parçalanma (Monte Karlo)
+a2ed22c4	effektiv diametr D_eff (cm)
+a30f0337	Elektron PDD: səth dozası enerji ilə artır (# MeV ≈ # %, # MeV ≈ # %); bolus səth dozasını artırır və diapazonu qısaldır.
+a37bf952	Əla — əsl tibbi fizik!
+a408a7ff	Çanağı şüa dəstəsində olan doğum yaşındakı qadınlar: əvvəlcə hamiləliyi istisna edin (lazım olsa β-hCG).
+a431924a	Mənbəyi götür
+a475164f	Qurğuşun
+a4843b38	Sümük (# sm) # % — lüzumsuz yüksək: osteoradionekroz riski. Daha aşağı enerji seç.
+a4a2847a	Qısa TR + qısa TE → T1-çəkili; uzun TR + uzun TE → T2-çəkili; uzun TR + qısa TE → proton sıxlığı.
+a4be5f34	İzotop
+a4eeda8f	Ocaq
+a50be870	Pasiyent masası
+a51067fd	Parçalanma
+a5916fb6	Hal tamamlandı — 
+a5a57f6f	Görüntüləmədə kontrast əsasən fotoelektrik effektdən yaranır, çünki Z³ asılılığı sümüyü (Ca, Z = #) yumşaq toxumadan (effektiv Z ≈ #) kəskin ayırır. Kompton kontrastı azaldan səpilmiş şüalanmanın əsas mənbəyidir.
+a5d46b38	DLP (# cm skan)
+a5ee64bb	Ortalamalar (NEX)
+a5ff15cb	Başlığı pasiyentin ətrafında #° fırladır. RF mənbəyi (maqnetron/klistron) və dalğa ötürücüsü qentridə və onun dayağındadır.
+a60133e5	Rekonstruksiya (tərs #D FFT)
+a60a634d	Körpə dozası ≈ # µSv (tərs kvadrat qanunu: # sm-də doza gücü #× böyükdür, # m-dəki ilə müqayisədə; F-# orta ömrü τ = T½/ln2 ≈ # saat).
+a6310194	Məsləhət
+a650d3f5	İNTERAKTİV ŞƏKİL
+a66f47bd	Qurğuşun qalınlığı
+a6e53476	RF bədən sarğısı
+a6f33ef9	Doğrudur: rəqəmlərlə müqayisə (təbii fon ≈ # mSv/il ≈ # µSv/gün), əsaslandırma və ALARA birlikdə izah olunur.
+a704e2e8	Klein–Nişina kəsiyi Kompton səpilmə bucağını və geri təpki elektronunun enerjisini müəyyən edir. Monte Karlo simulyasiyası hər fotonu və elektronu izləyir; doza σ ~ #/√N statistik qeyri-müəyyənliklə yığılır.
+a72ca2ae	Bioloji yarımxaricolma dövrü əlavə edib effektiv dövrü görün (I-#)
+a77fb204	Daxili təbəqədən elektron çıxarıldıqda xarici elektron boşluğu doldurur və fərq xarakterik rentgen şüası və ya Auger elektronu kimi buraxılır. Xarakterik enerjilər elementə xasdır; rentgen borusunda volframın Kα xətti ≈ # keV-dir.
+a7ae7cae	# MeV
+a85562cb	Hamiləlik sorğusu buraxıldı: döl xəbərsiz şüalana bilərdi.
+a861d965	Rekonstruksiya et
+a86b43b2	Bowtie filtri + kollimator
+a87f9edd	Hər xətt bir koinsidensdir (LOR): yaşıl = həqiqi, sarı = səpilmiş, qırmızı = təsadüfi. Kifayət qədər say toplayın, sonra "Rekonstruksiya et".
+a8b4a774	SSDE — effektiv diametrə görə düzəldilmiş CTDIvol
+a93ad5ad	küy σ (HU)
+a97badd0	İlk skanınızı edin və sinoqramın necə dolduğunu izləyin
+a97d3fea	Effektiv (monoenerjili) enerji
+a9887e52	Öyrənmə Mərkəzi
+a99ef883	Hesablanır…
+a9f0a4e6	Xal
+a9f3146e	Su / sümük / qurğuşun
+aa28ed13	Hüceyrə kulturası (#D)
+aa2ce59e	Doza–həcm histoqramı (DVH)
+aa430d6d	Əsaslandırılmayıb: uşaq döş qəfəsi KT-si ≈ #–# mSv, PA rentgenoqram isə ≈ # mSv. Əsaslandırma prinsipini pozur (ICRP #).
+aa4446a7	Filtrli (giriş)
+aa7120ec	Metformini # saat dayandırıb sonra skan edirəm
+aaaa64f1	Boru yükü
+aaede69c	ACR Appropriateness Criteria və ACOG: əvvəlcə USM, sonra qadoliniumsuz MRT — ionlaşdırıcı şüalanma yoxdur.
+aaee7048	Skan müddəti (# faza, ETL #)
+ab14bcac	Kompüter tomoqrafiyası
+ab25d4ea	Geri səpilmə əmsalı BSF ≈ #. DAP (Gy·cm²) məsafədən asılı deyil və əmsallarla effektiv dozaya çevrilir: döş qəfəsi PA ≈ #, qarın ≈ #, çanaq ≈ #, kəllə ≈ # mSv/(Gy·cm²). Tipik döş qəfəsi PA: ESAK ~#–# mGy, E ~# mSv.
+ab834a11	Bioloji yarımxaricolma dövrü (# = yoxdur)
+ab8ca2c5	Su fantomu
+abdee8d2	MV fotonlar suda əsasən Kompton səpilməsi ilə qarşılıqlı təsirdə olur; enerjini ikinci elektronlar bir neçə cm boyunca ötürür. Ona görə səthdə doza azdır və dmax-a qədər artır (<b>yığılma</b>; dərinin qorunması). Sonra zəifləmə və tərs kvadrat qanunu ilə azalır.
+abe195be	Döş qəfəsi kəsiyində ağciyər pəncərəsinə keçin
+abe68d6f	Tənəffüs tezliyi
+ac5b89c3	Fraksiya başına doza
+ac720a66	Dar və geniş dəstə: yığılma (build-up)
+ac737796	Çıxan müalicə dəstəsinin təsvirini alır (portal təsvir); sahənin formasını və verilən dozanı yoxlamaq üçün istifadə olunur.
+aca79e3e	Addımlar: 
+aced2b71	Fraksiyalaşdırma (yaşlı xəstə)
+ada7afdb	yoxdur
+ada880a8	Nəzəriyyə tezliklə.
+adbf56a0	Enerjisi: γ şüaları həmişə daha enerjilidir
+add79038	Yağ / əzələ
+ae20a6a3	Proton yavaşladıqca tormozlama qabiliyyəti #/β² kimi artır; enerjinin çoxu qaçış məsafəsinin sonunda verilir (Breqq piki). Qaçış səpələnməsi (≈ # %·R) və enerji yayılması piki genişləndirir. Müxtəlif enerjili piklərin çəkili cəmi şişi örtən SOBP-ni yaradır. Pikdən sonra doza ~#-dır: distal orqanlar qorunur.
+ae27b827	Klinik hal rejimi
+ae6bb2bb	maks. 
+ae888d5f	Elektronların # % izodozası dərinlikdə daralır: kəsik ocaqdan ~# sm böyük olmalıdır.
+aef94af7	Düzdür. 
+af010c63	Sümük (qabırğa/çanaq)
+afe72516	Ağır yüklü hissəciyin qaçış məsafəsinin sonundakı kəskin doza maksimumu.
+afe8043f	vaxt (saat)
+b081abb7	izomer keçid (IT)
+b0adb207	Polienerjili dəstənin ikinci HVL-i niyə birincidən böyükdür?
+b0c23fb1	Aktivliklər (keçid tarazlığı)
+b0db6938	 gün
+b0f260dc	Pnevmoniya şübhəsində ilk seçim deyil; yan çəkiliş daha çox doza tələb edir və tək başına kifayət deyil.
+b11e7606	Skrininq formasındakı hansı bəndlər MRT-dən əvvəl ƏLAVƏ TƏDBİR tələb edir? (uyğun olanların hamısını seç)
+b1b83851	suda dərinlik (cm)
+b1c222ab	EQD2 = n·d·(d + α/β)/(# + α/β). α/β-sı aşağı olan şişlər (prostat ≈ #) hipofraksiyadan fayda görür.
+b1c8c38e	Zolaq: işçinin gündəlik payı (# mSv/il ÷ # gün = # µSv).
+b1e88af6	# keV-lik foton (Tc-#m) #° bucaq altında geri səpilərsə: E′ = # / (# + #·#/#) = # / # ≈ # keV. Qamma-kameranın enerji pəncərəsi (≈ #–# keV) belə səpilmiş fotonların çoxunu rədd edir.
+b21a4f64	Orta ağciyər dozası < # Gy
+b232d1f0	Ocağın örtülməsi: minimum # % — tam.
+b2697ad8	Rentgen və γ şüaları eyni növ fotonlardır; yalnız mənşələri fərqlidir. Rentgen şüaları elektronlardan (tormozlanma şüalanması və ya təbəqə keçidləri), γ şüaları isə nüvədən (radioaktiv parçalanma) yaranır.
+b2972ae3	Baş
+b2aad11c	Skan parametrləri
+b33eb976	Model: paralel dəstə həndəsəsi (yenidən düzülmüş yelpik dəstəsi məlumatları), enerjini inteqrallayan detektor, səpilmə nəzərə alınmır.
+b34b3fcd	Fasilə / İşə sal
+b3755394	Fotoelektrik ehtimal atom nömrəsi ilə çox kəskin artır və enerji ilə kəskin azalır — buna görə aşağı kVp sümük kontrastını artırır.
+b38452f0	İşarə (TR və ya TE)
+b3af5cc8	#. ALARA və həddlər
+b3f9f066	Çox ağrıyır... və hamilə ola biləcəyimi bilmirəm.
+b48eaaae	#. k-fəza
+b4d90f43	Pasiyent dozası
+b528da3e	Qeyri-şəffaf
+b5377fa4	Polad
+b54b4085	Konteynerə daha yaxın gəlin (< # m).
+b54d1bc5	Laboratoriyaları kəşf edin
+b58894f8	Fırlanan sistemdə (x', y') Larmor tezliyi ilə fırlanırıq: yalnız tezlik fərqləri (Δω) görünür.
+b589c5ea	Sahə eni (izosentr)
+b5f6bbb8	hədəf 
+b6b8c8bf	Larmor presessiyası, Bloch tənlikləri, T1/T2, spin exo, k-fəzası.
+b6e00083	Ürək
+b6e56670	Yarımzəifləmə və onda birzəifləmə qatı
+b6fab935	PD-çəkili
+b72c1283	#. Foton dəstələri və dərinlik dozası
+b7312de4	Hava −#, su #, yağ ≈ −#, yumşaq toxuma #…#, sümük #…# HU. Göz yalnız ~#–# boz çalarını ayırd etdiyi üçün təsvirlər pəncərə vasitəsilə (en W, səviyyə L) göstərilir: ağciyər W1#/L−#, yumşaq toxuma W4#/L4#, sümük W2#/L4#, beyin W8#/L3#.
+b77556fd	Fotonun enerjisi tezliyi ilə mütənasibdir: E = h·ν. Faydalı qısayol: E[keV] ≈ # / λ[nm]. Radiodalğalar (MRT), görünən işıq və rentgen/γ şüaları müxtəlif enerjilərdə eyni hadisədir.
+b7d0e925	Düşən fotonun enerjisi
+b7fdc96d	Son elüsiyadan bəri
+b8095719	EANM: A·t ~ çəki. Daha uzun müayinə daha az aktivlik və doza imkanı verir.
+b846a137	Kəsik səviyyəsini seçin və SCAN düyməsini basın. HU ölçmək üçün təsvirə toxunun.
+b85a81d5	Fraksiyalaşdırma sxemi
+b8628c9b	Süngəri sümük
+b86f8853	HƏLL OLUNMUŞ NÜMUNƏ
+b8757751	Bəli; xarici şüa terapiyası sizi radioaktiv etmir — cihaz söndükdən sonra heç nə qalmır
+b8932bde	Tam dərs  →
+b89df01a	Kömək
+b8ccfa2e	Özünüzü yoxlayın
+b8de25e7	Yodun K kənarı # keV-dədir və ondan bir az yuxarıda udulma sıçrayışla artır
+b8e79c59	Su üçün μ/ρ (# keV) = # cm²/g, deməli μ = # cm⁻¹. HVL = #/# = # cm. # cm sudan keçid e^(−#) = #-dir: fotonların yalnız # %-i keçir.
+b8ebb4eb	Tc-#m maksimumunun vaxtı
+b8f48602	Sabitlər
+b8ff3ac7	Sahə #×# sm: ağciyərlərə uyğundur.
+b92e17d6	Qəfəs istifadə olunub: ~# sm-lik uşaq döş qəfəsi az səpilmə yaradır; qəfəs (Bucky faktoru #–#) dozanı lüzumsuz artırır.
+b95e783d	Mənbəyə daha yaxın gəlin (< # m).
+b999f041	Sol yanaqda # sm bazal hüceyrəli karsinoma (biopsiya ilə təsdiqlənib)
+b9a92b6b	Doza ≈ # µSv: təxminən # günlük təbii fon şüalanması. Pnevmoniya diaqnozunun faydası riskdən qat-qat çoxdur.
+ba151840	Fotoelektrik ehtimal təxminən necə dəyişir?
+ba1de520	Larmor tezliyi f = γ̄·B₀ (# MHz/T). SAR ~ B₀²: ~#× RF qızma (# T-da).
+ba44e340	SSDE 
+ba66cab6	İri xəstədə qəbul edilən küy: qaraciyər ROI-da ≤ # HU (orta böyükdə ≈ # HU). kV və mAs seç, sonra SKAN ET. SSDE-ni # mGy-dən aşağı saxla.
+bade5b16	Qentri ilə saniyədə #–# dəfə fırlanır və hər bucaqdan pasiyentin içindən yelpik dəstəsi göndərir.
+bb5bd1d0	Orta / effektiv enerji
+bb62355a	Ocağın örtülməsi: minimum # % — dərin kənar # %-dən aşağıdır: enerji çox aşağıdır.
+bb757050	elüsiya et
+bbabaa0a	Skan lazım olandan uzundur: appendisit üçün qalça darağından simfizə qədər kifayətdir.
+bc38932a	İstinad dozimetriyası (IAEA TRS-#) və PDD/profil ölçmələri: ionlaşma kamerası suyun içində hərəkət etdirilir. Burada hər iz Monte Karlo ilə izlənən bir hissəcikdir.
+bc506327	Zeynep: "İynədən sonra sakit dincəlməliyəm?"
+bc566d93	Döl dozası ≈ SSDE = 
+bc5d4211	Hamısını ver
+bd77abf8	Təcili cərrahiyyə: kəskin appendisit? Kontrastlı qarın-çanaq KT (Dr. Şahin)
+bd7bba09	siqnal
+bd9533e5	Hodgkin limfoması — mərhələləndirmə
+be5b1f2d	Xəstənin sualı
+be65f185	Dəmir oksidi piqmentləri qızına bilər: pasiyenti xəbərdar edin, lazım olsa soyuq kompres. Əks-göstəriş deyil.
+bf06df89	Elektron enerjisi
+bf300ab6	filtrli
+bf62a8bf	Sarı ox xalis maqnitləşmə M-dir. RF impulsu onu B₀-dan meyl etdirir; o, uzununa T1 ilə bərpa olunur və eninə T2 ilə sönür. Rəngli oxlar müxtəlif tezlikli izoxromatlardır (T2*).
+bf6d791a	Geniş dəstələrdə səpilmiş fotonlar da detektora çatır; yığılma əmsalı B ≥ # bunu nəzərə alır. Burada B ≈ # + k·μx istifadə olunur.
+bfaba695	Nisbi aktivlik konsentrasiyası (təsvir maksimumuna görə)
+bfb0dfa4	Allergiya yoxdur; kreatinin normaldır
+bfce608a	Pasiyent / fantom
+bfe05f84	Yumşaq toxuma
+bfe92fa7	Qan
+c013320b	GÖZLƏMƏ ZALI
+c03749ef	Tapıntılar
+c0455b80	# MV yaxşı nüfuz edir, lakin (γ,n) reaksiyası ilə fotoneytronlar yaradır → bütün bədənə əlavə doza və qoruma ehtiyacı.
+c06853d2	Sıfırlayan TI (OBM / yağ)
+c07735e3	↻ Yenidən cəhd et
+c0774077	Mənbəyi qurğuşun konteynerə qoyun; ümumi doza < # µSv
+c09eec06	MLEM Puasson statistikasını birbaşa modelləşdirən iterativ üsuldur; FBP-dən daha az zolaq verir, lakin çoxlu iterasiyada küy artır.
+c0aad756	Hissəcik izlərini göstər
+c0f5bb27	Fırlanma oxu. Pasiyenti burada mərkəzləşdirmək vacibdir: mərkəzdən sürüşmə bowtie filtrinin təsirini ləğv edir, küyü və dozanı artırır.
+c124dd95	Hər hüceyrə fraksiyadan S(d) = exp(−αd − βd²) ehtimalı ilə sağ çıxır. α/β-si aşağı olan toxumalar fraksiya başına dozaya daha həssasdır.
+c1329b8d	Elif: "Xahiş edirəm, körpəm üçün ən aşağı dozanı istifadə edin."
+c14f1584	Ümumi skan (# mövqe)
+c1811e60	Gündəlik IGRT orqanın #–# mm hərəkətini düzəldir və ~# mm PTV kənarlarına imkan verir (van Herk: M = #Σ + #σ).
+c1d1684b	Dəstələr
+c285174a	xəstədə dərinlik (sm)
+c2dcb4a3	Daha uzun gözləmək lazım deyil: F-# demək olar ki, tamamilə parçalanıb və qidalandırma boş yerə pozulur.
+c2e4e241	izomer keçid
+c2f67ba3	# mm Al + # mm Cu
+c341622f	Körpənin dozası əsasən ananın bədənindən gələn # keV fotonlardan yaranır (xarici şüalanma); südə çox az FDG keçir. Yaxın təmas (qucağa almaq, ~# sm məsafədən əmizdirmək) nə vaxt bərpa oluna bilər? Oyun hədəfi: körpə dozası ≤ # µSv.
+c35ec4c3	Ön-arxa (AP)
+c3a14e9a	su μen/ρ
+c3e47672	Spin exo
+c3ff1e50	Katoddan çıxan elektronlar boru gərginliyi (kVp) ilə volfram anoda doğru sürətləndirilir. Enerjinin ~#%-i istiliyə, ~#%-i rentgen şüalarına çevrilir. Nüvələrin sahəsində yavaşlayan elektronlar E_max = kVp-yə qədər kəsilməz spektrli <b>tormozlanma şüalanması</b> buraxır.
+c4547490	Spin fizikası
+c487c009	Pəncərə W(f): Ram-Lak (kəskin, küylü), Shepp-Logan (sinc), Kosinus, Hann (hamar, az küy). Kəskinlik ↔ küy kompromisi.
+c4a7b302	İz rəngləri: sarı = foton, mavi = elektron, qırmızımtıl-bənövşəyi = pozitron, narıncı = proton, yaşıl = nüvə qarşılıqlı təsiri.
+c4ef192a	qəfəssiz, 
+c558bcea	Peşə: qaynaqçı / cilalama (# il)
+c5748eb4	MR təhlükəsizlik skrininqi
+c57b585f	Konsol CTDIvol göstərir. Bu iri xəstənin dozasını ən yaxşı hansı kəmiyyət əks etdirir?
+c59c3c01	Ayşe: "Bu jele kimi şey nədir? Onu üzümə qoyacaqsınız?"
+c5d4754f	# mg/dL
+c5e874f2	Gonad qoruyucuları artıq rutin tövsiyə edilmir; ən yaxşı qoruma kollimasiyadır.
+c60cf4ca	Co-# və Tc-#m-in doza güclərini # m-də müqayisə edin
+c69a5477	Səpilmə: eyni ekspozisiyanı şəbəkə ilə və şəbəkəsiz edin
+c6a141c6	Mərkəzi ox üzrə dərinlik dozası
+c6b800d4	#. Spin və presessiya
+c6c23301	Doğrudur. (Daimi I-# toxum implantı qısa müddətli yaxın təmas məhdudiyyətləri tələb edərdi.)
+c6c4ee23	Şişə nəzarət ehtimalı
+c6d6b1b5	Bu yalnız ~# sm (bir HVL) üçün doğrudur.
+c6d8a5ee	 (baş)
+c7801b3c	NÖVBƏTİ DƏRS
+c7e4693e	Model qeydi: səpilmə sahə və qalınlıqdan asılı sadələşdirilmiş nüvədən istifadə edir; detektorun DQE-si və fokus ləkəsinin bulanıqlığı nəzərə alınmır.
+c81dd039	Onurğa beyni Dmax < # Gy
+c8423429	Körpələr və yataq xəstələri üçün uyğundur, lakin ürək kölgəsi böyüyür və öndəki orqanlar daha çox doza alır.
+c8828318	Tərs kvadrat qanunu: ~# m, ~# m və ~# m məsafədə göstəriciləri qeyd edin
+c8f76d70	Doza qüsurlar üçün ~# mGy həddindən xeyli aşağıdır; uşaqlıq dövrü xərçənginin əlavə riski çox kiçikdir (≈ # % hər # mGy üçün). Hamiləliyi dayandırmaq üçün tibbi səbəb yoxdur.
+c901ddc3	Oynaq mayesi
+c91a26b5	Prostat sidik kisəsi və düz bağırsağın dolğunluğuna görə gündən-günə yerini dəyişir. Hər fraksiyanı necə yoxlayırsan?
+c9248cc8	Qoruma və kollimasiya
+c926cd17	Su / OBM / sidik
+c944c820	Kompton səpilməsi bu enerjidə yox olur
+c964528c	Detektorda (mərkəz)
+c9db273f	Dil seçin
+ca1a3109	Yod kontrastı niyə maksimumu # keV ətrafında olan spektrlə daha yaxşı görünür?
+ca42e28e	Emirin uşaq döş qəfəsi rentgeni halında qərarlar verin, nəticəni görün və hər addımın səbəbini öyrənin. Texniki laboratoriyalar hazır olduğunuzda sizi gözləyəcək.
+caa249cb	k-fəza (log |S(kx, ky)|)
+cae55017	Foton
+cae6e1b1	Tibbi fizikanın əsaslarından klinikaya qədər səkkiz mövzu. Hər dərsdə izahlar, düsturlar, həll olunmuş nümunələr, real fizika modellərinə əsaslanan interaktiv şəkillər və qısa test var. Sonda uyğun laboratoriyaya və klinik hala keçə bilərsiniz.
+cb988a96	# saatdan sonra (# MBq-dən)
+cbad3f92	Pozitron ~# mm toxuma daxilində annigilyasiya edir; yalnız # keV fotonlar xaricə çıxır.
+cbd54f80	Material
+cbd7b457	Qısa düsturlar
+cc25a532	Boyun
+cc4c7f13	Dərs 
+cc4da60f	Təsadüfi koinsidenslər
+cca2c192	Ümumi filtrləmə = # mm Al (daxili) + əlavə. Tələb: ≥ # mm Al (># kVp).
+ccdfbfa0	Əhali
+cd38aa8b	Yaxın təmasdan əvvəl gözləmə
+cd4c6563	İdarəetmə pultu
+cd86acc3	Bağla
+cd9bfde6	Qentri örtüyünü şəffaf göstər
+cdd62ae0	Qövs (VMAT-a bənzər)
+cde4341b	Bucaq: #° = ön (AP), #° = pasiyentin solu, #° = arxa (PA), #° = sağ.
+ce0454c7	Kiçik kürələr qismən həcm effekti səbəbindən daha az ölçülmüş aktivlik göstərir (RC < #).
+ce3486fb	üfüqi: x (−#…# cm) • şaquli: dərinlik #→# cm
+ce483eb5	Qalınlıq
+ce6b3dac	R8# distal (MC)
+ce715e71	CsI:Tl ssintillyatoru rentgen şüalarını işığa, a-Si fotodiod matrisi isə işığı yükə çevirir. Ekspozisiya indeksi (EI) detektora çatan dozanı göstərir.
+cf377b43	Sınaq imtahanı
+cf781cab	Ana Emirə qurğuşun önlük taxılmasını istəyir. Nə edirsən?
+cfc2c2f6	Filtrasiya (Al, Cu) xəstənin onsuz da udacağı və təsvirə heç vaxt çatmayan aşağı enerjili fotonları əvvəlcədən çıxarır, bu da dəri dozasını azaldır. KT-dəki "cupping" artefaktı da dəstənin sərtləşməsindən yaranır.
+d020ae28	Qurğuşunla qorunan alüminium oksid sütununda Mo-# (T½ # saat) Tc-#m-ə (T½ # saat) parçalanır. Sütundan keçirilən fizioloji məhlul yalnız Tc-#m pertexnetatı yuyub aparır (elüsiya).
+d070218a	Dərinlik
+d0a43715	Superkeçirici maqniti sadəcə söndürmək olmur; quench heliumu çölə buraxır, bahalı və təhlükəlidir — yalnız həyati təhlükə olduqda.
+d0fd90b6	Dəyişiklikdə avtomatik ekspozisiya
+d1998663	Bəli, amma yalnız Kβ xətti görünür
+d1af3044	Amalgam və kompozit plomblar təhlükəsizdir; yalnız artefakt yarada bilər.
+d1b7ec5b	Şiş EQD2 = n·d·(d + #)/(# + #) = # Gy — az doza, biokimyəvi residiv riski.
+d21058ed	Qoruyucunu yerləşdirmək üçün döşəməyə toxunun.
+d22ff1b4	Cu filtri aşağı enerjili fotonları kəsir: eyni DI ilə dəri dozası xeyli azdır.
+d252b05e	Gözləmə zalında pasiyent seçin, kartı oxuyun və halı başladın. Hər addımda siz qərar verirsiniz: suala cavab vermək, cihaz parametrlərini qurmaq və ya təsvir almaq. Fizika mühərriki nəticəni hesablayır; xal və izah almaq üçün TƏSDİQLƏ düyməsini basın.
+d28e3e42	Qiymətləndirmə: diaqnostik keyfiyyət / müalicənin effektivliyi, pasiyent dozası (ALARA), təhlükəsizlik və ünsiyyət. ★★★ üçün ≥ # % lazımdır.
+d2ab41fb	gözlənilən 
+d2c74831	İlk addım
+d2db263e	β⁺ parçalanmasından çıxan pozitron bir neçə mm ərzində elektronla annigilyasiya edir (pozitron qaçışı → ayırdetmə itkisi) və demək olar ki, əks istiqamətli iki # keV foton yaranır (±#°). Halqanın iki kristalı zaman pəncərəsi (~# ns) ərzində reaksiya versə, koinsidens və cavab xətti (LOR) qeydə alınır.
+d350ad22	Piy toxuması
+d4066030	Eksponensial zəifləmə
+d4601b55	• <b>Zəifləmə:</b> hər iki fotonun çıxma ehtimalı LOR boyunca exp(−∫μ dl)-dir — emissiya nöqtəsindən asılı deyil! Buna görə PET-də zəifləmə düzəlişi birbaşa KT-dən edilir.\n• <b>Səpilmə:</b> Kompton səpilmiş fotonlar yanlış LOR yaradır; enerji pəncərəsi (#–# keV) onların bir hissəsini rədd edir.\n• <b>Təsadüfilər:</b> iki əlaqəsiz foton eyni pəncərəyə düşür; tezlik ~ aktivlik².\n• <b>NEC</b> = T²/(T+S+R): təsvir keyfiyyətinin ölçüsü.
+d46b8bd4	Addımlar
+d4ab7bf3	Zərərsiz görünür, amma sahəyə girə bilər → təkrar çəkiliş və avtomatik sistem səbəbilə doza artımı. Ananın narahatlığını izahatla aradan qaldırmaq daha yaxşıdır.
+d4beda32	Səpilməyə qarşı qəfəs
+d4c68488	həcm %
+d4ffd893	Sümük / su nisbəti (kontrast)
+d51a0c7d	fraksiyalı, α/β = #
+d54bb772	İlik ödemi
+d584bb20	Sol ağciyər
+d5c4ed9d	prostat
+d5cc8e12	Uşaq təcili yardımı: döş qəfəsinin PA rentgeni — pnevmoniya? (Dr. Aydın)
+d5f8859c	Bu mövzu üzrə test
+d618a937	Dəstə və kalibrləmə
+d63556b0	Su
+d64fa515	qurğuşunla
+d68f0065	Dərsi aç: 
+d720c7e2	Şikayət və sorğu
+d77aac98	#. Rentgen şüalarının yaranması
+d77bb8f6	Halı açın
+d7b6610e	# MeV elektronlar yalnız ≈ # sm-ə çatır (Rp ≈ E/#): prostata çata bilmir.
+d7fcdf81	Ümumi cərrahiyyə: divertikulit / absses? Kontrastlı qarın KT (Dr. Tunç)
+d908d184	Doza kəmiyyəti
+d9370cf8	İnversiya (#°)
+d9556410	Ekspozisiya parametrləri
+d9b3e49e	Qan / ürək
+da35274d	Ocaq # sm-dir. Hansı kəsik ölçüsünü və hansı göz qoruyucusunu seçirsən?
+da435822	Keçən dəfə çox uzun çəkdi... Aparata sığacağammı?
+da880d68	Mənbə əlinizdədir! Onu tez qurğuşun konteynerə aparın.
+dad956f3	Tc-#m maksimuma t_max = ln(λTc/λMo)/(λTc − λMo) ≈ # saat elüsiyadan sonra çatır. Tarazlıqda A_Tc/A_Mo → #·λTc/(λTc − λMo) ≈ #.
+db90e18f	sümük
+dba8b336	Ən yaxşı ilk addımı göstəririk.
+dbb638ff	SPECT görüntüləmə (sümük, miokard perfuziyası)
+dbbc21b7	Fizika: küy niyə artır?
+dbf4470f	Xal 
+dc0b6beb	Ədəbiyyat
+dc411606	Blox tənlikləri • presessiya • spin exo
+dcc0d7a5	hələ işə salınmayıb
+dce06e30	Qadoliniumlu MRT
+dd2558f8	# kg / # sm
+ddd13aac	Vaxt # s — çox uzundur, hərəkət artefaktları ehtimalı var; TR-i qısalt və ya turbo faktorunu artır.
+de128bc0	Akustik səs-küy
+deb145c5	Qurğuşun önlük verib dərhal skan edirəm
+deea998c	TR (təkrar müddəti)
+deeed36b	Təsvir keyfiyyəti
+df0c22b3	Maqnit rezonansı
+df3faa41	Əlavə filtrasiya
+df518691	Kəsik dəqiq ocaq ölçüsündə (# sm)
+df697a33	Əvvəlcə yan rentgenoqram
+df6e8cfc	Cari addım
+df7177fa	ƏSAS FİKİR
+df76eace	aktivlik A(t)
+df926a69	Küy (qaraciyər ROI, SD)
+dfe4e404	Vaxt
+e026c507	səpilmiş foton E′
+e03ac455	HVL = ln2/μ = #/# ≈ # cm.
+e0a49aab	İmtahana başla  →
+e0bbd3df	Cüt yaranma həddi
+e0ccc31f	Əsas menyu
+e0e1e90f	 günlük təbii fon)
+e0fe199e	Radiasiya mühafizəsinin üç prinsipi (ICRP #)
+e15b5d80	Hüceyrə sağqalma əyrisi (LQ)
+e1940a73	İpucu: arxa plandakı cihaza istədiyiniz vaxt klikləyə bilərsiniz; başlamaq üçün bu lazım deyil.
+e19d9fd0	kişi
+e232e2c1	Praktik qaçış Rp (istinad)
+e2433a82	Döl dozası ≈ SSDE (uşaqlıq sahədə). CTDIvol fantom dozasıdır və xəstənin ölçüsünə görə düzəldilməlidir.
+e2d84590	Fraksiya sayı n
+e2e5fdc7	PTV (GTV + # mm) orta = # Gy / # fraksiya (# Gy)
+e3232976	Sayım kifayətliliyi # — çox az sayım: küylü təsvir, kiçik limfa düyünləri gözdən qaça bilər.
+e3726bce	Ertəsi səhər: # saat ac, qanda qlükoza # mg/dL.
+e3f06eaf	səpilmə bucağı θ (°)
+e41d8109	dərinlik (sm)
+e43e04b0	Rentgen borusu (generator)
+e4ab1899	Pəncərə eni (W)
+e4c140b2	Parçalanma təsadüfidir: tək bir nüvənin nə vaxt parçalanacağını demək olmaz, amma çoxlu nüvə eksponensial qanuna tabe olur. Aktivlik bekkereldə ölçülür (# Bq = # parçalanma/s); köhnə vahid küridir (# Ci = #·#¹⁰ Bq).
+e4e5be6e	Elif ağlaya-ağlaya soruşur: "Körpəmə zərər verdimi?" Təxmini döl dozası ≈ # mGy.
+e4ff8488	Pəncərə səviyyəsi (L)
+e53403f8	qarışıq
+e549237e	Prostat α/β ≈ # Gy, düz bağırsaq (gec təsirlər) α/β ≈ # Gy. Hədəf: şiş EQD2 #–# Gy, düz bağırsağın ön divarı (# % aldığını fərz et) EQD2 ≤ # Gy.
+e56e73a9	Çənələr + MLC
+e5dcf84a	Toplanmış doza
+e5e8cc94	Pik / giriş nisbəti
+e5f27121	İnversiya-bərpa
+e5f6fa50	Sahə gücü
+e621da6d	Kompton kənarı T_max
+e636070c	Qismən Furye # %
+e670f9a4	Təxmini döl dozası
+e6862f05	filtrsiz
+e70efde8	Pasiyentin fırlanması
+e73b4300	Əlavə Al filtri
+e74c644a	Modullar
+e75dfe28	Gözləmə zalı — pasiyent seçin
+e78631fd	Pəncərə
+e7883571	#. Müalicə planlaşdırması
+e8145ea3	 % kVp)
+e8511c37	Hazır ayarlar
+e8f9a7ba	← Sadə ana səhifə
+e934bbc7	Ümumi müddət
+e9cef8c2	Elektronların qaçış məsafəsi sonludur: səthi şişlər üçün idealdır. Praktik qaydalar: R5# ≈ E₀/# cm, Rp ≈ #·E₀ cm, terapevtik dərinlik R8# ≈ E/# cm. Dərinlikdəki kiçik quyruq tormozlanma fotonlarından yaranır.
+e9eeaebf	ionlaşdırıcı şüalanma yoxdur
+e9f3813b	Körpənin dozası (# % yaxın təmas)
+ea3ff3b9	Hallar yalnız təhsil üçündür, klinik qərarlar üçün deyil.
+ea445006	NEMA təsvir keyfiyyəti fantomu
+ea617450	Hamilə xəstədə appendisit şübhəsi. İlk nə olmalıdır?
+eab8f509	Filtrləmə: HVL-i # mm Al-dən yuxarı qaldırın
+eac26593	Effektiv doza (# sm)
+ead12e43	Kompton kinematikası
+ead463ae	Effektiv enerji
+eaeaaa7b	Səbəbini öyrənin
+eaf105c7	Vurğula
+eaf5e11d	μ = # cm⁻¹ olarsa, HVL nə qədərdir?
+eaff7e77	eGFR # mL/dəq/# m², metformin qəbul edir. Yodlu kontrastla bağlı nə edirsən?
+eb1b05b8	Neytron
+eb267579	 (AC olmadan)
+eb2ba7e2	Sahənin hündürlüyü
+eb5ba0e3	#. Filtrlənmiş geri proyeksiya (FBP)
+eb6d0c3f	Xəstənin hazırlanması
+ebb00912	qoruyucu lazım deyil
+ebee5570	Emir: "Nəfəsimi saxlamalıyam? Yaxşı, saxlayıram!"
+ec3c5945	İpucu: yuxarı paneldəki "Nəzəriyyə" səhifəsində əsas düsturlar var.
+ec3ea500	Model qeydləri: MC sıxlaşdırılmış tarixçədən istifadə edir (Highland çoxsaylı səpilməsi); planlaşdırma #D-dir və yan səpilməni nəzərə almır.
+ec88aab2	Tamamlandı
+ece35ca8	Laboratoriyada sınayın  →
+ece838e8	skan
+ed03c7fc	≈ Qismən düzdür
+ed465190	Hədəf: menisk cırılmasını və sümük iliyi ödemini göstərmək. Spin exo: S = PD·(# − e^(−TR/T1))·e^(−TE/T2). TR, TE, yağ supressiyası və B₀ seç, sonra SEKANSI İŞƏ SAL düyməsini bas.
+eda30c59	Tapşırıq tamamlandı: 
+edbd8b07	Çəkilənmə
+eddfea6b	Yüzlərlə kanal × keramik ssintillyatorun çoxlu sırası. Hər bucaq üçün bir proyeksiya ölçür; birlikdə sinoqramı yaradırlar.
+edf0d031	Testi sıfırla
+ee5e0890	Sahəni ağciyərlərə sıx kollimasiya edirəm; gonad qoruyucusu istifadə etmirəm və anaya səbəbini izah edirəm
+ee69cbe6	Elif ağlayaraq soruşur: "Körpəmə zərər verdimi?" Təxmini döl dozası ≈ 
+ee88a3cc	Bütün bədən müayinəsində pasiyent masa mövqeləri üzrə irəlilədilir; aksial görüş sahəsi #–# cm, uzun aksial sistemlərdə isə #–# m-dir.
+ee940d80	Açıq = yüksək zəifləmə (sümük, metal). Radioloji qaydaya görə göstərilir: pasiyentin sağ tərəfi solda. Pəncərə avtomatik qurulur.
+ef57cd07	Qan şəkəri
+ef646af7	Real rentgen dəstələri polienerjilidir. Aşağı enerjili fotonlar ilk santimetrlərdə üstünlüklə udulur, buna görə qalan dəstənin orta enerjisi artır: dəstənin sərtləşməsi. Nəticədə ikinci HVL birincidən böyükdür; HVL₁/HVL₂ homogenlik əmsalı adlanır.
+ef945465	RF impulsları
+efce91bf	Ölçülmüş T½ (MC)
+efd604d5	Temperatur
+efd9baf3	Tc/Mo nisbəti (keçid tarazlığı)
+f02abde8	Dəstənin sərtləşməsi
+f0565afa	Fraksiyalı (sabit d)
+f0c79167	Arxa
+f10c7001	Sürəti: γ şüaları işıqdan sürətli hərəkət edir
+f1d69164	Yarımzəifləmə qatı (HVL)
+f1e3d43f	Qadolinium cifti keçir; hamiləlikdə yalnız zəruri olduqda. Appendisit üçün kontrastsız MRT kifayətdir.
+f1e5a8a5	kVp volframın K-qatının rabitə enerjisini (# keV) aşdıqda <b>xarakteristik</b> xətlər yaranır: Kα ≈ #–# keV, Kβ ≈ #–# keV. İntensivlik ~ (U − #)^#, U = kVp / E_K.
+f2125926	Qaraciyər küyü # HU: absses və yağ fərqlənir.
+f215c98f	DI # → artıq ekspozisiya (DI # ≈ # %, # ≈ #× doza).
+f2586cb3	Sahə (detektorda)
+f25c8ffb	Təbii fon (dünya ortası)
+f28c5bf6	Dərslər • interaktiv şəkillər • testlər
+f2e56345	Qurğuşun qalınlığını Cs-# üçün HVL-ə (≈ # cm) qoyun və yarıya düşməni görün
+f2f0b95b	gözləmə (saat)
+f38b9efa	#. Proyeksiyalar və Radon çevrilməsi
+f3952697	geri təpki elektronu T
+f3987859	Borunun çıxışı təxminən kVp² ilə və mAs ilə xətti artır: kVp-ni #% artırmaq detektor siqnalını təxminən iki dəfə artırır (#% qaydası).
+f3b48ff1	Onu dayandırmaq: superkeçirici maqnit həmişə işləkdir və ferromaqnit əşyalar mərmiyə çevrilir; yalnız MR üçün təhlükəsiz avadanlıq
+f3f36daf	Atomlardan elektron qoparmaq üçün kifayət qədər enerjili (≥ # eV) şüalanma.
+f425bff1	  → gözlənilən exo anı: 
+f48a9bb6	Monte Carlo dərinlik dozası, Brəqq piki, müalicə planlaşdırılması, DVH, radiobiologiya.
+f4a277c4	Planlaşdırma
+f4a9c097	Filtr
+f5c1b5b5	Sahə ölçüsü (səthdə)
+f5e305fa	Sahə #×# sm: döş qəfəsi ≈ #×# sm-dir; sahəni daralt (DAP və səpilmə).
+f5efdcd1	# mg/L
+f60d1c54	T2-çəkili təsvir: onurğa beyni mayesi ağ maddədən parlaqdır
+f67cc940	Parçalanma növü
+f6862a0b	Qoruyucunun ötürməsi (yığılma daxil)
+f6d42ce8	Breqq pikinin dərinliyi
+f6f22637	İdarəetmə
+f71b5abf	Bioloji effektiv doza
+f728f992	orta yetkin (# cm)
+f7c4fef9	"Təşəkkür edirəm, çox qayğıkeş idiniz!"
+f80ba400	Bu bölmədən necə istifadə etməli
+f810e311	Düz bağırsaq EQD2 (α/β #) = # Gy — qəbul ediləndir.
+f8486832	Yalnız k-fəzanın mərkəzindən istifadə edin: kontrast qalır, detallar itir
+f84b8da5	Xarici şüa terapiyası üçün yanlış və narahatlıq yaradandır.
+f8c4150d	# MeV e⁻
+f8d6f331	Mənşəyi: rentgen şüaları elektronlardan, γ şüaları nüvədən gəlir
+f900a313	Əzizim, üzümdə çapıq qalacaq? Bir də xahiş edirəm, gözümə zərər verməyin.
+fa033cd5	Tapşırıq: mənbəyi götürün
+fa73ce08	Yaxşı iş — bir neçə məqamı yaxşılaşdırmaq olar.
+faa8e755	FLAIR: TI = T1·ln2 seçmək OBM-i sıfırlayır (≈ # ms, # T-da). STIR: qısa TI yağı söndürür (≈ #–# ms).
+fad26615	Larmor tezliyində (~# MHz, # T-da) M-i meyl etdirən B₁ impulsları göndərir. Toxumaların qızması (SAR) buradan qaynaqlanır.
+fae02622	Orbit rentgenləri: metal yad cisim YOXDUR. Müayinə davam edir.
+faff56b8	Keçən vaxt
+fb079007	Fraksiya başına doza d
+fb5419ac	Kənarlar az doza alır → residiv riski; çox kiçik sahələrdə R9# da dayazlaşır.
+fb77122a	İlk halı başla
+fb8da0b7	Hamiləlikdə appendisit: USM → kontrastsız MRT → lazım olsa aşağı dozalı KT.
+fb990b3e	★★★ ≥ # %, ★★ ≥ # %, ★ ≥ # %. Ən yaxşı nəticəniz saxlanılır; yaxşılaşdırmaq üçün yenidən oynayın.
+fba0b4a2	Kosinus
+fbb64dbd	Borunun gərginliyi
+fc6adbf7	Giriş səthinin hava kerması (ESAK)
+fc7e5fc3	Sayım kifayətliliyi # — lazım olandan çox aktivlik; əlavə doza diaqnostik fayda vermir.
+fc82911d	nisbi
+fcdeb802	artıq ekspozisiya
+fcff6168	Çanaq
+fd4e03b8	Masa mövqeyi başına vaxt
+fd53e067	inyeksiyadan sonra (dəq)
+fd7f93f9	Parametrlər
+fd8f9de5	Qradiyentlər mövqeyi tezlik və fazaya kodlaşdırır; alınan siqnal təsvirin #D Furye çevrilməsidir (k-fəza). Təsvir tərs FFT ilə alınır. Matris ölçüsü ayırdetməni, FOV piksel ölçüsünü müəyyən edir; az seçmə üst-üstə düşməyə, hərəkət isə faza istiqamətində xəyallara səbəb olur.
+fd9045b9	#–# kV iri xəstələrdən daha yaxşı keçir: eyni küy üçün daha az mAs.
+fddaa9d0	Uyğunluq indeksi (Paddick)
+fe0012eb	Köhnəlmiş məsləhət; eGFR ≥ # olduqda lazımsızdır və diaqnozu gecikdirir.
+fe2bb7a7	Çanağın ətrafına qurğuşun önlük sarıyıram
+feb29647	Polienerjili dəstə (real)
+feb7cede	Hipertoniya (nəzarət altında)
+febab6f7	IGRT: müalicədən əvvəl kV təsvir və ya konik dəstəli KT (CBCT) çəkilir və pasiyentin mövqeyi millimetr dəqiqliyi ilə düzəldilir.
+fec9a6c7	Qızıl markerlərə uyğunlaşdırmaqla gündəlik kV görüntüləmə / CBCT
+ff1483ac	Kardiostimulyator (titan)
+ff559aca	Can: "Yaxşı ki, mənə qulaqlıq verdiniz. Budur, səslər gəlir!"
+ff97f266	Orta foton enerjisi
+ffedd789	# aylıq körpəni əmizdirir

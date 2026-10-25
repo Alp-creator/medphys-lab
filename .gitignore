@@ -1,0 +1,67 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/.utmp/
+/build/
+
+# Build output (released on GitHub Releases instead)
+/[Bb]uilds/
+*.apk
+*.aab
+*.unitypackage
+
+# Signing material and secrets — never commit
+*.keystore
+*.jks
+*.p12
+*.pem
+*.env
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+sysinfo.txt
+crashlytics-build.properties
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor bridge runtime files (logs, screenshots, message queues)
+/Bridge/shots/
+/Bridge/inbox/
+/Bridge/outbox/
+/Bridge/recovery_backup/
+/Bridge/__pycache__/
+/Bridge/*.log
+/Bridge/status.txt
+/Bridge/compile.txt
+/Bridge/unity_log.txt
+/Bridge/physics_test.txt
+/Bridge/case_calib.txt
+/Bridge/models_report.txt
+/Bridge/normals.txt
+/Bridge/android_build_out.txt
+/Bridge/manifest.backup.json
+/Bridge/icon_preview.png
+
+# Blender previews
+/Tools/Blender/previews/

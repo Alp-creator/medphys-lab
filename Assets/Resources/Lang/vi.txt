@@ -1,0 +1,1247 @@
+002e566d	Ca lâm sàng
+005ef20f	Trạng thái
+006f11ff	Nốt phổi (khối u)
+00e896c1	Đo dmax và PDD1# của photon # MV (≥ # # lịch sử)
+00e97d3d	Hoàn toàn không có rủi ro.
+01446da3	Máu có thuốc cản quang
+01b10287	Gan
+022ebff6	  — đọc phần giải thích rồi thử lại.
+02307551	Ba nguyên tắc an toàn bức xạ: biện minh, tối ưu hóa (ALARA: thấp nhất có thể đạt được một cách hợp lý) và giới hạn liều. Nhân viên: # mSv/năm (trung bình trong # năm, tối đa # trong một năm), công chúng: # mSv/năm, thủy tinh thể: # mSv/năm.
+0282b42b	Không dùng lưới: lựa chọn đúng cho ngực trẻ em mỏng.
+02875262	Huyết áp
+028cc680	Mở trường chiếu rộng và đặt chì lên tuyến giáp
+02daa186	Gradient echo
+02ff0734	giờ
+03410798	Bắt đầu với bài #  →
+03aded2d	Proton
+03d9f12f	XÁC NHẬN
+04215fff	Đầu điều trị
+04665812	Năng lượng trung bình (lối vào / đầu dò)
+04b21fef	Chỉ ngoại vi
+04c33449	Số nguyên tử ban đầu N₀
+054ed6b1	#. Proton và đỉnh Bragg
+0551e426	Nam châm siêu dẫn
+05735a1f	Trong khi chụp nghe thấy tiếng gõ lớn. Nguyên nhân và biện pháp phòng ngừa?
+05747e6b	Khuyến cáo hiện nay (AAPM #, BIR/IPEM #): khu trú chùm tia là cách bảo vệ hiệu quả nhất. Liều tuyến sinh dục ngoài trường chiếu vốn đã rất nhỏ; tấm che trượt vào trường chiếu sẽ che mất giải phẫu và khiến hệ phơi sáng tự động tăng liều.
+05883f18	Suất liều H*(#)
+05aeb14d	Liều không cần thiết cho mắt và da mặt lành.
+05b19ab8	Mẹo học tập
+05b21be8	EQD2 khối u = n·d·(d + #)/(# + #) = # Gy — khoảng triệt căn.
+05f6dc9a	Từ trường chính B₀
+069d81b7	 kênh
+06ba43bc	Mỗi quả cầu là một hạt nhân. Ở mỗi bước thời gian nó phân rã với xác suất p = # − e^(−λΔt) và phát ra một vệt photon; khi ít hạt nhân, N(t) dao động thống kê.
+06df51de	Hoạt độ tiêm
+07001202	Góc lật α
+078f2dfe	Bệnh nhân
+07a4c4cc	Trẹo gối phải khi đá bóng; kẹt khớp, sưng
+07ef138f	CHẠY CHUỖI XUNG
+0827bee2	Giới hạn liều (ICRP #)
+086c6bbb	Màu: đường đồng liều #%·#%·#%·#%·#%. Đường viền: xanh lá PTV, vàng tủy sống, đỏ tim, hồng phổi.
+08c92619	Trẻ em nhạy cảm với bức xạ gấp #–# lần người lớn và có tuổi thọ dài phía trước → ALARA càng quan trọng hơn.
+09138ded	Tôi không muốn mổ. Điều trị bằng tia xạ này thế nào, có đau không?
+096813ae	Nhiễu (σ, vùng đồng nhất)
+098d1ad9	Xạ trị nút mạch gan (SIRT)
+09f71920	Tần số Larmor
+09feeabb	So sánh đỉnh Bragg của proton # MeV với tầm CSDA của NIST
+0a496fc5	Liều thai ≈ SSDE (tử cung nằm trọn trong trường chiếu). Giới hạn nhiễu chẩn đoán ≈ # HU (quy trình viêm ruột thừa liều thấp). Chọn kV, mAs, pitch và chiều dài quét, rồi bấm QUÉT.
+0a52c35c	Trọng T1
+0aa78268	Giảm phân liều: α/β của tuyến tiền liệt thấp hơn trực tràng, nên phân liều lớn có lợi cho khối u (CHHiP #/#, PACE-B #/#) và bệnh nhân đi lại ít hơn.
+0ac8a560	Đặt lại
+0acf4d25	Chữ lớn hơn
+0b4677ab	EANM: glucose < # mmol/L (≈ # mg/dL). Tăng đường huyết cạnh tranh với FDG và làm giảm hấp thu ở khối u.
+0b4d8f40	tỉ lệ sống sót
+0b81ff1c	Xương hàm trên ≈ # cm bên dưới tổn thương
+0b8b3199	Ràng buộc liều (QUANTEC / RTOG)
+0bbe8b9f	Monte Carlo thời gian thực: mỗi vệt là một hạt. Nhiều lịch sử hơn = ít nhiễu thống kê hơn (σ ~ #/√N).
+0c1c4f42	Xạ trị ung thư: EBRT triệt căn, tuyến tiền liệt ± túi tinh (BS Kılıç)
+0c2610e2	CNR rách/sụn chêm #: vết rách rõ (dịch sáng, sụn chêm tối trên PD/T2).
+0c433245	Tỷ lệ khối u/nền thấp → nguy cơ đánh giá giai đoạn sai.
+0c903e49	Các lá chì giới hạn trường: ít liều cho bệnh nhân và ít tán xạ. Lọc Al/Cu loại bỏ photon năng lượng thấp, làm cứng chùm và giảm liều da.
+0ccd4680	Tỉ số cầu / nền
+0ce92428	CTDIw: phantom thân # cm (đầu # cm); E = DLP × k (ngực #, bụng #, đầu # mSv/mGy·cm).
+0d78d08a	Tạo một SOBP rộng # cm
+0db9cc3e	Mạch
+0dec8195	Áp dụng #° – τ – #° và tạo spin echo
+0e1a0a7b	liều đơn, α/β = # (sớm / u)
+0e32111a	Chùm tia
+0e629e6c	Hẹn lại: nhịn ăn ≥ #–# giờ, đường huyết phải < # mg/dL
+0f01dfcb	Giờ chiết tiếp theo
+0f6a0301	Ống định vị #×# cm, không khuôn che
+0ff4383c	Nhân viên mang thai (thai nhi)
+10225e52	Xương vỏ
+10bddc32	Mảnh sắt từ trong mắt có thể dịch chuyển trong B₀ và gây mù → chụp X-quang hốc mắt (hoặc CT) trước.
+10bee102	Chỉ số lệch (DI)
+10f562e1	Tiêm insulin tác dụng nhanh rồi tiêm thuốc ngay
+10f6a1bd	Mô hình tuyến tính-bậc hai • BED
+113249ae	Lập kế hoạch photon thỏa mọi ràng buộc liều
+114fa830	Bộ chuẩn trực đa lá (lá #–# mm) định dạng trường chiếu theo khối u và di chuyển trong khi phát tia ở IMRT và VMAT.
+116e6f62	Ảnh ba chiều
+11a18b82	Gỡ tất cả
+11a4e77a	Chất lượng chẩn đoán / điều trị
+124f5fe7	Độ tương phản chất trắng / chất xám (tại điểm đánh dấu)
+129b582e	DI # → phát tia đúng.
+132d55ba	photon tương đối
+134c264b	Nhiễu ảnh kim loại: chụp một lát cắt chậu có khớp háng nhân tạo
+135a8cc7	 giờ sau
+136685c9	EQD2 khối u (α/β #) = # Gy, da muộn (α/β #) = # Gy. Cân bằng tốt giữa kiểm soát và thẩm mỹ.
+1370333f	Chiều rộng trường chiếu
+138fb3e1	Đúng: I/I₀ = e^(−μx). Vì σ ~ #/√N, nhiễu tăng ≈ √# ≈ #× với cùng mAs.
+13ad4851	β-hCG DƯƠNG TÍNH: thai khoảng # tuần.
+13bea53e	Đã cấy # điểm đánh dấu bằng vàng
+13f06473	Xóa số đọc
+1451f91f	thực 
+14d5133a	ACR (#) và ESUR #: tiếp tục metformin khi eGFR ≥ #; cần thuốc cản quang tĩnh mạch để phát hiện áp xe.
+14e77c03	Đặt lại tiến độ
+151c3f35	Vòng đầu dò (LYSO + SiPM)
+1527c7a5	Khám phá vật lý y khoa từng bước nhỏ với các phép tính thực.
+15b23cec	 điểm
+15c3229f	α/β khối u
+15cf43c6	Tấm phẳng đối diện nguồn kV; thu hàng trăm hình chiếu cho CBCT khi gantry quay.
+15f25e35	Cho con bú và tiếp xúc gần
+15fd9964	Các ngôn ngữ ngoài tiếng Thổ Nhĩ Kỳ và tiếng Anh là bản dịch có máy hỗ trợ; vui lòng báo lỗi nếu có.
+16092a9e	Thử lại — các giải thích sẽ hướng dẫn bạn.
+16280e6a	Suất liều từ bệnh nhân ~ A/d²; F-# T½ = # phút. Hoãn tiếp xúc gần vài giờ giảm mạnh liều cho trẻ.
+1640e3a4	khoảng cách (m)
+164b6930	Ghi số đọc
+16b19be2	Ảnh hưởng của kVp: phát tia ở ≤# kVp và ≥# kVp; so sánh độ tương phản xương
+16d4a955	Xạ trị
+17098140	Ung thư biểu mô tuyến tiền liệt, nguy cơ trung bình (Gleason ##, PSA #)
+1716fced	Liều thai ≈ SSDE = # mGy (CTDIvol # × f #).
+17278db5	Năng lượng
+17a890d2	Hạt nhân còn lại N(t)
+17cd8fa8	 bài • 
+18279c08	Đỉnh Bragg trải rộng (SOBP)
+18284597	<b>Chỉ số phơi sáng</b> EI = # × K_đầu dò [µGy] (IEC ##). Chỉ số lệch DI = #·log₁₀(EI / EI_mục tiêu); |DI| ≤ # là phù hợp. DI = # nghĩa là gấp đôi liều cần thiết.
+182fdbbe	EANM (chồng lấp vị trí giường > # %): A·t ≥ # MBq·min·kg⁻¹ × cân nặng. Hoạt độ thấp hơn + thời gian dài hơn cho cùng một hình ảnh với liều thấp hơn. Thời gian hấp thu khuyến nghị # ± # phút.
+18d0a565	CT ngực
+1904dc9d	Khuyến cáo EANM
+19201036	Thời gian–khoảng cách–che chắn, định luật nghịch đảo bình phương, bản đồ suất liều, nhiệm vụ.
+193ee1fd	Đỉnh Bragg trải rộng (SOBP, # cm)
+19b5eb24	Quy tắc nhanh: R9# ≈ E/# cm, R5# ≈ E/# cm, Rp ≈ E/# cm. Electron dừng lại ở một độ sâu rõ rệt — lý tưởng cho khối u nông.
+19c23656	 giờ chờ
+1a36a166	Tiến độ
+1ace7035	Đầu dò tấm phẳng
+1b06e46e	Thu ≥ # # sự kiện trùng phùng và tái tạo bằng MLEM
+1b12fad7	Đái tháo đường típ # (metformin)
+1bbe9bf8	Mehmet: "Giơ tay lên đầu à? Được."
+1c872a31	có (> # MV)
+1ca87565	Dấu trên da và laser là đủ
+1cb740a3	<b>Định luật nghịch đảo bình phương:</b> cường độ ~ #/d². Chuyển SID từ # lên # cm cần ~#× mAs để có cùng liều tại đầu dò, nhưng liều da tăng ít hơn và độ phóng đại giảm.
+1cc0e3d5	Người mẹ hỏi: "Phim X-quang này có hại cho con tôi không?" Liều hiệu dụng của Emir ≈ 
+1d4b8ac2	Tiêm ngay
+1d6b9aba	Trong giai đoạn tạo cơ quan (tuần #–#) ngưỡng tất định là ~#–# mGy; các xét nghiệm chẩn đoán thấp hơn nhiều.
+1d8a20dd	Bụng của Mehmet dày 
+1dd9a37f	Thời gian hấp thu không chuẩn: SUV không so sánh được với các lần chụp trước/sau.
+1e6a827e	Tìm tần số Larmor của proton ở # T (≈ # MHz)
+1e836d59	Suy giảm T2
+1f05f68e	Tham số mô
+1f12087d	Liều ≈ 
+1f4ea376	Hoạt độ Mo-# ban đầu
+1f6b3b4a	Xương (# cm) # % — được bảo vệ.
+20170133	Trám răng
+2056fe0a	Co-# có PDD thấp và vùng bán dạ rộng; không dùng cho xạ trị triệt căn tuyến tiền liệt hiện đại.
+20c4a5a9	Hiển thị da
+20c53222	Chọn bất kỳ chủ đề nào. Nếu bạn mới bắt đầu, hãy thử ca khởi đầu ngắn trước.
+20caf1bb	Chiết máy phát #–# giờ sau lần chiết trước (hiệu suất tối đa)
+210acf6e	Hasan: "Tôi phải đến bao nhiêu ngày? Tôi đi từ làng lên."
+218447b4	Mỡ
+21db31eb	TR/TE ngắn → T1; TR dài, TE ngắn → PD; TR/TE dài → trọng T2.
+21f331e9	Nội soi khớp vai năm #: neo titan
+224a7dd2	Xạ trị ngoài không có hạn chế như vậy; điều đó có thể áp dụng cho hạt xạ trị áp sát.
+229566cb	Hasan: "Sau điều trị tôi có được ôm cháu không? Tôi có bị nhiễm phóng xạ không?"
+22a06b53	ALARA: ảnh ngực với ESAK < # mGy và DI ≥ −#
+22fd0749	IGRT hằng ngày hiệu chỉnh di động cơ quan, giúp thu nhỏ lề và liều trực tràng.
+2357d727	Vật lý chùm tia
+23f641a4	• Kiểm tra đơn vị trong mọi công thức (cm⁻¹, Gy, Sv, MBq). • Tự giải ví dụ trước rồi mới đối chiếu. • Sau bài thi thử, ôn lại các bài của những câu làm sai. • Khi phỏng vấn, hay gặp nhất: nguyên tắc ICRP, HVL, định luật nghịch đảo bình phương, LQ/EQD2, CTDIvol/SSDE, T1/T2, PDD và đỉnh Bragg.
+24176da5	Máy phát Mo-# / Tc-#m
+2448ca2f	chì
+2456b993	Tương phản
+2523a664	Đi tới nguồn (< # m), nhặt lên và mang tới hộp chì.
+25266a5c	Xong. Tỉ số tâm/nền: 
+252a0fa6	không che chắn
+253898c0	Độ đủ số đếm # — chất lượng ảnh mức EANM.
+2576aae7	Cân nặng / chiều cao
+25941612	Liều xương (# cm)
+25b31f5d	Suất ra của bóng (# m)
+25c2fc03	Không tìm thấy câu hỏi.
+25e14a19	Dòng × thời gian
+25edd5e3	tài liệu tham chiếu về năng suất hãm và tầm của proton và electron
+26f973b0	Hiệu chỉnh suy giảm (AC)
+2731d14d	BẮT ĐẦU CA  →
+2749a496	Liều hiệu dụng cho bệnh nhân
+27c35a89	 (mất T2: e^(−TE/T2))
+280f0096	Bắt đầu với ca đầu tiên
+287f6fa8	Số phân liều đã phát
+2885d27b	Lưới chống tán xạ (#:#)
+28a6f0c2	Đồ thị
+28ce8c15	Các đầu dò đo chính positron
+296d75eb	Sinh học phóng xạ
+29aac115	liều đơn, α/β = # (muộn)
+29e178a3	Trao đổi với gia đình
+29e32f3e	Tiếp đón
+2a17c8fd	Nhiễu gan # HU: áp xe tương phản thấp có thể bị lẫn trong nhiễu.
+2a72143f	Cần để có < # µSv/h tại bàn
+2ab93b6c	Mục tiêu: ≥ # % liều ở mọi nơi từ da xuống tới # cm; ≤ # % ở xương tại # cm. Chọn năng lượng và độ dày bolus.
+2ad83ea8	QUÉT
+2afcdfa8	CNR rách / sụn chêm
+2b05bc17	Mỗi nguyên tử phân rã ở mỗi bước thời gian với xác suất p = # − e^(−λΔt). Khi ít nguyên tử, đường cong dao động thống kê.
+2b45b1f2	Số vòng lặp MLEM
+2b8ee748	Phác đồ đã chọn
+2bab58c8	An toàn MR: phiếu sàng lọc, X-quang hốc mắt (thợ kim loại), quy tắc vùng IV, bảo vệ thính giác.
+2bbeecb2	Bệnh nhân thật, quyết định thật: X-quang ngực nhi, CT khi mang thai, bệnh nhân to lớn, xạ trị tuyến tiền liệt, ung thư da, PET và an toàn MR.
+2bd2dbd1	Khớp háng nhân tạo bằng titan
+2be6e625	Xạ trị áp sát HDR
+2bfaf1fc	chưa phát tia
+2c30aab8	Tổng liều / thời gian
+2c89960f	EQD2 khối u (α/β #) = # Gy, da muộn (α/β #) = # Gy. Một phân liều lớn duy nhất có nguy cơ hoại tử muộn và tổn thương sụn.
+2cafb291	Ca lâm sàng — 
+2cb28fc5	Bộ phận
+2ceef116	Tắt nam châm rồi cho cô ấy vào
+2d0ea9f2	Tổng liều
+2d435572	Gây sợ hãi không cần thiết và làm chậm chẩn đoán; không nên ngăn cản một xét nghiệm chính đáng.
+2d877b6c	Phần
+2d93483f	Bạn có thể chọn nhiều phương án.
+2dcee2fc	sau khi chiết (giờ)
+2e160bcd	Giai đoạn
+2e6390f7	Xong. 
+2e83162e	Thiết kế chuỗi xung
+2eafe887	Tốc độ
+2ebd290f	Tải bóng (pitch #)
+2ecb2727	kV thấp làm tăng độ tương phản của iod nhưng gây thiếu photon ở bệnh nhân to béo.
+2f0820de	Chụp không thuốc cản quang
+2f44ed8c	Bắt đầu lại
+2f828120	Các quả cầu nóng nhiều kích cỡ và một phần chèn phổi trong trụ chứa nước: dùng để kiểm tra hệ số phục hồi, hiệu ứng thể tích từng phần và hiệu chỉnh suy giảm.
+2fc8666a	CNR phù / tủy
+3000eed2	thời gian (ngày)
+304ff7fb	Không có
+30b6e97d	Năng lượng electron và bolus
+30fa92b1	Ảnh tái tạo
+3152bf83	Di căn xương (điều trị alpha)
+31b9a47d	Phục hồi T1
+31e91d5f	Mỏng ở giữa và dày ở rìa, nó giảm liều ở các rìa mỏng của bệnh nhân và làm đều tín hiệu đầu dò. Bộ chuẩn trực đặt độ dày lát cắt.
+327a15b7	Sinh quang neutron bắt đầu trên ~# MV; với VMAT, #–# MV là đủ cho đích sâu.
+32d80beb	thành phần mô, các đại lượng liều, hệ số trọng số
+33449df1	#. Suy giảm và lọc
+3377af3e	Đúng: F = I·L × B. Tiếng ồn tăng theo B₀ (to hơn ở # T); IEC ### yêu cầu bảo vệ thính giác.
+33c3fd73	Y học hạt nhân
+33d5539e	Đã có phiếu chỉ định, chụp ngay
+33d5b2f2	Cơ
+34049cb1	Khối u
+340a8d84	Di chuyển với tốc độ không đổi khi chụp xoắn ốc. Pitch = độ dịch bàn mỗi vòng / tổng bề rộng chùm; pitch > # làm giảm liều.
+340d8b25	Tán xạ ngược E′(#°)
+34895938	Sàn: suất liều H*(#), µSv/h (thang log) • đường trắng = # µSv/h
+34a3d9ed	Nhà phát triển
+34aaa379	 phút
+34dd8fb9	#. Phương trình Bloch và thư duỗi
+3510b740	Insulin đẩy FDG vào cơ và mỡ; sau đó phải chờ ≥ # giờ.
+35143fb3	TE (thời gian dội)
+35afca3b	Hủy
+35fca6f7	Số lịch sử
+36014d05	Không gian k
+360983be	Hiệu chỉnh cứng hóa chùm theo nước (BHC)
+36315a9f	Xương vỏ / máu có thuốc cản quang
+363200c3	Xong: 
+36375dc7	Đặt lại toàn bộ tiến độ?
+365bad67	Cấp 
+368f3298	 câu hỏi
+36c94f4b	Không đái tháo đường
+36cc1e6f	Giảm suất liều tại bàn điều khiển (vạch xanh) xuống dưới # µSv/h
+3769e565	#. Liều
+3809b45a	Spin echo! t = 
+381fcf9b	Nhiễu (ROI bàng quang, SD)
+38362f62	Nhiệm vụ đã hoàn thành, sao của các ca và tiến độ bài học sẽ bị xóa. Không thể hoàn tác.
+38652f80	Thời gian hấp thu
+38ec0bda	Liều hiệu dụng (# mSv/MBq)
+38f2a757	Hoạt độ riêng (tinh khiết)
+38f6bec6	Lát cắt ngang (HU)
+38f9308a	Sọ
+39547f25	Chưa lọc
+396c9c92	Phổi V2# < # %
+398977ad	Kênh đầu dò
+399e986d	Nhiệm vụ
+3a6a3b1d	Còn lại / đã phân rã
+3ad53794	AP
+3b1cbe1c	Hoạt độ trong cơ thể sau khi chụp
+3b272149	✗ Sai
+3b2ac288	Phù tủy xương trong tủy mỡ chỉ thấy được khi xóa mỡ (hoặc STIR).
+3b6eb64c	Thành trước trực tràng sát tuyến tiền liệt
+3b7e32aa	Tỉ số lối vào / đỉnh
+3b8987c9	  — đã nắm vững bài học!
+3c21cd4d	Chỉ định liều
+3c2dfe59	Ẩn
+3c4cfbae	Titan không có tính sắt từ (an toàn / có điều kiện với MR); không cần xử lý.
+3c988cc0	Năng lượng trung bình
+3d6b9f1f	Khối u phổi
+3dbec6d5	Chỉ số phơi sáng (EI)
+3e0553f6	Ngực
+3e233fe3	Thời gian sống trung bình τ = #/λ
+3e246e80	Người mẹ hỏi: "Phim X-quang này có hại cho con tôi không?" Liều hiệu dụng của Emir ≈ # µSv. Bạn nói gì?
+3e26d09f	CNR phù/tủy #: tương phản yếu.
+3e3a239c	Phương pháp chẩn đoán hình ảnh
+3e5c100c	Chấn thương chỉnh hình: MRI gối phải — rách sụn chêm? dập xương? (BS Polat)
+3e6fed3c	Quả cầu Bloch (hệ quay)
+3ea76ce8	BED khối u
+3f6fbd86	Lấy mẫu không gian k
+3f99f636	Nhiễu # HU: không đạt chẩn đoán — sẽ phải chụp lại, làm tăng tổng liều.
+3fa74db5	Phổ photon (bia + bộ lọc làm phẳng)
+3fddf4f8	Xuất sắc! Bạn đã nắm vững kiến thức.
+3fe8604c	Hình xăm
+3feef465	− Xóa
+4007d15d	Trung tâm học tập — # chủ đề, # bài
+40361aca	Số phân liều
+4036e7f4	Ứng dụng này dạy các chủ đề cốt lõi của vật lý y khoa qua mô phỏng #D tương tác. Mọi phép tính đều dựa trên mô hình vật lý thực và dữ liệu tham chiếu, nhưng KHÔNG dùng cho lâm sàng.
+4068c7dd	Ăn sáng # giờ trước, đường huyết # mg/dL. Bạn làm gì?
+4078f8e8	Các cuộn quanh lồng máy làm từ trường thay đổi tuyến tính theo vị trí (mT/m): chọn lát cắt, mã hóa tần số và pha. Việc chuyển mạch nhanh tạo ra tiếng ồn.
+41086ad1	mAs cho cùng σ (so với # cm)
+411cbb0d	Chỉ cần tránh xa phụ nữ mang thai
+414eb5b3	Tóm tắt
+41d150aa	Gantry
+41e0bccc	photon
+421ed9be	Ở năng lượng chẩn đoán có hai tương tác chiếm ưu thế: <b>hiệu ứng quang điện</b> (~ Z³/E³, nguồn gốc độ tương phản) và <b>tán xạ Compton</b> (~ mật độ electron, nguồn gốc tán xạ). Mô phỏng dùng bảng NIST μ/ρ(E) cho từng vật liệu.
+422af40c	Chuột: kéo trái = xoay, kéo phải = di chuyển, cuộn = thu phóng. Cảm ứng: một ngón = xoay, hai ngón = thu phóng/di chuyển.
+42347061	Dòng bóng × thời gian
+424c4852	#. Tạo ảnh
+426e4933	Chứng sợ không gian hẹp
+42720baf	Xương
+427f78a4	Quy tắc nhanh (năng lượng danh định): R9# ≈ E/#, R8# ≈ E/#, R5# ≈ E/#, Rp ≈ E/# (cm).
+439ee205	So sánh hiệu quả của hiệu chỉnh suy giảm ở trung tâm ảnh
+43b2aeba	Đổi thông số → ảnh và liều được tính lại (dò tia đa năng lượng + dữ liệu NIST).
+43b5e592	Đồng vị phóng xạ
+43d93074	EQD2 khối u (α/β #) = # Gy, da muộn (α/β #) = # Gy. Thiếu liều: nguy cơ tái phát cao.
+446ceec2	theo kerma không khí
+44fb5dc7	Nguồn đã an toàn! Liều trong nhiệm vụ: 
+4531ef7f	Sự suy giảm phụ thuộc hàm mũ vào độ dày.
+4581c4fb	#. Phân rã phóng xạ
+45901efd	Cuộn gradient
+4602d9ec	chạm vào ảnh
+46143215	Nơi các trục quay của gantry, bộ chuẩn trực và bàn gặp nhau (±# mm). Khoảng cách nguồn–trục (SAD) là # cm.
+467b083e	Bolus
+46ac079e	Đang chụp…
+46e87af2	 % hoàn thành
+472bd5d7	kV thấp làm tăng độ tương phản của iod (bờ K # keV); lựa chọn tốt ở bệnh nhân gầy.
+475a075b	Sinogram  p(θ, s)
+477692bf	Y học hạt nhân
+47f9a72c	Sốt (# °C) và ho # ngày nay
+48bee2b3	Có chỉ định chụp CT. Kỳ kinh cuối của Elif cách đây # tuần. Bạn làm gì trước bất kỳ thăm khám dùng bức xạ ion hóa nào?
+48cabbff	# trường
+48f82113	đã thải 
+49059469	Có nhanh không? Mai tôi phải đi làm lại — tôi mài kim loại ở xưởng.
+491836e3	sai số 
+499a20d5	AP, nằm ngửa, SID # cm
+49cf1cfd	Tần số Larmor f₀ = γ̄·B₀
+49e1196b	Rách sụn chêm
+4a690915	Cuộn thu
+4ac37c75	Tán xạ Compton
+4b058728	Cài đặt
+4b20e113	Y học hạt nhân / PET
+4b6a214c	Nguồn hiệu chuẩn, xạ trị áp sát (trong lịch sử)
+4b7042c7	eGFR # mL/phút/# m²
+4b81b768	SNR (tâm)
+4be56c9f	Câu 
+4bf1fc72	Bão hòa mỡ (FS)
+4c3b45ab	• Liều hấp thụ D (Gy = J/kg)\n• Liều tương đương H_T = w_R · D_T (Sv); w_R = # cho photon và electron, # cho alpha, # cho proton\n• Liều hiệu dụng E = Σ w_T · H_T (Sv); hệ số trọng số mô theo ICRP #\n• Máy đo hiển thị liều tương đương môi trường H*(#) (≈ # × kerma không khí với Cs-#).
+4c498c6f	Tôi đang cho con bú. Xét nghiệm này có hại cho bé không?
+4c4a1ccb	Quang neutron
+4c790b94	Đã thay đổi cài đặt — chạy lại trước khi xác nhận.
+4c94eaa4	Tốt. Hãy ôn lại các bài thuộc chủ đề bạn làm sai.
+4c96524b	Giảm liều tủy sống bằng kế hoạch proton
+4cf38cb8	Năng lượng đọc
+4d1aa535	Chủ đề
+4d5f9cf2	năm
+4daa2b83	An toàn bức xạ
+4dd7913c	Chụp hình máy tạo nhịp tim trên phim ngực
+4de2c891	Phổi, xương, mô mềm và tim được mô hình hóa bằng hệ số suy giảm NIST; mỗi điểm ảnh đầu dò được dò một tia đa năng lượng.
+4df6b638	Số đọc
+4e6c5d36	Mô phỏng
+4e7651ae	CT có thuốc cản quang ngay
+4ea60106	#. Các đại lượng liều
+4ebc9931	EQD2 khối u (α/β #)
+4eed3c07	thiếu sáng / nhiễu
+4ef63472	liều tương đối
+4f56491a	Đo chu kỳ bán rã của Tc-#m bằng Monte Carlo với sai số trong # %
+4f5e1d34	#. Ba nguyên tắc: thời gian, khoảng cách, che chắn
+4f8bf6fa	Thợ hàn / mài: có thể có kim loại trong mắt
+4fca6bb4	Không có bệnh mạn tính, đã tiêm chủng đầy đủ
+4fd01b06	Năng lượng chùm tia
+5009de05	Suất liều tại # m
+5009fb9e	So sánh BED khối u của SBRT (#×# Gy) và phân liều thường quy (#×# Gy)
+504443a0	Phát tia
+5060769e	bên
+506f8881	trực tràng
+50793575	Thuật ngữ
+50b3cd30	Ảnh X-quang số (đầu dò CsI)
+50f75e70	CNR phù/tủy #: tủy mỡ che lấp phù — dùng xóa mỡ (FS).
+51301586	THẬN TRỌNG
+514a1189	TR (cho đồ thị SE)
+515cc083	Trọng T2
+51880252	Phân bố liều (mặt phẳng x–z)
+51b48ac4	Đã đặt tấm chắn. Đổi độ dày và vật liệu ở bảng bên trái.
+51d5b7b0	EQD2 khối u (α/β #) = # Gy, da muộn (α/β #) = # Gy. Chấp nhận được: ít lần đến hơn nhưng nguy cơ tác dụng muộn cao hơn (teo da, giãn mao mạch).
+51ea5d41	Chạm vào một bệnh nhân hoặc chọn từ danh sách. Mỗi bệnh nhân là một ca lâm sàng được giải bằng vật lý thực.
+51f21a4b	Nguồn dữ liệu
+51f7e789	tổng liều (Gy)
+51fa3930	Xong. Xem lại kết quả; thay đổi cài đặt và chạy lại nếu cần.
+523e597b	Chất trắng
+524fb8d1	Nhấn CHIẾT để lấy Tc-#m. Để có hiệu suất cao nhất, hãy đợi ≈ # giờ sau lần chiết trước.
+52af1039	Trong trường electron, đường đồng liều # % hẹp lại theo độ sâu; cần lề ~#–# cm. Phải đo hệ số suất liều cho trường nhỏ (TG-#).
+537cf34e	Hiệu suất lần chiết gần nhất
+539143ed	TCP cho lịch này (N₀ = #⁹)
+5394c2c1	Tích liều–diện tích (DAP)
+53a02dda	α/β ≈ # Gy (khối u, đáp ứng sớm) và ≈ # Gy (mô lành đáp ứng muộn, vd. tủy sống). Liều nhỏ mỗi phân liều bảo vệ mô muộn; liều cao mỗi phân liều như SBRT cho BED khối u rất cao nhưng đòi hỏi định vị chính xác. TCP = exp(−N₀·S).
+53f501c6	Hoạt độ lúc bắt đầu chụp
+542674c2	Phantom
+543f87d4	Cột sống
+548c82d8	Độ từ hóa
+5490dc6c	 tuần
+54ba96a0	Chu kỳ bán rã hiệu dụng
+54ebaaec	Đường kính hiệu dụng → SSDE
+550bfe9e	xung
+55231493	Não
+55437eb0	Tư thế chụp và cách đặt bệnh nhân
+554740bc	Đổi góc và trọng số chùm: phủ đích trong khi bảo vệ tủy sống, tim và phổi.
+5566f444	Vận dụng
+556bb28a	Cho vào hộp
+556d6936	Khi nguồn đã ở trong, vài cm chì giảm suất liều hàng trăm lần (mỗi HVL giảm một nửa, mỗi TVL chia mười).
+5586c1bb	Vị trí bàn (z)
+55af7f60	Có thể đứng, hợp tác
+55c427dd	Hệ số phục hồi (cầu lớn nhất / nhỏ nhất)
+55f81dfb	Vật lý PET
+56a82532	Chụp X-quang
+56aaa165	Ung thư da ở má — xạ trị electron
+56e6dfdf	Hộp chì
+57270c3f	Phát # phân liều
+57426dc2	Máy đo khảo sát
+580581bf	Liều đơn, α/β=
+58390f45	Hình xăm ở cánh tay trái (#)
+584ba3f5	tế bào sinh dòng: 
+5865c9d9	Chùm đang chọn: 
+5865ea2d	ICRP # và ACOG: không có hiệu ứng tất định dưới # mGy; không khuyến cáo đình chỉ thai dưới # mGy. Truyền đạt rủi ro bằng con số và bình tĩnh.
+5876c756	Bệnh nhân đang chờ
+5878a2bf	Liều theo độ sâu
+58820d8d	Đáp án tốt nhất: 
+589a5df5	Chuyển động của bệnh nhân (lỗi pha)
+58c52672	 năm
+58e096de	Giới thiệu
+590ca79a	Hình ảnh
+5951ffab	Nhân viên (hiệu dụng)
+59c7842a	Độ phủ tổn thương: tối thiểu # % — bề mặt da bị thiếu liều: bolus kéo liều electron lên tới bề mặt.
+59c80f5b	X-quang ngực ở trẻ em
+5a296842	Kế hoạch mẫu
+5a53afe8	Tuyến tiền liệt nằm sâu ≈ # cm tính từ phía trước và ≈ # cm từ bên hông. So sánh liều theo độ sâu (PDD) và chọn năng lượng cho VMAT.
+5a54e20e	Kết quả: 
+5aaf54e6	#. Chùm electron
+5ab00023	CNR phù/tủy #: thấy được dập xương.
+5af0fb47	Liều theo độ sâu Monte Carlo • đỉnh Bragg
+5b6df32a	Câu tiếp theo  →
+5b765e84	Trong CT bụng tử cung nằm trong chùm tia sơ cấp; tạp dề không thể bảo vệ và làm giảm chất lượng hình.
+5bac8b63	Góc lật α tùy chọn
+5c1604f3	Bệnh nhân tiếp theo: 
+5c1cca76	• <b>Thời gian:</b> liều tỉ lệ với thời gian ở gần nguồn.\n• <b>Khoảng cách:</b> với nguồn điểm suất liều giảm theo #/d²: tăng gấp đôi khoảng cách thì liều còn một phần tư. Vì thế kẹp rất hiệu quả.\n• <b>Che chắn:</b> vật liệu đặc, Z cao (chì) làm suy giảm photon tốt nhất. Một HVL giảm một nửa, một TVL giảm suất liều còn một phần mười.
+5c60f76f	tổn thương
+5c6467e1	Hiện bản đồ liều (x–z)
+5cae40c9	Hạt nhân hydro (proton) có mô-men từ. Trong từ trường B₀, một lượng dư rất nhỏ định hướng theo từ trường và tạo ra độ từ hóa tổng M₀ (M₀ ~ B₀). Các spin tuế sai quanh B₀ với tần số Larmor.
+5ce2e06a	Đúng. Ở tư thế PA tim gần đầu thu → ít phóng đại hơn; SID dài giảm phóng đại hình học và độ nhòe. Các cơ quan phía trước (vú, tuyến giáp) cũng nhận liều thấp hơn ở PA.
+5d155c86	Xem kết quả  →
+5d27c72a	Tc-#m lúc chiết
+5d74c24a	Lập kế hoạch điều trị • DVH
+5dc26de3	Cách học
+5de75a0b	Phổi phải
+5dea53d0	Xạ trị ung thư: xạ trị electron, BCC má trái; độ sâu trên siêu âm # cm (BS Öz)
+5deb5e94	Từ chối phẫu thuật (đang dùng thuốc chống đông)
+5e0275a6	#. Máy phát và cân bằng tạm thời
+5e4baa18	Chế độ xem
+5e840e69	Tỉ lệ sống sót S
+5e8aae31	Tủy sống
+5e8f4863	RF không nghe được; tiếng ồn đến từ gradient và có thể gây hại thính giác.
+5ed62a66	Máu + thuốc cản quang iod
+5f38ef7b	Lọc Cu bổ sung
+5f594fad	Tái tạo
+6053526e	Với FDG: glucose < # mg/dL và nhịn ăn ≥ #–# giờ; thời gian hấp thu # ± # phút.
+605c9960	Nhiễu lượng tử
+60bf7d6c	Nhiễu σ ~ #/√(mAs) và tăng theo hàm mũ với độ dày; bệnh nhân to béo cần #–# kV + nhiều mAs hơn (hoặc AEC).
+6129d920	Đúng: e⁺ + e⁻ → #γ (# × m₀c² = # × # keV). Trùng phùng ngẫu nhiên và tán xạ được hiệu chỉnh; suy giảm được hiệu chỉnh bằng CT.
+6174d861	CTDIvol là liều trong phantom PMMA # cm, không phải liều của bệnh nhân. AAPM #/#: SSDE = f(D_eff)·CTDIvol; ở bệnh nhân to béo f < #.
+61814715	Ma trận (độ phân giải)
+61999a6b	Giới hạn chiều dài quét (mào chậu đến khớp mu): DLP thấp hơn.
+61e2a3f8	Nguồn
+61f84dec	Liều được tính có hiệu chỉnh không đồng nhất theo quãng đường tương đương (độ sâu bức xạ = Σ ρₑ·Δl): chùm đi qua phổi bị suy giảm ít hơn. Chất lượng kế hoạch được đánh giá bằng DVH: PTV D9# ≥ # %, tủy sống Dmax < # Gy, phổi V2# < # %, liều phổi trung bình < # Gy, tim trung bình < # Gy (QUANTEC).
+6246a72c	Đặt lại (M || B₀)
+6283a899	 phút/vị trí, hấp thu 
+6292946b	Bề rộng điều biến
+62b33346	Tham chiếu μ(nước)
+62dc212b	Quãng đường tự do trung bình #/μ
+6337b9a5	Một xung RF (B₁ ở tần số Larmor) làm nghiêng M một góc lật α. Sau đó:\n• <b>T1 (spin–mạng)</b>: Mz hồi phục: Mz(t) = M₀ + (Mz(#) − M₀)·e^(−t/T1)\n• <b>T2 (spin–spin)</b>: độ từ hóa ngang mất đồng pha: Mxy(t) = Mxy(#)·e^(−t/T2)\n• <b>T2*</b>: từ trường không đồng nhất làm lệch pha thêm (#/T2* = #/T2 + γΔB) — xung #° đảo ngược phần này: <b>spin echo</b>.
+638a3d27	Lưới chống tán xạ (Bucky)
+63e33069	Độ sâu xa
+63e87165	Tuổi / giới tính
+64053f4c	Sinogram, chiếu ngược có lọc, đơn vị Hounsfield, nhiễu ảnh.
+64ab923e	truyền qua chùm hẹp
+64cec188	Chuỗi xung
+650b51c9	CTDIvol là liều trên phantom; dùng SSDE = f(D_eff)·CTDIvol cho liều riêng của bệnh nhân (AAPM #/#).
+65297d00	 (có tái tăng sinh)
+652cb5da	Cần học thêm — các bài dưới đây sẽ giúp bạn.
+656c2bdf	Da / bàn tay
+65b3c1bb	Chất xám
+660f2bd2	Hình học và đầu dò
+662c7590	Sụn chêm
+6644745a	Đường kính hiệu dụng / f
+66597e63	Ngẫu nhiên
+66c80500	hệ số suy giảm và hấp thụ năng lượng photon (# vật liệu)
+66f00e9c	Đúng: phải loại trừ thai ở mọi phụ nữ trong độ tuổi sinh sản khi khung chậu nằm trong chùm tia (ICRP #, IAEA SSG-#).
+6705e1b1	Bài học từng bước từ nguyên tử đến xạ trị, hình tương tác, ví dụ giải mẫu, câu đố và một bài thi thử.
+672a70aa	Hiện SOBP (giải tích)
+6750e405	Liều hiệu dụng = DAP × hệ số chuyển đổi (theo vùng). Phông tự nhiên ≈ # mSv/năm.
+675d82e1	Sinogram
+6779effc	Đã chiết
+67b8f497	BED mô muộn
+67ebc3e7	#. Đơn vị Hounsfield và cửa sổ
+67fabac5	EQD2 trực tràng (α/β #) = # Gy — nguy cơ độc tính trực tràng muộn (chảy máu, viêm trực tràng).
+6808f26e	Có rủi ro; chị nên cân nhắc đình chỉ thai.
+6817ce15	Siêu âm: không thấy ruột thừa. Ban đêm không có MRI; bác sĩ phẫu thuật nhấn mạnh nguy cơ thủng. Quyết định chung: CT liều thấp.
+687d1f08	Một điều dưỡng muốn mang bình oxy bằng thép vào phòng máy (vùng IV) trong tình huống cấp cứu. Bạn làm gì?
+68de0f88	Bảng công thức — 
+69069946	Cứng hóa chùm tia: chụp đa năng lượng với BHC tắt (cupping)
+69338848	Bắt đầu ca đầu tiên  →
+69607fdf	EPID (chụp ảnh MV)
+69762965	Bụng
+69c54135	 giờ
+69d97846	Tín hiệu mô
+69fc5799	Lọc Cu
+6a494fba	Tổng quan
+6a8f4d0e	Chưa đúng hẳn. 
+6ab344fe	Hiệu dụng (vật lý + sinh học)
+6ada0052	CT
+6ae55601	Ôn tập
+6b26a05c	Liều bề mặt da
+6b7a6181	R = hệ số tăng tốc: cứ R dòng lấy một dòng → chồng hình theo FOV/R (aliasing). Chụp song song (SENSE/GRAPPA) gỡ chồng nhờ độ nhạy của các cuộn.
+6b8da132	Suất liều tại # cm
+6bb77736	Nguồn điểm
+6bbe4f23	Lọc Al (thêm)
+6bc09210	Không thay đổi; cùng mAs
+6be9432d	Liều bề mặt
+6bf28b9c	Lời khuyên thiếu cơ sở khoa học và có hại.
+6c025c20	chưa quét
+6c168d60	Hoàn thành ca
+6c3c9505	năng lượng photon
+6c6870d7	Đưa ra lựa chọn
+6c8fcda6	DÀNH CHO NGƯỜI MỚI
+6cc46a6f	 phút đọc
+6cc784fd	Mỗi lần bạn chỉ đưa ra một quyết định.
+6cec06d7	# ng/mL
+6d148508	Chụp
+6d8836d2	Có thể, nhưng không phải lựa chọn đầu tay; siêu âm và MRI nên đi trước.
+6d94e783	Không gian k và biến đổi Fourier
+6dc54781	 ngày
+6e2eab59	Phơi sáng đúng: đưa chỉ số lệch (DI) của ảnh ngực vào khoảng −#…#
+6e67bd16	Tham chiếu / giải tích
+6e8c7b25	Năng lượng photon
+6eb5b73c	Hồ sơ bệnh nhân
+6ef0f4ce	FLAIR: xóa tín hiệu dịch não tủy trong khi tổn thương vẫn sáng
+6f441d09	Khi positron từ FDG hủy cặp thì tạo ra gì, và PET phát hiện điều đó như thế nào?
+6f7079de	Xạ trị từ xa, Gamma Knife
+6fb2dc0f	 góc chiếu, 
+70491c5e	Kỳ kinh cuối: # tuần trước (không đều)
+705dbc6f	Không dùng biện pháp tránh thai
+70689f04	Chiều dài quét
+706aba83	Giới hạn bàn # kg, lỗ gantry # cm
+706fb9f9	PET (chuyển hóa glucose với FDG)
+7074357f	#) Biện minh: lợi ích phải lớn hơn rủi ro. #) Tối ưu hóa (ALARA): giữ liều thấp nhất có thể đạt được một cách hợp lý mà vẫn giữ chất lượng chẩn đoán. #) Giới hạn liều: cho nhân viên và công chúng (không áp dụng cho bệnh nhân; với bệnh nhân dùng mức tham chiếu chẩn đoán).
+707b359b	Thành ổ áp xe ngấm thuốc cản quang; CT không cản quang có thể bỏ sót.
+709e0d80	Hộp chì
+70e6ad0e	Hạt nhân phóng xạ
+71c67fc5	bé trai
+720bb6d5	Tâm quay
+72103ea7	Ngực trẻ em: không lưới, lọc Cu bổ sung, kVp cao / mAs thấp, khu trú chặt, thời gian phát ngắn (cử động).
+72133fde	#. Tương phản
+721471f0	CHIẾT
+72467d86	Phim bụng đứng
+729ea19a	+ Đặt tấm chắn
+72b715d3	Hasan: "Làm sao các anh chạm tới chỗ sâu như vậy?"
+72daab8b	Gân / dây chằng
+72f6d05f	Trung tâm không gian k mang độ tương phản của ảnh; vùng ngoại vi mang chi tiết nhỏ (bờ).
+72fb1a0a	Phổ
+72fc2e5a	Bỏ sót: 
+732be2f9	Xạ trị dẫn đường bằng hình ảnh (IGRT)
+7342c4c8	Tiêm thuốc cản quang; với eGFR ≥ # và không có tổn thương thận cấp thì không ngừng metformin
+73715b63	Ca lâm sàng liên quan  →
+738f6b5a	Xung #° làm nghiêng M vào mặt phẳng xy. Các spin xòe ra như cánh quạt vì tuế sai với tốc độ khác nhau (T2*). Xung #° lật chúng lại và một echo hình thành.
+7393264d	Khám phá mọi chủ đề
+73a87380	Lý thuyết và công thức
+73d792b6	Chụp với ít góc chiếu (≤ #): xem nhiễu ảnh dạng vệt
+73e93954	Siêu âm; MRI không thuốc cản quang nếu chưa kết luận được
+74148df9	Nó đến từ chất làm lạnh; vô hại
+7564d845	Có, nó nguy hiểm; nếu được thì nên tránh.
+75793978	Bụng của Mehmet đo được # × # cm (người lớn trung bình ≈ # × #). Với nước μ(# keV) ≈ # cm⁻¹. Thêm # cm mô làm giảm số photon tới đầu dò bao nhiêu?
+758e615c	Đang tính… (dò tia #×# điểm ảnh)
+75a97a00	Bài thi mới
+75afa3bb	Giá trị chẩn đoán thấp với viêm ruột thừa; liều không cần thiết.
+75d4759c	Đau hạ sườn trái, sốt
+760d8617	Một lọ chân không trong hộp chì hút nước muối và Tc-#m qua cột. Lượng Mo-# lọt qua phải < # kBq Mo trên mỗi MBq Tc.
+7647a3ac	Đạt — hãy đọc kỹ phần phản hồi.
+765e2544	Quy tắc vùng IV
+76dd194b	Tim trung bình < # Gy
+77384e8c	Gây hiểu lầm. Mô hình LNT giả định rủi ro rất nhỏ nhưng khác không; hãy dùng lời lẽ trung thực và trấn an.
+777502bf	Dấu trên da không cho thấy chuyển động bên trong; nguy cơ chiếu trượt đích cao.
+77eb0235	Điểm
+78197beb	ESAK # µGy > DRL: giảm liều (tăng kVp + lọc Cu, bỏ lưới, giảm mAs).
+785a8151	Pitch
+78cd4207	Lọ dịch chiết
+792a98a9	• <b>Cứng hóa chùm tia:</b> năng lượng thấp bị hấp thụ trước; dọc các đường dài μ hiệu dụng giảm → 'cupping' ở giữa và vệt tối giữa các xương đặc. Hiệu chuẩn nước (BHC) sửa cupping nhưng không sửa vệt xương.\n• <b>Kim loại:</b> gần như mọi photon bị hấp thụ (photon starvation) → vệt sáng/tối hình nan quạt.\n• <b>Ít góc chiếu:</b> lấy mẫu góc không đủ → nhiễu ảnh dạng vệt (aliasing).\n• <b>Nhiễu:</b> σ ~ #/√(mAs); sự đánh đổi cơ bản giữa liều và nhiễu.
+793c090c	Quy trình CT liều thấp
+793c5a46	đường kính đã chọn
+794db469	Tủy xương
+79525074	Chỉ trung tâm
+79a399e0	Liều
+79ae5968	Tốc độ thời gian (chu kỳ bán rã / # s)
+7a696fee	Tương đương phông tự nhiên
+7a9ee904	Chạm sàn → đi (bàn phím: WASD). Theo dõi suất liều trên máy đo. Thời gian, khoảng cách và che chắn làm giảm liều.
+7ab00d8b	Phân bố liều mặt cắt ngang
+7b06fb7d	Tín hiệu SE theo TE
+7b0ee643	Liều tối thiểu trong tổn thương (#–# cm)
+7b4e65c1	EQD2 trực tràng (α/β #)
+7b804b26	Hiệu ứng vật lý
+7bdb6a90	ngang: đầu dò s  •  dọc: góc θ (#→#°)
+7be2d594	Khoảng cách nguồn–ảnh (SID)
+7bef2f61	Bản đồ liều (x–độ sâu): liều so với cực đại, %
+7bf995f5	Đầu đo (chạm)
+7c162dc9	Phổ • Suy giảm • Tán xạ • Liều
+7c72fb1b	Góc Ernst (CT)
+7c7da947	Liều hiệu dụng
+7c941c55	R8# (≈ độ sâu điều trị)
+7d7615e3	Ung thư tuyến tiền liệt — xạ trị ngoài
+7d96597f	Tiền sử
+7d972bea	Có mẹ đi cùng; lần chẩn đoán hình ảnh đầu tiên
+7dd6f549	Cấy ghép titan
+7de1562e	 tuổi, 
+7e0e48e1	cT2b N0 M0
+7e0faf28	Lực hút xảy ra tức thì; đã có báo cáo chấn thương nặng và tử vong.
+7e323ea2	Điện và dữ liệu truyền không cần dây cáp, nên bóng có thể quay liên tục, giúp chụp xoắn ốc khả thi.
+7e3a630c	Tầm R₀ (CSDA)
+7e5ca532	Thủy tinh thể
+7e64d602	Bóng và đầu dò quay quanh bệnh nhân. Với mỗi góc θ và vị trí đầu dò s, độ suy giảm đo được là tích phân đường của μ(x,y). Tập hợp mọi hình chiếu là <b>sinogram</b>: một vật điểm vẽ nên một đường hình sin.
+7e6646b7	CT bụng ở bệnh nhân to béo
+7e86bdae	Chấm điểm
+7ec52420	Điều trị radioligand (PSMA, DOTATATE)
+7f8ed8ff	Bơm heli kêu nhẹ, nhưng tiếng gõ đến từ gradient.
+7fa4aa8f	Tổn thương cách mắt trái # cm
+7fa59d83	ngang: bán kính s • dọc: góc φ
+7fa5ff5c	Đầy đủ
+7fb12b63	Cung đầu dò
+8077377d	Chụp portal hằng tuần
+807b9275	Đúng: lực hút ~ B·dB/dz và lớn nhất gần cửa lồng máy. Nếu cần, đưa bệnh nhân ra vùng III để chăm sóc.
+80cc6fb4	Một positron hủy cặp với một electron thành hai photon # keV ngược chiều. Nếu hai đầu dò đối diện ghi nhận chúng trong vài ns, một sự kiện trùng phùng (đường đáp ứng, LOR) được ghi lại.
+80d6fd98	α/β mô đáp ứng muộn
+80f76b66	Hỏi về khả năng mang thai và yêu cầu xét nghiệm β-hCG
+80fd59df	Hạt
+811c30cd	Số góc chiếu (#°)
+8190561a	Đau hạ sườn phải, buồn nôn (# giờ)
+819c9d03	Máy phát Mo-#/Tc-#m
+81ad7d36	Dùng kẹp dài (nguồn cách cơ thể # cm)
+81b60676	Trước
+8202e478	Che chắn
+8210c814	Lát cắt ngang não
+826d7453	Electron
+82ce6c55	Sụn
+82e2dbbd	Vùng và tư thế chiếu
+82e733b7	<b>Tán xạ</b> làm giảm độ tương phản: tỉ số tán xạ/sơ cấp tăng theo kích thước trường và bề dày bệnh nhân. Lưới cho qua ~#% tia sơ cấp và ~#% tia tán xạ. Chuẩn trực làm giảm cả tán xạ lẫn liều.
+82fa204f	Trường chiếu rộng làm tăng tia tán xạ và DAP; bảo vệ thực sự là trường chiếu hẹp.
+832d529e	MRI gối và an toàn MRI
+832f8681	Phổi
+835889e9	Thận
+836bc242	#–# MV VMAT đưa đủ liều tới thể tích đích sâu từ nhiều góc; da được bảo vệ và neutron không đáng kể.
+83754be6	Điểm cao nhất của bạn: 
+83d4e55a	# kV ở bệnh nhân to béo gây sọc do thiếu photon và nhiễu quá mức.
+84737e5d	Số đọc
+85124f40	Nhiễu # HU: đạt chẩn đoán.
+8516948a	Công thức
+851ad665	Góc gantry
+852fc0ce	Zeynep: "Tôi đã vắt sữa từ trước. Chồng tôi có thể cho bé bú bình."
+8567c350	Mở phần nhận xét
+85e4b82f	đạt
+86260ec0	Cách chơi chế độ ca bệnh
+8647f589	DI # → thiếu liều: nhiễu lượng tử, không đạt chẩn đoán.
+869cfa26	EQD2 mô muộn
+86c813a5	Số đếm
+86e1dbb8	Hai photon # keV lệch nhau ~#°, được hai đầu dò ghi nhận trong cửa sổ trùng phùng vài ns → đường đáp ứng (LOR)
+87025a9c	Y học hạt nhân: PET/CT F-# FDG, đánh giá giai đoạn (BS Er)
+871c36f0	Neo titan
+875c3058	Tổn thương (phù / u)
+875f29ca	Với mỗi điểm ảnh, một tia được dò từ tiêu điểm tới đầu dò; quãng đường trong từng mô được tính và định luật Beer–Lambert được áp dụng cho từng khoảng năng lượng. Hiệu suất hấp thụ CsI η(E) = # − e^(−μ_CsI·t). Tín hiệu có trọng số năng lượng (đầu dò tích phân năng lượng).
+8762cac3	Năng lượng proton
+876b129d	Bước 
+8786af42	✓ Xuất sắc
+87e69378	Tán xạ
+882ac676	Liều cho trẻ bú mẹ
+88674cd6	#) Chọn một chủ đề ở bên trái; các chủ đề xếp từ nền tảng đến lâm sàng. #) Đọc bài; đừng bỏ qua các ô Ý CHÍNH và ví dụ giải mẫu. #) Di chuyển thanh trượt của hình để thấy công thức nói gì. #) Làm câu đố cuối bài: đúng hết thì bài được đánh dấu ★. #) Dùng "Thử trong phòng thí nghiệm" và "Ca lâm sàng liên quan" để vận dụng điều đã học.
+886d0cbf	Xung RF tạo ra tiếng ồn; không cần phòng ngừa
+888cc345	Tại # m (có che chắn)
+89235979	Khi hạt nhân mẹ (Mo-#) sống lâu hơn hạt nhân con (Tc-#m), A₂/A₁ tiến tới một hằng số: cân bằng tạm thời. Nếu mẹ sống lâu hơn nhiều (vd. Sr-#/Y-#) sẽ có cân bằng thế kỷ: A₂ = A₁.
+892ef903	Một photon # keV duy nhất
+897fe13f	Thuốc cản quang và thận
+89d558f4	Cuộn thu nhiều kênh đặt gần mô làm tăng SNR và cho phép chụp song song.
+89f4c462	CNR rách/sụn chêm #: không thấy vết rách — cần TR dài (PD/T2).
+8a2fa41a	Hoạt độ, thời gian và hấp thu
+8a355b34	PA, đứng, SID # cm
+8a69358c	thời gian 
+8aa94879	Các hướng dẫn (ICRP #, IAEA) không yêu cầu ngừng cho con bú với FDG; khuyến nghị hạn chế tiếp xúc gần trong vài giờ và dùng sữa vắt sẵn.
+8b0d147c	Độ tương phản xương (# cm trong # cm mô)
+8b0eb3c2	Thật
+8b68a871	Có thể mang thai và viêm ruột thừa
+8c032c1a	Điểm cần ghi nhớ
+8c7d3087	Điểm: 
+8c880991	Mỗi câu trả lời đều có giải thích và phản hồi.
+8ca7a950	Ống đếm GM hoặc buồng ion hóa hiển thị suất liều theo µSv/h; dùng để kiểm tra nhiễm bẩn trong phòng nóng.
+8cde5d5c	Bộ chuẩn trực + lọc bổ sung
+8d46a34c	độ dày (cm)
+8d8cee46	Định luật nghịch đảo bình phương
+8dbd5185	Thời gian # s — bệnh nhân có thể nằm yên.
+8de41236	Máy tạo nhịp tim
+8e5380f5	Emir có thể đứng và hợp tác. Bạn chọn kỹ thuật nào?
+8e925209	Biến đổi Radon • FBP • Hounsfield • Nhiễu ảnh
+8ea57a5e	R9# (độ sâu trong bệnh nhân)
+8f1b876c	Kết quả tốt nhất
+8f30fea5	Chiều cao / cân nặng
+8fb29e12	Chọn chủ đề và bài học ở bên trái. Thử các thanh trượt của hình và tự kiểm tra ở cuối mỗi bài.
+8fd05dbc	Điều trị ung thư tuyến giáp và cường giáp
+8fed86d7	Không sao nếu làm nhanh
+8ff1e887	Tốc độ thời gian
+9017c010	+ Thêm chùm
+90571e3f	 câu hỏi
+907a4bcf	Liều bệnh nhân (hiệu dụng)
+90d642b7	α/β khối u ≈ # Gy, hiệu ứng muộn ở da / sụn α/β ≈ # Gy. Phác đồ nào hợp với cụ bà # tuổi khó đến hằng ngày?
+90da7a12	X-quang
+90e8ad1a	Mô
+91078d77	Phổ bóng phát, lọc tia, HVL, tán xạ, đầu dò và liều bệnh nhân.
+91258979	Dược chất phóng xạ
+91882d73	Tầm CSDA (Bethe / NIST)
+91a7732a	Dòng gradient chuyển mạch nhanh chịu lực Lorentz trong B₀; tiếng ồn có thể vượt # dB → bắt buộc dùng nút tai / tai nghe
+91b76332	Trấn an nhưng không chính xác: rủi ro ngẫu nhiên rất nhỏ chứ không bằng không.
+926d87c3	Phát hiện sai số đặt bệnh nhân hệ thống nhưng không thấy di động cơ quan hằng ngày → lề và liều trực tràng lớn hơn.
+928ef299	nữ
+92fe3fad	Chỉ là nội dung giáo dục — không dùng cho quyết định lâm sàng.
+9340f08a	Hằng số phân rã λ
+93798b62	Máy phát
+93926697	Phantom hình người
+93fd33cf	Mx (tín hiệu)
+94397cd5	Thời gian nhân đôi tiềm năng Tpot
+9441540c	DLP = CTDIvol × chiều dài; mô tả tổng chiếu xạ, không phải liều cơ quan.
+948fe972	Nguồn tia X kV
+94a38054	Quyết định của bạn
+94cc8d3b	Liều cho trẻ sơ sinh ≈ 
+94f37251	Bản thân CTDIvol
+951e2e51	XEM PHẦN NHẬN XÉT  →
+95a8c428	Mo-# (T½ # giờ) → # % → Tc-#m (T½ # giờ). Mo-# được giữ trên cột alumina; Tc-#m tích tụ khi nó phân rã và được "chiết" bằng nước muối sinh lý.
+95bce1b7	Không khí
+95be3cc5	Tốt nhất 
+95d6d65a	Hệ phòng thí nghiệm (hiện tuế sai)
+95f4d5de	Trường chiếu và bảo vệ mắt
+963b7c8f	Chào! Máy có đau không? Mẹ cháu đợi ở ngoài được không?
+966d8f4b	Ngực của Emir dày ≈ # cm (người lớn ≈ # cm). Chỉnh kVp, mAs, bộ lọc, lưới và trường chiếu, rồi bấm CHỤP. Mục tiêu: DI −#…# và ESAK ≤ # µGy.
+96c251ec	Định lý lát cắt Fourier: biến đổi Fourier #D của một hình chiếu là một lát cắt của biến đổi Fourier #D của ảnh. Vì vậy hình chiếu được lọc trước bằng hàm dốc |f| rồi mới chiếu ngược. Chiếu ngược không lọc cho ảnh nhòe dạng #/r.
+97080889	Đường kính bệnh nhân
+97197ddf	Tránh mọi tiếp xúc trong một tuần
+971c410e	Phân rã phóng xạ, máy phát Mo-#/Tc-#m, trùng phùng PET và MLEM.
+9741e45e	Hoàn toàn không có rủi ro, bức xạ bằng không.
+97563b2a	Che chắn tia gamma khi lọ được cất giữ hoặc mang đi; vài mm chì là đủ cho photon # keV của Tc-#m.
+979c2167	Liều bề mặt (bảo vệ da)
+97fc3c0a	Bạn là nhà vật lý y khoa của bệnh viện. Mỗi bệnh nhân là một ca: đọc hồ sơ, đưa ra quyết định và xem kết quả tính bằng các mô hình vật lý thực. Sau mỗi bước, bạn sẽ biết vì sao nó đúng hay sai.
+981c2b72	Đầu dò kV
+98333fde	Bê tông
+9837047f	Tổn thương + lề ~# cm (khuôn chì ≈ # cm); mắt nằm ngoài trường chiếu, dùng tấm che mắt trong nếu cần
+9867b7d1	Suất liều giảm theo bình phương khoảng cách, Ḣ = Γ·A/d². Màu sàn thể hiện suất liều này; đường trắng đánh dấu # µSv/h.
+9895bce3	EQD2 khối u
+98f224a5	CHỤP
+9920e564	Điểm kế hoạch
+993014d9	Cân nặng
+9945210a	Thuật toán
+994bbd58	Quy tắc: R ≈ #·E^#
+995324ac	Thời gian 
+995c9ab4	#. Đo liều
+9970e954	PET: trùng phùng và tái tạo
+997b38dc	Quy trình theo kích thước cơ thể
+99a15c5e	Liều hiệu dụng (ước tính)
+99a7a50a	TIẾP TỤC  →
+99f7bee7	Vòng trượt
+99fa0dc1	Độ đủ số đếm A·t / (#·kg)
+9a125d51	Electron từ catốt được nung nóng được tăng tốc bởi kVp tới anốt wolfram quay. Chỉ ~# % năng lượng của chúng thành tia X (bức xạ hãm + đặc trưng); phần còn lại là nhiệt.
+9a23c97b	PET/CT FDG ở người mẹ đang cho con bú
+9a2b880f	Bề dày bệnh nhân / SSD
+9a73db9b	Ngôn ngữ
+9b012adc	Khoảng cách tới nguồn
+9c4aa55c	Bóng X-quang
+9c506f53	Mức lát cắt
+9c528492	Cuộn dây NbTi được làm lạnh bằng heli lỏng đến ~# K. B₀ (# / # T) luôn bật: vật sắt từ trở thành vật phóng.
+9c70fc8a	Các dải chì mỏng hội tụ hấp thụ photon tán xạ trong cơ thể bệnh nhân. Độ tương phản tăng, nhưng phải tăng mAs để có cùng liều tại đầu dò (hệ số Bucky #–#).
+9c8081f1	Mở phòng thí nghiệm
+9cabb538	Thời gian • Khoảng cách • Che chắn
+9cf82695	Kết quả
+9d2b5423	Mô tả công suất của máy và bỏ qua kích thước bệnh nhân.
+9d3d585c	Phương thức của mọi chùm
+9d6f6466	Bộ lọc chủ yếu loại photon năng lượng thấp (<b>cứng hóa chùm tia</b>) vốn chỉ làm tăng liều da. Lọc nhiều hơn làm tăng năng lượng trung bình và HVL, giảm suất ra.
+9d70bd7a	DI = #·log₁₀(EI / EI_target): # ≈ nhiều hơn # %, −# ≈ ít hơn # %, # ≈ #× liều tại đầu thu.
+9e134627	Ca lâm sàng — # bệnh nhân đang chờ
+9e1d18ea	#. Sinh học phóng xạ
+9e75940c	Hoạt độ
+9e7b7a87	EQD2 khối u = n·d·(d + #)/(# + #) = # Gy — cao hơn mức cần.
+9e8abbb2	Máy đo của nhân viên đọc suất liều tương đương môi trường H*(#) tại vị trí đó; liều tích lũy = suất liều × thời gian.
+9e995ba1	Phân liều (mô hình LQ)
+9ebe06d9	Ăn sáng cách đây # giờ
+9f3f7105	Đang tái tạo…
+9faeab39	Định luật bảo toàn động lượng đòi hỏi hai photon.
+9fc55136	Tín hiệu theo TE (suy giảm T2)
+9ffc9a24	Đo HU: chạm vào phổi (< −#), mỡ (−#…−#) và xương (> #)
+a049bc94	Tương phản T1 / T2 / PD
+a0cf38d2	Thời gian hấp thu phù hợp: tỷ lệ khối u/nền chuẩn (SUV so sánh được).
+a13c66b3	Liều hiệu dụng ≈ # × 
+a14e7f7e	Thuốc cản quang iod (tim/động mạch chủ)
+a15fa5b0	Lấy mẫu
+a1793be6	Xương / không khí
+a17f6a53	# câu hỏi ngẫu nhiên từ mọi chủ đề — chuẩn bị tốt cho phỏng vấn thạc sĩ và các kỳ thi.
+a1be3d2c	Bên (LAT)
+a1d821ab	#. Nhiễu ảnh
+a219bf8b	Phòng chờ
+a22bd65a	proton
+a267e784	Liều hiệu dụng ≈ # × # = # mSv (ICRP #).
+a26d32ed	Hồi phục Mz (TI)
+a28c2366	Electron được gia tốc tới MeV trong ống dẫn sóng được bẻ hướng vào bia (photon) hoặc qua lá tán xạ (electron). Bộ lọc làm phẳng và các buồng giám sát (MU) cũng nằm ở đây.
+a2c330b1	Thấy rằng R5# của chùm electron tuân theo quy tắc E/#
+a2eb2f51	Phân rã phóng xạ (Monte Carlo)
+a2ed22c4	đường kính hiệu dụng D_eff (cm)
+a30f0337	PDD electron: liều bề mặt tăng theo năng lượng (# MeV ≈ # %, # MeV ≈ # %); bolus làm tăng liều bề mặt và rút ngắn tầm.
+a37bf952	Xuất sắc — một nhà vật lý y khoa thực thụ!
+a408a7ff	Phụ nữ trong độ tuổi sinh sản có khung chậu trong chùm tia: loại trừ thai trước (β-hCG nếu cần).
+a431924a	Nhặt nguồn
+a475164f	Chì
+a4843b38	Xương (# cm) # % — cao không cần thiết: nguy cơ hoại tử xương do xạ. Chọn năng lượng thấp hơn.
+a4a2847a	TR ngắn + TE ngắn → trọng T1; TR dài + TE dài → trọng T2; TR dài + TE ngắn → mật độ proton.
+a4be5f34	Đồng vị
+a4eeda8f	Tổn thương
+a50be870	Bàn bệnh nhân
+a51067fd	Phân rã
+a5916fb6	Hoàn thành ca — 
+a5d46b38	DLP (chụp # cm)
+a5ee64bb	Số lần lấy trung bình (NEX)
+a5ff15cb	Quay đầu máy #° quanh bệnh nhân. Nguồn RF (magnetron/klystron) và ống dẫn sóng nằm trong gantry và giá đỡ.
+a60133e5	Tái tạo (FFT #D ngược)
+a60a634d	Liều của trẻ ≈ # µSv (định luật nghịch đảo bình phương: suất liều ở # cm gấp #× so với ở # m; thời gian sống trung bình của F-# τ = T½/ln2 ≈ # giờ).
+a6310194	Tư vấn
+a650d3f5	HÌNH TƯƠNG TÁC
+a66f47bd	Độ dày chì
+a6e53476	Cuộn thân RF
+a6f33ef9	Đúng: so sánh bằng con số (phông tự nhiên ≈ # mSv/năm ≈ # µSv/ngày), cùng với giải thích về tính chính đáng và ALARA.
+a704e2e8	Tiết diện Klein–Nishina quyết định góc tán xạ Compton và năng lượng electron giật lùi. Mô phỏng Monte Carlo theo dõi từng photon và electron; liều hội tụ với độ bất định thống kê σ ~ #/√N.
+a72ca2ae	Thêm chu kỳ bán thải sinh học và xem chu kỳ bán rã hiệu dụng (I-#)
+a7ae7cae	# MeV
+a85562cb	Bỏ qua sàng lọc thai: thai nhi có thể đã bị chiếu xạ mà không ai biết.
+a861d965	Tái tạo
+a86b43b2	Bộ lọc bowtie + bộ chuẩn trực
+a87f9edd	Mỗi đường là một trùng phùng (LOR): xanh lá = thật, vàng = tán xạ, đỏ = ngẫu nhiên. Thu đủ số đếm rồi nhấn 'Tái tạo'.
+a8b4a774	SSDE — CTDIvol đã hiệu chỉnh theo đường kính hiệu dụng
+a93ad5ad	nhiễu σ (HU)
+a97badd0	Chạy lần chụp đầu tiên và xem sinogram được lấp đầy
+a97d3fea	Năng lượng hiệu dụng (đơn năng)
+a9887e52	Trung tâm học tập
+a99ef883	Đang tính…
+a9f0a4e6	Điểm
+a9f3146e	Nước / xương / chì
+aa28ed13	Nuôi cấy tế bào (#D)
+aa2ce59e	Biểu đồ liều–thể tích (DVH)
+aa430d6d	Không chính đáng: CT ngực trẻ em ≈ #–# mSv so với ≈ # mSv của phim PA. Vi phạm nguyên tắc chính đáng hóa (ICRP #).
+aa4446a7	Đã lọc (lối vào)
+aa7120ec	Ngừng metformin # giờ rồi mới chụp
+aaaa64f1	Tải bóng
+aaede69c	ACR Appropriateness Criteria và ACOG: siêu âm trước, sau đó MRI không gadolinium — không có bức xạ ion hóa.
+aaee7048	Thời gian chụp (# pha, ETL #)
+ab14bcac	Chụp cắt lớp vi tính
+ab25d4ea	Hệ số tán xạ ngược BSF ≈ #. DAP (Gy·cm²) không phụ thuộc khoảng cách và được chuyển sang liều hiệu dụng bằng các hệ số: ngực PA ≈ #, bụng ≈ #, chậu ≈ #, sọ ≈ # mSv/(Gy·cm²). Ngực PA điển hình: ESAK ~#–# mGy, E ~# mSv.
+ab834a11	Chu kỳ bán thải sinh học (# = không có)
+ab8ca2c5	Phantom nước
+abdee8d2	Photon MV tương tác trong nước chủ yếu qua tán xạ Compton; năng lượng được các electron thứ cấp truyền lại trên vài cm. Vì vậy liều ở bề mặt thấp rồi tăng tới dmax (<b>build-up</b>; bảo vệ da). Sau đó liều giảm do suy giảm và định luật nghịch đảo bình phương.
+abe195be	Chuyển sang cửa sổ phổi trên một lát cắt ngực
+abe68d6f	Nhịp thở
+ac5b89c3	Liều mỗi phân liều
+ac737796	Ghi ảnh chùm điều trị đi ra (ảnh portal); dùng để kiểm tra hình dạng trường và liều đã phát.
+aca79e3e	Các bước: 
+aced2b71	Phân liều (bệnh nhân cao tuổi)
+ada7afdb	không
+ada880a8	Phần lý thuyết sắp có.
+add79038	Mỡ / cơ
+ae20a6a3	Năng suất hãm tăng theo #/β² khi proton chậm lại; phần lớn năng lượng được truyền ở cuối quãng chạy (đỉnh Bragg). Sự tản mát quãng chạy (≈ # %·R) và độ tản mát năng lượng làm đỉnh rộng ra. Tổng có trọng số của các đỉnh ở nhiều năng lượng tạo thành SOBP phủ khối u. Sau đỉnh liều ~#: các cơ quan phía xa được bảo vệ.
+ae27b827	Chế độ ca lâm sàng
+ae6bb2bb	tối đa 
+ae888d5f	Đường đồng liều # % của electron hẹp lại ở độ sâu: khuôn che nên lớn hơn tổn thương ~# cm.
+aef94af7	Đúng. 
+af010c63	Xương (sườn/chậu)
+afe8043f	thời gian (giờ)
+b081abb7	chuyển dời đồng phân (IT)
+b0c23fb1	Hoạt độ (cân bằng tạm thời)
+b0db6938	 ngày
+b0f260dc	Không phải lựa chọn đầu tiên khi nghi viêm phổi; phim nghiêng cần liều cao hơn và riêng nó thì không đủ.
+b11e7606	Mục nào trên phiếu sàng lọc cần HÀNH ĐỘNG BỔ SUNG trước khi chụp MRI? (chọn tất cả mục phù hợp)
+b1b83851	độ sâu trong nước (cm)
+b1c222ab	EQD2 = n·d·(d + α/β)/(# + α/β). Các khối u có α/β thấp (tuyến tiền liệt ≈ #) được lợi từ giảm phân liều.
+b1c8c38e	Thanh: phần hằng ngày của nhân viên (# mSv/năm ÷ # ngày = # µSv).
+b21a4f64	Liều phổi trung bình < # Gy
+b232d1f0	Độ phủ tổn thương: tối thiểu # % — đầy đủ.
+b2972ae3	Đầu
+b2aad11c	Thông số chụp
+b33eb976	Mô hình: hình học chùm song song (dữ liệu chùm quạt đã sắp xếp lại), đầu dò tích phân năng lượng, bỏ qua tán xạ.
+b34b3fcd	Tạm dừng / Chạy
+b38452f0	Điểm đánh dấu (TR hoặc TE)
+b3af5cc8	#. ALARA và giới hạn
+b3f9f066	Đau quá… và tôi không biết mình có thể đang mang thai không.
+b48eaaae	#. Không gian k
+b4d90f43	Liều bệnh nhân
+b528da3e	Không trong suốt
+b5377fa4	Thép
+b54b4085	Lại gần hộp hơn (< # m).
+b54d1bc5	Khám phá các phòng thí nghiệm
+b58894f8	Trong hệ quay (x', y') ta quay theo tần số Larmor: chỉ còn thấy các độ lệch tần số (Δω).
+b589c5ea	Bề rộng trường (tâm quay)
+b5f6bbb8	mục tiêu 
+b6b8c8bf	Tuế sai Larmor, phương trình Bloch, T1/T2, spin echo, không gian k.
+b6e00083	Tim
+b6fab935	Trọng PD
+b72c1283	#. Chùm photon và liều theo độ sâu
+b7312de4	Không khí −#, nước #, mỡ ≈ −#, mô mềm #…#, xương #…# HU. Vì mắt chỉ phân biệt được ~#–# mức xám, ảnh được hiển thị qua một cửa sổ (độ rộng W, mức L): phổi W1#/L−#, mô mềm W4#/L4#, xương W2#/L4#, não W8#/L3#.
+b7d0e925	Năng lượng photon tới
+b7fdc96d	Từ lần chiết gần nhất
+b8095719	EANM: A·t ~ cân nặng. Chụp lâu hơn cho phép dùng hoạt độ và liều thấp hơn.
+b846a137	Chọn mức lát cắt và nhấn SCAN. Chạm vào ảnh để đo HU.
+b85a81d5	Lịch phân liều
+b8628c9b	Xương xốp
+b86f8853	VÍ DỤ GIẢI MẪU
+b8757751	Có; xạ trị ngoài không làm ông bị nhiễm phóng xạ — máy tắt là không còn gì
+b8932bde	Toàn bộ bài học  →
+b89df01a	Trợ giúp
+b8ccfa2e	Tự kiểm tra
+b8ebb4eb	Thời điểm Tc-#m cực đại
+b8f48602	Hằng số
+b8ff3ac7	Trường chiếu #×# cm: vừa với phổi.
+b92e17d6	Có dùng lưới: ngực trẻ ~# cm tạo ít tán xạ; lưới (hệ số Bucky #–#) làm tăng liều không cần thiết.
+b95e783d	Lại gần nguồn hơn (< # m).
+b999f041	Ung thư biểu mô tế bào đáy # cm ở má trái (đã sinh thiết xác nhận)
+b9a92b6b	Liều ≈ # µSv: khoảng # ngày phông tự nhiên. Lợi ích của việc chẩn đoán viêm phổi lớn hơn nhiều so với rủi ro.
+ba1de520	Tần số Larmor f = γ̄·B₀ (# MHz/T). SAR ~ B₀²: ~#× gia nhiệt RF ở # T.
+ba44e340	SSDE 
+ba66cab6	Nhiễu chấp nhận ở bệnh nhân to béo: ≤ # HU ở ROI gan (≈ # HU ở người lớn trung bình). Chọn kV và mAs rồi QUÉT. Giữ SSDE dưới # mGy.
+bade5b16	Quay cùng gantry #–# vòng mỗi giây và chiếu một chùm hình quạt xuyên qua bệnh nhân từ mọi góc.
+bb5bd1d0	Năng lượng trung bình / hiệu dụng
+bb62355a	Độ phủ tổn thương: tối thiểu # % — bờ sâu dưới # %: năng lượng quá thấp.
+bb757050	chiết
+bbabaa0a	Quét dài hơn cần thiết: từ mào chậu đến khớp mu là đủ cho viêm ruột thừa.
+bc38932a	Đo liều chuẩn (IAEA TRS-#) và đo PDD/profile: một buồng ion hóa được quét trong nước. Ở đây mỗi vệt là một hạt được theo dõi bằng Monte Carlo.
+bc506327	Zeynep: "Sau khi tiêm tôi có cần nằm nghỉ yên không?"
+bc566d93	Liều thai nhi ≈ SSDE = 
+bc5d4211	Phát tất cả
+bd77abf8	Ngoại cấp cứu: viêm ruột thừa cấp? CT bụng-chậu có cản quang (BS Şahin)
+bd7bba09	tín hiệu
+bd9533e5	U lympho Hodgkin — đánh giá giai đoạn
+be5b1f2d	Câu hỏi của bệnh nhân
+be65f185	Sắc tố oxit sắt có thể nóng lên: báo cho bệnh nhân, chườm lạnh nếu cần. Không phải chống chỉ định.
+bf06df89	Năng lượng electron
+bf300ab6	đã lọc
+bf62a8bf	Mũi tên vàng là độ từ hóa tổng M. Một xung RF làm nghiêng nó khỏi B₀; nó hồi phục theo chiều dọc với T1 và suy giảm theo chiều ngang với T2. Các mũi tên màu là các isochromat có tần số khác nhau (T2*).
+bf6d791a	Trong chùm rộng, photon tán xạ cũng tới đầu dò; hệ số tích lũy B ≥ # tính đến điều này. Ở đây dùng B ≈ # + k·μx.
+bfaba695	Nồng độ hoạt độ tương đối (so với cực đại của ảnh)
+bfb0dfa4	Không dị ứng; creatinin bình thường
+bfce608a	Bệnh nhân / phantom
+bfe05f84	Mô mềm
+bfe92fa7	Máu
+c013320b	PHÒNG CHỜ
+c03749ef	Dấu hiệu
+c0455b80	# MV xuyên tốt nhưng sinh quang neutron qua phản ứng (γ,n) → thêm liều toàn thân và nhu cầu che chắn.
+c06853d2	TI triệt tiêu (DNT / mỡ)
+c07735e3	↻ Thử lại
+c0774077	Đặt nguồn vào hộp chì; tổng liều < # µSv
+c09eec06	MLEM là phương pháp lặp mô hình hóa trực tiếp thống kê Poisson; ít vệt hơn FBP nhưng nhiễu tăng khi lặp nhiều.
+c0aad756	Hiện vệt hạt
+c0f5bb27	Trục quay. Đặt bệnh nhân vào tâm ở đây rất quan trọng: lệch tâm làm mất tác dụng bộ lọc bowtie và tăng cả nhiễu lẫn liều.
+c124dd95	Mỗi tế bào sống sót qua một phân liều với xác suất S(d) = exp(−αd − βd²). Mô có α/β thấp nhạy hơn với liều mỗi phân liều.
+c1329b8d	Elif: "Xin hãy dùng liều thấp nhất cho con tôi."
+c14f1584	Tổng thời gian chụp (# vị trí)
+c1811e60	IGRT hằng ngày hiệu chỉnh #–# mm di động cơ quan và cho phép lề PTV ~# mm (van Herk: M = #Σ + #σ).
+c1d1684b	Chùm tia
+c285174a	độ sâu trong bệnh nhân (cm)
+c2dcb4a3	Chờ lâu hơn nhiều là không cần thiết: F-# gần như đã phân rã hết, và việc cho con bú bị gián đoạn vô ích.
+c2e4e241	chuyển dời đồng phân
+c2f67ba3	# mm Al + # mm Cu
+c341622f	Liều của bé chủ yếu từ các photon # keV phát ra từ cơ thể mẹ (chiếu xạ ngoài); rất ít FDG đi vào sữa. Khi nào có thể tiếp xúc gần trở lại (bế, cho bú ở khoảng ~# cm)? Mục tiêu trò chơi: liều của trẻ ≤ # µSv.
+c35ec4c3	Trước-sau (AP)
+c3a14e9a	nước μen/ρ
+c3e47672	Spin echo
+c3ff1e50	Electron từ catốt được tăng tốc bởi điện áp bóng (kVp) tới anốt wolfram. ~#% năng lượng thành nhiệt, ~#% thành tia X. Electron bị hãm trong trường hạt nhân phát ra <b>bức xạ hãm</b> có phổ liên tục tới E_max = kVp.
+c4547490	Vật lý spin
+c487c009	Cửa sổ W(f): Ram-Lak (sắc nét, nhiễu), Shepp-Logan (sinc), Cosin, Hann (mịn, ít nhiễu). Đánh đổi độ nét ↔ nhiễu.
+c4a7b302	Màu vệt: vàng = photon, xanh dương = electron, hồng tím = positron, cam = proton, xanh lá = tương tác hạt nhân.
+c4ef192a	không lưới, 
+c558bcea	Nghề nghiệp: thợ hàn / mài (# năm)
+c5748eb4	Sàng lọc an toàn MRI
+c57b585f	Bàn điều khiển hiển thị CTDIvol. Đại lượng nào thể hiện tốt nhất liều của bệnh nhân to béo này?
+c59c3c01	Ayşe: "Cái thứ như thạch này là gì vậy? Các cháu sẽ đặt nó lên mặt bà à?"
+c5d4754f	# mg/dL
+c5e874f2	Tấm che tuyến sinh dục không còn được khuyến cáo thường quy; khu trú chùm tia là bảo vệ tốt nhất.
+c60cf4ca	So sánh suất liều của Co-# và Tc-#m ở # m
+c69a5477	Tán xạ: phát tia giống nhau khi có và không có lưới
+c6a141c6	Liều theo độ sâu trên trục trung tâm
+c6b800d4	#. Spin và tuế sai
+c6c23301	Đúng. (Cấy hạt I-# vĩnh viễn mới cần hạn chế tiếp xúc gần trong thời gian ngắn.)
+c6c4ee23	Xác suất kiểm soát khối u
+c6d6b1b5	Điều đó chỉ đúng với ~# cm (một HVL).
+c6d8a5ee	 (đầu)
+c7801b3c	BÀI TIẾP THEO
+c7e4693e	Ghi chú mô hình: tán xạ dùng nhân đơn giản hóa phụ thuộc trường và bề dày; bỏ qua DQE của đầu dò và độ mờ tiêu điểm.
+c81dd039	Tủy sống Dmax < # Gy
+c8423429	Phù hợp với trẻ sơ sinh và bệnh nhân nằm liệt giường, nhưng bóng tim bị phóng đại và các cơ quan phía trước nhận liều cao hơn.
+c8828318	Định luật nghịch đảo bình phương: ghi số đọc ở ~# m, ~# m và ~# m
+c8f76d70	Liều thấp hơn nhiều so với ngưỡng ~# mGy gây dị tật; nguy cơ ung thư trẻ em tăng thêm rất nhỏ (≈ # % cho mỗi # mGy). Không có lý do y khoa nào để đình chỉ thai.
+c901ddc3	Dịch khớp
+c91a26b5	Tuyến tiền liệt di chuyển theo ngày tùy độ đầy của bàng quang và trực tràng. Bạn kiểm tra mỗi phân liều thế nào?
+c9248cc8	Che chắn và khu trú chùm tia
+c926cd17	Nước / dịch não tủy / nước tiểu
+c964528c	Tại đầu dò (tâm)
+c9db273f	Chọn ngôn ngữ
+ca42e28e	Ra quyết định trong ca chụp X-quang ngực nhi của Emir, xem kết quả và hiểu lý do đằng sau mỗi bước. Các phòng thí nghiệm kỹ thuật sẽ chờ khi bạn sẵn sàng.
+caa249cb	Không gian k (log |S(kx, ky)|)
+cae55017	Photon
+cae6e1b1	Tám chủ đề từ nền tảng vật lý y khoa đến lâm sàng. Mỗi bài có giải thích, công thức, ví dụ giải mẫu, hình tương tác chạy bằng mô hình vật lý thực và một câu đố ngắn. Cuối bài bạn có thể chuyển sang phòng thí nghiệm và ca lâm sàng tương ứng.
+cb988a96	Sau # giờ (từ # MBq)
+cbad3f92	Positron hủy cặp trong ~# mm mô; chỉ các photon # keV thoát ra ngoài.
+cbd54f80	Vật liệu
+cbd7b457	Công thức nhanh
+cc25a532	Cổ
+cc4c7f13	Bài 
+cc4da60f	Trùng phùng ngẫu nhiên
+cca2c192	Tổng lọc = # mm Al (cố hữu) + bổ sung. Quy định: ≥ # mm Al (># kVp).
+ccdfbfa0	Công chúng
+cd38aa8b	Chờ trước khi tiếp xúc gần
+cd4c6563	Bàn điều khiển
+cd86acc3	Đóng
+cd9bfde6	Hiển thị vỏ gantry trong suốt
+cdd62ae0	Cung (kiểu VMAT)
+cde4341b	Góc: #° = trước (AP), #° = bên trái bệnh nhân, #° = sau (PA), #° = phải.
+ce0454c7	Các cầu nhỏ cho hoạt độ đo thấp hơn do hiệu ứng thể tích từng phần (RC < #).
+ce3486fb	ngang: x (−#…# cm) • dọc: độ sâu #→# cm
+ce483eb5	Độ dày
+ce6b3dac	R8# phía xa (MC)
+ce715e71	Chất nhấp nháy CsI:Tl biến tia X thành ánh sáng và mảng photodiode a-Si biến ánh sáng thành điện tích. Chỉ số phơi sáng (EI) cho biết liều tới đầu dò.
+cf377b43	Thi thử
+cf781cab	Người mẹ xin đeo tạp dề chì cho Emir. Bạn làm gì?
+d020ae28	Trong một cột alumina được che chắn bằng chì, Mo-# (T½ # giờ) phân rã thành Tc-#m (T½ # giờ). Nước muối sinh lý chảy qua cột chỉ rửa trôi pertechnetat Tc-#m (chiết).
+d070218a	Độ sâu
+d0a43715	Không thể đơn giản tắt nam châm siêu dẫn; quench xả heli, tốn kém và nguy hiểm — chỉ dùng khi đe dọa tính mạng.
+d0fd90b6	Tự động phát tia khi thay đổi
+d1af3044	Trám amalgam và composite an toàn; chỉ có thể gây nhiễu ảnh.
+d1b7ec5b	EQD2 khối u = n·d·(d + #)/(# + #) = # Gy — thiếu liều, nguy cơ thất bại sinh hóa.
+d21058ed	Chạm sàn để đặt tấm chắn.
+d22ff1b4	Bộ lọc Cu loại bỏ photon năng lượng thấp: liều da thấp hơn nhiều với cùng DI.
+d252b05e	Chọn một bệnh nhân trong phòng chờ, đọc hồ sơ và bắt đầu ca. Ở mỗi bước bạn quyết định: trả lời câu hỏi, đặt thông số thiết bị hoặc tạo ảnh. Bộ máy vật lý tính kết quả; nhấn XÁC NHẬN để nhận điểm và lời giải thích.
+d28e3e42	Chấm điểm: chất lượng chẩn đoán / hiệu quả điều trị, liều bệnh nhân (ALARA), an toàn và giao tiếp. ★★★ cần ≥ # %.
+d2ab41fb	kỳ vọng 
+d2c74831	Bước đầu tiên
+d2db263e	Positron từ phân rã β⁺ hủy cặp với một electron trong vài mm (quãng chạy positron → mất độ phân giải), tạo ra hai photon # keV gần như ngược chiều (±#°). Nếu hai tinh thể của vòng phản ứng trong cửa sổ thời gian (~# ns), một trùng phùng và một đường đáp ứng (LOR) được ghi lại.
+d350ad22	Mô mỡ
+d4601b55	• <b>Suy giảm:</b> xác suất cả hai photon thoát ra là exp(−∫μ dl) dọc LOR — không phụ thuộc điểm phát! Vì thế hiệu chỉnh suy giảm trong PET được làm trực tiếp từ CT.\n• <b>Tán xạ:</b> photon tán xạ Compton tạo LOR sai; cửa sổ năng lượng (#–# keV) loại bỏ một phần.\n• <b>Ngẫu nhiên:</b> hai photon không liên quan rơi vào cùng cửa sổ; tần suất ~ hoạt độ².\n• <b>NEC</b> = T²/(T+S+R): thước đo chất lượng ảnh.
+d46b8bd4	Các bước
+d4ab7bf3	Có vẻ vô hại nhưng có thể lọt vào trường chiếu → phải chụp lại và hệ tự động tăng liều. Tốt hơn hết là giải thích để người mẹ yên tâm.
+d4beda32	Lưới chống tán xạ
+d4c68488	thể tích %
+d4ffd893	Tỉ số xương / nước (độ tương phản)
+d51a0c7d	phân liều, α/β = #
+d54bb772	Phù tủy
+d584bb20	Phổi trái
+d5c4ed9d	tuyến tiền liệt
+d5cc8e12	Cấp cứu nhi: X-quang ngực thẳng PA — viêm phổi? (BS Aydın)
+d5f8859c	Câu đố chủ đề này
+d618a937	Chùm tia và hiệu chuẩn
+d63556b0	Nước
+d64fa515	có chì
+d68f0065	Mở bài: 
+d720c7e2	Lý do khám và yêu cầu
+d77aac98	#. Tạo tia X
+d77bb8f6	Mở ca bệnh
+d7b6610e	Electron # MeV chỉ đi được ≈ # cm (Rp ≈ E/#): không thể tới tuyến tiền liệt.
+d7fcdf81	Ngoại tổng quát: viêm túi thừa / áp xe? CT bụng có cản quang (BS Tunç)
+d908d184	Đại lượng liều
+d9370cf8	Đảo (#°)
+d9556410	Thông số phát tia
+d9b3e49e	Máu / tim
+da35274d	Tổn thương # cm. Bạn chọn kích thước khuôn che và cách bảo vệ mắt nào?
+da435822	Lần trước lâu kinh khủng… Liệu tôi có vừa máy không?
+da880d68	Đã cầm nguồn! Mang nhanh tới hộp chì.
+dad956f3	Tc-#m đạt cực đại tại t_max = ln(λTc/λMo)/(λTc − λMo) ≈ # giờ sau khi chiết. Ở trạng thái cân bằng A_Tc/A_Mo → #·λTc/(λTc − λMo) ≈ #.
+db90e18f	xương
+dba8b336	Chúng tôi chỉ cho bạn bước đầu tiên tốt nhất.
+dbb638ff	Chụp SPECT (xương, tưới máu cơ tim)
+dbbc21b7	Vật lý: tại sao nhiễu tăng?
+dbf4470f	Điểm 
+dc0b6beb	Tài liệu tham khảo
+dc411606	Phương trình Bloch • tuế sai • spin echo
+dcc0d7a5	chưa chạy
+dce06e30	MRI có gadolinium
+dd2558f8	# kg / # cm
+ddd13aac	Thời gian # s — quá lâu, dễ có nhiễu ảnh do cử động; rút ngắn TR hoặc tăng hệ số turbo.
+de128bc0	Tiếng ồn âm học
+deb145c5	Đưa tạp dề chì rồi chụp ngay
+deea998c	TR (thời gian lặp)
+deeed36b	Chất lượng ảnh
+df0c22b3	Cộng hưởng từ
+df3faa41	Lọc bổ sung
+df518691	Khuôn che đúng bằng kích thước tổn thương (# cm)
+df697a33	Chụp nghiêng trước
+df6e8cfc	Bước hiện tại
+df7177fa	Ý CHÍNH
+df76eace	hoạt độ A(t)
+df926a69	Nhiễu (ROI gan, SD)
+dfe4e404	Thời gian
+e026c507	photon tán xạ E′
+e0a49aab	Bắt đầu thi  →
+e0ccc31f	Menu chính
+e0e1e90f	 ngày phông tự nhiên)
+e0fe199e	Ba nguyên tắc an toàn bức xạ (ICRP #)
+e15b5d80	Đường cong sống sót tế bào (LQ)
+e1940a73	Mẹo: bạn có thể nhấp vào một thiết bị ở phía sau bất cứ lúc nào; không cần làm vậy để bắt đầu.
+e19d9fd0	nam
+e232e2c1	Tầm thực tế Rp (tham chiếu)
+e2433a82	Liều thai nhi ≈ SSDE (tử cung trong trường chiếu). CTDIvol là liều trên phantom và phải hiệu chỉnh theo kích thước bệnh nhân.
+e2d84590	Số phân liều n
+e2e5fdc7	PTV (GTV + # mm) trung bình = # Gy / # phân liều (# Gy)
+e3232976	Độ đủ số đếm # — quá ít số đếm: ảnh nhiễu, có thể bỏ sót hạch nhỏ.
+e3726bce	Sáng hôm sau: nhịn ăn # giờ, đường huyết # mg/dL.
+e3f06eaf	góc tán xạ θ (°)
+e41d8109	độ sâu (cm)
+e43e04b0	Bóng X-quang (máy phát)
+e4ab1899	Độ rộng cửa sổ (W)
+e4c140b2	Phân rã là ngẫu nhiên: không thể đoán khi nào một hạt nhân sẽ phân rã, nhưng nhiều hạt nhân tuân theo định luật hàm mũ. Hoạt độ đo bằng becquerel (# Bq = # phân rã/s); đơn vị cũ là curie (# Ci = #·#¹⁰ Bq).
+e4e5be6e	Elif vừa khóc vừa hỏi: "Nó có hại cho con tôi không?" Liều thai ước tính ≈ # mGy.
+e4ff8488	Mức cửa sổ (L)
+e53403f8	hỗn hợp
+e549237e	Tiền liệt tuyến α/β ≈ # Gy, trực tràng (tác dụng muộn) α/β ≈ # Gy. Mục tiêu: EQD2 khối u #–# Gy, thành trước trực tràng (giả sử nhận # %) EQD2 ≤ # Gy.
+e56e73a9	Ngàm + MLC
+e5dcf84a	Liều tích lũy
+e5e8cc94	Tỉ số đỉnh / lối vào
+e5f27121	Inversion recovery
+e5f6fa50	Cường độ từ trường
+e621da6d	Mép Compton T_max
+e636070c	Fourier một phần # %
+e670f9a4	Liều thai nhi ước tính
+e6862f05	không lọc
+e70efde8	Xoay bệnh nhân
+e73b4300	Lọc Al bổ sung
+e74c644a	Mô-đun
+e75dfe28	Phòng chờ — chọn một bệnh nhân
+e78631fd	Cửa sổ
+e7883571	#. Lập kế hoạch điều trị
+e8145ea3	 % của kVp)
+e8511c37	Thiết lập sẵn
+e8f9a7ba	← Trang chủ đơn giản
+e934bbc7	Tổng thời gian
+e9cef8c2	Electron có tầm hữu hạn: lý tưởng cho khối u nông. Quy tắc kinh nghiệm: R5# ≈ E₀/# cm, Rp ≈ #·E₀ cm, độ sâu điều trị R8# ≈ E/# cm. Phần đuôi nhỏ ở sâu đến từ photon bức xạ hãm.
+e9eeaebf	không có bức xạ ion hóa
+e9f3813b	Liều cho trẻ sơ sinh (# % tiếp xúc gần)
+ea3ff3b9	Các ca chỉ dùng cho giáo dục, không dùng cho quyết định lâm sàng.
+ea445006	Phantom chất lượng ảnh NEMA
+ea617450	Nghi viêm ruột thừa ở bệnh nhân mang thai. Việc gì nên làm trước?
+eab8f509	Lọc: tăng HVL lên trên # mm Al
+eac26593	Liều hiệu dụng (# cm)
+ead463ae	Năng lượng hiệu dụng
+eaeaaa7b	Hiểu lý do
+eaf105c7	Làm nổi bật
+eaff7e77	eGFR # mL/phút/# m², đang dùng metformin. Bạn xử trí thế nào với thuốc cản quang iod?
+eb267579	 (không AC)
+eb2ba7e2	Chiều cao trường chiếu
+eb5ba0e3	#. Chiếu ngược có lọc (FBP)
+eb6d0c3f	Chuẩn bị bệnh nhân
+ebb00912	không cần che chắn
+ebee5570	Emir: "Cháu phải nín thở ạ? Vâng, cháu nín đây!"
+ec3c5945	Mẹo: trang "Lý thuyết" ở thanh trên cùng liệt kê các công thức chính.
+ec3ea500	Ghi chú mô hình: MC dùng lịch sử rút gọn (tán xạ nhiều lần Highland); lập kế hoạch là #D và bỏ qua tán xạ bên.
+ec88aab2	Đã xong
+ece35ca8	Thử trong phòng thí nghiệm  →
+ece838e8	quét
+ed03c7fc	≈ Đúng một phần
+ed465190	Mục tiêu: thể hiện vết rách sụn chêm và phù tủy xương. Spin echo: S = PD·(# − e^(−TR/T1))·e^(−TE/T2). Chọn TR, TE, xóa mỡ và B₀, rồi bấm CHẠY CHUỖI XUNG.
+eda30c59	Hoàn thành nhiệm vụ: 
+edbd8b07	Trọng số
+eddfea6b	Hàng trăm kênh × nhiều hàng chất nhấp nháy gốm. Nó đo một hình chiếu cho mỗi góc; gộp lại thành sinogram.
+edf0d031	Đặt lại câu đố
+ee5e0890	Khu trú chùm tia sát phổi; không dùng tấm che tuyến sinh dục và giải thích lý do cho người mẹ
+ee69cbe6	Elif vừa khóc vừa hỏi: "Có hại cho em bé của tôi không?" Liều thai nhi ước tính ≈ 
+ee88a3cc	Khi chụp toàn thân, bệnh nhân được dịch qua từng vị trí bàn; trường nhìn trục là #–# cm, và #–# m ở hệ trục dài.
+ee940d80	Sáng = suy giảm cao (xương, kim loại). Hiển thị theo quy ước X-quang: bên phải bệnh nhân ở bên trái. Cửa sổ được đặt tự động.
+ef57cd07	Đường huyết
+ef945465	Xung RF
+efce91bf	T½ đo được (MC)
+efd604d5	Nhiệt độ
+efd9baf3	Tỉ số Tc/Mo (cân bằng tạm thời)
+f0565afa	Phân liều (d cố định)
+f0c79167	Sau
+f1d69164	Lớp hấp thụ một nửa (HVL)
+f1e3d43f	Gadolinium qua được nhau thai; khi mang thai chỉ dùng nếu thật cần thiết. MRI không thuốc cản quang là đủ cho viêm ruột thừa.
+f1e5a8a5	Khi kVp vượt năng lượng liên kết lớp K của W (# keV), xuất hiện các vạch <b>đặc trưng</b>: Kα ≈ #–# keV, Kβ ≈ #–# keV. Cường độ ~ (U − #)^#, U = kVp / E_K.
+f2125926	Nhiễu gan # HU: phân biệt được áp xe và mỡ.
+f215c98f	DI # → quá liều (DI # ≈ # %, # ≈ #× liều).
+f2586cb3	Trường chiếu (tại đầu thu)
+f25c8ffb	Phông tự nhiên (trung bình thế giới)
+f28c5bf6	Bài học • hình tương tác • câu đố
+f2e56345	Đặt độ dày chì bằng HVL của Cs-# (≈ # cm) và xem suất liều giảm một nửa
+f2f0b95b	chờ (giờ)
+f38b9efa	#. Hình chiếu và biến đổi Radon
+f3952697	electron giật lùi T
+f3987859	Suất ra của bóng tăng khoảng theo kVp² và tuyến tính theo mAs: tăng kVp #% làm tín hiệu đầu dò tăng khoảng gấp đôi (quy tắc #%).
+f3b48ff1	Ngăn lại: nam châm siêu dẫn luôn bật và vật sắt từ trở thành vật phóng; chỉ dùng thiết bị an toàn với MR
+f425bff1	  → echo dự kiến tại: 
+f48a9bb6	Liều theo độ sâu Monte Carlo, đỉnh Bragg, lập kế hoạch điều trị, DVH, sinh học phóng xạ.
+f4a277c4	Lập kế hoạch
+f4a9c097	Bộ lọc
+f5c1b5b5	Kích thước trường (tại bề mặt)
+f5e305fa	Trường chiếu #×# cm: ngực ≈ #×# cm; thu hẹp trường chiếu (DAP và tán xạ).
+f5efdcd1	# mg/L
+f60d1c54	Ảnh trọng T2: dịch não tủy sáng hơn chất trắng
+f67cc940	Kiểu phân rã
+f6862a0b	Độ truyền qua tấm chắn (gồm build-up)
+f6d42ce8	Độ sâu đỉnh Bragg
+f6f22637	Điều khiển
+f71b5abf	Liều hiệu dụng sinh học
+f728f992	người lớn trung bình (# cm)
+f7c4fef9	"Cảm ơn, bạn thật chu đáo!"
+f80ba400	Cách dùng phần này
+f810e311	EQD2 trực tràng (α/β #) = # Gy — chấp nhận được.
+f8486832	Chỉ dùng tâm không gian k: giữ được tương phản, mất chi tiết
+f84b8da5	Sai và gây lo lắng với xạ trị ngoài.
+f8c4150d	# MeV e⁻
+f900a313	Cháu ơi, mặt bà có bị sẹo không? Và làm ơn đừng làm đau mắt bà.
+fa033cd5	Nhiệm vụ: thu hồi nguồn
+fa73ce08	Làm tốt — còn vài điểm cần cải thiện.
+faa8e755	FLAIR: chọn TI = T1·ln2 triệt tín hiệu dịch não tủy (≈ # ms ở # T). STIR: TI ngắn xóa mỡ (≈ #–# ms).
+fad26615	Phát các xung B₁ ở tần số Larmor (~# MHz ở # T) làm nghiêng M. Sự gia nhiệt mô (SAR) bắt nguồn từ đây.
+fae02622	X-quang hốc mắt: KHÔNG có dị vật kim loại. Tiến hành chụp.
+faff56b8	Thời gian đã trôi qua
+fb079007	Liều mỗi phân liều d
+fb5419ac	Rìa thiếu liều → nguy cơ tái phát; ở trường rất nhỏ R9# cũng nông hơn.
+fb77122a	Bắt đầu ca đầu tiên
+fb8da0b7	Viêm ruột thừa khi mang thai: siêu âm → MRI không thuốc cản quang → CT liều thấp nếu cần.
+fb990b3e	★★★ ≥ # %, ★★ ≥ # %, ★ ≥ # %. Kết quả tốt nhất được lưu; chơi lại để cải thiện.
+fba0b4a2	Cosin
+fbb64dbd	Điện áp bóng
+fc6adbf7	Kerma không khí bề mặt lối vào (ESAK)
+fc7e5fc3	Độ đủ số đếm # — hoạt độ cao hơn mức cần; liều thêm không tăng giá trị chẩn đoán.
+fc82911d	tương đối
+fcdeb802	quá liều
+fcff6168	Khung chậu
+fd4e03b8	Thời gian mỗi vị trí bàn
+fd53e067	sau tiêm (phút)
+fd7f93f9	Tham số
+fd8f9de5	Các gradient mã hóa vị trí thành tần số và pha; tín hiệu thu được là biến đổi Fourier #D của ảnh (không gian k). Ảnh có được nhờ FFT ngược. Kích thước ma trận quyết định độ phân giải, FOV quyết định kích thước điểm ảnh; lấy mẫu thiếu gây chồng hình, chuyển động gây ảnh ma theo hướng mã hóa pha.
+fd9045b9	#–# kV xuyên qua bệnh nhân to béo tốt hơn: ít mAs hơn cho cùng mức nhiễu.
+fddaa9d0	Chỉ số tương hợp (Paddick)
+fe0012eb	Lời khuyên lỗi thời; không cần thiết khi eGFR ≥ # và làm chậm chẩn đoán.
+fe2bb7a7	Quấn tạp dề chì quanh khung chậu
+feb29647	Chùm đa năng lượng (thực tế)
+feb7cede	Tăng huyết áp (đã kiểm soát)
+febab6f7	IGRT: trước khi điều trị chụp ảnh kV hoặc CT chùm hình nón (CBCT) và chỉnh vị trí bệnh nhân tới từng milimét.
+fec9a6c7	Chụp kV / CBCT hằng ngày, khớp theo các điểm đánh dấu vàng
+ff1483ac	Máy tạo nhịp (titan)
+ff559aca	Can: "May mà các anh cho tôi tai nghe. Tiếng ồn tới rồi!"
+ff97f266	Năng lượng photon trung bình
+ffedd789	Đang cho con # tháng tuổi bú

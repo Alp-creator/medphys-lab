@@ -1,0 +1,128 @@
+@topic dose | DZ | Dozimetri ve Radyobiyoloji | Dosimetry and Radiobiology | therapy
+@desc Kerma, soğurulan doz, eşdeğer ve efektif doz; dozimetreler; radyasyonun hücreye etkisi, LQ modeli, BED ve EQD2. || Kerma, absorbed dose, equivalent and effective dose; dosimeters; how radiation affects cells, the LQ model, BED and EQD2.
+@formula Kerma || Kerma :: K = Ψ · (μ_tr/ρ)        (Ψ: enerji akısı)
+@formula Soğurulan doz || Absorbed dose :: D = dε / dm     1 Gy = 1 J/kg
+@formula Eşdeğer doz || Equivalent dose :: H_T = Σ_R w_R · D_T,R   (Sv)
+@formula Efektif doz || Effective dose :: E = Σ_T w_T · H_T   (Sv)
+@formula İyon odası (TRS-398) || Ion chamber (TRS-398) :: D_w = M_Q · N_D,w · k_Q
+@formula LQ yaşam eğrisi || LQ survival :: S = exp(−αD − βD²)
+@formula BED / EQD2 || BED / EQD2 :: BED = n·d·(1 + d/(α/β))     EQD2 = BED / (1 + 2/(α/β))
+@term Gray (Gy) || Gray (Gy) :: Soğurulan doz birimi, 1 J/kg. || Unit of absorbed dose, 1 J/kg.
+@term Sievert (Sv) || Sievert (Sv) :: Eşdeğer ve efektif doz birimi; stokastik riski temsil eder. || Unit of equivalent and effective dose; represents stochastic risk.
+@term Yüklü parçacık dengesi (CPE) || Charged particle equilibrium (CPE) :: Bir hacme giren ve çıkan yüklü parçacık enerjisinin dengede olması; o zaman D = K_col. || Charged-particle energy entering and leaving a volume balance; then D = K_col.
+@term Deterministik etki || Deterministic effect :: Eşiği olan, şiddeti dozla artan doku reaksiyonu (eritem, katarakt). || A tissue reaction with a threshold whose severity rises with dose (erythema, cataract).
+@term Stokastik etki || Stochastic effect :: Olasılığı dozla artan, eşiksiz kabul edilen etki (kanser, kalıtsal). || An effect whose probability rises with dose, assumed to have no threshold (cancer, heritable).
+@term α/β oranı || α/β ratio :: LQ eğrisinde lineer ve kuadratik bileşenlerin eşit olduğu doz; fraksiyon duyarlılığını gösterir. || The dose at which the linear and quadratic LQ terms are equal; a measure of fractionation sensitivity.
+
+@lesson quantities | Doz büyüklükleri | Dose quantities | 10
+## Kerma ve soğurulan doz || Kerma and absorbed dose
+Fotonlar dozu iki adımda bırakır: önce enerjilerini yüklü parçacıklara aktarırlar (kerma = kinetic energy released per unit mass), sonra bu parçacıklar enerjiyi ortama bırakır (soğurulan doz). Kerma etkileşim noktasında, doz ise elektronların gittiği yerde ölçülür. || Photons deposit dose in two steps: first they transfer energy to charged particles (kerma = kinetic energy released per unit mass), then those particles deposit it in the medium (absorbed dose). Kerma is counted where the interaction happens, dose where the electrons go.
+$ K = Ψ · (μ_tr/ρ)        D = dε/dm        1 Gy = 1 J/kg
+Yüklü parçacık dengesi (CPE) varsa ve frenleme kaybı ihmal edilebilirse soğurulan doz çarpışma kermasına eşittir: D = K_col. Yüzeye yakın build-up bölgesinde CPE yoktur; megavoltaj demetlerinin cildi korumasının (skin sparing) nedeni budur. || Under charged particle equilibrium (CPE), with negligible bremsstrahlung loss, the absorbed dose equals the collision kerma: D = K_col. There is no CPE in the build-up region near the surface, which is the reason for the skin sparing of megavoltage beams.
+Tarihsel büyüklük ışınlama (exposure, C/kg) yalnızca havada iyon üretimini ölçer. Havada bir iyon çifti oluşturmak için ortalama W/e = 33.97 J/C enerji gerekir; böylece K_hava = X · 33.97'dir. || The historic quantity exposure (C/kg) measures only ionisation in air. Creating one ion pair in air costs on average W/e = 33.97 J/C, so K_air = X · 33.97.
+## Eşdeğer ve efektif doz || Equivalent and effective dose
+Aynı fiziksel doz farklı radyasyonlarda farklı biyolojik etki yaratır. Eşdeğer doz H_T = Σ w_R D_T,R'dir. Radyasyon ağırlık faktörleri (ICRP 103): fotonlar ve elektronlar için 1, protonlar için 2, α için 20; nötronlarda enerjiye bağlı olarak 2.5–20. || The same physical dose causes different biological effects for different radiations. The equivalent dose is H_T = Σ w_R D_T,R. Radiation weighting factors (ICRP 103): 1 for photons and electrons, 2 for protons, 20 for α, and 2.5–20 for neutrons depending on energy.
+Efektif doz E = Σ w_T H_T, düzgün olmayan bir ışınlamanın stokastik riskini tek bir sayıyla ifade eder. Doku ağırlık faktörleri (ICRP 103): kırmızı kemik iliği, kolon, akciğer, mide, meme ve "kalan dokular" 0.12; gonadlar 0.08; mesane, özofagus, karaciğer ve tiroid 0.04; kemik yüzeyi, beyin, tükürük bezleri ve cilt 0.01. Toplamları 1'dir. || The effective dose E = Σ w_T H_T expresses the stochastic risk of a non-uniform exposure as a single number. Tissue weighting factors (ICRP 103): red bone marrow, colon, lung, stomach, breast and "remainder" 0.12; gonads 0.08; bladder, oesophagus, liver and thyroid 0.04; bone surface, brain, salivary glands and skin 0.01. They sum to 1.
+!! Efektif doz bir popülasyon ortalaması risk büyüklüğüdür. Tek bir hastanın riskini hesaplamak için değil, işlemleri karşılaştırmak ve korunmayı optimize etmek için kullanılır. Hasta organ dozları için ayrıca organ dozu hesaplanmalıdır. || Effective dose is a population-averaged risk quantity. It is meant for comparing procedures and optimising protection, not for computing an individual patient's risk; that needs organ doses.
+! Bir göğüs grafisinde akciğer 0.1 mGy, meme 0.05 mGy alsın (diğerleri ihmal). E ≈ 0.12·0.1 + 0.12·0.05 = 0.018 mSv ≈ 0.02 mSv, yani yaklaşık 3 günlük doğal radyasyon. || In a chest radiograph let the lungs receive 0.1 mGy and the breasts 0.05 mGy (others negligible). E ≈ 0.12·0.1 + 0.12·0.05 = 0.018 mSv ≈ 0.02 mSv — about 3 days of natural background.
+## İşlemsel büyüklükler || Operational quantities
+Efektif doz doğrudan ölçülemez. Ölçüm için işlemsel büyüklükler kullanılır: ortam izlemede ortam doz eşdeğeri H*(10), kişisel dozimetride Hp(10) (tüm vücut) ve Hp(0.07) (cilt, el). || Effective dose cannot be measured directly, so operational quantities are used: ambient dose equivalent H*(10) for area monitoring, and Hp(10) (whole body) and Hp(0.07) (skin, hands) for personal dosimetry.
+? 1 Gy'lik α ışınlamasının eşdeğer dozu kaç Sv'dir? || What equivalent dose does 1 Gy of α radiation give?
++ 20 Sv || 20 Sv
+- 1 Sv || 1 Sv
+- 2 Sv || 2 Sv
+= ICRP 103'e göre α için w_R = 20'dir: H = 20 × 1 Gy = 20 Sv. || ICRP 103 gives w_R = 20 for α: H = 20 × 1 Gy = 20 Sv.
+? Hangi doku ağırlık faktörü 0.12'dir? || Which tissue has a weighting factor of 0.12?
++ Akciğer || Lung
+- Tiroid || Thyroid
+- Cilt || Skin
+= Akciğer, kolon, mide, meme, kırmızı kemik iliği ve kalan dokular 0.12; tiroid 0.04; cilt 0.01'dir. || Lung, colon, stomach, breast, red marrow and remainder are 0.12; thyroid 0.04; skin 0.01.
+? Build-up bölgesinde neden D ≠ K_col'dur? || Why is D ≠ K_col in the build-up region?
++ Yüklü parçacık dengesi henüz kurulmamıştır || Charged particle equilibrium has not yet been established
+- Fotonlar orada etkileşmez || Photons do not interact there
+- Frenleme ışınımı baskındır || Bremsstrahlung dominates there
+= Yüzeye yakın bölgede, gelen elektronlar çıkanlardan azdır; doz ancak elektronların menziline (d_max) kadar artarak kermaya yaklaşır. || Near the surface fewer electrons enter than leave; the dose builds up over the electron range (d_max) until it approaches the kerma.
+
+@lesson dosimeters | Dozimetreler ve kalibrasyon | Dosimeters and calibration | 10
+## İyon odası || Ionisation chamber
+İyon odası, radyasyonun gaz içinde oluşturduğu yükü toplayan bir kapasitördür. Referans dozimetrinin altın standardıdır. Silindirik Farmer tipi (0.6 cm³) megavoltaj fotonlarında, düz paralel plakalı odalar elektronlarda kullanılır. || An ionisation chamber is a capacitor that collects the charge radiation creates in a gas. It is the gold standard of reference dosimetry. The cylindrical Farmer type (0.6 cm³) is used for megavoltage photons and plane-parallel chambers for electrons.
+Bragg–Gray kavite teorisine göre ortamdaki doz, kavitedeki doz ile ortam/gaz kütle durdurma gücü oranının çarpımıdır. Pratikte IAEA TRS-398 veya AAPM TG-51 protokolü uygulanır: || By Bragg–Gray cavity theory, the dose in the medium equals the cavity dose times the medium-to-gas mass stopping-power ratio. In practice the IAEA TRS-398 or AAPM TG-51 protocol is used:
+$ D_w,Q = M_Q · N_D,w,Q0 · k_Q,Q0
+M_Q okumadır; sıcaklık-basınç, polarite, rekombinasyon ve elektrometre düzeltmeleri uygulanmış haldedir. N_D,w,Q0 kalibrasyon laboratuvarının (Co-60'ta) verdiği su-doz kalibrasyon faktörüdür, k_Q ise demet kalitesi düzeltmesidir. || M_Q is the reading corrected for temperature-pressure, polarity, recombination and the electrometer; N_D,w,Q0 is the water-dose calibration factor from the standards lab (in Co-60), and k_Q corrects for beam quality.
+! Hava ısınınca odadaki gaz azalır ve okuma düşer. TRS-398 referansı 20 °C ve 101.3 kPa'dır. 25 °C ve 99.0 kPa'da k_TP = (273.2+25)/(273.2+20) × 101.3/99.0 ≈ 1.017 × 1.023 ≈ 1.041 olur. Bu düzeltme yapılmazsa doz %4 düşük ölçülür. || Warmer air means less gas in the chamber and a lower reading. The TRS-398 reference is 20 °C and 101.3 kPa. At 25 °C and 99.0 kPa, k_TP = (273.2+25)/(273.2+20) × 101.3/99.0 ≈ 1.017 × 1.023 ≈ 1.041. Without this correction the dose would read 4 % low.
+## Diğer dozimetreler || Other dosimeters
+* <b>TLD (LiF:Mg,Ti):</b> ısıtıldığında depoladığı enerjiyi ışık olarak verir; doku eşdeğerine yakındır, kişisel ve in-vivo dozimetride kullanılır. || <b>TLD (LiF:Mg,Ti):</b> releases stored energy as light when heated; nearly tissue-equivalent, used for personal and in-vivo dosimetry.
+* <b>OSL (Al₂O₃:C):</b> ışıkla uyarılarak okunur, tekrar okunabilir; kişisel dozimetre rozetlerinin çoğu bu tiptir. || <b>OSL (Al₂O₃:C):</b> read out by optical stimulation and can be re-read; most personal badges are this type.
+* <b>Radyokromik film (EBT3/EBT4):</b> 2B doz dağılımı, yüksek uzaysal çözünürlük; IMRT hasta QA'sında kullanılır. || <b>Radiochromic film (EBT3/EBT4):</b> 2D dose distribution with high spatial resolution, used for IMRT patient QA.
+* <b>Diyot ve MOSFET:</b> küçük ve hassas; in-vivo ve küçük alan ölçümleri. Enerji ve yön bağımlılıkları vardır. || <b>Diodes and MOSFETs:</b> small and sensitive, used for in-vivo and small-field measurements; they show energy and angular dependence.
+* <b>Geiger–Müller sayacı:</b> çok duyarlı sayım cihazı, kontaminasyon arar; enerji bilgisi vermez. Doz hızı ölçümü için iyon odalı survey metre tercih edilir. || <b>Geiger–Müller counter:</b> a very sensitive counter for finding contamination; gives no energy information. For dose-rate measurement an ion-chamber survey meter is preferred.
+> Doğru dozimetreyi seçmek, neyi ölçtüğünü bilmektir: referans doz için iyon odası, dağılım için film veya dizi, kişisel doz için OSL/TLD, kontaminasyon için GM. || Choosing the right dosimeter means knowing what you measure: an ion chamber for reference dose, film or arrays for distributions, OSL/TLD for personal dose, a GM counter for contamination.
+? TRS-398 protokolünde k_Q neyi düzeltir? || In TRS-398, what does k_Q correct for?
++ Kullanıcının demet kalitesinin kalibrasyon kalitesinden (Co-60) farkını || The difference between the user's beam quality and the calibration quality (Co-60)
+- Sıcaklık ve basıncı || Temperature and pressure
+- Odanın polaritesini || Chamber polarity
+= N_D,w Co-60'ta verilir. Kullanıcının demet kalitesinde (ör. 6 MV, TPR₂₀,₁₀ ≈ 0.67) durdurma gücü oranları ve pertürbasyon faktörleri farklıdır; k_Q bu farkı düzeltir. || N_D,w is given in Co-60. At the user's quality (e.g. 6 MV, TPR₂₀,₁₀ ≈ 0.67) stopping-power ratios and perturbation factors differ, and k_Q corrects for this.
+? Bir odada kontaminasyon aramak için en uygun cihaz hangisidir? || Which instrument is best for searching a room for contamination?
++ Geiger–Müller sayacı || Geiger–Müller counter
+- Farmer iyon odası || Farmer ion chamber
+- Radyokromik film || Radiochromic film
+= GM sayacı tek tek olayları sayar ve düşük seviyeli kontaminasyonu hızla bulur; doz ölçümü için ise kalibre edilmiş bir iyon odası daha doğrudur. || A GM counter counts individual events and finds low-level contamination quickly; for dose measurement a calibrated ion chamber is more accurate.
+
+@lesson biology | Radyasyonun biyolojik etkileri | Biological effects of radiation | 10
+## DNA hasarı || DNA damage
+Hücre ölümünün ana hedefi DNA'dır. Düşük LET'li radyasyonda hasarın yaklaşık üçte ikisi dolaylı etkiyle oluşur: su radyolizinden doğan OH· radikalleri DNA'ya saldırır. Tek iplik kırıkları kolayca onarılır. Çift iplik kırıkları (DSB) ise öldürücü hasarın ana kaynağıdır. || DNA is the main target for cell killing. For low-LET radiation about two-thirds of the damage is indirect: OH· radicals from water radiolysis attack the DNA. Single-strand breaks are repaired easily; double-strand breaks (DSBs) are the main lethal lesion.
+Oksijen serbest radikal hasarını kalıcı hale getirir. Hipoksik hücreler 2.5–3 kat daha dirençlidir (oksijen artırma oranı, OER). Tümörlerin hipoksik çekirdeği bu yüzden tedavi sorunudur. || Oxygen "fixes" free-radical damage, so hypoxic cells are 2.5–3 times more resistant (oxygen enhancement ratio, OER). The hypoxic core of tumours is therefore a treatment problem.
+## Radyoterapinin 5R'si || The 5 Rs of radiotherapy
+* <b>Onarım (Repair):</b> sağlıklı doku fraksiyonlar arasında subletal hasarı onarır (≥ 6 saat ara). || <b>Repair:</b> healthy tissue repairs sublethal damage between fractions (≥ 6 h apart).
+* <b>Yeniden dağılım (Redistribution):</b> hücreler duyarlı döngü fazlarına (G2/M) geçer. || <b>Redistribution:</b> cells move into sensitive cycle phases (G2/M).
+* <b>Reoksijenasyon:</b> hipoksik tümör hücreleri fraksiyonlar arasında oksijenlenir. || <b>Reoxygenation:</b> hypoxic tumour cells become oxygenated between fractions.
+* <b>Repopülasyon:</b> tümör tedavi sırasında çoğalır; uzayan toplam süre kontrolü azaltır. || <b>Repopulation:</b> the tumour proliferates during treatment; a prolonged overall time reduces control.
+* <b>Radyoduyarlılık:</b> doku ve hücre tipine özgü içsel duyarlılık. || <b>Radiosensitivity:</b> the intrinsic sensitivity of each tissue and cell type.
+## Deterministik ve stokastik etkiler || Deterministic and stochastic effects
+Deterministik etkilerin (doku reaksiyonlarının) bir eşiği vardır ve şiddeti dozla artar. Örnekler: geçici cilt eritemi ~2 Gy, geçici epilasyon ~3 Gy, lens opaklığı/katarakt ~0.5 Gy (ICRP 118). Floroskopi rehberli uzun girişimlerde cilt dozu bu yüzden izlenir. || Deterministic effects (tissue reactions) have a threshold and their severity grows with dose. Examples: transient skin erythema ~2 Gy, temporary epilation ~3 Gy, lens opacity/cataract ~0.5 Gy (ICRP 118). This is why skin dose is monitored in long fluoroscopy-guided procedures.
+Stokastik etkiler (kanser, kalıtsal etkiler) için korunmada eşiksiz doğrusal (LNT) model varsayılır: olasılık dozla orantılıdır, şiddet dozdan bağımsızdır. ICRP 103'ün nominal risk katsayısı tüm popülasyon için kanserde ≈ %5.5 / Sv'dir. || For stochastic effects (cancer, heritable effects) protection assumes the linear no-threshold (LNT) model: probability is proportional to dose, while severity does not depend on it. ICRP 103's nominal risk coefficient for cancer is ≈ 5.5 % per Sv for the whole population.
+! 10 mSv'lik bir BT için nominal ek kanser riski ≈ 0.01 Sv × 0.055 / Sv ≈ %0.055, yani yaklaşık 1/1800. Bu, yaşam boyu ~%40 olan temel kanser insidansının yanında çok küçüktür. Yine de gerekçelendirme gerektirir. || For a 10 mSv CT the nominal excess cancer risk is ≈ 0.01 Sv × 0.055 / Sv ≈ 0.055 %, about 1 in 1800 — small next to the ~40 % lifetime baseline cancer incidence, but it still requires justification.
+? Düşük LET'li radyasyonda DNA hasarının çoğu nasıl oluşur? || How does most DNA damage arise for low-LET radiation?
++ Dolaylı olarak, su radyolizinden gelen OH· radikalleriyle || Indirectly, through OH· radicals from water radiolysis
+- Doğrudan, fotonların DNA'yı kırmasıyla || Directly, by photons breaking the DNA
+- Isınma ile || Through heating
+= Hücrenin büyük kısmı sudur; radyoliz ürünü OH· radikalleri hasarın yaklaşık üçte ikisinden sorumludur. Oksijen bu hasarı kalıcı hale getirir. || Most of the cell is water; radiolysis OH· radicals cause about two-thirds of the damage, and oxygen makes it permanent.
+? Hangisi deterministik bir etkidir? || Which is a deterministic effect?
++ Katarakt || Cataract
+- Lösemi || Leukaemia
+- Kalıtsal mutasyon || Heritable mutation
+= Kataraktın bir eşiği vardır (ICRP 118: ~0.5 Gy) ve şiddeti dozla artar. Kanserler ve kalıtsal etkiler stokastiktir. || Cataract has a threshold (ICRP 118: ~0.5 Gy) and its severity increases with dose; cancers and heritable effects are stochastic.
+? Hipoksik hücreler iyi oksijenlenmiş hücrelere göre yaklaşık ne kadar dirençlidir (düşük LET)? || How much more resistant are hypoxic cells than well-oxygenated ones (low LET), roughly?
++ 2.5–3 kat || 2.5–3 times
+- %10 || 10 %
+- 20 kat || 20 times
+= Oksijen artırma oranı (OER) X-ışınları için ~2.5–3'tür. Yüksek LET'li radyasyonda OER 1'e yaklaşır. || The oxygen enhancement ratio for X-rays is ~2.5–3; for high-LET radiation it approaches 1.
+
+@lesson lq | LQ modeli, BED ve EQD2 | The LQ model, BED and EQD2 | 12
+## Lineer–kuadratik model || The linear-quadratic model
+Hücre yaşam eğrisi en iyi lineer–kuadratik (LQ) modelle tanımlanır. α terimi tek bir izin oluşturduğu öldürücü hasarı, β terimi iki ayrı izin hasarlarının etkileşimini temsil eder. || Cell survival is best described by the linear-quadratic (LQ) model. The α term represents lethal damage from a single track, the β term the interaction of damage from two separate tracks.
+$ S = exp(−α·D − β·D²)        n fraksiyonda:  S = exp[−n(α·d + β·d²)]
+α/β oranı (Gy), iki terimin eşit olduğu dozdur. Erken yanıt veren dokular ve çoğu tümör için α/β ≈ 10 Gy, geç yanıt veren dokular (omurilik, rektum, cilt fibrozisi) için ≈ 3 Gy'dir. Prostat (~1.5 Gy) ve meme (~3.5 Gy) kanseri düşük α/β'lıdır. || The α/β ratio (Gy) is the dose at which the two terms are equal: ≈ 10 Gy for early-responding tissues and most tumours, ≈ 3 Gy for late-responding tissues (spinal cord, rectum, skin fibrosis). Prostate (~1.5 Gy) and breast (~3.5 Gy) cancers have low α/β.
+%fig lq
+## BED ve EQD2 || BED and EQD2
+Farklı fraksiyon şemalarını karşılaştırmak için biyolojik etkin doz (BED) ve 2 Gy fraksiyonlara eşdeğer doz (EQD2) kullanılır: || To compare fractionation schedules we use the biologically effective dose (BED) and the equivalent dose in 2 Gy fractions (EQD2):
+$ BED = n·d·[1 + d/(α/β)]        EQD2 = BED / [1 + 2/(α/β)] = n·d·(d + α/β)/(2 + α/β)
+! 30 Gy / 10 fraksiyon (3 Gy): tümör için (α/β = 10) EQD2 = 30·(3+10)/(2+10) = 32.5 Gy; geç doku için (α/β = 3) EQD2 = 30·(3+3)/(2+3) = 36 Gy. Fraksiyon dozu büyüdükçe geç doku daha çok "cezalandırılır". || 30 Gy in 10 fractions (3 Gy): for tumour (α/β = 10) EQD2 = 30·(3+10)/(2+10) = 32.5 Gy; for late tissue (α/β = 3) EQD2 = 30·(3+3)/(2+3) = 36 Gy. Larger fractions "penalise" late-responding tissue more.
+> Küçük fraksiyonlar geç dokuları korur, çünkü β terimi küçülür. Ancak tümörün α/β'sı geç dokularınkinden düşükse (prostat), hipofraksiyon tümöre avantaj sağlar. CHHiP (60 Gy/20) ve PACE-B (36.25 Gy/5) çalışmaları bu yüzden başarılıdır. || Small fractions spare late-responding tissue because the β term shrinks. But if the tumour's α/β is lower than the late tissue's (prostate), hypofractionation favours the tumour — the reason the CHHiP (60 Gy/20) and PACE-B (36.25 Gy/5) trials succeeded.
+## Toplam süre ve tedavi arası || Overall time and treatment gaps
+Hızlı çoğalan tümörlerde (baş-boyun) tedavi ~28 günden uzun sürerse tümör repopülasyonu başlar. Kabaca günde ~0.6 Gy EQD2 kaybedilir. Planlanmamış tedavi araları bu yüzden telafi edilmelidir (ör. hafta sonu ek fraksiyon, günde iki fraksiyon). || In fast-proliferating tumours (head and neck) repopulation kicks in if treatment lasts longer than ~28 days, costing roughly ~0.6 Gy EQD2 per day. Unplanned treatment gaps must therefore be compensated (e.g. an extra weekend fraction or twice-daily fractions).
+? α/β = 3 Gy olan bir doku için 2 Gy × 30 = 60 Gy'nin BED'i nedir? || What is the BED of 2 Gy × 30 = 60 Gy for a tissue with α/β = 3 Gy?
++ 100 Gy || 100 Gy
+- 72 Gy || 72 Gy
+- 60 Gy || 60 Gy
+= BED = 60 × (1 + 2/3) = 100 Gy. α/β = 10 olsaydı 72 Gy olurdu. || BED = 60 × (1 + 2/3) = 100 Gy. With α/β = 10 it would be 72 Gy.
+? Hipofraksiyon neden prostat kanserinde avantajlıdır? || Why is hypofractionation advantageous for prostate cancer?
++ Prostatın α/β'sı (~1.5 Gy) çevredeki geç dokulardan (rektum ~3 Gy) düşüktür || Prostate α/β (~1.5 Gy) is lower than that of the surrounding late tissue (rectum ~3 Gy)
+- Prostat hipoksiktir || The prostate is hypoxic
+- Büyük fraksiyonlar rektumu korur || Large fractions spare the rectum
+= Düşük α/β'lı doku büyük fraksiyonlara daha duyarlıdır. Tümörün α/β'sı rektumunkinden düşük olduğundan aynı geç toksisitede tümöre daha yüksek biyolojik doz verilebilir. || Low-α/β tissue is more sensitive to large fractions. Because the tumour's α/β is below the rectum's, a higher biological tumour dose is possible at the same late toxicity.
+? Baş-boyun tümöründe tedavi 1 hafta uzarsa yaklaşık ne olur? || What happens, roughly, if head-and-neck treatment is prolonged by one week?
++ Repopülasyon nedeniyle ≈ 4 Gy EQD2 etkinlik kaybedilir || ≈ 4 Gy EQD2 of effectiveness is lost to repopulation
+- Hiçbir şey; toplam doz aynıdır || Nothing — the total dose is the same
+- Tümör kontrolü artar || Tumour control improves
+= Hızlı repopülasyonla günde ~0.6 Gy kaybedilir: 7 gün × 0.6 ≈ 4 Gy. Tedavi araları bu yüzden telafi edilir. || With accelerated repopulation ~0.6 Gy is lost per day: 7 days × 0.6 ≈ 4 Gy. That is why gaps are compensated.

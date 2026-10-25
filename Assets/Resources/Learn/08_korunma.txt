@@ -1,0 +1,118 @@
+@topic rp | RK | Radyasyondan Korunma | Radiation Protection | protection
+@desc Korunma ilkeleri ve doz sınırları, zaman–mesafe–zırh, oda zırh tasarımı, kişisel dozimetri, gebelik, çocuklar ve risk iletişimi. || Protection principles and dose limits, time–distance–shielding, room shielding design, personal dosimetry, pregnancy, children and risk communication.
+@formula Doz = doz hızı × süre || Dose = dose rate × time :: H = Ḣ · t
+@formula Ters kare yasası || Inverse square law :: Ḣ₂ = Ḣ₁ · (d₁ / d₂)²
+@formula Nokta kaynak || Point source :: Ḣ = Γ · A / d²
+@formula Zırh geçirgenliği || Shield transmission :: B = 2^(−x/HVL) = 10^(−x/TVL)
+@formula NCRP 147/151 tasarımı || NCRP 147/151 design :: B = P · d² / (W · U · T)     n = log₁₀(1/B)     x = TVL₁ + (n − 1)·TVL_e
+@term ALARA || ALARA :: As Low As Reasonably Achievable: ekonomik ve sosyal etkenler gözetilerek dozun makul ölçüde en düşük tutulması. || As Low As Reasonably Achievable — keeping doses as low as reasonably achievable, taking economic and social factors into account.
+@term Kontrollü alan || Controlled area :: Özel kuralların ve eğitimli personelin gerektiği, doz sınırlarının aşılabileceği alan. || An area with special rules and trained staff where dose limits could otherwise be exceeded.
+@term Kullanım faktörü U || Use factor U :: Birincil demetin belirli bir bariyere yönelik olduğu zaman oranı. || The fraction of time the primary beam points at a given barrier.
+@term Doluluk faktörü T || Occupancy factor T :: Bir alanın en çok bulunan kişi tarafından kullanıldığı zaman oranı. || The fraction of time the most-exposed person occupies an area.
+
+@lesson principles | Korunma ilkeleri ve doz sınırları | Protection principles and dose limits | 10
+## Üç temel ilke (ICRP 103) || Three fundamental principles (ICRP 103)
+* <b>Gerekçelendirme:</b> radyasyon kullanan her uygulamanın faydası zararından büyük olmalıdır. Tıpta bu, her tetkik için ayrıca değerlendirilir. || <b>Justification:</b> any practice involving radiation must do more good than harm; in medicine this is judged for each examination.
+* <b>Optimizasyon (ALARA):</b> dozlar makul ölçüde en düşük tutulur. Hastada bu, tanısal kaliteyi koruyarak doz azaltmak demektir (DRL'ler bir araçtır). || <b>Optimisation (ALARA):</b> doses are kept as low as reasonably achievable; for patients this means reducing dose while preserving diagnostic quality (DRLs are a tool).
+* <b>Doz sınırlaması:</b> çalışanlar ve halk için sınırlar vardır. Hastalara doz sınırı uygulanmaz, çünkü fayda doğrudan hastaya aittir. || <b>Dose limitation:</b> limits apply to workers and the public — not to patients, because the benefit is theirs.
+## Doz sınırları || Dose limits
+* <b>Mesleki:</b> efektif doz 20 mSv/yıl (5 yıl ortalaması; tek yılda en çok 50 mSv); göz merceği 20 mSv/yıl (ICRP 118); cilt ve eller 500 mSv/yıl. || <b>Occupational:</b> effective dose 20 mSv/yr (averaged over 5 years, at most 50 mSv in any one year); eye lens 20 mSv/yr (ICRP 118); skin and extremities 500 mSv/yr.
+* <b>Halk:</b> 1 mSv/yıl; göz merceği 15 mSv/yıl; cilt 50 mSv/yıl. || <b>Public:</b> 1 mSv/yr; eye lens 15 mSv/yr; skin 50 mSv/yr.
+* <b>Gebe çalışan:</b> gebelik bildirildikten sonra fetüs dozu gebeliğin geri kalanında ~1 mSv'i aşmamalıdır. || <b>Pregnant worker:</b> after declaring pregnancy, the fetal dose should not exceed ~1 mSv for the rest of the pregnancy.
+> Karşılaştırma için: dünya ortalaması doğal radyasyon ≈ 2.4 mSv/yıl'dır (UNSCEAR). PA göğüs grafisi ≈ 0.02 mSv (~3 gün), batın BT ≈ 8 mSv (~3 yıl), İstanbul–New York uçuşu ≈ 0.05 mSv'dir. || For comparison: the world-average natural background is ≈ 2.4 mSv/yr (UNSCEAR). A PA chest X-ray is ≈ 0.02 mSv (~3 days), an abdominal CT ≈ 8 mSv (~3 years), an Istanbul–New York flight ≈ 0.05 mSv.
+? Hangi grup için doz sınırı yoktur? || Which group has no dose limit?
++ Tıbbi ışınlanan hastalar || Patients undergoing medical exposure
+- Halk || Members of the public
+- Radyasyon çalışanları || Radiation workers
+= Hasta ışınlamasında fayda doğrudan hastaya aittir; gerekçelendirme ve optimizasyon (DRL) uygulanır, sınır uygulanmaz. || In medical exposure the benefit goes to the patient, so justification and optimisation (DRLs) apply but no limit.
+? Çalışanlar için göz merceği yıllık doz sınırı nedir (ICRP 118)? || What is the annual eye-lens dose limit for workers (ICRP 118)?
++ 20 mSv || 20 mSv
+- 150 mSv || 150 mSv
+- 500 mSv || 500 mSv
+= ICRP 118, katarakt eşiğinin ~0.5 Gy olduğunu göstermiş ve sınırı 150'den 20 mSv/yıl'a indirmiştir. Girişimsel kardiyolojide kurşun gözlük bu yüzden önemlidir. || ICRP 118 found a cataract threshold of ~0.5 Gy and cut the limit from 150 to 20 mSv/yr — why lead glasses matter in interventional cardiology.
+
+@lesson tds | Zaman, mesafe ve zırh | Time, distance and shielding | 11
+## Üç araç || Three tools
+Dış ışınlamadan korunmanın üç aracı vardır: süreyi kısaltmak (doz = doz hızı × süre), mesafeyi artırmak (nokta kaynakta doz hızı 1/d² ile düşer) ve araya zırh koymak (her HVL dozu yarıya indirir). || There are three tools against external exposure: shorten the time (dose = dose rate × time), increase the distance (from a point source the dose rate falls as 1/d²) and put shielding in between (each HVL halves the dose).
+$ Ḣ = Γ · A / d²        Ḣ_zırhlı = Ḣ · B,   B ≈ 2^(−x/HVL)
+%fig invsq
+! 370 MBq Cs-137 (Γ ≈ 0.077 µGy·m²/(MBq·h)) için 1 m'de hava kerma hızı ≈ 0.077 × 370 ≈ 28 µGy/h, H*(10) ≈ 34 µSv/h olur. 2 m'de bu değer 4'te birine (≈ 8.5 µSv/h), 3 m'de 9'da birine iner. Kurşunda Cs-137 için HVL ≈ 0.65 cm olduğundan 2 cm kurşun (≈ 3 HVL) dozu daha da ~8 kat azaltır. || For 370 MBq Cs-137 (Γ ≈ 0.077 µGy·m²/(MBq·h)) the air-kerma rate at 1 m is ≈ 0.077 × 370 ≈ 28 µGy/h, i.e. H*(10) ≈ 34 µSv/h. At 2 m it drops to a quarter (≈ 8.5 µSv/h), at 3 m to a ninth. With a lead HVL of ≈ 0.65 cm for Cs-137, 2 cm of lead (≈ 3 HVL) cuts it by another ~8×.
+!! Ters kare yasası nokta kaynak ve kaynak boyutundan büyük mesafeler için geçerlidir. Çok yakında (ör. kaynağı elde tutarken) doz çok hızlı artar. Kaynak her zaman maşa (uzun pens) ile tutulmalıdır; 1 cm yerine 30 cm uzaklık el dozunu yaklaşık 900 kat azaltır. || The inverse square law holds for point sources at distances larger than the source size. Very close up (e.g. holding a source) the dose rises extremely fast: always use tongs — 30 cm instead of 1 cm cuts the hand dose about 900-fold.
+## Zırh malzemesi || Shielding materials
+Tanısal enerjilerde (fotoelektrik baskın) kurşun çok etkilidir: 80 kVp'de 0.25–0.5 mm Pb fotonların %90–99'unu durdurur. MV enerjilerde (Compton baskın) zayıflama elektron yoğunluğuyla orantılıdır. Bu yüzden tedavi odaları ucuz ve kalın beton ile zırhlanır. Nötronlar için hidrojenli malzemeler (polietilen, borlu beton) kullanılır. || At diagnostic energies (photoelectric-dominated) lead is very effective: 0.25–0.5 mm Pb stops 90–99 % of the photons at 80 kVp. At MV energies (Compton-dominated) attenuation follows electron density, so treatment rooms use cheap, thick concrete. Neutrons need hydrogenous materials (polyethylene, borated concrete).
+? Bir kaynaktan 1 m'de doz hızı 40 µSv/h ise 4 m'de nedir? || If the dose rate is 40 µSv/h at 1 m, what is it at 4 m?
++ 2.5 µSv/h || 2.5 µSv/h
+- 10 µSv/h || 10 µSv/h
+- 20 µSv/h || 20 µSv/h
+= Ḣ ~ 1/d²: 40 × (1/4)² = 2.5 µSv/h. || Ḣ ~ 1/d²: 40 × (1/4)² = 2.5 µSv/h.
+? Doz hızını 1000 kat azaltmak için kaç TVL zırh gerekir? || How many TVLs of shielding reduce the dose rate 1000-fold?
++ 3 || 3
+- 10 || 10
+- 1000 || 1000
+= Her TVL 10 kat azaltır: 10³ = 1000. Bu yaklaşık 10 HVL'ye karşılık gelir. || Each TVL gives a factor of 10: 10³ = 1000, about 10 HVLs.
+? MV tedavi odaları neden kurşun yerine betonla zırhlanır? || Why are MV treatment rooms shielded with concrete rather than lead?
++ MV'de Compton baskındır; zayıflama elektron yoğunluğuna bağlıdır, kalın beton ucuz ve yapısaldır || At MV Compton dominates, attenuation depends on electron density, and thick concrete is cheap and structural
+- Beton kurşundan daha yoğundur || Concrete is denser than lead
+- Kurşun MV fotonlarını geçirmez || Lead does not transmit MV photons
+= Fotoelektrik etkinin Z³ avantajı MV'de kaybolur. Kütle başına zayıflama malzemeden neredeyse bağımsızdır; yer sınırlıysa kurşun/çelik eklenir. || The Z³ advantage of the photoelectric effect vanishes at MV; attenuation per unit mass is nearly material-independent, so lead/steel is added only where space is tight.
+
+@lesson design | Oda zırh tasarımı | Room shielding design | 12
+## NCRP 147 ve 151 yöntemi || The NCRP 147 and 151 method
+Bir bariyerin arkasındaki noktada haftalık doz, tasarım hedefini (P) aşmamalıdır: kontrollü alanlar için 0.1 mSv/hafta (5 mSv/yıl), kontrolsüz alanlar için 0.02 mSv/hafta (1 mSv/yıl). Gerekli geçirgenlik iş yükü (W), kullanım faktörü (U), doluluk (T) ve mesafeden (d) bulunur: || The weekly dose at a point behind a barrier must not exceed the design goal P: 0.1 mSv/week (5 mSv/yr) for controlled areas and 0.02 mSv/week (1 mSv/yr) for uncontrolled areas. The required transmission follows from the workload W, use factor U, occupancy T and distance d:
+$ B = P · d² / (W · U · T)        n = log₁₀(1/B)        x = TVL₁ + (n − 1) · TVL_e
+* <b>Birincil bariyer:</b> demetin doğrudan çarptığı duvar (U < 1). || <b>Primary barrier:</b> a wall the beam can hit directly (U < 1).
+* <b>İkincil bariyer:</b> hastadan saçılan ve kafadan sızan (iş yükünün ~%0.1'i) radyasyona karşı; U = 1. || <b>Secondary barrier:</b> against patient scatter and head leakage (~0.1 % of the workload); U = 1.
+* <b>Doluluk:</b> ofis T = 1, koridor T = 1/5, bekleme salonu T = 1/20 civarındadır (NCRP önerileri). || <b>Occupancy:</b> offices T = 1, corridors T ≈ 1/5, waiting rooms T ≈ 1/20 (NCRP suggestions).
+! 6 MV linak birincil bariyeri: W = 1000 Gy/hafta (1 m'de), U = 0.25, T = 1 (ofis), P = 0.02 mSv/hafta = 2×10⁻⁵ Sv (kontrolsüz), izomerkezden noktaya d = 6 m. B = 2×10⁻⁵ × 36 / (1000 × 0.25 × 1) ≈ 2.9×10⁻⁶ → n = 5.5 TVL. Beton için TVL₁ = 37 cm, TVL_e = 33 cm (NCRP 151): x ≈ 37 + 4.5 × 33 ≈ 186 cm beton. || 6 MV linac primary barrier: W = 1000 Gy/week (at 1 m), U = 0.25, T = 1 (office), P = 0.02 mSv/week = 2×10⁻⁵ Sv (uncontrolled), d = 6 m from isocentre. B = 2×10⁻⁵ × 36 / (1000 × 0.25 × 1) ≈ 2.9×10⁻⁶ → n = 5.5 TVL. For concrete TVL₁ = 37 cm, TVL_e = 33 cm (NCRP 151): x ≈ 37 + 4.5 × 33 ≈ 186 cm of concrete.
+> Labirent (maze), saçılan fotonların kapıya ulaşmadan birkaç kez saçılıp zayıflamasını sağlar. 10 MV üzeri cihazlarda kapı, nötron ve yakalama gamaları için ayrıca borlu polietilen ve kurşun içerir. Kurulumdan sonra ölçümle (survey) doğrulama zorunludur. || A maze makes scattered photons bounce several times before reaching the door. Above 10 MV the door also contains borated polyethylene and lead for neutrons and capture gammas. A radiation survey after installation is mandatory.
+? Kullanım faktörü U = 0.25 ne anlama gelir? || What does a use factor U = 0.25 mean?
++ Birincil demet zamanın %25'inde o bariyere yönelir || The primary beam points at that barrier 25 % of the time
+- Odanın %25'i doludur || The room is 25 % occupied
+- Bariyer %25 geçirgendir || The barrier transmits 25 %
+= U demetin yön dağılımını, T ise alanda bulunma süresini temsil eder. İkincil bariyerler için U = 1 alınır. || U represents the beam direction distribution and T the occupancy; secondary barriers use U = 1.
+? İkincil bariyer neye karşı tasarlanır? || What is a secondary barrier designed against?
++ Hastadan saçılan ve cihaz kafasından sızan radyasyona || Radiation scattered by the patient and leaking from the head
+- Birincil demete || The primary beam
+- Yalnızca nötronlara || Neutrons only
+= Sızıntı, iş yükünün ~%0.1'i ile sınırlandırılmıştır. Saçılma ise açıya ve alan boyutuna bağlıdır. || Leakage is limited to ~0.1 % of the workload; scatter depends on angle and field size.
+
+@lesson monitoring | Kişisel dozimetri ve izleme | Personal dosimetry and monitoring | 9
+## Kimler, nasıl izlenir? || Who is monitored, and how?
+Radyasyon çalışanları kişisel dozimetre (OSL/TLD) taşır. Hp(10) tüm vücut dozunu, Hp(0.07) cilt dozunu, halka dozimetre el dozunu ölçer. Kurşun önlük kullanılıyorsa dozimetre genellikle önlüğün altında, gövdede taşınır. Göz merceği dozu için yaka seviyesinde, önlüğün üstünde ikinci bir dozimetre önerilir. || Radiation workers wear personal dosimeters (OSL/TLD): Hp(10) for whole-body dose, Hp(0.07) for skin, ring dosimeters for the hands. With a lead apron the dosimeter is usually worn under it on the trunk, and a second one at collar level over the apron is recommended for the eye-lens dose.
+* <b>Kurşun önlük:</b> 0.25–0.5 mm Pb eşdeğeri; tanısal enerjilerde fotonların %90–99'unu durdurur. 511 keV PET fotonlarına karşı ise neredeyse etkisizdir. || <b>Lead apron:</b> 0.25–0.5 mm Pb equivalent; stops 90–99 % of diagnostic photons but is almost useless against 511 keV PET photons.
+* <b>Tiroid koruyucu ve kurşun gözlük:</b> floroskopi ve girişimsel işlemlerde. || <b>Thyroid collar and lead glasses:</b> in fluoroscopy and interventional work.
+* <b>Survey metre:</b> doz hızı için iyon odalı; kontaminasyon için GM veya pancake prob. || <b>Survey meters:</b> ion chamber for dose rate; GM or pancake probe for contamination.
+## Alan sınıflandırma ve olaylar || Area classification and incidents
+Alanlar, beklenen doza göre kontrollü ve gözetimli alan olarak sınıflandırılır, işaretlenir ve erişim kısıtlanır. Bir kaynak kaybı, beklenmedik yüksek dozimetre okuması veya yanlış hasta/bölge ışınlaması bir olaydır. Kayıt altına alınır, kök neden incelenir ve gerekiyorsa yetkili kuruma bildirilir (Türkiye'de NDK). || Areas are classified as controlled or supervised according to expected dose, signposted and access-restricted. A lost source, an unexpectedly high dosimeter reading or a wrong-patient/wrong-site exposure is an incident: it is recorded, its root cause is analysed and, where required, it is reported to the regulator (NDK in Turkey).
+? Kurşun önlük kullanan bir çalışanda göz merceği dozu nasıl izlenir? || How is the eye-lens dose monitored for a worker wearing a lead apron?
++ Yaka seviyesinde, önlüğün üstünde ikinci bir dozimetreyle || With a second dosimeter at collar level, outside the apron
+- Önlüğün altındaki dozimetreyle || With the dosimeter under the apron
+- Gerek yoktur || It is not needed
+= Önlük altındaki dozimetre gözü temsil etmez. Mercek sınırı 20 mSv/yıl olduğundan girişimsel çalışanlarda bu ölçüm önemlidir. || The under-apron dosimeter does not represent the eye; with a 20 mSv/yr lens limit this measurement matters for interventional staff.
+? PET tracer'ı hazırlayan bir teknikere kurşun önlük ne sağlar? || What does a lead apron offer a technologist preparing a PET tracer?
++ Çok az koruma; 511 keV fotonları için ince kurşun yetersizdir || Very little — thin lead is inadequate for 511 keV photons
+- Tam koruma || Complete protection
+- Yalnızca beta koruması || Beta protection only
+= 511 keV'de kurşunun HVL'si ~4 mm'dir; 0.5 mm Pb fotonların ancak ~%10'unu durdurur. PET'te mesafe, süre, şırınga ve L-blok zırhları kullanılır. || At 511 keV the HVL of lead is ~4 mm, so 0.5 mm Pb stops only ~10 % of the photons. PET relies on distance, time, syringe shields and L-blocks.
+
+@lesson special | Gebelik, çocuklar ve risk iletişimi | Pregnancy, children and risk communication | 10
+@case elif
+## Gebe hasta || The pregnant patient
+Doğurganlık çağındaki kadınlarda, pelvis primer alandaysa veya radyonüklid kullanılacaksa önce gebelik sorgulanır. Gerekirse β-hCG testi istenir. Fetal dozlar tanısal tetkiklerde çoğunlukla < 50 mGy'dir. ~100 mGy altında deterministik etki beklenmez ve gebeliğin sonlandırılması tıbben gerekçelendirilemez (ICRP 84). Çocukluk çağı kanser riskindeki artış ≈ %0.06 / 10 mGy kadardır (temel risk ≈ %0.2–0.3). || In women of childbearing age, pregnancy is asked about first if the pelvis is in the primary beam or a radionuclide will be given, with a β-hCG test if needed. Fetal doses from diagnostic exams are mostly < 50 mGy; below ~100 mGy no deterministic effects are expected and termination cannot be justified medically (ICRP 84). The added childhood-cancer risk is ≈ 0.06 % per 10 mGy (baseline ≈ 0.2–0.3 %).
+* Alternatif yöntemler (US, MR) önce düşünülür; BT gerekiyorsa düşük doz protokol ve sınırlı tarama uzunluğu kullanılır. || Alternatives (US, MRI) come first; if CT is needed, use a low-dose protocol and a limited scan length.
+* Fetal doz hesabı medikal fizikçinin görevidir: BT'de fetal doz ≈ SSDE (uterus alandaysa). || Estimating fetal dose is the medical physicist's job: in CT, fetal dose ≈ SSDE when the uterus is in the field.
+## Çocuklar || Children
+Çocuklar radyasyona erişkinlerden 2–3 kat daha duyarlıdır ve önlerinde uzun bir yaşam vardır. Boyuta göre protokoller ("Image Gently") uygulanır: düşük mAs, gridsiz çekim, ek Cu filtrasyon, sıkı kolimasyon. BT'de dozun SSDE ile değerlendirilmesi gerekir. Gonad koruyucular artık rutin önerilmez (AAPM 2019); kolimasyon daha etkilidir. || Children are 2–3 times more radiosensitive than adults and have a long life ahead. Size-based protocols ("Image Gently") apply: low mAs, no grid, added Cu filtration, tight collimation; in CT dose should be judged by SSDE. Gonad shields are no longer recommended routinely (AAPM 2019); collimation is more effective.
+## Risk iletişimi || Risk communication
+Hastalar ve aileler radyasyondan çoğu zaman korkar. İyi bir açıklama sayısal ama anlaşılır olmalı, doğal radyasyonla karşılaştırma yapmalı, tetkikin faydasını vurgulamalı ve "sıfır risk" ya da "çok tehlikeli" gibi abartılardan kaçınmalıdır. || Patients and families are often afraid of radiation. A good explanation is numerical yet understandable, compares with natural background, stresses the benefit of the examination, and avoids exaggerations such as "zero risk" or "very dangerous".
+! "Bu göğüs grafisi yaklaşık 0.02 mSv doz verir; bu, doğal ortamdan 3 günde aldığımız radyasyon kadardır. Pnömoniyi doğru teşhis etmenin faydası bu çok küçük riskten çok daha büyüktür." || "This chest X-ray gives about 0.02 mSv — the radiation we receive from nature in about 3 days. The benefit of diagnosing pneumonia correctly is far greater than this very small risk."
+? Tanısal bir BT sonrası fetal doz 20 mGy olarak hesaplandı. Doğru danışmanlık hangisidir? || A fetal dose of 20 mGy is estimated after a diagnostic CT. What is the correct counselling?
++ Deterministik etki eşiğinin çok altında; risk artışı çok küçük, sonlandırma için gerekçe yok || Far below the deterministic threshold; very small added risk; no reason to terminate
+- Gebelik sonlandırılmalı || The pregnancy should be terminated
+- Hiçbir risk yoktur || There is no risk at all
+= ICRP 84: < 100 mGy'de sonlandırma tıbben gerekçelendirilemez. Stokastik risk çok küçüktür ama sıfır değildir; dürüst ve sakin bir iletişim gerekir. || ICRP 84: termination is not medically justified below 100 mGy. The stochastic risk is very small but not zero, so communication should be honest and calm.
+? Çocuk göğüs grafisinde en etkili koruma yöntemi hangisidir? || What is the most effective protection measure in a paediatric chest radiograph?
++ Sıkı kolimasyon (ve gridsiz, düşük doz teknik) || Tight collimation (with a gridless, low-dose technique)
+- Gonad koruyucu || A gonad shield
+- Kurşun önlüğü alanın içine koymak || Placing a lead apron inside the field
+= Alan dışındaki organların dozu zaten çok düşüktür; alan içine giren koruyucu görüntüyü bozar ve otomatik pozlamada dozu artırır. || Out-of-field organ doses are already tiny; a shield in the field degrades the image and makes the AEC raise the dose.

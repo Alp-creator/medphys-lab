@@ -1,0 +1,124 @@
+@topic nm | NM | Nükleer Tıp | Nuclear Medicine | nucmed
+@desc Radyoaktif bozunma, radyonüklid üretimi ve jeneratörler, gama kamera ve SPECT, PET, iç dozimetri ve hasta güvenliği. || Radioactive decay, radionuclide production and generators, the gamma camera and SPECT, PET, internal dosimetry and patient safety.
+@formula Bozunma yasası || Decay law :: A(t) = A₀ · e^(−λt)     λ = ln2 / T½
+@formula Aktivite || Activity :: A = λ·N     1 Bq = 1 bozunma/s     1 mCi = 37 MBq
+@formula Efektif yarı ömür || Effective half-life :: 1/T_eff = 1/T_fiziksel + 1/T_biyolojik
+@formula Jeneratör (geçici denge) || Generator (transient equilibrium) :: A_Tc ≈ 0.876 · A_Mo · λ_Tc/(λ_Tc − λ_Mo)   t_max ≈ 23 h
+@formula SUV || SUV :: SUV = C_doku [kBq/mL] / (A_enjekte [kBq] / kilo [g])
+@formula MIRD || MIRD :: D(hedef) = Ã(kaynak) · S(hedef ← kaynak)
+@term Tc-99m || Tc-99m :: 140 keV γ, T½ 6.0 saat; en çok kullanılan radyonüklid. || 140 keV γ, T½ 6.0 h; the most widely used radionuclide.
+@term Koinsidans || Coincidence :: PET'te iki 511 keV fotonun birkaç ns içinde karşılıklı dedektörlerde algılanması. || In PET, detection of two 511 keV photons in opposite detectors within a few ns.
+@term Kolimatör || Collimator :: Gama kamerada yalnızca belirli yönden gelen fotonları geçiren kurşun delikli plaka. || The lead plate with holes that lets only photons from a given direction through to the gamma camera crystal.
+@term Kümülatif aktivite Ã || Cumulated activity Ã :: Bir organdaki toplam bozunma sayısı (aktivitenin zaman integrali). || The total number of decays in an organ (time integral of activity).
+
+@lesson decay | Radyoaktif bozunma | Radioactive decay | 9
+## Bozunma yasası || The decay law
+Kararsız bir çekirdeğin birim zamanda bozunma olasılığı sabittir (λ). Aktivite A = λN, bozunma hızıdır ve üstel azalır: || An unstable nucleus has a constant probability per unit time of decaying (λ). The activity A = λN is the decay rate and falls exponentially:
+$ A(t) = A₀ · e^(−λt)        T½ = ln2 / λ        τ = 1/λ = 1.44·T½
+Birim becquerel'dir (1 Bq = 1 bozunma/s); eski birim curie (1 Ci = 37 GBq). Tanısal aktiviteler MBq, tedavi aktiviteleri GBq düzeyindedir. || The unit is the becquerel (1 Bq = 1 decay/s); the old unit is the curie (1 Ci = 37 GBq). Diagnostic activities are in MBq, therapeutic ones in GBq.
+%fig decay
+## Bozunma türleri || Decay modes
+* <b>β⁻:</b> nötron → proton + elektron + antinötrino (I-131, Lu-177, Y-90). Tedavide kısa menzilli elektronlar kullanılır. || <b>β⁻:</b> neutron → proton + electron + antineutrino (I-131, Lu-177, Y-90); the short-range electrons are used in therapy.
+* <b>β⁺:</b> proton → nötron + pozitron + nötrino (F-18, Ga-68). Pozitron yok olurken 2 × 511 keV foton salar; PET'in temeli budur. || <b>β⁺:</b> proton → neutron + positron + neutrino (F-18, Ga-68); the positron annihilates into 2 × 511 keV photons — the basis of PET.
+* <b>Elektron yakalama ve izomerik geçiş:</b> Tc-99m metastabil bir durumdur ve 140 keV γ yayar. Görüntüleme için ideal bir enerjidir; parçacık yayınımı da azdır. || <b>Electron capture and isomeric transition:</b> Tc-99m is a metastable state emitting a 140 keV γ — an ideal imaging energy with little particulate emission.
+* <b>α:</b> He-4 çekirdeği, çok yüksek LET, menzil < 0.1 mm (Ra-223). || <b>α:</b> a He-4 nucleus with very high LET and a range < 0.1 mm (Ra-223).
+## Efektif yarı ömür || Effective half-life
+Vücuttaki aktivite hem fiziksel bozunmayla hem de biyolojik atılımla azalır: || Activity in the body decreases both by physical decay and by biological excretion:
+$ 1/T_eff = 1/T_fiz + 1/T_biyo
+! I-131 için T_fiz = 8.0 gün; tiroidde T_biyo = 24 gün olsun. T_eff = (8 × 24)/(8 + 24) = 6 gün. Efektif yarı ömür her zaman ikisinin küçüğünden daha kısadır. || For I-131 T_phys = 8.0 days; let the thyroid T_bio be 24 days. T_eff = (8 × 24)/(8 + 24) = 6 days — always shorter than the smaller of the two.
+? 600 MBq Tc-99m 12 saat sonra kaç MBq olur? || How much is 600 MBq of Tc-99m after 12 hours?
++ ≈ 150 MBq || ≈ 150 MBq
+- ≈ 300 MBq || ≈ 300 MBq
+- ≈ 50 MBq || ≈ 50 MBq
+= 12 saat ≈ 2 yarı ömürdür (T½ = 6.0 h): 600 × (1/2)² = 150 MBq. || 12 h ≈ 2 half-lives (T½ = 6.0 h): 600 × (1/2)² = 150 MBq.
+? PET'in temelini hangi bozunma türü oluşturur? || Which decay mode is the basis of PET?
++ β⁺ (pozitron) bozunması || β⁺ (positron) decay
+- β⁻ bozunması || β⁻ decay
+- α bozunması || α decay
+= Pozitron bir elektronla yok olur ve zıt yönlü iki 511 keV foton oluşur; PET bunları koinsidansta algılar. || The positron annihilates with an electron into two opposite 511 keV photons, which PET detects in coincidence.
+
+@lesson production | Radyonüklid üretimi ve jeneratör | Radionuclide production and the generator | 9
+## Nereden gelirler? || Where do they come from?
+* <b>Reaktör:</b> nötron yakalama (n,γ) veya fisyon. Mo-99 (Tc-99m'in ana çekirdeği) ve I-131 çoğunlukla U-235 fisyonundan elde edilir. || <b>Reactor:</b> neutron capture (n,γ) or fission; Mo-99 (Tc-99m's parent) and I-131 mostly come from U-235 fission.
+* <b>Siklotron:</b> proton bombardımanı. F-18, ¹⁸O(p,n)¹⁸F reaksiyonuyla zenginleştirilmiş sudan üretilir. T½ = 110 dakika olduğu için bölgesel siklotronlardan dağıtılır. || <b>Cyclotron:</b> proton bombardment; F-18 is made from enriched water by ¹⁸O(p,n)¹⁸F. With T½ = 110 min it is distributed from regional cyclotrons.
+* <b>Jeneratör:</b> uzun ömürlü ana çekirdek kısa ömürlü yavru üretir: Mo-99/Tc-99m, Ge-68/Ga-68. || <b>Generator:</b> a long-lived parent produces a short-lived daughter: Mo-99/Tc-99m, Ge-68/Ga-68.
+## Mo-99/Tc-99m jeneratörü || The Mo-99/Tc-99m generator
+Mo-99 (T½ 66 saat) alümina kolona bağlıdır. Bozunmalarının ~%88'i Tc-99m'e gider. Serum fizyolojik kolondan geçirildiğinde (elüsyon) yalnızca pertekneat (TcO₄⁻) çözünür ve alınır. Ana çekirdek yavrudan uzun ama çok uzun değil yaşadığından geçici denge kurulur: Tc-99m aktivitesi elüsyondan ~23 saat sonra en yüksek değerine ulaşır. || Mo-99 (T½ 66 h) is bound to an alumina column; ~88 % of its decays go to Tc-99m. Saline passed through the column (elution) dissolves only the pertechnetate (TcO₄⁻). Because the parent lives longer — but not much longer — than the daughter, transient equilibrium sets in: Tc-99m activity peaks ~23 h after an elution.
+%fig generator
+> Kalite kontrol: eluatta Mo-99 kırılması (breakthrough) 1 MBq Tc-99m başına 0.15 kBq Mo-99'u aşmamalıdır. Kontrol, Tc'nin 140 keV fotonlarını durdurup Mo'nun 740 keV fotonlarını geçiren kurşun bir kapla yapılır. Alüminyum iyonu ve radyokimyasal saflık da kontrol edilir. || Quality control: Mo-99 breakthrough in the eluate must not exceed 0.15 kBq Mo-99 per MBq Tc-99m, checked with a lead canister that stops Tc's 140 keV but passes Mo's 740 keV photons. Aluminium ion content and radiochemical purity are also checked.
+? Jeneratörde Tc-99m aktivitesi elüsyondan yaklaşık ne kadar sonra en yüksek olur? || About how long after an elution does Tc-99m activity peak in a generator?
++ ≈ 23 saat || ≈ 23 hours
+- ≈ 6 saat || ≈ 6 hours
+- ≈ 66 saat || ≈ 66 hours
+= t_max = ln(λ_Tc/λ_Mo)/(λ_Tc − λ_Mo) ≈ 23 saat. Hastaneler bu yüzden genellikle günde bir kez sağar. || t_max = ln(λ_Tc/λ_Mo)/(λ_Tc − λ_Mo) ≈ 23 h, which is why hospitals usually elute once a day.
+? F-18 nasıl üretilir? || How is F-18 produced?
++ Siklotronda ¹⁸O(p,n)¹⁸F reaksiyonuyla || In a cyclotron by the ¹⁸O(p,n)¹⁸F reaction
+- Reaktörde uranyum fisyonuyla || By uranium fission in a reactor
+- Bir jeneratörden sağılarak || By eluting a generator
+= Zenginleştirilmiş H₂¹⁸O hedefi protonlarla bombardıman edilir; ardından FDG sentezi yapılır. || An enriched H₂¹⁸O target is bombarded with protons, followed by FDG synthesis.
+
+@lesson gamma | Gama kamera ve SPECT | The gamma camera and SPECT | 10
+## Anger kamerası || The Anger camera
+Gama kamera; kolimatör, büyük bir NaI(Tl) kristal, fotoçoğaltıcı tüpler (PMT) ve konum/enerji elektroniğinden oluşur. Kristalde soğurulan foton ışık parlaması üretir. PMT sinyallerinin ağırlıklı ortalaması olayın konumunu (Anger mantığı), toplamı ise enerjisini verir. || A gamma camera consists of a collimator, a large NaI(Tl) crystal, photomultiplier tubes (PMTs) and position/energy electronics. A photon absorbed in the crystal produces a flash of light; the weighted average of the PMT signals gives the event position (Anger logic), and their sum gives its energy.
+## Kolimatör: duyarlılık ve çözünürlük || The collimator: sensitivity versus resolution
+Fotonlar kırılamaz. Bu yüzden görüntü, yalnızca belirli yönden gelenleri geçiren kurşun delikli bir kolimatörle oluşturulur. Fotonların yalnızca ~%0.01'i geçer. Paralel delikli bir kolimatörde çözünürlük kaynak uzaklığıyla kötüleşir; bu yüzden dedektör hastaya mümkün olduğunca yaklaştırılır. Uzun ve dar delikler çözünürlüğü artırır, duyarlılığı düşürür. || Photons cannot be refracted, so the image is formed by a lead collimator that passes only photons from a given direction — only ~0.01 % get through. With a parallel-hole collimator resolution degrades with source distance, so the detector is placed as close to the patient as possible. Longer, narrower holes improve resolution and lower sensitivity.
+* Enerji penceresi (Tc-99m için 140 keV ± %10) saçılmış fotonları büyük ölçüde dışlar. || The energy window (140 keV ± 10 % for Tc-99m) rejects most scattered photons.
+* Sistem çözünürlüğü ≈ 7–10 mm (10 cm'de), içsel çözünürlük ≈ 3–4 mm. || System resolution ≈ 7–10 mm (at 10 cm); intrinsic resolution ≈ 3–4 mm.
+* Günlük kalite kontrol: tekdüzelik (flood), enerji tepe konumu; haftalık çözünürlük/doğrusallık. || Daily QC: uniformity (flood) and energy peaking; weekly resolution/linearity.
+## SPECT || SPECT
+SPECT, kameranın hasta etrafında döndürülmesiyle elde edilen projeksiyonlardan BT'deki gibi kesit rekonstrüksiyonu yapar (genellikle OSEM). Zayıflama düzeltmesi SPECT/BT'deki BT ile yapılır. || SPECT reconstructs slices, as in CT, from projections acquired by rotating the camera around the patient (usually OSEM). Attenuation correction uses the CT of a SPECT/CT.
+? Gama kamerada olayın konumu nasıl belirlenir? || How is the event position determined in a gamma camera?
++ PMT sinyallerinin ağırlıklı ortalamasıyla (Anger mantığı) || By the weighted average of the PMT signals (Anger logic)
+- Hangi kolimatör deliğinden geçtiği doğrudan okunarak || By reading out directly which collimator hole it passed through
+- Uçuş süresi ölçülerek || By measuring the time of flight
+= Kristaldeki ışık birçok PMT'ye dağılır; sinyallerin ağırlık merkezi konumu verir. || The light spreads over many PMTs, and the centroid of their signals gives the position.
+? Paralel delikli kolimatörde kaynak dedektörden uzaklaşırsa ne olur? || With a parallel-hole collimator, what happens as the source moves away from the detector?
++ Uzaysal çözünürlük kötüleşir || Spatial resolution degrades
+- Duyarlılık sıfıra düşer || Sensitivity drops to zero
+- Görüntü büyür || The image is magnified
+= Her delik bir koni içinden foton kabul eder; uzaklık arttıkça koninin tabanı büyür ve çözünürlük bozulur. Bu yüzden dedektör hastaya yaklaştırılır. || Each hole accepts photons from a cone whose footprint grows with distance, degrading resolution — hence the detector is placed close to the patient.
+
+@lesson pet | PET | PET | 11
+@case zeynep
+## Koinsidans algılama || Coincidence detection
+Pozitron dokuda ~1 mm yol aldıktan sonra bir elektronla yok olur ve neredeyse zıt yönlü iki 511 keV foton oluşur. Halka biçimli dedektörler (LYSO, BGO) iki fotonu birkaç nanosaniyelik bir koinsidans penceresi içinde algılarsa, olay iki dedektör arasındaki yanıt hattı (LOR) üzerindedir. Kolimatör gerekmez; duyarlılık gama kameradan çok yüksektir. || The positron travels ~1 mm in tissue and annihilates with an electron into two nearly opposite 511 keV photons. If ring detectors (LYSO, BGO) catch both within a coincidence window of a few nanoseconds, the event lies on the line of response (LOR) between them. No collimator is needed, so sensitivity is far higher than a gamma camera's.
+* <b>Gerçek, saçılmış ve rastgele koinsidanslar:</b> rastgele oranı aktivitenin karesiyle artar (gecikmeli pencereyle düzeltilir); saçılma model tabanlı düzeltilir. || <b>True, scattered and random coincidences:</b> randoms grow with the square of activity (corrected with a delayed window); scatter is corrected by modelling.
+* <b>Zayıflama düzeltmesi:</b> iki fotonun toplam yolu vücudun tüm kalınlığıdır; BT görüntüsünden 511 keV μ haritası oluşturulur. || <b>Attenuation correction:</b> the two photons together cross the whole body thickness; a 511 keV μ-map is built from the CT.
+* <b>Uçuş süresi (TOF):</b> iki fotonun varış zamanı farkı (~200–500 ps) olayın LOR üzerindeki konumunu birkaç cm içinde sınırlar ve gürültüyü azaltır. || <b>Time of flight (TOF):</b> the arrival-time difference (~200–500 ps) localises the event along the LOR to a few cm and lowers noise.
+* <b>Çözünürlük sınırları:</b> pozitron menzili (F-18 ≈ 0.6 mm, Ga-68 ≈ 3 mm ortalama), 180°'den sapma ve kristal boyutu. Klinik PET çözünürlüğü ≈ 4–5 mm'dir. || <b>Resolution limits:</b> positron range (mean F-18 ≈ 0.6 mm, Ga-68 ≈ 3 mm), non-collinearity and crystal size; clinical PET resolution is ≈ 4–5 mm.
+## SUV || SUV
+$ SUV = C_doku / (A_enjekte / vücut ağırlığı)
+SUV, tümörün FDG tutulumunu hastadan bağımsız karşılaştırmak için kullanılır. Ancak tutulum süresi, kan şekeri, rekonstrüksiyon ve kısmi hacim etkisine duyarlıdır. EANM önerileri bu yüzden 60 ± 5 dk tutulum süresi ve kan şekeri < 200 mg/dL ister. || SUV compares a tumour's FDG uptake independently of the patient, but it is sensitive to uptake time, blood glucose, reconstruction and partial volume — hence EANM's 60 ± 5 min uptake time and blood glucose < 200 mg/dL.
+! Bir tümörde 15 kBq/mL ölçülüyor; 70 kg hastaya 280 MBq enjekte edilmiş (bozunma düzeltilmiş). SUV = 15 / (280 000 / 70 000) = 15 / 4.0 = 3.75. || A tumour measures 15 kBq/mL; a 70 kg patient received 280 MBq (decay-corrected). SUV = 15 / (280 000 / 70 000) = 15 / 4.0 = 3.75.
+? PET'te kolimatör neden gerekmez? || Why does PET need no collimator?
++ İki fotonun koinsidansı olayın doğrultusunu (LOR) zaten belirler || The coincidence of the two photons already defines the event's line (LOR)
+- 511 keV fotonlar kurşundan geçemez || 511 keV photons cannot pass through lead
+- PET yalnızca saçılmış fotonları kullanır || PET only uses scattered photons
+= Elektronik kolimasyon: zıt yönlü iki fotonun algılandığı dedektörler, yok olma noktasının bulunduğu çizgiyi tanımlar. || Electronic collimation: the two detectors that catch the back-to-back photons define the line on which the annihilation occurred.
+? Rastgele (random) koinsidans oranı aktiviteyle nasıl değişir? || How does the random coincidence rate scale with activity?
++ Aktivitenin karesiyle || As the square of the activity
+- Aktiviteyle doğrusal || Linearly with activity
+- Aktiviteden bağımsız || Independently of activity
+= R = 2τ·S₁·S₂: her iki tekil sayım hızı aktiviteyle arttığından rastgeleler A² ile artar. Aşırı aktivite bu yüzden görüntüyü iyileştirmez. || R = 2τ·S₁·S₂: both singles rates rise with activity, so randoms grow as A² — one reason excess activity does not improve the image.
+
+@lesson internal | İç dozimetri ve hasta güvenliği | Internal dosimetry and patient safety | 10
+## MIRD yöntemi || The MIRD method
+İç ışınlamada doz, kaynak organdaki toplam bozunma sayısı (kümülatif aktivite Ã) ile hedef organa düşen enerjiyi veren S değerinin çarpımıdır: || In internal exposure the dose is the total number of decays in the source organ (cumulated activity Ã) times the S value that gives the energy reaching the target organ:
+$ D(hedef) = Σ_kaynak Ã(kaynak) · S(hedef ← kaynak)        Ã = ∫ A(t) dt ≈ 1.44 · A₀ · T_eff
+Pratikte tanısal işlemlerde ICRP 128'in aktivite başına efektif doz katsayıları kullanılır. Örnekler: F-18 FDG ≈ 0.019 mSv/MBq; Tc-99m kemik sintigrafisi (MDP) ≈ 0.005 mSv/MBq. || In practice, diagnostic procedures use ICRP 128's effective dose per unit activity, e.g. F-18 FDG ≈ 0.019 mSv/MBq and Tc-99m bone scan (MDP) ≈ 0.005 mSv/MBq.
+! 300 MBq FDG: E ≈ 300 × 0.019 = 5.7 mSv. PET/BT'nin BT bileşeni buna ayrıca 1–10 mSv ekleyebilir. || 300 MBq FDG: E ≈ 300 × 0.019 = 5.7 mSv; the CT part of a PET/CT can add another 1–10 mSv.
+## Hasta, aile ve personel || Patient, family and staff
+Radyoaktif hasta bir süre kaynak gibidir: 1 m'deki doz hızı Γ·A/d² ile hesaplanır. Tedavi hastaları (ör. I-131) taburcu edilirken ülke mevzuatına göre doz hızı veya aktivite sınırları uygulanır. Hasta, çocuklar ve gebelerle yakın temasın sınırlanması konusunda yazılı olarak bilgilendirilir. || A radioactive patient is a source for a while: the dose rate at 1 m follows Γ·A/d². Therapy patients (e.g. I-131) are discharged against dose-rate or activity limits set by national rules, with written instructions on limiting close contact with children and pregnant women.
+* <b>Emzirme:</b> FDG ve çoğu Tc-99m ajanında emzirmeye ara vermek gerekmez ya da birkaç saatlik ara yeterlidir. I-131'de emzirme kesilmelidir. || <b>Breastfeeding:</b> for FDG and most Tc-99m agents no interruption or only a few hours is needed; with I-131 breastfeeding must stop.
+* <b>Gebelik:</b> tetkikten önce sorgulanmalıdır. Radyoiyot fetüs tiroidini (10.–12. haftadan itibaren) tahrip edebilir. || <b>Pregnancy:</b> must be asked about beforehand; radioiodine can ablate the fetal thyroid (from weeks 10–12).
+* <b>Personel:</b> şırınga zırhı, kurşun önlük yerine mesafe ve zaman; parmak dozimetresi (Hp(0.07)). || <b>Staff:</b> syringe shields, distance and time rather than lead aprons, and finger dosimeters (Hp(0.07)).
+? 400 MBq FDG'nin efektif dozu yaklaşık nedir? || What is the approximate effective dose of 400 MBq FDG?
++ ≈ 7.6 mSv || ≈ 7.6 mSv
+- ≈ 0.76 mSv || ≈ 0.76 mSv
+- ≈ 76 mSv || ≈ 76 mSv
+= E ≈ 400 × 0.019 = 7.6 mSv (ICRP 128). || E ≈ 400 × 0.019 = 7.6 mSv (ICRP 128).
+? Hangi radyonüklidde emzirmenin tamamen kesilmesi gerekir? || For which radionuclide must breastfeeding stop completely?
++ I-131 || I-131
+- F-18 FDG || F-18 FDG
+- Tc-99m MDP || Tc-99m MDP
+= I-131 süte geçer ve bebeğin tiroidinde birikir; tedavi dozlarında emzirme bu çocuk için sonlandırılır. || I-131 passes into milk and concentrates in the infant's thyroid; at therapy activities breastfeeding is stopped for that child.

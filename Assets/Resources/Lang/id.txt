@@ -1,0 +1,1247 @@
+002e566d	Kasus Klinis
+005ef20f	Status
+006f11ff	Nodul paru (tumor)
+00e896c1	Ukur dmax dan PDD1# foton # MV (≥ # # riwayat)
+00e97d3d	Sama sekali tidak ada risiko.
+01446da3	Darah berkontras
+01b10287	Hati
+022ebff6	  — baca penjelasannya dan coba lagi.
+02307551	Tiga prinsip proteksi radiasi: justifikasi, optimisasi (ALARA: serendah yang dapat dicapai secara wajar), dan batas dosis. Pekerja: # mSv/tahun (rata-rata selama # tahun, maks. # dalam satu tahun), masyarakat: # mSv/tahun, lensa mata: # mSv/tahun.
+0282b42b	Tanpa grid: pilihan tepat untuk dada anak yang tipis.
+02875262	Tekanan darah
+028cc680	Membuka lapangan lebar dan menaruh timbal di tiroid
+02daa186	Gradient echo
+02ff0734	jam
+03410798	Mulai dari pelajaran #  →
+03aded2d	Proton
+03d9f12f	KONFIRMASI
+04215fff	Kepala terapi
+04665812	Energi rata-rata (masuk / detektor)
+04b21fef	Hanya tepi
+04c33449	Atom awal N₀
+054ed6b1	#. Proton dan puncak Bragg
+0551e426	Magnet superkonduktor
+05735a1f	Terdengar suara ketukan keras selama pemindaian. Penyebab dan tindakan pencegahan?
+05747e6b	Rekomendasi terkini (AAPM #, BIR/IPEM #): kolimasi adalah perlindungan paling efektif. Dosis gonad di luar lapangan sudah sangat kecil; pelindung yang tergelincir ke lapangan menutupi anatomi dan membuat kontrol eksposi otomatis menaikkan dosis.
+05883f18	Laju dosis H*(#)
+05aeb14d	Dosis yang tidak perlu ke mata dan kulit wajah yang sehat.
+05b19ab8	Tips belajar
+05b21be8	EQD2 tumor = n·d·(d + #)/(# + #) = # Gy — rentang kuratif.
+05f6dc9a	Medan utama B₀
+069d81b7	 kanal
+06ba43bc	Setiap bola adalah satu inti. Pada setiap langkah waktu ia meluruh dengan peluang p = # − e^(−λΔt) dan memancarkan garis foton; dengan sedikit inti, N(t) berfluktuasi secara statistik.
+06df51de	Aktivitas yang disuntikkan
+07001202	Sudut flip α
+078f2dfe	Pasien
+07a4c4cc	Lutut kanan terpelintir saat bermain sepak bola; terkunci, bengkak
+07ef138f	JALANKAN SEKUENS
+0827bee2	Batas dosis (ICRP #)
+086c6bbb	Warna: isodosis #%·#%·#%·#%·#%. Kontur: hijau PTV, kuning medula spinalis, merah jantung, merah muda paru.
+08c92619	Anak-anak #–#× lebih radiosensitif daripada orang dewasa dan memiliki harapan hidup panjang → ALARA makin penting.
+09138ded	Saya tidak mau operasi. Seperti apa pengobatan radiasi ini, apakah sakit?
+096813ae	Derau (σ, daerah seragam)
+098d1ad9	Radioembolisasi hati (SIRT)
+09f71920	Frekuensi Larmor
+09feeabb	Bandingkan puncak Bragg proton # MeV dengan jangkauan CSDA NIST
+0a496fc5	Dosis janin ≈ SSDE (uterus seluruhnya di dalam lapangan). Batas noise diagnostik ≈ # HU (protokol apendisitis dosis rendah). Pilih kV, mAs, pitch, dan panjang pemindaian, lalu tekan PINDAI.
+0a52c35c	Berbobot T1
+0aa78268	Hipofraksinasi: α/β prostat lebih rendah daripada rektum, sehingga fraksi besar menguntungkan tumor (CHHiP #/#, PACE-B #/#) dan pasien lebih jarang bepergian.
+0ac8a560	Atur ulang
+0acf4d25	Teks lebih besar
+0b4677ab	EANM: glukosa < # mmol/L (≈ # mg/dL). Hiperglikemia bersaing dengan FDG dan menurunkan serapan tumor.
+0b4d8f40	fraksi bertahan hidup
+0b81ff1c	Tulang maksila ≈ # cm di bawah lesi
+0b8b3199	Batasan dosis (QUANTEC / RTOG)
+0bbe8b9f	Monte Carlo waktu nyata: setiap jejak adalah satu partikel. Lebih banyak riwayat = derau statistik lebih kecil (σ ~ #/√N).
+0c1c4f42	Onkologi radiasi: EBRT kuratif, prostat ± vesikula seminalis (Dr. Kılıç)
+0c2610e2	CNR robekan/meniskus #: robekan jelas terlihat (cairan terang, meniskus gelap pada PD/T2).
+0c433245	Rasio tumor terhadap latar rendah → risiko kesalahan staging.
+0c903e49	Daun penutup timbal membatasi medan: dosis pasien dan hamburan lebih sedikit. Filtrasi Al/Cu membuang foton berenergi rendah, mengeraskan berkas, dan menurunkan dosis kulit.
+0ccd4680	Rasio bola / latar
+0ce92428	CTDIw: fantom tubuh # cm (kepala # cm); E = DLP × k (dada #, abdomen #, kepala # mSv/mGy·cm).
+0d78d08a	Bangun SOBP selebar # cm
+0db9cc3e	Nadi
+0dec8195	Terapkan #° – τ – #° dan bentuk spin echo
+0e1a0a7b	dosis tunggal, α/β = # (awal / tumor)
+0e32111a	Berkas
+0e629e6c	Jadwalkan ulang: puasa ≥ #–# jam, gula darah harus < # mg/dL
+0f01dfcb	Waktu elusi berikutnya
+0f6a0301	Aplikator #×# cm, tanpa cutout
+0ff4383c	Pekerja hamil (janin)
+10225e52	Tulang kortikal
+10bddc32	Serpihan feromagnetik di dalam mata dapat bergerak dalam B₀ dan menyebabkan kebutaan → foto rontgen orbita (atau CT) terlebih dahulu.
+10bee102	Indeks deviasi (DI)
+10f562e1	Berikan insulin kerja cepat lalu langsung suntik
+10f6a1bd	Model linear-kuadratik • BED
+113249ae	Buat rencana foton yang memenuhi semua batasan dosis
+114fa830	Kolimator multileaf (bilah #–# mm) membentuk medan sesuai tumor dan bergerak selama penyinaran pada IMRT dan VMAT.
+116e6f62	Hologram
+11a18b82	Hapus semua
+11a4e77a	Mutu diagnostik / terapi
+124f5fe7	Kontras substansia putih / abu-abu (pada penanda)
+129b582e	DI # → eksposi tepat.
+132d55ba	foton relatif
+134c264b	Artefak logam: pindai irisan panggul dengan prostesis panggul
+135a8cc7	 jam setelahnya
+136685c9	EQD2 tumor (α/β #) = # Gy, kulit lambat (α/β #) = # Gy. Keseimbangan yang baik antara kontrol dan kosmetik.
+1370333f	Lebar lapangan
+138fb3e1	Benar: I/I₀ = e^(−μx). Karena σ ~ #/√N, derau naik ≈ √# ≈ #× pada mAs yang sama.
+13ad4851	β-hCG POSITIF: hamil sekitar # minggu.
+13bea53e	# penanda fiducial emas ditanam
+13f06473	Hapus pembacaan
+1451f91f	sebenarnya 
+14d5133a	ACR (#) dan ESUR #: metformin dilanjutkan bila eGFR ≥ #; kontras IV diperlukan untuk mendeteksi abses.
+14e77c03	Atur ulang progres
+151c3f35	Cincin detektor (LYSO + SiPM)
+1527c7a5	Jelajahi fisika medis langkah demi langkah dengan perhitungan nyata.
+15b23cec	 poin
+15c3229f	α/β tumor
+15cf43c6	Panel datar di seberang sumber kV; mengumpulkan ratusan proyeksi untuk CBCT selama gantry berputar.
+15f25e35	Menyusui dan kontak dekat
+15fd9964	Bahasa selain Turki dan Inggris adalah terjemahan berbantuan mesin; mohon laporkan jika ada kesalahan.
+16092a9e	Coba lagi — penjelasannya akan memandu Anda.
+16280e6a	Laju dosis dari pasien ~ A/d²; F-# T½ = # menit. Menunda kontak dekat beberapa jam sangat menurunkan dosis bayi.
+1640e3a4	jarak (m)
+164b6930	Catat pembacaan
+16b19be2	Efek kVp: lakukan eksposi pada ≤# kVp dan ≥# kVp; bandingkan kontras tulang
+16d4a955	Radioterapi
+17098140	Adenokarsinoma prostat, risiko menengah (Gleason ##, PSA #)
+1716fced	Dosis janin ≈ SSDE = # mGy (CTDIvol # × f #).
+17278db5	Energi
+17a890d2	Inti tersisa N(t)
+17cd8fa8	 pelajaran • 
+18279c08	Puncak Bragg melebar (SOBP)
+18284597	<b>Indeks eksposi</b> EI = # × K_detektor [µGy] (IEC ##). Indeks deviasi DI = #·log₁₀(EI / EI_target); |DI| ≤ # sudah tepat. DI = # berarti dua kali dosis yang diperlukan.
+182fdbbe	EANM (tumpang tindih bed > # %): A·t ≥ # MBq·min·kg⁻¹ × berat badan. Aktivitas lebih kecil + waktu lebih lama memberi citra yang sama dengan dosis lebih rendah. Waktu ambilan yang dianjurkan # ± # menit.
+18d0a565	CT toraks
+1904dc9d	Rekomendasi EANM
+19201036	Waktu–jarak–perisai, hukum kuadrat terbalik, peta laju dosis, misi.
+193ee1fd	Puncak Bragg melebar (SOBP, # cm)
+19b5eb24	Aturan praktis: R9# ≈ E/# cm, R5# ≈ E/# cm, Rp ≈ E/# cm. Elektron berhenti pada kedalaman yang tajam — ideal untuk tumor superfisial.
+19c23656	 jam menunggu
+1a36a166	Progres
+1ace7035	Detektor panel datar
+1b06e46e	Kumpulkan ≥ # # koinsidensi dan rekonstruksi dengan MLEM
+1b12fad7	Diabetes tipe # (metformin)
+1bbe9bf8	Mehmet: "Tangan di atas kepala? Oke."
+1c872a31	ya (> # MV)
+1ca87565	Tanda di kulit dan laser sudah cukup
+1cb740a3	<b>Hukum kuadrat terbalik:</b> intensitas ~ #/d². Mengubah SID dari # ke # cm memerlukan ~#× mAs untuk dosis detektor yang sama, tetapi dosis kulit naik lebih sedikit dan perbesaran berkurang.
+1cc0e3d5	Ibunya bertanya: "Apakah rontgen ini bisa membahayakan anak saya?" Dosis efektif Emir ≈ 
+1d4b8ac2	Suntik segera
+1d6b9aba	Selama organogenesis (minggu #–#) ambang deterministik ~#–# mGy; pemeriksaan diagnostik jauh di bawahnya.
+1d8a20dd	Perut Mehmet berukuran 
+1dd9a37f	Waktu ambilan tidak standar: SUV tidak dapat dibandingkan dengan pemindaian sebelum/sesudahnya.
+1e6a827e	Temukan frekuensi Larmor proton pada # T (≈ # MHz)
+1e836d59	Peluruhan T2
+1f05f68e	Parameter jaringan
+1f12087d	Dosis ≈ 
+1f4ea376	Aktivitas awal Mo-#
+1f6b3b4a	Tulang (# cm) # % — terlindungi.
+20170133	Tambalan gigi
+2056fe0a	Co-# memiliki PDD rendah dan penumbra lebar; tidak digunakan untuk RT kuratif prostat modern.
+20c4a5a9	Tampilan kulit
+20c53222	Pilih topik apa saja. Jika Anda baru, coba dulu kasus pembuka yang singkat.
+20caf1bb	Elusi generator #–# jam setelah elusi sebelumnya (hasil maksimum)
+210acf6e	Hasan: "Berapa hari saya harus datang? Saya datang dari desa."
+218447b4	Lemak
+21db31eb	TR/TE pendek → T1; TR panjang, TE pendek → PD; TR/TE panjang → pembobotan T2.
+21f331e9	Artroskopi bahu tahun #: jangkar titanium
+224a7dd2	Tidak ada pembatasan seperti itu pada radiasi eksterna; itu mungkin berlaku untuk biji brakiterapi.
+229566cb	Hasan: "Bolehkah saya memeluk cucu-cucu setelah terapi? Apakah saya akan radioaktif?"
+22a06b53	ALARA: citra dada dengan ESAK < # mGy dan DI ≥ −#
+22fd0749	IGRT harian mengoreksi gerakan organ sehingga margin dan dosis rektum mengecil.
+2357d727	Fisika berkas
+23f641a4	• Periksa satuan di setiap rumus (cm⁻¹, Gy, Sv, MBq). • Kerjakan contoh soal sendiri dulu, lalu periksa. • Setelah ujian latihan, ulangi pelajaran dari soal yang salah. • Untuk wawancara, yang paling sering muncul: prinsip ICRP, HVL, hukum kuadrat terbalik, LQ/EQD2, CTDIvol/SSDE, T1/T2, PDD, dan puncak Bragg.
+24176da5	Generator Mo-# / Tc-#m
+2448ca2f	timbal
+2456b993	Kontras
+2523a664	Berjalanlah ke sumber (< # m), ambil, lalu bawa ke wadah timbal.
+25266a5c	Selesai. Rasio pusat/latar: 
+252a0fa6	tanpa perisai
+253898c0	Kecukupan cacahan # — kualitas citra setingkat EANM.
+2576aae7	Berat / tinggi badan
+25941612	Dosis tulang (# cm)
+25b31f5d	Keluaran tabung (# m)
+25c2fc03	Tidak ada soal.
+25e14a19	Arus × waktu
+25edd5e3	acuan daya henti dan jangkauan proton serta elektron
+26f973b0	Koreksi atenuasi (AC)
+2731d14d	MULAI KASUS  →
+2749a496	Dosis efektif pasien
+27c35a89	 (kehilangan T2: e^(−TE/T2))
+280f0096	Mulai dengan kasus pertama Anda
+287f6fa8	Fraksi yang diberikan
+2885d27b	Grid antihamburan (#:#)
+28a6f0c2	Grafik
+28ce8c15	Detektor mengukur positron itu sendiri
+296d75eb	Radiobiologi
+29aac115	dosis tunggal, α/β = # (lambat)
+29e178a3	Berbicara dengan keluarga
+29e32f3e	Pendaftaran
+2a17c8fd	Noise hati # HU: abses berkontras rendah bisa hilang dalam noise.
+2a72143f	Diperlukan untuk < # µSv/jam di meja
+2ab93b6c	Target: ≥ # % dosis di semua titik dari kulit sampai # cm; ≤ # % pada tulang di # cm. Pilih energi dan ketebalan bolus.
+2ad83ea8	PINDAI
+2afcdfa8	CNR robekan / meniskus
+2b05bc17	Setiap atom meluruh pada setiap langkah waktu dengan peluang p = # − e^(−λΔt). Dengan sedikit atom, kurvanya berfluktuasi secara statistik.
+2b45b1f2	Iterasi MLEM
+2b8ee748	Skema terpilih
+2bab58c8	Keselamatan MR: formulir skrining, rontgen orbita (pekerja logam), aturan Zona IV, pelindung pendengaran.
+2bbeecb2	Pasien nyata, keputusan nyata: rontgen dada anak, CT saat hamil, pasien bertubuh besar, radioterapi prostat, kanker kulit, PET, dan keselamatan MR.
+2bd2dbd1	Prostesis panggul titanium
+2be6e625	Brakiterapi HDR
+2bfaf1fc	belum dieksposi
+2c30aab8	Dosis total / waktu
+2c89960f	EQD2 tumor (α/β #) = # Gy, kulit lambat (α/β #) = # Gy. Satu fraksi besar berisiko nekrosis lambat dan kerusakan tulang rawan.
+2cafb291	Kasus Klinis — 
+2cb28fc5	Bagian
+2ceef116	Matikan magnet, lalu biarkan dia masuk
+2d0ea9f2	Dosis total
+2d435572	Menimbulkan ketakutan yang tidak perlu dan menunda diagnosis; pemeriksaan yang terjustifikasi tidak boleh dihalangi.
+2d877b6c	Bagian
+2d93483f	Anda boleh mencentang lebih dari satu opsi.
+2dcee2fc	setelah elusi (jam)
+2e160bcd	Stadium
+2e6390f7	Selesai. 
+2e83162e	Rancangan sekuens
+2eafe887	Laju
+2ebd290f	Beban tabung (pitch #)
+2ecb2727	kV rendah menaikkan kontras iodium tetapi menimbulkan kekurangan foton pada pasien besar.
+2f0820de	Pindai tanpa kontras
+2f44ed8c	Mulai ulang
+2f828120	Bola panas berbagai ukuran dan sisipan paru dalam silinder berisi air: dengan ini diuji koefisien pemulihan, efek volume parsial, dan koreksi atenuasi.
+2fc8666a	CNR edema / sumsum
+3000eed2	waktu (hari)
+304ff7fb	Tidak ada
+30b6e97d	Energi elektron dan bolus
+30fa92b1	Citra hasil rekonstruksi
+3152bf83	Metastasis tulang (terapi alfa)
+31b9a47d	Pemulihan T1
+31e91d5f	Tipis di tengah dan tebal di tepi, filter ini menurunkan dosis di tepi tubuh pasien yang tipis dan meratakan sinyal detektor. Kolimator menentukan lebar irisan.
+327a15b7	Produksi fotoneutron dimulai di atas ~# MV; dengan VMAT, #–# MV cukup untuk target dalam.
+32d80beb	komposisi jaringan, besaran dosis, faktor bobot
+33449df1	#. Atenuasi dan filtrasi
+3377af3e	Benar: F = I·L × B. Kebisingan meningkat dengan B₀ (lebih keras pada # T); IEC ### mewajibkan pelindung pendengaran.
+33c3fd73	Kedokteran Nuklir
+33d5539e	Ada permintaan, langsung pindai
+33d5b2f2	Otot
+34049cb1	Tumor
+340a8d84	Bergerak dengan kecepatan tetap selama pemindaian heliks. Pitch = pergeseran meja per rotasi / lebar berkas total; pitch > # menurunkan dosis.
+340d8b25	Hamburan balik E′(#°)
+34895938	Lantai: laju dosis H*(#), µSv/jam (skala log) • garis putih = # µSv/jam
+34a3d9ed	Pengembang
+34aaa379	 menit
+34dd8fb9	#. Persamaan Bloch dan relaksasi
+3510b740	Insulin mendorong FDG ke otot dan lemak; tunggu ≥ # jam setelahnya.
+35143fb3	TE (waktu gema)
+35afca3b	Batal
+35fca6f7	Riwayat
+36014d05	Ruang k
+360983be	Koreksi pengerasan berkas berbasis air (BHC)
+36315a9f	Tulang kortikal / darah berkontras
+363200c3	Selesai: 
+36375dc7	Atur ulang semua progres?
+365bad67	Level 
+368f3298	 soal
+36c94f4b	Tidak ada diabetes
+36cc1e6f	Turunkan laju dosis di meja kendali (tanda hijau) di bawah # µSv/jam
+3769e565	#. Dosis
+3809b45a	Spin echo! t = 
+381fcf9b	Derau (ROI kandung kemih, SD)
+38362f62	Tugas selesai, bintang kasus, dan progres pelajaran akan dihapus. Ini tidak bisa dibatalkan.
+38652f80	Waktu serapan
+38ec0bda	Dosis efektif (# mSv/MBq)
+38f2a757	Aktivitas jenis (murni)
+38f6bec6	Irisan aksial (HU)
+38f9308a	Tengkorak
+39547f25	Tanpa filter
+396c9c92	Paru V2# < # %
+398977ad	Kanal detektor
+399e986d	Tugas
+3a6a3b1d	Tersisa / meluruh
+3ad53794	AP
+3b1cbe1c	Aktivitas dalam tubuh setelah pemindaian
+3b272149	✗ Salah
+3b2ac288	Edema sumsum tulang pada sumsum berlemak baru terlihat dengan supresi lemak (atau STIR).
+3b6eb64c	Dinding rektum anterior menempel pada prostat
+3b7e32aa	Rasio masuk / puncak
+3b8987c9	  — pelajaran dikuasai!
+3c21cd4d	Preskripsi
+3c2dfe59	Tersembunyi
+3c4cfbae	Titanium tidak feromagnetik (aman / bersyarat MR); tidak perlu tindakan.
+3c988cc0	Energi rata-rata
+3d6b9f1f	Tumor paru
+3dbec6d5	Indeks eksposi (EI)
+3e0553f6	Dada
+3e233fe3	Umur rata-rata τ = #/λ
+3e246e80	Sang ibu bertanya: "Apakah rontgen ini bisa membahayakan anak saya?" Dosis efektif Emir ≈ # µSv. Apa yang kamu katakan?
+3e26d09f	CNR edema/sumsum #: kontras lemah.
+3e3a239c	Modalitas pencitraan
+3e5c100c	Ortopedi: MRI lutut kanan — robekan meniskus? memar tulang? (Dr. Polat)
+3e6fed3c	Bola Bloch (kerangka berputar)
+3ea76ce8	BED tumor
+3f6fbd86	Pencuplikan ruang k
+3f99f636	Noise # HU: tidak diagnostik — perlu pengulangan, yang menambah dosis total.
+3fa74db5	Spektrum foton (target + filter perata)
+3fddf4f8	Luar biasa! Anda menguasai materinya.
+3fe8604c	Tato
+3feef465	− Hapus
+4007d15d	Pusat Belajar — # topik, # pelajaran
+40361aca	Jumlah fraksi
+4036e7f4	Aplikasi ini mengajarkan topik inti fisika medis melalui simulasi #D interaktif. Semua perhitungan didasarkan pada model fisika nyata dan data acuan, tetapi TIDAK untuk penggunaan klinis.
+4068c7dd	Sarapan # jam lalu, gula darah # mg/dL. Apa yang kamu lakukan?
+4078f8e8	Kumparan di sekitar lubang membuat medan berubah linear terhadap posisi (mT/m): pemilihan irisan, pengodean frekuensi dan fase. Pensaklaran cepat inilah yang menimbulkan bising.
+41086ad1	mAs untuk σ yang sama (vs # cm)
+411cbb0d	Cukup jauhi wanita hamil
+414eb5b3	Ringkasan
+41d150aa	Gantry
+41e0bccc	foton
+421ed9be	Pada energi diagnostik ada dua interaksi dominan: <b>efek fotolistrik</b> (~ Z³/E³, sumber kontras) dan <b>hamburan Compton</b> (~ kerapatan elektron, sumber hamburan). Simulasi memakai tabel NIST μ/ρ(E) untuk setiap bahan.
+422af40c	Mouse: seret kiri = putar, seret kanan = geser, roda = zoom. Sentuh: satu jari = putar, dua jari = zoom/geser.
+42347061	Arus tabung × waktu
+424c4852	#. Pembentukan citra
+426e4933	Klaustrofobia
+42720baf	Tulang
+427f78a4	Aturan cepat (energi nominal): R9# ≈ E/#, R8# ≈ E/#, R5# ≈ E/#, Rp ≈ E/# (cm).
+439ee205	Bandingkan efek koreksi atenuasi di pusat citra
+43b2aeba	Ubah parameter → citra dan dosis dihitung ulang (penelusuran sinar polienergetik + data NIST).
+43b5e592	Radionuklida
+43d93074	EQD2 tumor (α/β #) = # Gy, kulit lambat (α/β #) = # Gy. Dosis kurang: risiko kekambuhan tinggi.
+446ceec2	dalam kerma udara
+44fb5dc7	Sumber aman! Dosis selama misi: 
+4531ef7f	Atenuasi bergantung secara eksponensial pada ketebalan.
+4581c4fb	#. Peluruhan radioaktif
+45901efd	Kumparan gradien
+4602d9ec	ketuk citra
+46143215	Titik pertemuan sumbu rotasi gantry, kolimator, dan meja (±# mm). Jarak sumber–sumbu (SAD) adalah # cm.
+467b083e	Bolus
+46ac079e	Memindai…
+46e87af2	 % selesai
+472bd5d7	kV rendah meningkatkan kontras iodium (tepi K # keV); pilihan baik pada pasien yang ramping.
+475a075b	Sinogram  p(θ, s)
+477692bf	Kedokteran nuklir
+47f9a72c	Demam (# °C) dan batuk selama # hari
+48bee2b3	Permintaan CT datang. Haid terakhir Elif # minggu yang lalu. Apa yang kamu lakukan sebelum pemeriksaan pengion apa pun?
+48cabbff	# medan
+48f82113	diekskresi 
+49059469	Cepat, kan? Besok saya harus kembali kerja — saya menggerinda di bengkel.
+491836e3	galat 
+499a20d5	AP, berbaring, SID # cm
+49cf1cfd	Frekuensi Larmor f₀ = γ̄·B₀
+49e1196b	Robekan meniskus
+4a690915	Kumparan penerima
+4ac37c75	Hamburan Compton
+4b058728	Pengaturan
+4b20e113	Kedokteran Nuklir / PET
+4b6a214c	Sumber kalibrasi, brakiterapi (historis)
+4b7042c7	eGFR # mL/menit/# m²
+4b81b768	SNR (tengah)
+4be56c9f	Soal 
+4bf1fc72	Saturasi lemak (FS)
+4c3b45ab	• Dosis serap D (Gy = J/kg)\n• Dosis ekivalen H_T = w_R · D_T (Sv); w_R = # untuk foton dan elektron, # untuk alfa, # untuk proton\n• Dosis efektif E = Σ w_T · H_T (Sv); faktor bobot jaringan dari ICRP #\n• Alat ukur menampilkan dosis ekivalen ambien H*(#) (≈ # × kerma udara untuk Cs-#).
+4c498c6f	Saya sedang menyusui bayi saya. Apakah pemeriksaan ini bisa membahayakannya?
+4c4a1ccb	Fotoneutron
+4c790b94	Pengaturan berubah — jalankan lagi sebelum mengonfirmasi.
+4c94eaa4	Bagus. Ulangi pelajaran dari topik yang masih salah.
+4c96524b	Kurangi dosis medula spinalis dengan rencana proton
+4cf38cb8	Energi baca
+4d1aa535	Topik
+4d5f9cf2	tahun
+4daa2b83	Proteksi Radiasi
+4dd7913c	Citrakan alat pacu jantung pada foto dada
+4de2c891	Paru, tulang, jaringan lunak, dan jantung dimodelkan dengan koefisien atenuasi NIST; satu sinar polienergetik ditelusuri untuk setiap piksel detektor.
+4df6b638	Pembacaan
+4e6c5d36	Simulasi
+4e7651ae	Langsung CT dengan kontras
+4ea60106	#. Besaran dosis
+4ebc9931	EQD2 tumor (α/β #)
+4eed3c07	kurang eksposi / berderau
+4ef63472	dosis relatif
+4f56491a	Ukur waktu paruh Tc-#m dengan Monte Carlo dalam # %
+4f5e1d34	#. Tiga prinsip: waktu, jarak, perisai
+4f8bf6fa	Tukang las / gerinda: kemungkinan logam di dalam mata
+4fca6bb4	Tidak ada penyakit kronis, imunisasi lengkap
+4fd01b06	Energi berkas
+5009de05	Laju dosis pada # m
+5009fb9e	Bandingkan BED tumor pada SBRT (#×# Gy) dan konvensional (#×# Gy)
+504443a0	Eksposi
+5060769e	lat
+506f8881	rektum
+50793575	Glosarium
+50b3cd30	Radiografi digital (detektor CsI)
+50f75e70	CNR edema/sumsum #: sumsum berlemak menutupi edema — gunakan saturasi lemak (FS).
+51301586	PERHATIAN
+514a1189	TR (untuk grafik SE)
+515cc083	Berbobot T2
+51880252	Distribusi dosis (bidang x–z)
+51b48ac4	Perisai terpasang. Ubah ketebalan dan bahan di panel kiri.
+51d5b7b0	EQD2 tumor (α/β #) = # Gy, kulit lambat (α/β #) = # Gy. Dapat diterima: lebih sedikit kunjungan tetapi risiko efek lambat lebih tinggi (atrofi, telangiektasis).
+51ea5d41	Ketuk pasien atau pilih dari daftar. Setiap pasien adalah kasus klinis yang diselesaikan dengan fisika nyata.
+51f21a4b	Sumber data
+51f7e789	dosis total (Gy)
+51fa3930	Selesai. Tinjau hasilnya; ubah pengaturan dan jalankan lagi bila perlu.
+523e597b	Substansia alba
+524fb8d1	Tekan ELUSI untuk mengambil Tc-#m. Untuk hasil tertinggi, tunggu ≈ # jam setelah elusi sebelumnya.
+52af1039	Pada lapangan elektron, isodosis # % menyempit dengan kedalaman; perlu margin ~#–# cm. Faktor output harus diukur untuk lapangan kecil (TG-#).
+537cf34e	Hasil elusi terakhir
+539143ed	TCP untuk skema ini (N₀ = #⁹)
+5394c2c1	Hasil kali dosis-luas (DAP)
+53a02dda	α/β ≈ # Gy (tumor, respons cepat) dan ≈ # Gy (jaringan normal respons lambat, mis. medula spinalis). Dosis kecil per fraksi melindungi jaringan lambat; dosis besar per fraksi seperti SBRT memberi BED tumor sangat tinggi, tetapi memerlukan penargetan yang tepat. TCP = exp(−N₀·S).
+53f501c6	Aktivitas saat mulai pemindaian
+542674c2	Fantom
+543f87d4	Tulang belakang
+548c82d8	Magnetisasi
+5490dc6c	 minggu
+54ba96a0	Waktu paruh efektif
+54ebaaec	Diameter efektif → SSDE
+550bfe9e	pulsa
+55231493	Otak
+55437eb0	Proyeksi dan posisi
+554740bc	Ubah sudut dan bobot berkas: cakup target sambil melindungi medula spinalis, jantung, dan paru.
+5566f444	Terapkan
+556bb28a	Masukkan ke wadah
+556d6936	Begitu sumber di dalam, beberapa cm timbal menurunkan laju dosis ratusan kali (tiap HVL membaginya dua, tiap TVL membaginya sepuluh).
+5586c1bb	Posisi meja (z)
+55af7f60	Bisa berdiri, kooperatif
+55c427dd	Koefisien pemulihan (bola terbesar / terkecil)
+55f81dfb	Fisika PET
+56a82532	Radiografi Sinar-X
+56aaa165	Kanker kulit di pipi — terapi elektron
+56e6dfdf	Wadah timbal
+57270c3f	Berikan # fraksi
+57426dc2	Survei meter
+580581bf	Dosis tunggal, α/β=
+58390f45	Tato di lengan kiri (#)
+584ba3f5	klonogen: 
+5865c9d9	Berkas terpilih: 
+5865ea2d	ICRP # dan ACOG: tidak ada efek deterministik di bawah # mGy; terminasi tidak dianjurkan di bawah # mGy. Sampaikan risiko dengan angka dan tenang.
+5876c756	Pasien menunggu
+5878a2bf	Dosis kedalaman
+58820d8d	Jawaban terbaik: 
+589a5df5	Gerakan pasien (galat fase)
+58c52672	 th
+58e096de	Tentang
+590ca79a	Citra
+5951ffab	Pekerja (efektif)
+59c7842a	Cakupan lesi: minimum # % — permukaan kulit kurang dosis: bolus menarik dosis elektron hingga ke permukaan.
+59c80f5b	Rontgen toraks anak
+5a296842	Rencana bawaan
+5a53afe8	Prostat terletak ≈ # cm dari depan dan ≈ # cm dari samping. Bandingkan dosis kedalaman (PDD) dan pilih energi untuk VMAT.
+5a54e20e	Hasil: 
+5aaf54e6	#. Berkas elektron
+5ab00023	CNR edema/sumsum #: memar tulang terlihat.
+5af0fb47	Dosis kedalaman Monte Carlo • puncak Bragg
+5b6df32a	Soal berikutnya  →
+5b765e84	Pada CT abdomen rahim berada di berkas primer; apron tidak dapat melindungi dan menurunkan kualitas citra.
+5bac8b63	Sudut flip α khusus
+5c1604f3	Pasien berikutnya: 
+5c1cca76	• <b>Waktu:</b> dosis sebanding dengan waktu yang dihabiskan dekat sumber.\n• <b>Jarak:</b> untuk sumber titik laju dosis turun sebagai #/d²: menggandakan jarak membuat dosis menjadi seperempat. Itulah sebabnya penjepit sangat efektif.\n• <b>Perisai:</b> bahan padat ber-Z tinggi (timbal) paling baik melemahkan foton. Satu HVL membagi dua, satu TVL menurunkan laju dosis menjadi sepersepuluh.
+5c60f76f	lesi
+5c6467e1	Tampilkan peta dosis (x–z)
+5cae40c9	Inti hidrogen (proton) memiliki momen magnet. Dalam medan B₀, kelebihan kecil sejajar dengan medan dan membentuk magnetisasi neto M₀ (M₀ ~ B₀). Spin berpresesi mengelilingi B₀ dengan frekuensi Larmor.
+5ce2e06a	Benar. Pada PA jantung dekat dengan detektor → pembesaran lebih kecil; SID yang panjang mengurangi pembesaran geometris dan keburaman. Organ di depan (payudara, tiroid) juga menerima dosis lebih kecil pada PA.
+5d155c86	Lihat hasil  →
+5d27c72a	Tc-#m saat elusi
+5d74c24a	Perencanaan terapi • DVH
+5dc26de3	Cara belajar
+5de75a0b	Paru kanan
+5dea53d0	Onkologi radiasi: terapi elektron, KSB pipi kiri; kedalaman USG # cm (Dr. Öz)
+5deb5e94	Menolak operasi (memakai antikoagulan)
+5e0275a6	#. Generator dan kesetimbangan transien
+5e4baa18	Tampilan
+5e840e69	Fraksi bertahan hidup S
+5e8aae31	Medula spinalis
+5e8f4863	RF tidak terdengar; bisingnya berasal dari gradien dan dapat merusak pendengaran.
+5ed62a66	Darah + kontras iodin
+5f38ef7b	Filter Cu tambahan
+5f594fad	Rekonstruksi
+6053526e	Untuk FDG: glukosa < # mg/dL dan puasa ≥ #–# jam; waktu ambilan # ± # menit.
+605c9960	Derau kuantum
+60bf7d6c	Derau σ ~ #/√(mAs) dan bertambah secara eksponensial dengan ketebalan; pasien besar butuh #–# kV + mAs lebih banyak (atau AEC).
+6129d920	Benar: e⁺ + e⁻ → #γ (# × m₀c² = # × # keV). Koinsidensi acak dan hambur dikoreksi; atenuasi dikoreksi dengan CT.
+6174d861	CTDIvol adalah dosis dalam fantom PMMA # cm, bukan dosis pasien. AAPM #/#: SSDE = f(D_eff)·CTDIvol; pada pasien besar f < #.
+61814715	Matriks (resolusi)
+61999a6b	Panjang pemindaian dibatasi (krista iliaka sampai simfisis): DLP lebih rendah.
+61e2a3f8	Sumber
+61f84dec	Dosis dihitung dengan koreksi heterogenitas panjang lintasan ekuivalen (kedalaman radiologis = Σ ρₑ·Δl): berkas yang melewati paru lebih sedikit dilemahkan. Mutu rencana dinilai dari DVH: PTV D9# ≥ # %, medula spinalis Dmax < # Gy, paru V2# < # %, dosis paru rata-rata < # Gy, jantung rata-rata < # Gy (QUANTEC).
+6246a72c	Atur ulang (M || B₀)
+6283a899	 menit/posisi, serapan 
+6292946b	Lebar modulasi
+62b33346	Acuan μ(air)
+62dc212b	Jalan bebas rata-rata #/μ
+6337b9a5	Pulsa RF (B₁ pada frekuensi Larmor) memiringkan M sebesar sudut flip α. Lalu:\n• <b>T1 (spin–kisi)</b>: Mz pulih: Mz(t) = M₀ + (Mz(#) − M₀)·e^(−t/T1)\n• <b>T2 (spin–spin)</b>: magnetisasi transversal kehilangan fase: Mxy(t) = Mxy(#)·e^(−t/T2)\n• <b>T2*</b>: ketidakhomogenan medan menambah defase (#/T2* = #/T2 + γΔB) — pulsa #° membalik bagian ini: <b>spin echo</b>.
+638a3d27	Grid antihamburan (Bucky)
+63e33069	Kedalaman distal
+63e87165	Usia / jenis kelamin
+64053f4c	Sinogram, proyeksi balik terfilter, satuan Hounsfield, artefak.
+64ab923e	transmisi berkas sempit
+64cec188	Sekuens
+650b51c9	CTDIvol adalah dosis fantom; gunakan SSDE = f(D_eff)·CTDIvol untuk dosis spesifik pasien (AAPM #/#).
+65297d00	 (termasuk repopulasi)
+652cb5da	Perlu belajar lagi — pelajaran di bawah akan membantu.
+656c2bdf	Kulit / tangan
+65b3c1bb	Substansia grisea
+660f2bd2	Geometri dan detektor
+662c7590	Meniskus
+6644745a	Diameter efektif / f
+66597e63	Acak
+66c80500	koefisien atenuasi dan absorpsi energi foton (# bahan)
+66f00e9c	Benar: kehamilan harus disingkirkan pada setiap wanita usia subur bila panggul berada di berkas (ICRP #, IAEA SSG-#).
+6705e1b1	Pelajaran bertahap dari atom hingga radioterapi, gambar interaktif, contoh soal, kuis, dan ujian latihan.
+672a70aa	Tampilkan SOBP (analitik)
+6750e405	Dosis efektif = DAP × koefisien konversi (per daerah). Radiasi latar alami ≈ # mSv/tahun.
+675d82e1	Sinogram
+6779effc	Terelusi
+67b8f497	BED jaringan lambat
+67ebc3e7	#. Satuan Hounsfield dan windowing
+67fabac5	EQD2 rektum (α/β #) = # Gy — risiko toksisitas rektum lambat (perdarahan, proktitis).
+6808f26e	Ini berisiko; Anda sebaiknya mempertimbangkan terminasi.
+6817ce15	USG: apendiks tidak tervisualisasi. Tidak ada MRI pada malam hari; ahli bedah menekankan risiko perforasi. Keputusan bersama: CT dosis rendah.
+687d1f08	Seorang perawat ingin membawa tabung oksigen baja ke ruang pemindai (Zona IV) dalam keadaan darurat. Apa yang Anda lakukan?
+68de0f88	Lembar rumus — 
+69069946	Pengerasan berkas: pindai polienergetik dengan BHC mati (cupping)
+69338848	Mulai kasus pertama  →
+69607fdf	EPID (pencitraan MV)
+69762965	Abdomen
+69c54135	 jam
+69d97846	Sinyal jaringan
+69fc5799	Filter Cu
+6a494fba	Ikhtisar
+6a8f4d0e	Belum tepat. 
+6ab344fe	Efektif (fisik + biologis)
+6ada0052	CT
+6ae55601	Tinjauan
+6b26a05c	Dosis permukaan kulit
+6b7a6181	R = faktor akselerasi: setiap baris ke-R diambil → lipatan sebesar FOV/R (aliasing). Pencitraan paralel (SENSE/GRAPPA) membukanya dengan sensitivitas kumparan.
+6b8da132	Laju dosis pada # cm
+6bb77736	Sumber titik
+6bbe4f23	Filter Al (tambahan)
+6bc09210	Tidak berubah; mAs sama
+6be9432d	Dosis permukaan
+6bf28b9c	Saran yang tidak berdasar secara ilmiah dan merugikan.
+6c025c20	belum dipindai
+6c168d60	Kasus selesai
+6c3c9505	energi foton
+6c6870d7	Buat pilihan
+6c8fcda6	UNTUK PEMULA
+6cc46a6f	 menit baca
+6cc784fd	Anda hanya mengambil satu keputusan setiap kali.
+6cec06d7	# ng/mL
+6d148508	Pindai
+6d8836d2	Mungkin, tetapi bukan pilihan pertama; USG dan MRI harus didahulukan.
+6d94e783	Ruang k dan transformasi Fourier
+6dc54781	 hr
+6e2eab59	Eksposi yang tepat: bawa indeks deviasi (DI) citra dada ke rentang −#…#
+6e67bd16	Acuan / analitik
+6e8c7b25	Energi foton
+6eb5b73c	Berkas pasien
+6ef0f4ce	FLAIR: tekan CSS sementara lesi tetap terang
+6f441d09	Apa yang dihasilkan saat positron dari FDG beranihilasi, dan bagaimana PET mendeteksinya?
+6f7079de	Teleterapi, Gamma Knife
+6fb2dc0f	 proyeksi, 
+70491c5e	Haid terakhir: # minggu lalu (tidak teratur)
+705dbc6f	Tidak memakai kontrasepsi
+70689f04	Panjang pemindaian
+706aba83	Batas meja # kg, lubang gantry # cm
+706fb9f9	PET (metabolisme glukosa dengan FDG)
+7074357f	#) Justifikasi: manfaat harus melebihi risiko. #) Optimisasi (ALARA): jaga dosis serendah yang dapat dicapai secara wajar sambil mempertahankan mutu diagnostik. #) Batas dosis: untuk pekerja dan masyarakat (bukan untuk pasien; bagi pasien digunakan tingkat acuan diagnostik).
+707b359b	Dinding abses menyangat dengan kontras; CT tanpa kontras bisa melewatkannya.
+709e0d80	Wadah timbal
+70e6ad0e	Inti radioaktif
+71c67fc5	anak laki-laki
+720bb6d5	Isosenter
+72103ea7	Toraks anak: tanpa grid, filtrasi Cu tambahan, kVp tinggi / mAs rendah, kolimasi ketat, eksposi singkat (gerakan).
+72133fde	#. Kontras
+721471f0	ELUSI
+72467d86	Foto polos abdomen posisi berdiri
+729ea19a	+ Pasang perisai
+72b715d3	Hasan: "Bagaimana kalian mencapai sesuatu yang sedalam itu?"
+72daab8b	Tendon / ligamen
+72f6d05f	Pusat ruang k membawa kontras citra; bagian tepi membawa detail halus (tepi).
+72fb1a0a	Spektrum
+72fc2e5a	Terlewat: 
+732be2f9	Panduan citra (IGRT)
+7342c4c8	Berikan kontras; dengan eGFR ≥ # dan tanpa cedera ginjal akut, metformin tidak dihentikan
+73715b63	Kasus klinis terkait  →
+738f6b5a	Pulsa #° memiringkan M ke bidang xy. Spin menyebar seperti kipas karena berpresesi dengan laju berbeda (T2*). Pulsa #° membaliknya dan terbentuk echo.
+7393264d	Jelajahi semua topik
+73a87380	Teori dan rumus
+73d792b6	Pindai dengan sedikit proyeksi (≤ #): lihat artefak garis
+73e93954	USG; MRI tanpa kontras bila tidak konklusif
+74148df9	Berasal dari kriogen; tidak berbahaya
+7564d845	Ya, itu berbahaya; sebaiknya kita hindari jika bisa.
+75793978	Perut Mehmet berukuran # × # cm (dewasa rata-rata ≈ # × #). Untuk air μ(# keV) ≈ # cm⁻¹. Berapa banyak # cm jaringan tambahan mengurangi foton yang mencapai detektor?
+758e615c	Menghitung… (penelusuran sinar #×# piksel)
+75a97a00	Ujian baru
+75afa3bb	Nilai diagnostik rendah untuk apendisitis; dosis yang tidak perlu.
+75d4759c	Nyeri perut kiri bawah, demam
+760d8617	Vial vakum dalam pot timbal menarik larutan garam dan Tc-#m melalui kolom. Lolosan Mo-# harus tetap < # kBq Mo per MBq Tc.
+7647a3ac	Lulus — baca umpan balik dengan saksama.
+765e2544	Aturan Zona IV
+76dd194b	Jantung rata-rata < # Gy
+77384e8c	Menyesatkan. Model LNT mengasumsikan risiko yang sangat kecil tetapi tidak nol; gunakan bahasa yang jujur dan menenangkan.
+777502bf	Tanda di kulit tidak menunjukkan gerakan internal; risiko tinggi meleset dari target.
+77eb0235	Skor
+78197beb	ESAK # µGy > DRL: turunkan dosis (kVp lebih tinggi + filter Cu, lepas grid, turunkan mAs).
+785a8151	Pitch
+78cd4207	Vial eluat
+792a98a9	• <b>Pengerasan berkas:</b> energi rendah diserap lebih dulu; di sepanjang lintasan panjang μ efektif turun → 'cupping' di tengah dan garis gelap di antara tulang padat. Kalibrasi air (BHC) memperbaiki cupping, tetapi tidak garis tulang.\n• <b>Logam:</b> hampir semua foton diserap (photon starvation) → garis radial terang/gelap.\n• <b>Sedikit proyeksi:</b> pencuplikan sudut tidak cukup → artefak garis (aliasing).\n• <b>Derau:</b> σ ~ #/√(mAs); kompromi mendasar antara dosis dan derau.
+793c090c	Protokol CT dosis rendah
+793c5a46	diameter terpilih
+794db469	Sumsum tulang
+79525074	Hanya pusat
+79a399e0	Dosis
+79ae5968	Kecepatan waktu (waktu paruh / # s)
+7a696fee	Setara radiasi latar alami
+7a9ee904	Ketuk lantai → berjalan (keyboard: WASD). Perhatikan laju dosis pada alat ukur. Waktu, jarak, dan perisai mengurangi dosis.
+7ab00d8b	Distribusi dosis aksial
+7b06fb7d	Sinyal SE terhadap TE
+7b0ee643	Dosis minimum pada lesi (#–# cm)
+7b4e65c1	EQD2 rektum (α/β #)
+7b804b26	Efek fisika
+7bdb6a90	horizontal: detektor s  •  vertikal: sudut θ (#→#°)
+7be2d594	Jarak sumber–citra (SID)
+7bef2f61	Peta dosis (x–kedalaman): dosis relatif terhadap maksimum, %
+7bf995f5	Probe (ketuk)
+7c162dc9	Spektrum • Atenuasi • Hamburan • Dosis
+7c72fb1b	Sudut Ernst (SA)
+7c7da947	Dosis efektif
+7c941c55	R8# (≈ kedalaman terapeutik)
+7d7615e3	Kanker prostat — radioterapi eksterna
+7d96597f	Riwayat
+7d972bea	Didampingi ibunya; pemeriksaan pencitraan pertama
+7dd6f549	Implan titanium
+7de1562e	 th, 
+7e0e48e1	cT2b N0 M0
+7e0faf28	Tarikannya seketika; cedera serius dan kematian telah dilaporkan.
+7e323ea2	Daya dan data mengalir tanpa kabel, sehingga tabung dapat berputar terus-menerus; inilah yang memungkinkan pemindaian heliks.
+7e3a630c	Jangkauan R₀ (CSDA)
+7e5ca532	Lensa mata
+7e64d602	Tabung dan detektor berputar mengelilingi pasien. Untuk setiap sudut θ dan posisi detektor s, atenuasi yang terukur adalah integral garis dari μ(x,y). Himpunan semua proyeksi adalah <b>sinogram</b>: objek titik menggambar kurva sinus.
+7e6646b7	CT abdomen pada pasien bertubuh besar
+7e86bdae	Penilaian
+7ec52420	Terapi radioligan (PSMA, DOTATATE)
+7f8ed8ff	Pompa helium berdengung pelan, tetapi ketukan berasal dari gradien.
+7fa4aa8f	Lesi # cm dari mata kiri
+7fa59d83	horizontal: radial s • vertikal: sudut φ
+7fa5ff5c	Penuh
+7fb12b63	Busur detektor
+8077377d	Citra portal mingguan
+807b9275	Benar: gaya tarik ~ B·dB/dz dan paling besar di dekat pintu masuk lubang magnet. Bila perlu, pindahkan pasien ke Zona III untuk perawatan.
+80cc6fb4	Positron beranihilasi dengan elektron menjadi dua foton # keV yang berlawanan arah. Jika dua detektor yang berhadapan menangkapnya dalam beberapa ns, satu koinsidensi (garis respons, LOR) dicatat.
+80d6fd98	α/β jaringan respons lambat
+80f76b66	Menanyakan kehamilan dan meminta tes β-hCG
+80fd59df	Partikel
+811c30cd	Jumlah proyeksi (#°)
+8190561a	Nyeri perut kanan bawah, mual (# jam)
+819c9d03	Generator Mo-#/Tc-#m
+81ad7d36	Gunakan penjepit panjang (sumber # cm dari tubuh)
+81b60676	Ant
+8202e478	Perisai
+8210c814	Irisan aksial otak
+826d7453	Elektron
+82ce6c55	Tulang rawan
+82e2dbbd	Daerah dan proyeksi
+82e733b7	<b>Hamburan</b> menurunkan kontras: rasio hambur/primer naik dengan ukuran medan dan ketebalan pasien. Grid meneruskan ~#% radiasi primer dan ~#% radiasi hambur. Kolimasi menurunkan hamburan sekaligus dosis.
+82fa204f	Lapangan lebar menambah radiasi hambur dan DAP; perlindungan sebenarnya adalah lapangan sempit.
+832d529e	MRI lutut dan keselamatan MR
+832f8681	Paru
+835889e9	Ginjal
+836bc242	#–# MV VMAT memberi dosis cukup ke target dalam dari banyak sudut; kulit terlindungi dan neutron dapat diabaikan.
+83754be6	Terbaik Anda: 
+83d4e55a	# kV pada pasien bertubuh besar menimbulkan garis-garis akibat kekurangan foton dan derau berlebih.
+84737e5d	Pembacaan
+85124f40	Noise # HU: diagnostik.
+8516948a	Rumus
+851ad665	Sudut gantry
+852fc0ce	Zeynep: "Saya sudah memompa ASI sebelumnya. Suami saya bisa memberinya susu botol."
+8567c350	Buka pembahasan
+85e4b82f	OK
+86260ec0	Cara memainkan mode kasus
+8647f589	DI # → undereksposur: noise kuantum, tidak diagnostik.
+869cfa26	EQD2 jaringan lambat
+86c813a5	Cacahan
+86e1dbb8	Dua foton # keV berjarak ~#°, dideteksi dua detektor dalam jendela koinsidensi beberapa ns → garis respons (LOR)
+87025a9c	Kedokteran nuklir: PET/CT F-# FDG, penentuan stadium (Dr. Er)
+871c36f0	Jangkar titanium
+875c3058	Lesi (edema / tumor)
+875f29ca	Untuk setiap piksel ditelusuri sinar dari titik fokus ke detektor; panjang lintasan di tiap jaringan dihitung dan Beer–Lambert diterapkan per interval energi. Efisiensi serapan CsI η(E) = # − e^(−μ_CsI·t). Sinyal dibobot energi (detektor pengintegrasi energi).
+8762cac3	Energi proton
+876b129d	Langkah 
+8786af42	✓ Sangat baik
+87e69378	Terhambur
+882ac676	Dosis bayi
+88674cd6	#) Pilih topik di kiri; topik diurutkan dari dasar hingga klinik. #) Baca pelajarannya; jangan lewati kotak POIN UTAMA dan contoh soal. #) Geser penggeser gambar untuk melihat makna rumus. #) Kerjakan kuis akhir pelajaran: semua benar menandai pelajaran dengan ★. #) Gunakan "Coba di lab" dan "Kasus klinis terkait" untuk menerapkan yang Anda pelajari.
+886d0cbf	Pulsa RF yang membuat bising; tidak perlu tindakan pencegahan
+888cc345	Pada # m (berperisai)
+89235979	Bila induk (Mo-#) berumur lebih panjang daripada anak (Tc-#m), A₂/A₁ menuju konstanta: kesetimbangan transien. Bila induk jauh lebih panjang umurnya (mis. Sr-#/Y-#), terjadi kesetimbangan sekuler: A₂ = A₁.
+892ef903	Satu foton # keV
+897fe13f	Kontras dan ginjal
+89d558f4	Kumparan penerima multikanal yang dekat dengan jaringan menaikkan SNR dan memungkinkan pencitraan paralel.
+89f4c462	CNR robekan/meniskus #: robekan tidak terlihat — perlu TR panjang (PD/T2).
+8a2fa41a	Aktivitas, waktu, dan ambilan
+8a355b34	PA, berdiri, SID # cm
+8a69358c	waktu 
+8aa94879	Pedoman (ICRP #, IAEA) tidak mewajibkan penghentian menyusui untuk FDG; disarankan membatasi kontak dekat selama beberapa jam dan memakai ASI perah.
+8b0d147c	Kontras tulang (# cm dalam # cm jaringan)
+8b0eb3c2	Benar
+8b68a871	Kemungkinan hamil dan apendisitis
+8c032c1a	Poin pembelajaran
+8c7d3087	Skor: 
+8c880991	Setiap jawaban disertai penjelasan dan umpan balik.
+8ca7a950	Pencacah GM atau bilik ionisasi yang menampilkan laju dosis dalam µSv/jam; dipakai untuk pemeriksaan kontaminasi di lab panas.
+8cde5d5c	Kolimator + filtrasi tambahan
+8d46a34c	ketebalan (cm)
+8d8cee46	Hukum kuadrat terbalik
+8dbd5185	Waktu # s — pasien dapat tetap diam.
+8de41236	Alat pacu jantung
+8e5380f5	Emir bisa berdiri dan kooperatif. Teknik mana yang kamu pilih?
+8e925209	Transformasi Radon • FBP • Hounsfield • Artefak
+8ea57a5e	R9# (kedalaman pada pasien)
+8f1b876c	Terbaik Anda
+8f30fea5	Tinggi / berat
+8fb29e12	Pilih topik dan pelajaran di kiri. Mainkan penggeser gambar dan uji diri Anda di akhir setiap pelajaran.
+8fd05dbc	Terapi kanker tiroid dan hipertiroidisme
+8fed86d7	Tidak apa-apa jika cepat
+8ff1e887	Kecepatan waktu
+9017c010	+ Tambah berkas
+90571e3f	 soal kuis
+907a4bcf	Dosis pasien (efektif)
+90d642b7	α/β tumor ≈ # Gy, efek lambat kulit / tulang rawan α/β ≈ # Gy. Mana yang cocok untuk pasien # tahun yang sulit datang setiap hari?
+90da7a12	Sinar-X
+90e8ad1a	Jaringan
+91078d77	Spektrum tabung, filtrasi, HVL, hamburan, detektor, dan dosis pasien.
+91258979	Radiofarmaka
+91882d73	Jangkauan CSDA (Bethe / NIST)
+91a7732a	Arus gradien yang dialihkan dengan cepat mengalami gaya Lorentz dalam B₀; kebisingan dapat melebihi # dB → penyumbat telinga / headphone wajib
+91b76332	Menenangkan tetapi tidak akurat: risiko stokastik sangat kecil, bukan nol.
+926d87c3	Menangkap kesalahan penempatan sistematis tetapi tidak gerakan organ harian → margin dan dosis rektum lebih besar.
+928ef299	perempuan
+92fe3fad	Konten edukasi saja — bukan untuk keputusan klinis.
+9340f08a	Konstanta peluruhan λ
+93798b62	Generator
+93926697	Fantom antropomorfik
+93fd33cf	Mx (sinyal)
+94397cd5	Waktu penggandaan potensial Tpot
+9441540c	DLP = CTDIvol × panjang; menggambarkan iradiasi total, bukan dosis organ.
+948fe972	Sumber sinar-X kV
+94a38054	Keputusan Anda
+94cc8d3b	Dosis bayi ≈ 
+94f37251	CTDIvol itu sendiri
+951e2e51	LIHAT PEMBAHASAN  →
+95a8c428	Mo-# (T½ # jam) → # % → Tc-#m (T½ # jam). Mo-# terikat pada kolom alumina; Tc-#m terbentuk dari peluruhannya dan 'dielusi' dengan larutan garam.
+95bce1b7	Udara
+95be3cc5	Terbaik 
+95d6d65a	Kerangka laboratorium (tampilkan presesi)
+95f4d5de	Lapangan dan pelindung mata
+963b7c8f	Halo! Mesinnya sakit nggak? Boleh ibu saya menunggu di luar?
+966d8f4b	Tebal dada Emir ≈ # cm (dewasa ≈ # cm). Atur kVp, mAs, filter, grid, dan lapangan, lalu tekan EKSPOS. Target: DI −#…# dan ESAK ≤ # µGy.
+96c251ec	Teorema irisan Fourier: transformasi Fourier #D dari sebuah proyeksi adalah irisan dari transformasi Fourier #D citra. Karena itu proyeksi difilter dulu dengan ramp |f|, lalu diproyeksikan balik. Proyeksi balik tanpa filter menghasilkan kekaburan #/r.
+97080889	Diameter pasien
+97197ddf	Hindari semua kontak selama seminggu
+971c410e	Peluruhan radioaktif, generator Mo-#/Tc-#m, koinsidensi PET, dan MLEM.
+9741e45e	Sama sekali tidak ada risiko, radiasi nol.
+97563b2a	Menahan sinar gamma saat vial disimpan atau dibawa; beberapa mm timbal sudah cukup untuk foton # keV dari Tc-#m.
+979c2167	Dosis permukaan (penghematan kulit)
+97fc3c0a	Anda adalah fisikawan medis rumah sakit. Setiap pasien adalah sebuah kasus: baca berkasnya, ambil keputusan, dan lihat hasil yang dihitung dengan model fisika nyata. Setelah setiap langkah, Anda mengetahui mengapa langkah itu benar atau salah.
+981c2b72	Detektor kV
+98333fde	Beton
+9837047f	Lesi + margin ~# cm (cutout timbal ≈ # cm); mata di luar lapangan, pelindung mata internal bila perlu
+9867b7d1	Laju dosis turun dengan kuadrat jarak, Ḣ = Γ·A/d². Warna lantai menunjukkan laju dosis ini; garis putih menandai # µSv/jam.
+9895bce3	EQD2 tumor
+98f224a5	EKSPOS
+9920e564	Skor rencana
+993014d9	Berat badan
+9945210a	Algoritme
+994bbd58	Aturan: R ≈ #·E^#
+995324ac	Waktu 
+995c9ab4	#. Dosimetri
+9970e954	PET: koinsidensi dan rekonstruksi
+997b38dc	Protokol sesuai ukuran tubuh
+99a15c5e	Dosis efektif (perkiraan)
+99a7a50a	LANJUT  →
+99f7bee7	Cincin geser
+99fa0dc1	Kecukupan cacah A·t / (#·kg)
+9a125d51	Elektron dari katode yang dipanaskan dipercepat oleh kVp ke anode tungsten yang berputar. Hanya ~# % energinya menjadi sinar-X (bremsstrahlung + karakteristik); sisanya panas.
+9a23c97b	PET/CT FDG pada ibu menyusui
+9a2b880f	Ketebalan pasien / SSD
+9a73db9b	Bahasa
+9b012adc	Jarak ke sumber
+9c4aa55c	Tabung sinar-X
+9c506f53	Tingkat irisan
+9c528492	Lilitan NbTi yang didinginkan helium cair hingga ~# K. B₀ (# / # T) selalu aktif: benda feromagnetik menjadi proyektil.
+9c70fc8a	Strip timbal tipis terfokus menyerap foton yang terhambur dalam tubuh pasien. Kontras membaik, tetapi mAs harus naik untuk dosis detektor yang sama (faktor Bucky #–#).
+9c8081f1	Buka lab
+9cabb538	Waktu • Jarak • Perisai
+9cf82695	Hasil
+9d2b5423	Menggambarkan keluaran pemindai dan mengabaikan ukuran pasien.
+9d3d585c	Modalitas semua berkas
+9d6f6466	Filter terutama membuang foton berenergi rendah (<b>pengerasan berkas</b>) yang hanya akan menambah dosis kulit. Filtrasi lebih banyak menaikkan energi rata-rata dan HVL serta menurunkan keluaran.
+9d70bd7a	DI = #·log₁₀(EI / EI_target): # ≈ # % lebih banyak, −# ≈ # % lebih sedikit, # ≈ #× dosis detektor.
+9e134627	Kasus Klinis — # pasien menunggu
+9e1d18ea	#. Radiobiologi
+9e75940c	Aktivitas
+9e7b7a87	EQD2 tumor = n·d·(d + #)/(# + #) = # Gy — lebih tinggi dari yang diperlukan.
+9e8abbb2	Alat ukur pekerja membaca laju dosis ekivalen ambien H*(#) di tempatnya; dosis terakumulasi = laju dosis × waktu.
+9e995ba1	Fraksinasi (model LQ)
+9ebe06d9	Sarapan # jam yang lalu
+9f3f7105	Merekonstruksi…
+9faeab39	Kekekalan momentum memerlukan dua foton.
+9fc55136	Sinyal terhadap TE (peluruhan T2)
+9ffc9a24	Ukur HU: ketuk paru (< −#), lemak (−#…−#), dan tulang (> #)
+a049bc94	Kontras T1 / T2 / PD
+a0cf38d2	Waktu ambilan sesuai: rasio tumor/latar standar (SUV dapat dibandingkan).
+a13c66b3	Dosis efektif ≈ # × 
+a14e7f7e	Kontras iodin (jantung/aorta)
+a15fa5b0	Pencuplikan
+a1793be6	Tulang / udara
+a17f6a53	# soal acak dari semua topik — persiapan yang baik untuk wawancara S2 dan ujian.
+a1be3d2c	Lateral (LAT)
+a1d821ab	#. Artefak
+a219bf8b	Ruang tunggu
+a22bd65a	proton
+a267e784	Dosis efektif ≈ # × # = # mSv (ICRP #).
+a26d32ed	Pemulihan Mz (TI)
+a28c2366	Elektron yang dipercepat hingga MeV di pandu gelombang dibelokkan ke target (foton) atau melalui foil hambur (elektron). Filter perata dan bilik monitor (MU) juga berada di sini.
+a2c330b1	Lihat bahwa R5# berkas elektron mengikuti aturan E/#
+a2eb2f51	Peluruhan radioaktif (Monte Carlo)
+a2ed22c4	diameter efektif D_eff (cm)
+a30f0337	PDD elektron: dosis permukaan naik seiring energi (# MeV ≈ # %, # MeV ≈ # %); bolus menaikkan dosis permukaan dan memperpendek jangkauan.
+a37bf952	Luar biasa — fisikawan medis sejati!
+a408a7ff	Wanita usia subur dengan panggul di berkas: singkirkan kehamilan lebih dulu (β-hCG bila perlu).
+a431924a	Ambil sumber
+a475164f	Timbal
+a4843b38	Tulang (# cm) # % — terlalu tinggi tanpa perlu: risiko osteoradionekrosis. Pilih energi lebih rendah.
+a4a2847a	TR pendek + TE pendek → berbobot T1; TR panjang + TE panjang → berbobot T2; TR panjang + TE pendek → densitas proton.
+a4be5f34	Isotop
+a4eeda8f	Lesi
+a50be870	Meja pasien
+a51067fd	Peluruhan
+a5916fb6	Kasus selesai — 
+a5d46b38	DLP (pemindaian # cm)
+a5ee64bb	Rata-rata (NEX)
+a5ff15cb	Memutar kepala #° mengelilingi pasien. Sumber RF (magnetron/klystron) dan pandu gelombang berada di dalam gantry dan penyangganya.
+a60133e5	Rekonstruksi (FFT #D invers)
+a60a634d	Dosis bayi ≈ # µSv (hukum kuadrat terbalik: laju dosis pada # cm adalah #× laju dosis pada # m; umur rata-rata F-# τ = T½/ln2 ≈ # jam).
+a6310194	Konseling
+a650d3f5	GAMBAR INTERAKTIF
+a66f47bd	Ketebalan timbal
+a6e53476	Kumparan tubuh RF
+a6f33ef9	Benar: perbandingan dengan angka (radiasi latar alami ≈ # mSv/tahun ≈ # µSv/hari), dengan justifikasi dan ALARA dijelaskan bersama.
+a704e2e8	Penampang Klein–Nishina menentukan sudut hamburan Compton dan energi elektron pental. Simulasi Monte Carlo mengikuti setiap foton dan elektron; dosis konvergen dengan ketidakpastian statistik σ ~ #/√N.
+a72ca2ae	Tambahkan waktu paruh biologis dan lihat waktu paruh efektif (I-#)
+a7ae7cae	# MeV
+a85562cb	Skrining kehamilan terlewat: janin bisa saja teradiasi tanpa diketahui.
+a861d965	Rekonstruksi
+a86b43b2	Filter bowtie + kolimator
+a87f9edd	Setiap garis adalah koinsidensi (LOR): hijau = benar, kuning = terhambur, merah = acak. Kumpulkan cacahan yang cukup, lalu 'Rekonstruksi'.
+a8b4a774	SSDE — CTDIvol yang dikoreksi untuk diameter efektif
+a93ad5ad	derau σ (HU)
+a97badd0	Lakukan pemindaian pertama dan lihat sinogram terisi
+a97d3fea	Energi efektif (monoenergetik)
+a9887e52	Pusat Belajar
+a99ef883	Menghitung…
+a9f0a4e6	Poin
+a9f3146e	Air / tulang / timbal
+aa28ed13	Kultur sel (#D)
+aa2ce59e	Histogram dosis-volume (DVH)
+aa430d6d	Tidak dijustifikasi: CT toraks anak ≈ #–# mSv dibanding ≈ # mSv untuk foto PA. Melanggar prinsip justifikasi (ICRP #).
+aa4446a7	Terfilter (masuk)
+aa7120ec	Hentikan metformin selama # jam, lalu pindai
+aaaa64f1	Beban tabung
+aaede69c	ACR Appropriateness Criteria dan ACOG: USG dulu, lalu MRI tanpa gadolinium — tanpa radiasi pengion.
+aaee7048	Waktu pemindaian (# fase, ETL #)
+ab14bcac	Tomografi Terkomputasi
+ab25d4ea	Faktor hamburan balik BSF ≈ #. DAP (Gy·cm²) tidak bergantung pada jarak dan dikonversi ke dosis efektif dengan koefisien: dada PA ≈ #, abdomen ≈ #, panggul ≈ #, tengkorak ≈ # mSv/(Gy·cm²). Dada PA tipikal: ESAK ~#–# mGy, E ~# mSv.
+ab834a11	Waktu paruh biologis (# = tidak ada)
+ab8ca2c5	Fantom air
+abdee8d2	Foton MV berinteraksi di air terutama melalui hamburan Compton; energinya dideposisikan oleh elektron sekunder sepanjang beberapa cm. Karena itu dosis rendah di permukaan dan naik hingga dmax (<b>build-up</b>; perlindungan kulit). Setelah itu dosis turun karena atenuasi dan hukum kuadrat terbalik.
+abe195be	Beralih ke jendela paru pada irisan dada
+abe68d6f	Laju napas
+ac5b89c3	Dosis per fraksi
+ac737796	Mencitrakan berkas terapi yang keluar (citra portal); dipakai untuk memverifikasi bentuk medan dan dosis yang diberikan.
+aca79e3e	Langkah: 
+aced2b71	Fraksinasi (pasien lansia)
+ada7afdb	tidak ada
+ada880a8	Teori segera hadir.
+add79038	Lemak / otot
+ae20a6a3	Daya henti naik sebanding #/β² saat proton melambat; sebagian besar energi dideposisikan di ujung jangkauan (puncak Bragg). Sebaran jangkauan (≈ # %·R) dan sebaran energi melebarkan puncak. Jumlah berbobot puncak-puncak berenergi berbeda membentuk SOBP yang menutupi tumor. Di luar puncak dosisnya ~#: organ distal terlindungi.
+ae27b827	Mode kasus klinis
+ae6bb2bb	maks. 
+ae888d5f	Isodosis # % elektron menyempit di kedalaman: cutout harus ~# cm lebih besar dari lesi.
+aef94af7	Benar. 
+af010c63	Tulang (iga/panggul)
+afe8043f	waktu (jam)
+b081abb7	transisi isomerik (IT)
+b0c23fb1	Aktivitas (kesetimbangan transien)
+b0db6938	 hari
+b0f260dc	Bukan pilihan pertama pada dugaan pneumonia; foto lateral butuh dosis lebih besar dan tidak cukup jika sendirian.
+b11e7606	Butir mana pada formulir skrining yang memerlukan TINDAKAN TAMBAHAN sebelum MRI? (pilih semua yang sesuai)
+b1b83851	kedalaman dalam air (cm)
+b1c222ab	EQD2 = n·d·(d + α/β)/(# + α/β). Tumor dengan α/β rendah (prostat ≈ #) diuntungkan oleh hipofraksinasi.
+b1c8c38e	Batang: jatah harian pekerja (# mSv/tahun ÷ # hari = # µSv).
+b21a4f64	Dosis paru rata-rata < # Gy
+b232d1f0	Cakupan lesi: minimum # % — lengkap.
+b2972ae3	Kepala
+b2aad11c	Parameter pemindaian
+b33eb976	Model: geometri berkas paralel (data berkas kipas yang disusun ulang), detektor pengintegrasi energi, hamburan diabaikan.
+b34b3fcd	Jeda / Jalankan
+b38452f0	Penanda (TR atau TE)
+b3af5cc8	#. ALARA dan batas
+b3f9f066	Sakit sekali… dan saya tidak tahu apakah saya mungkin hamil.
+b48eaaae	#. Ruang k
+b4d90f43	Dosis pasien
+b528da3e	Buram
+b5377fa4	Baja
+b54b4085	Dekati wadahnya (< # m).
+b54d1bc5	Jelajahi lab
+b58894f8	Dalam kerangka berputar (x', y') kita ikut berputar dengan frekuensi Larmor: hanya selisih frekuensi (Δω) yang tetap terlihat.
+b589c5ea	Lebar medan (isosenter)
+b5f6bbb8	target 
+b6b8c8bf	Presesi Larmor, persamaan Bloch, T1/T2, spin echo, ruang-k.
+b6e00083	Jantung
+b6fab935	Berbobot PD
+b72c1283	#. Berkas foton dan dosis kedalaman
+b7312de4	Udara −#, air #, lemak ≈ −#, jaringan lunak #…#, tulang #…# HU. Karena mata hanya membedakan ~#–# tingkat abu-abu, citra ditampilkan melalui jendela (lebar W, tingkat L): paru W1#/L−#, jaringan lunak W4#/L4#, tulang W2#/L4#, otak W8#/L3#.
+b7d0e925	Energi foton datang
+b7fdc96d	Sejak elusi terakhir
+b8095719	EANM: A·t ~ berat badan. Pemindaian lebih lama memungkinkan aktivitas dan dosis lebih rendah.
+b846a137	Pilih tingkat irisan lalu tekan SCAN. Ketuk citra untuk mengukur HU.
+b85a81d5	Skema fraksinasi
+b8628c9b	Tulang spons
+b86f8853	CONTOH SOAL
+b8757751	Ya; radioterapi eksterna tidak membuat Anda radioaktif — tidak ada yang tersisa begitu mesin dimatikan
+b8932bde	Pelajaran lengkap  →
+b89df01a	Bantuan
+b8ccfa2e	Uji diri Anda
+b8ebb4eb	Waktu maksimum Tc-#m
+b8f48602	Konstanta
+b8ff3ac7	Lapangan #×# cm: pas untuk paru.
+b92e17d6	Grid dipakai: dada anak ~# cm menghasilkan sedikit hamburan; grid (faktor Bucky #–#) menaikkan dosis tanpa perlu.
+b95e783d	Dekati sumbernya (< # m).
+b999f041	Karsinoma sel basal # cm di pipi kiri (terbukti biopsi)
+b9a92b6b	Dosis ≈ # µSv: sekitar # hari radiasi latar alami. Manfaat mendiagnosis pneumonia jauh melebihi risikonya.
+ba1de520	Frekuensi Larmor f = γ̄·B₀ (# MHz/T). SAR ~ B₀²: ~#× pemanasan RF pada # T.
+ba44e340	SSDE 
+ba66cab6	Noise yang diterima pada pasien besar: ≤ # HU di ROI hati (≈ # HU pada dewasa rata-rata). Pilih kV dan mAs, lalu PINDAI. Jaga SSDE di bawah # mGy.
+bade5b16	Berputar bersama gantry #–# kali per detik dan mengirim berkas kipas menembus pasien dari setiap sudut.
+bb5bd1d0	Energi rata-rata / efektif
+bb62355a	Cakupan lesi: minimum # % — tepi dalam di bawah # %: energi terlalu rendah.
+bb757050	elusi
+bbabaa0a	Pemindaian lebih panjang dari perlu: krista iliaka sampai simfisis cukup untuk apendisitis.
+bc38932a	Dosimetri acuan (IAEA TRS-#) dan pengukuran PDD/profil: bilik ionisasi digerakkan di dalam air. Di sini setiap jejak adalah partikel yang diikuti dengan Monte Carlo.
+bc506327	Zeynep: "Apakah saya perlu beristirahat dengan tenang setelah suntikan?"
+bc566d93	Dosis janin ≈ SSDE = 
+bc5d4211	Berikan semua
+bd77abf8	Bedah darurat: apendisitis akut? CT abdomen-pelvis dengan kontras (Dr. Şahin)
+bd7bba09	sinyal
+bd9533e5	Limfoma Hodgkin — penentuan stadium
+be5b1f2d	Pertanyaan pasien
+be65f185	Pigmen oksida besi dapat memanas: beri tahu pasien, kompres dingin bila perlu. Bukan kontraindikasi.
+bf06df89	Energi elektron
+bf300ab6	terfilter
+bf62a8bf	Panah kuning adalah magnetisasi neto M. Pulsa RF memiringkannya menjauhi B₀; ia pulih secara longitudinal dengan T1 dan meluruh secara transversal dengan T2. Panah berwarna adalah isokromat dengan frekuensi berbeda (T2*).
+bf6d791a	Pada berkas lebar, foton terhambur juga mencapai detektor; faktor build-up B ≥ # memperhitungkannya. Di sini dipakai B ≈ # + k·μx.
+bfaba695	Konsentrasi aktivitas relatif (terhadap maksimum citra)
+bfb0dfa4	Tidak ada alergi; kreatinin normal
+bfce608a	Pasien / fantom
+bfe05f84	Jaringan lunak
+bfe92fa7	Darah
+c013320b	RUANG TUNGGU
+c03749ef	Temuan
+c0455b80	# MV menembus dengan baik tetapi menghasilkan fotoneutron melalui (γ,n) → dosis tambahan ke seluruh tubuh dan kebutuhan perisai.
+c06853d2	TI nol (CSS / lemak)
+c07735e3	↻ Coba lagi
+c0774077	Masukkan sumber ke wadah timbal; dosis total < # µSv
+c09eec06	MLEM adalah metode iteratif yang memodelkan statistik Poisson secara langsung; garisnya lebih sedikit daripada FBP, tetapi derau bertambah dengan banyak iterasi.
+c0aad756	Tampilkan jejak partikel
+c0f5bb27	Sumbu rotasi. Memusatkan pasien di sini penting: posisi tidak di tengah menggagalkan filter bowtie serta menaikkan derau dan dosis.
+c124dd95	Setiap sel bertahan dari satu fraksi dengan peluang S(d) = exp(−αd − βd²). Jaringan dengan α/β rendah lebih peka terhadap dosis per fraksi.
+c1329b8d	Elif: "Tolong gunakan dosis terendah untuk bayi saya."
+c14f1584	Pemindaian total (# posisi)
+c1811e60	IGRT harian mengoreksi #–# mm gerakan organ dan memungkinkan margin PTV ~# mm (van Herk: M = #Σ + #σ).
+c1d1684b	Berkas
+c285174a	kedalaman pada pasien (cm)
+c2dcb4a3	Menunggu jauh lebih lama tidak perlu: F-# hampir seluruhnya telah meluruh, dan menyusui terganggu tanpa alasan.
+c2e4e241	transisi isomerik
+c2f67ba3	# mm Al + # mm Cu
+c341622f	Dosis bayi terutama berasal dari foton # keV dari tubuh ibu (paparan eksterna); sangat sedikit FDG masuk ke ASI. Kapan kontak dekat (menggendong, menyusui pada jarak ~# cm) boleh dilanjutkan? Target permainan: dosis bayi ≤ # µSv.
+c35ec4c3	Anterior-posterior (AP)
+c3a14e9a	air μen/ρ
+c3e47672	Spin echo
+c3ff1e50	Elektron dari katode dipercepat oleh tegangan tabung (kVp) ke anode tungsten. ~#% energi menjadi panas, ~#% sinar-X. Elektron yang melambat di medan inti memancarkan <b>bremsstrahlung</b> dengan spektrum kontinu hingga E_max = kVp.
+c4547490	Fisika spin
+c487c009	Jendela W(f): Ram-Lak (tajam, berderau), Shepp-Logan (sinc), Kosinus, Hann (halus, derau rendah). Kompromi ketajaman ↔ derau.
+c4a7b302	Warna jejak: kuning = foton, biru = elektron, magenta = positron, oranye = proton, hijau = interaksi nuklir.
+c4ef192a	tanpa grid, 
+c558bcea	Pekerjaan: tukang las / gerinda (# tahun)
+c5748eb4	Skrining keselamatan MR
+c57b585f	Konsol menampilkan CTDIvol. Besaran mana yang paling mewakili dosis pasien bertubuh besar ini?
+c59c3c01	Ayşe: "Benda seperti jeli ini apa? Mau ditaruh di wajah saya?"
+c5d4754f	# mg/dL
+c5e874f2	Pelindung gonad tidak lagi direkomendasikan secara rutin; kolimasi adalah perlindungan terbaik.
+c60cf4ca	Bandingkan laju dosis Co-# dan Tc-#m pada # m
+c69a5477	Hamburan: lakukan eksposi yang sama dengan dan tanpa grid
+c6a141c6	Dosis kedalaman pada sumbu pusat
+c6b800d4	#. Spin dan presesi
+c6c23301	Benar. (Implan biji I-# permanen akan memerlukan pembatasan kontak dekat jangka pendek.)
+c6c4ee23	Peluang kontrol tumor
+c6d6b1b5	Itu hanya berlaku untuk ~# cm (satu HVL).
+c6d8a5ee	 (kepala)
+c7801b3c	PELAJARAN BERIKUTNYA
+c7e4693e	Catatan model: hamburan memakai kernel sederhana yang bergantung pada medan dan ketebalan; DQE detektor dan kekaburan titik fokus diabaikan.
+c81dd039	Medula spinalis Dmax < # Gy
+c8423429	Cocok untuk bayi dan pasien tirah baring, tetapi bayangan jantung membesar dan organ di depan menerima dosis lebih besar.
+c8828318	Hukum kuadrat terbalik: catat pembacaan pada ~# m, ~# m, dan ~# m
+c8f76d70	Dosis jauh di bawah ambang ~# mGy untuk malformasi; tambahan risiko kanker masa kanak-kanak sangat kecil (≈ # % per # mGy). Tidak ada alasan medis untuk mengakhiri kehamilan.
+c901ddc3	Cairan sendi
+c91a26b5	Prostat bergeser dari hari ke hari mengikuti pengisian kandung kemih dan rektum. Bagaimana kamu memverifikasi setiap fraksi?
+c9248cc8	Pelindung dan kolimasi
+c926cd17	Air / CSS / urine
+c964528c	Di detektor (tengah)
+c9db273f	Pilih bahasa
+ca42e28e	Ambil keputusan dalam kasus rontgen dada anak milik Emir, lihat hasilnya, dan pelajari alasan di balik setiap langkah. Lab teknis akan menunggu saat Anda siap.
+caa249cb	Ruang k (log |S(kx, ky)|)
+cae55017	Foton
+cae6e1b1	Delapan topik dari dasar fisika medis hingga klinik. Setiap pelajaran berisi penjelasan, rumus, contoh soal, gambar interaktif yang digerakkan model fisika nyata, dan kuis singkat. Di akhir Anda bisa langsung ke lab dan kasus klinis yang sesuai.
+cb988a96	Setelah # jam (dari # MBq)
+cbad3f92	Positron beranihilasi dalam ~# mm jaringan; hanya foton # keV yang lolos.
+cbd54f80	Bahan
+cbd7b457	Rumus singkat
+cc25a532	Leher
+cc4c7f13	Pelajaran 
+cc4da60f	Koinsidensi acak
+cca2c192	Filtrasi total = # mm Al (inheren) + tambahan. Regulasi: ≥ # mm Al (># kVp).
+ccdfbfa0	Masyarakat
+cd38aa8b	Waktu tunggu sebelum kontak dekat
+cd4c6563	Meja kendali
+cd86acc3	Tutup
+cd9bfde6	Tampilkan penutup gantry transparan
+cdd62ae0	Busur (mirip VMAT)
+cde4341b	Sudut: #° = anterior (AP), #° = kiri pasien, #° = posterior (PA), #° = kanan.
+ce0454c7	Bola kecil menunjukkan aktivitas terukur lebih rendah akibat efek volume parsial (RC < #).
+ce3486fb	horizontal: x (−#…# cm) • vertikal: kedalaman #→# cm
+ce483eb5	Ketebalan
+ce6b3dac	R8# distal (MC)
+ce715e71	Sintilator CsI:Tl mengubah sinar-X menjadi cahaya dan larik fotodioda a-Si mengubah cahaya menjadi muatan. Indeks eksposi (EI) melaporkan dosis yang sampai ke detektor.
+cf377b43	Ujian latihan
+cf781cab	Ibunya meminta apron timbal untuk Emir. Apa yang kamu lakukan?
+d020ae28	Dalam kolom alumina berperisai timbal, Mo-# (T½ # jam) meluruh menjadi Tc-#m (T½ # jam). Larutan garam yang dialirkan melalui kolom hanya membilas pertechnetat Tc-#m (elusi).
+d070218a	Kedalaman
+d0a43715	Magnet superkonduktor tidak bisa begitu saja dimatikan; quench melepaskan helium, mahal dan berbahaya — hanya untuk situasi yang mengancam jiwa.
+d0fd90b6	Eksposi otomatis saat berubah
+d1af3044	Tambalan amalgam dan komposit aman; hanya dapat menimbulkan artefak.
+d1b7ec5b	EQD2 tumor = n·d·(d + #)/(# + #) = # Gy — dosis kurang, risiko kegagalan biokimia.
+d21058ed	Ketuk lantai untuk memasang perisai.
+d22ff1b4	Filter Cu menyaring foton berenergi rendah: dosis kulit jauh lebih kecil untuk DI yang sama.
+d252b05e	Pilih pasien di ruang tunggu, baca berkasnya, lalu mulai kasus. Di setiap langkah Anda memutuskan: menjawab pertanyaan, mengatur parameter alat, atau membuat citra. Mesin fisika menghitung hasilnya; tekan KONFIRMASI untuk mendapat poin dan penjelasan.
+d28e3e42	Penilaian: mutu diagnostik / efektivitas terapi, dosis pasien (ALARA), keselamatan, dan komunikasi. ★★★ memerlukan ≥ # %.
+d2ab41fb	diharapkan 
+d2c74831	Langkah pertama
+d2db263e	Positron dari peluruhan β⁺ beranihilasi dengan elektron dalam beberapa mm (jangkauan positron → kehilangan resolusi), menghasilkan dua foton # keV yang hampir berlawanan (±#°). Jika dua kristal cincin bereaksi dalam jendela waktu (~# ns), satu koinsidensi dan garis respons (LOR) dicatat.
+d350ad22	Jaringan lemak
+d4601b55	• <b>Atenuasi:</b> peluang kedua foton lolos adalah exp(−∫μ dl) sepanjang LOR — tidak bergantung pada titik emisi! Itulah sebabnya koreksi atenuasi PET dilakukan langsung dari CT.\n• <b>Hamburan:</b> foton terhambur Compton menimbulkan LOR yang salah; jendela energi (#–# keV) menolak sebagian.\n• <b>Acak:</b> dua foton yang tak berhubungan jatuh dalam jendela yang sama; laju ~ aktivitas².\n• <b>NEC</b> = T²/(T+S+R): ukuran kualitas citra.
+d46b8bd4	Langkah
+d4ab7bf3	Tampak tidak berbahaya tetapi bisa masuk ke lapangan → pengulangan foto dan kenaikan dosis oleh kontrol otomatis. Lebih baik menjawab kekhawatiran ibunya dengan penjelasan.
+d4beda32	Grid anti-hambur
+d4c68488	volume %
+d4ffd893	Rasio tulang / air (kontras)
+d51a0c7d	terfraksinasi, α/β = #
+d54bb772	Edema sumsum
+d584bb20	Paru kiri
+d5c4ed9d	prostat
+d5cc8e12	IGD anak: rontgen toraks PA — pneumonia? (Dr. Aydın)
+d5f8859c	Kuis topik ini
+d618a937	Berkas dan kalibrasi
+d63556b0	Air
+d64fa515	dengan timbal
+d68f0065	Buka pelajaran: 
+d720c7e2	Keluhan dan permintaan
+d77aac98	#. Produksi sinar-X
+d77bb8f6	Buka kasus
+d7b6610e	Elektron # MeV hanya mencapai ≈ # cm (Rp ≈ E/#): tidak sampai ke prostat.
+d7fcdf81	Bedah umum: divertikulitis / abses? CT abdomen dengan kontras (Dr. Tunç)
+d908d184	Besaran dosis
+d9370cf8	Inversi (#°)
+d9556410	Faktor eksposi
+d9b3e49e	Darah / jantung
+da35274d	Lesinya # cm. Ukuran cutout dan pelindung mata apa yang kamu pilih?
+da435822	Waktu itu lama sekali… Apa saya muat di mesinnya?
+da880d68	Sumber di tangan! Segera bawa ke wadah timbal.
+dad956f3	Tc-#m mencapai puncak pada t_max = ln(λTc/λMo)/(λTc − λMo) ≈ # jam setelah elusi. Pada kesetimbangan A_Tc/A_Mo → #·λTc/(λTc − λMo) ≈ #.
+db90e18f	tulang
+dba8b336	Kami tunjukkan langkah pertama terbaik.
+dbb638ff	Pencitraan SPECT (tulang, perfusi miokard)
+dbbc21b7	Fisika: mengapa derau meningkat?
+dbf4470f	Skor 
+dc0b6beb	Referensi
+dc411606	Persamaan Bloch • presesi • spin echo
+dcc0d7a5	belum dijalankan
+dce06e30	MRI dengan gadolinium
+dd2558f8	# kg / # cm
+ddd13aac	Waktu # s — terlalu lama, kemungkinan artefak gerak; perpendek TR atau naikkan faktor turbo.
+de128bc0	Kebisingan akustik
+deb145c5	Memberi apron timbal dan langsung memindai
+deea998c	TR (waktu repetisi)
+deeed36b	Kualitas citra
+df0c22b3	Resonansi Magnetik
+df3faa41	Filtrasi tambahan
+df518691	Cutout tepat seukuran lesi (# cm)
+df697a33	Foto lateral lebih dulu
+df6e8cfc	Langkah saat ini
+df7177fa	POIN UTAMA
+df76eace	aktivitas A(t)
+df926a69	Derau (ROI hati, SD)
+dfe4e404	Waktu
+e026c507	foton terhambur E′
+e0a49aab	Mulai ujian  →
+e0ccc31f	Menu utama
+e0e1e90f	 hari radiasi latar)
+e0fe199e	Tiga prinsip proteksi radiasi (ICRP #)
+e15b5d80	Kurva kesintasan sel (LQ)
+e1940a73	Tips: Anda bisa mengklik alat di latar belakang kapan saja; itu tidak perlu untuk memulai.
+e19d9fd0	laki-laki
+e232e2c1	Jangkauan praktis Rp (acuan)
+e2433a82	Dosis janin ≈ SSDE (rahim di dalam lapangan). CTDIvol adalah dosis fantom dan harus dikoreksi untuk ukuran pasien.
+e2d84590	Jumlah fraksi n
+e2e5fdc7	PTV (GTV + # mm) rata-rata = # Gy / # fraksi (# Gy)
+e3232976	Kecukupan cacahan # — cacahan terlalu sedikit: citra bernoise, kelenjar getah bening kecil bisa terlewat.
+e3726bce	Keesokan paginya: puasa # jam, gula darah # mg/dL.
+e3f06eaf	sudut hambur θ (°)
+e41d8109	kedalaman (cm)
+e43e04b0	Tabung sinar-X (generator)
+e4ab1899	Lebar jendela (W)
+e4c140b2	Peluruhan bersifat acak: kapan satu inti meluruh tidak dapat diramalkan, tetapi banyak inti mengikuti hukum eksponensial. Aktivitas diukur dalam becquerel (# Bq = # peluruhan/s); satuan lama adalah curie (# Ci = #·#¹⁰ Bq).
+e4e5be6e	Elif bertanya sambil menangis: "Apakah itu membahayakan bayi saya?" Perkiraan dosis janin ≈ # mGy.
+e4ff8488	Tingkat jendela (L)
+e53403f8	campuran
+e549237e	Prostat α/β ≈ # Gy, rektum (efek lambat) α/β ≈ # Gy. Target: EQD2 tumor #–# Gy, dinding rektum anterior (anggap menerima # %) EQD2 ≤ # Gy.
+e56e73a9	Rahang + MLC
+e5dcf84a	Dosis terakumulasi
+e5e8cc94	Rasio puncak / masuk
+e5f27121	Inversion recovery
+e5f6fa50	Kuat medan
+e621da6d	Tepi Compton T_max
+e636070c	Fourier parsial # %
+e670f9a4	Perkiraan dosis janin
+e6862f05	tanpa filter
+e70efde8	Rotasi pasien
+e73b4300	Filter Al tambahan
+e74c644a	Modul
+e75dfe28	Ruang tunggu — pilih pasien
+e78631fd	Jendela
+e7883571	#. Perencanaan terapi
+e8145ea3	 % dari kVp)
+e8511c37	Preset
+e8f9a7ba	← Beranda sederhana
+e934bbc7	Waktu keseluruhan
+e9cef8c2	Elektron memiliki jangkauan terbatas: ideal untuk tumor superfisial. Aturan praktis: R5# ≈ E₀/# cm, Rp ≈ #·E₀ cm, kedalaman terapeutik R8# ≈ E/# cm. Ekor kecil di kedalaman berasal dari foton bremsstrahlung.
+e9eeaebf	tanpa radiasi pengion
+e9f3813b	Dosis bayi (# % kontak dekat)
+ea3ff3b9	Kasus hanya untuk pendidikan, bukan untuk keputusan klinis.
+ea445006	Fantom kualitas citra NEMA
+ea617450	Dugaan apendisitis pada pasien hamil. Apa yang harus dilakukan lebih dulu?
+eab8f509	Filtrasi: naikkan HVL di atas # mm Al
+eac26593	Dosis efektif (# cm)
+ead463ae	Energi efektif
+eaeaaa7b	Pahami alasannya
+eaf105c7	Sorot
+eaff7e77	eGFR # mL/menit/# m², mengonsumsi metformin. Apa yang kamu lakukan terkait kontras beriodium?
+eb267579	 (tanpa AC)
+eb2ba7e2	Tinggi lapangan
+eb5ba0e3	#. Proyeksi balik terfilter (FBP)
+eb6d0c3f	Persiapan pasien
+ebb00912	tidak perlu perisai
+ebee5570	Emir: "Saya harus menahan napas? Oke, saya tahan!"
+ec3c5945	Tips: halaman "Teori" di bilah atas memuat rumus-rumus utama.
+ec3ea500	Catatan model: MC memakai riwayat terkondensasi (hamburan ganda Highland); perencanaan bersifat #D dan mengabaikan hamburan lateral.
+ec88aab2	Selesai
+ece35ca8	Coba di lab  →
+ece838e8	pemindaian
+ed03c7fc	≈ Sebagian benar
+ed465190	Target: tampilkan robekan meniskus dan edema sumsum tulang. Spin echo: S = PD·(# − e^(−TR/T1))·e^(−TE/T2). Pilih TR, TE, saturasi lemak, dan B₀, lalu tekan JALANKAN SEKUENS.
+eda30c59	Tugas selesai: 
+edbd8b07	Pembobotan
+eddfea6b	Ratusan kanal × banyak baris sintilator keramik. Mengukur satu proyeksi per sudut; bersama-sama membentuk sinogram.
+edf0d031	Atur ulang kuis
+ee5e0890	Kolimasi ketat ke paru-paru; tanpa pelindung gonad, dan jelaskan alasannya kepada ibunya
+ee69cbe6	Elif bertanya sambil menangis: "Apakah itu membahayakan bayi saya?" Perkiraan dosis janin ≈ 
+ee88a3cc	Untuk pemindaian seluruh tubuh, pasien digeser melalui beberapa posisi meja; medan pandang aksial #–# cm, dan #–# m pada sistem aksial panjang.
+ee940d80	Terang = atenuasi tinggi (tulang, logam). Ditampilkan dalam konvensi radiologis: kanan pasien di kiri. Jendela diatur otomatis.
+ef57cd07	Gula darah
+ef945465	Pulsa RF
+efce91bf	T½ terukur (MC)
+efd604d5	Suhu
+efd9baf3	Rasio Tc/Mo (kesetimbangan transien)
+f0565afa	Terfraksinasi (d tetap)
+f0c79167	Post
+f1d69164	Lapisan nilai paruh (HVL)
+f1e3d43f	Gadolinium menembus plasenta; saat hamil hanya bila benar-benar perlu. MRI tanpa kontras cukup untuk apendisitis.
+f1e5a8a5	Bila kVp melebihi energi ikat kulit K tungsten (# keV), muncul garis <b>karakteristik</b>: Kα ≈ #–# keV, Kβ ≈ #–# keV. Intensitas ~ (U − #)^#, U = kVp / E_K.
+f2125926	Noise hati # HU: abses dan lemak dapat dibedakan.
+f215c98f	DI # → overeksposur (DI # ≈ # %, # ≈ #× dosis).
+f2586cb3	Lapangan (di detektor)
+f25c8ffb	Latar alami (rata-rata dunia)
+f28c5bf6	Pelajaran • gambar interaktif • kuis
+f2e56345	Atur ketebalan timbal ke HVL Cs-# (≈ # cm) dan lihat penurunan setengahnya
+f2f0b95b	tunggu (jam)
+f38b9efa	#. Proyeksi dan transformasi Radon
+f3952697	elektron pental T
+f3987859	Keluaran tabung kira-kira sebanding dengan kVp² dan linear dengan mAs: kVp #% lebih tinggi kira-kira menggandakan sinyal detektor (aturan #%).
+f3b48ff1	Hentikan dia: magnet superkonduktor selalu aktif dan benda feromagnetik menjadi proyektil; hanya peralatan aman MR
+f425bff1	  → echo diharapkan pada: 
+f48a9bb6	Dosis kedalaman Monte Carlo, puncak Bragg, perencanaan terapi, DVH, radiobiologi.
+f4a277c4	Perencanaan
+f4a9c097	Filter
+f5c1b5b5	Ukuran medan (di permukaan)
+f5e305fa	Lapangan #×# cm: dada ≈ #×# cm; persempit kolimasi (DAP dan hamburan).
+f5efdcd1	# mg/L
+f60d1c54	Citra berbobot T2: CSS lebih terang daripada substansia alba
+f67cc940	Mode peluruhan
+f6862a0b	Transmisi perisai (termasuk build-up)
+f6d42ce8	Kedalaman puncak Bragg
+f6f22637	Kontrol
+f71b5abf	Dosis efektif biologis
+f728f992	dewasa rata-rata (# cm)
+f7c4fef9	"Terima kasih, Anda sangat perhatian!"
+f80ba400	Cara memakai bagian ini
+f810e311	EQD2 rektum (α/β #) = # Gy — dapat diterima.
+f8486832	Gunakan hanya pusat ruang k: kontras tetap, detail hilang
+f84b8da5	Salah dan menimbulkan kecemasan untuk radioterapi eksterna.
+f8c4150d	# MeV e⁻
+f900a313	Nak, apakah akan ada bekas luka di wajah saya? Dan tolong jangan sakiti mata saya.
+fa033cd5	Misi: ambil sumbernya
+fa73ce08	Kerja bagus — ada beberapa hal yang bisa diperbaiki.
+faa8e755	FLAIR: memilih TI = T1·ln2 menihilkan CSS (≈ # ms pada # T). STIR: TI pendek menekan lemak (≈ #–# ms).
+fad26615	Memancarkan pulsa B₁ pada frekuensi Larmor (~# MHz pada # T) yang memiringkan M. Pemanasan jaringan (SAR) berasal dari sini.
+fae02622	Rontgen orbita: TIDAK ada benda asing logam. Pemeriksaan dilanjutkan.
+faff56b8	Waktu berlalu
+fb079007	Dosis per fraksi d
+fb5419ac	Tepi kurang dosis → risiko kekambuhan; pada lapangan sangat kecil R9# juga menjadi lebih dangkal.
+fb77122a	Mulai kasus pertama
+fb8da0b7	Apendisitis saat hamil: USG → MRI tanpa kontras → CT dosis rendah bila perlu.
+fb990b3e	★★★ ≥ # %, ★★ ≥ # %, ★ ≥ # %. Hasil terbaik Anda disimpan; main lagi untuk memperbaikinya.
+fba0b4a2	Kosinus
+fbb64dbd	Tegangan tabung
+fc6adbf7	Kerma udara permukaan masuk (ESAK)
+fc7e5fc3	Kecukupan cacahan # — aktivitas lebih dari yang diperlukan; dosis tambahan tidak menambah nilai diagnostik.
+fc82911d	relatif
+fcdeb802	overeksposur
+fcff6168	Panggul
+fd4e03b8	Waktu per posisi meja
+fd53e067	setelah injeksi (menit)
+fd7f93f9	Parameter
+fd8f9de5	Gradien mengodekan posisi menjadi frekuensi dan fase; sinyal yang direkam adalah transformasi Fourier #D dari citra (ruang k). Citra diperoleh dari FFT invers. Ukuran matriks menentukan resolusi, FOV menentukan ukuran piksel; undersampling menimbulkan lipatan, gerakan menimbulkan bayangan sepanjang pengodean fase.
+fd9045b9	#–# kV lebih mampu menembus pasien besar: mAs lebih sedikit untuk derau yang sama.
+fddaa9d0	Indeks konformitas (Paddick)
+fe0012eb	Saran usang; tidak perlu bila eGFR ≥ # dan menunda diagnosis.
+fe2bb7a7	Membalut panggul dengan apron timbal
+feb29647	Berkas polienergetik (realistis)
+feb7cede	Hipertensi (terkontrol)
+febab6f7	IGRT: sebelum terapi diambil citra kV atau CT berkas kerucut (CBCT), lalu posisi pasien dikoreksi hingga milimeter.
+fec9a6c7	Pencitraan kV / CBCT harian dengan pencocokan penanda emas
+ff1483ac	Alat pacu jantung (titanium)
+ff559aca	Can: "Untung kalian kasih saya headphone. Ini dia suaranya!"
+ff97f266	Energi foton rata-rata
+ffedd789	Menyusui bayi berusia # bulan

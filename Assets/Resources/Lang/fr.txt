@@ -1,0 +1,1332 @@
+002e566d	Cas cliniques
+005ef20f	État
+006f11ff	Nodule pulmonaire (tumeur)
+00e896c1	Mesure dmax et le PDD1# de photons de # MV (≥ # # histoires)
+00e97d3d	Il n'y a aucun risque.
+01446da3	Sang avec contraste
+01b10287	Foie
+022ebff6	  — lis les explications et réessaie.
+02307551	Les trois principes de la radioprotection : justification, optimisation (ALARA : aussi bas que raisonnablement possible) et limitation des doses. Travailleur : # mSv/an (moyenne sur # ans, max # sur une année), public : # mSv/an, cristallin : # mSv/an.
+0282b42b	Pas de grille : bon choix pour un thorax pédiatrique fin.
+02875262	Pression artérielle
+028cc680	Ouvrir un grand champ et mettre du plomb sur la thyroïde
+02daa186	Écho de gradient
+02ff0734	heures
+03410798	Commencer par la leçon #  →
+03aded2d	Proton
+03d9f12f	VALIDER
+04215fff	Tête de traitement
+04665812	Énergie moyenne (entrée / détecteur)
+04b21fef	Périphérie seulement
+04c33449	Nombre initial d'atomes N₀
+05446544	Rayonnement ionisant
+054ed6b1	#. Les protons et le pic de Bragg
+0551e426	Aimant supraconducteur
+05735a1f	De forts bruits de cognement se font entendre pendant l'examen. Cause et précaution ?
+05747e6b	Recommandations actuelles (AAPM #, BIR/IPEM #) : la collimation est la protection la plus efficace. La dose aux gonades hors champ est déjà minime ; un cache qui glisse dans le champ masque l'anatomie et fait augmenter la dose par l'exposeur automatique.
+05883f18	Débit de dose H*(#)
+05aeb14d	Dose inutile à l'œil et à la peau saine du visage.
+05b19ab8	Conseils d'étude
+05b21be8	EQD2 tumorale = n·d·(d + #)/(# + #) = # Gy — plage curative.
+05f6dc9a	Champ principal B₀
+069d81b7	 canaux
+06ba43bc	Chaque sphère est un noyau. À chaque pas de temps, il se désintègre avec une probabilité p = # − e^(−λΔt) et émet une ligne de photon ; avec peu de noyaux, N(t) fluctue statistiquement.
+06df51de	Activité injectée
+07001202	Angle de bascule α
+07157b8f	L'iode émet de la lumière à cette énergie
+078f2dfe	Patient
+07a4c4cc	Genou droit tordu au football ; blocage, gonflement
+07ef138f	LANCER LA SÉQUENCE
+0827bee2	Limites de dose (CIPR #)
+086c6bbb	Couleurs : isodoses #%·#%·#%·#%·#%. Contours : vert PTV, jaune moelle, rouge cœur, rose poumons.
+08c92619	Les enfants sont #–#× plus radiosensibles que les adultes et ont une longue espérance de vie → l'ALARA compte encore plus.
+09138ded	Je ne veux pas d'opération. Comment se passe ce traitement par rayons, est-ce que ça fait mal ?
+096813ae	Bruit (σ, zone homogène)
+098d1ad9	Radioembolisation hépatique (SIRT)
+09c4871c	Quelle est l'interaction dominante d'un photon de # MeV dans les tissus mous ?
+09f71920	Fréquence de Larmor
+09feeabb	Compare le pic de Bragg de protons de # MeV avec le parcours CSDA du NIST
+0a496fc5	Dose fœtale ≈ SSDE (utérus entièrement dans le champ). Limite de bruit diagnostique ≈ # HU (protocole appendicite basse dose). Choisis kV, mAs, pitch et longueur d'acquisition, puis appuie sur SCANNER.
+0a52c35c	Pondéré T1
+0aa78268	Hypofractionnement : l'α/β de la prostate est plus bas que celui du rectum, donc les grandes fractions favorisent la tumeur (CHHiP #/#, PACE-B #/#) et le patient se déplace moins.
+0ac8a560	Réinitialiser
+0acf4d25	Texte plus grand
+0b4677ab	EANM : glucose < # mmol/L (≈ # mg/dL). L'hyperglycémie entre en compétition avec le FDG et réduit la fixation tumorale.
+0b4d8f40	fraction survivante
+0b81ff1c	Os maxillaire ≈ # cm sous la lésion
+0b8b3199	Contraintes de dose (QUANTEC / RTOG)
+0bbe8b9f	Monte-Carlo en temps réel : chaque trace est une particule. Plus d'histoires = moins de bruit statistique (σ ~ #/√N).
+0c1c4f42	Radiothérapie : EBRT curative, prostate ± vésicules séminales (Dr Kılıç)
+0c2610e2	CNR déchirure/ménisque # : déchirure bien visible (liquide clair, ménisque sombre en DP/T2).
+0c433245	Faible rapport tumeur/bruit de fond → risque d'erreurs de stadification.
+0c903e49	Des volets en plomb limitent le champ : moins de dose au patient et moins de diffusé. La filtration Al/Cu élimine les photons de basse énergie, durcit le faisceau et réduit la dose à la peau.
+0ccd4680	Rapport sphère / fond
+0ce92428	CTDIw : fantôme corps de # cm (tête de # cm) ; E = PDL × k (thorax #, abdomen #, tête # mSv/mGy·cm).
+0d78d08a	Construis un SOBP de # cm de large
+0db9cc3e	Pouls
+0dec8195	Applique #° – τ – #° et forme un écho de spin
+0e1a0a7b	dose unique, α/β = # (précoce / tumeur)
+0e32111a	Faisceau
+0e629e6c	Reprogrammer : jeûne ≥ #–# h, la glycémie doit être < # mg/dL
+0f01dfcb	Prochaine heure d'élution
+0f6a0301	Applicateur #×# cm, sans découpe
+0ff4383c	Travailleuse enceinte (fœtus)
+10225e52	Os cortical
+10bddc32	Un fragment ferromagnétique intra-oculaire peut bouger dans B₀ et rendre aveugle → radiographies des orbites (ou scanner) d'abord.
+10bee102	Indice de déviation (DI)
+10f562e1	Donner de l'insuline rapide et injecter tout de suite
+10f6a1bd	Modèle linéaire-quadratique • BED
+113249ae	Fais un plan photons qui respecte toutes les contraintes de dose
+114fa830	Le collimateur multilames (lames de #–# mm) conforme le champ à la tumeur et se déplace pendant l'irradiation en RCMI et VMAT.
+116e6f62	Hologramme
+11a18b82	Tout retirer
+11a4e77a	Qualité diagnostique / thérapeutique
+124f5fe7	Contraste substance blanche / grise (au repère)
+129b582e	DI # → exposition correcte.
+132d55ba	photons relatifs
+134c264b	Artefact métallique : examine une coupe du bassin avec la prothèse de hanche
+135a8cc7	 h après
+136685c9	EQD2 tumeur (α/β #) = # Gy, peau tardive (α/β #) = # Gy. Bon équilibre entre contrôle et esthétique.
+1370333f	Largeur du champ
+138fb3e1	Correct : I/I₀ = e^(−μx). Comme σ ~ #/√N, le bruit augmente d'environ √# ≈ #× à mAs égal.
+13ad4851	β-hCG POSITIF : environ # semaines de grossesse.
+13bea53e	# marqueurs fiduciaires en or implantés
+13f06473	Effacer les mesures
+1451f91f	vraie 
+14d5133a	ACR (#) et ESUR # : la metformine est poursuivie si DFGe ≥ # ; le contraste IV est nécessaire pour détecter un abcès.
+14e77c03	Réinitialiser la progression
+151c3f35	Anneau de détecteurs (LYSO + SiPM)
+1527c7a5	Découvre la physique médicale pas à pas, avec de vrais calculs.
+15b23cec	 points
+15c3229f	α/β tumeur
+15cf43c6	Le capteur plan opposé à la source kV ; il recueille des centaines de projections pour le CBCT pendant la rotation du statif.
+15f25e35	Allaitement et contact rapproché
+15fd9964	Les langues autres que le turc et l'anglais sont des traductions assistées par machine ; merci de signaler toute erreur.
+16092a9e	Réessaie — les explications te guideront.
+160c0541	Le neutron est neutre ; il transfère d'abord son énergie à des protons de recul (surtout l'hydrogène), qui déposent ensuite la dose.
+16280e6a	Débit de dose du patient ~ A/d² ; F-# T½ = # min. Retarder le contact rapproché de quelques heures réduit fortement la dose au nourrisson.
+1640e3a4	distance (m)
+164b6930	Enregistrer la mesure
+16b19be2	Effet du kVp : expose à ≤# kVp et à ≥# kVp ; compare le contraste osseux
+16d4a955	Radiothérapie
+17098140	Adénocarcinome prostatique, risque intermédiaire (Gleason ##, PSA #)
+1716fced	Dose fœtale ≈ SSDE = # mGy (CTDIvol # × f #).
+1725def4	Les raies K exigent que l'électron incident dépasse l'énergie de liaison de la couche K ; les raies K du tungstène n'apparaissent donc qu'au-dessus de # kVp.
+17278db5	Énergie
+17a150b4	Oui — les raies caractéristiques ne dépendent pas du kVp
+17a890d2	Noyaux restants N(t)
+17c2afe2	Dans les tissus mous, l'effet photoélectrique domine en dessous d'environ # keV, le Compton entre # keV et ~# MeV, et la création de paires au-delà. Dans les matériaux de Z élevé comme le plomb, le domaine photoélectrique s'étend jusqu'à environ # keV : c'est pourquoi le plomb est un bon écran.
+17cd8fa8	 leçons • 
+1808f4a6	Dans les tissus mous, le Compton domine d'environ # keV à # MeV. La création de paires est impossible sous son seuil de # MeV.
+18279c08	Pic de Bragg étalé (SOBP)
+18284597	<b>Indice d'exposition</b> EI = # × K_détecteur [µGy] (CEI ##). Indice d'écart DI = #·log₁₀(EI / EI_cible) ; |DI| ≤ # est approprié. DI = # signifie le double de la dose nécessaire.
+182fdbbe	EANM (chevauchement des pas > # %) : A·t ≥ # MBq·min·kg⁻¹ × poids. Moins d'activité + plus de temps donne la même image à dose plus faible. Délai de fixation recommandé : # ± # min.
+18674089	<b>Diffusion cohérente :</b> le photon change de direction sans perdre d'énergie ; faible contribution aux basses énergies.
+18d0a565	Scanner thoracique
+1904dc9d	Recommandation EANM
+19201036	Temps–distance–blindage, loi de l'inverse du carré, carte de débit de dose, missions.
+193ee1fd	Pic de Bragg étalé (SOBP, # cm)
+19b5eb24	Règle empirique : R9# ≈ E/# cm, R5# ≈ E/# cm, Rp ≈ E/# cm. Les électrons s'arrêtent à une profondeur nette — idéal pour les tumeurs superficielles.
+19c23656	 h d'attente
+1a36a166	Progression
+1ace7035	Détecteur plan
+1b01a1c6	Un atome est formé d'un noyau de Z protons et N neutrons, entouré de Z électrons. Le nombre de masse est A = Z + N. Des noyaux de même Z mais de N différent sont des isotopes, comme ¹²C et ¹⁴C.
+1b06e46e	Collecte ≥ # # coïncidences et reconstruis avec MLEM
+1b12fad7	Diabète de type # (metformine)
+1bbe9bf8	Mehmet : « Les bras au-dessus de la tête ? D'accord. »
+1be9e2d9	La couche de demi-atténuation (CDA) est l'épaisseur qui divise l'intensité par deux : CDA = ln2/μ. La couche de déci-atténuation vaut CDDA = ln1#/μ ≈ # CDA. n CDA réduisent l'intensité d'un facteur #ⁿ.
+1c872a31	oui (> # MV)
+1ca87565	Les repères cutanés et les lasers suffisent
+1cb740a3	<b>Loi de l'inverse du carré :</b> intensité ~ #/d². Passer d'une DSI de # à # cm demande ~#× mAs pour la même dose au détecteur, mais la dose à la peau augmente moins et l'agrandissement diminue.
+1cc0e3d5	La mère demande : « Cette radio peut-elle nuire à mon fils ? » Dose efficace d'Emir ≈ 
+1d4b8ac2	Injecter immédiatement
+1d6b9aba	Pendant l'organogenèse (semaines #–#), le seuil déterministe est d'environ #–# mGy ; les examens diagnostiques en sont très loin.
+1d8a20dd	L'abdomen de Mehmet mesure 
+1dd9a37f	Délai de fixation non standard : les SUV ne sont pas comparables aux examens antérieurs/ultérieurs.
+1e6a827e	Trouve la fréquence de Larmor du proton à # T (≈ # MHz)
+1e836d59	Décroissance T2
+1f05f68e	Paramètres tissulaires
+1f12087d	Dose ≈ 
+1f4ea376	Activité initiale de Mo-#
+1f6b3b4a	Os (# cm) # % — épargné.
+20170133	Plombages dentaires
+2056fe0a	Le Co-# a un faible PDD et une large pénombre ; il n'est pas utilisé pour la RT curative moderne de la prostate.
+20c4a5a9	Vue de la peau
+20c53222	Choisis n'importe quel thème. Si tu débutes, essaie d'abord le court cas d'initiation.
+20caf1bb	Élue le générateur #–# h après l'élution précédente (rendement maximal)
+210acf6e	Hasan : « Combien de jours devrai-je venir ? Je viens du village. »
+218447b4	Graisse
+21db31eb	TR/TE courts → T1 ; TR long, TE court → DP ; TR/TE longs → pondération T2.
+21f331e9	Arthroscopie de l'épaule en # : ancres en titane
+224a7dd2	Aucune restriction de ce type en radiothérapie externe ; cela peut s'appliquer aux grains de curiethérapie.
+229566cb	Hasan : « Pourrai-je serrer mes petits-enfants dans mes bras après le traitement ? Serai-je radioactif ? »
+22a06b53	ALARA : image thoracique avec ESAK < # mGy et DI ≥ −#
+22fd0749	L'IGRT quotidienne corrige le mouvement des organes et réduit les marges et la dose rectale.
+2357d727	Physique du faisceau
+23f641a4	• Vérifie les unités de chaque formule (cm⁻¹, Gy, Sv, MBq). • Résous d'abord les exemples toi-même, puis vérifie. • Après l'examen blanc, revois les leçons des questions manquées. • Pour les entretiens : principes de la CIPR, CDA, loi de l'inverse du carré, LQ/EQD2, CTDIvol/SSDE, T1/T2, PDD et pic de Bragg reviennent le plus souvent.
+24176da5	Générateur Mo-# / Tc-#m
+2448ca2f	plomb
+2456b993	Contraste
+2523a664	Va jusqu'à la source (< # m), ramasse-la et porte-la jusqu'au château de plomb.
+25266a5c	Terminé. Rapport centre/fond : 
+252a0fa6	sans blindage
+253898c0	Statistique de comptage # — qualité d'image de niveau EANM.
+25517e15	Pic de Bragg
+2576aae7	Poids / taille
+25941612	Dose à l'os (# cm)
+25b31f5d	Rendement du tube (# m)
+25c2fc03	Aucune question trouvée.
+25e14a19	Courant × temps
+25edd5e3	références de pouvoir d'arrêt et de parcours des protons et électrons
+26f973b0	Correction d'atténuation (AC)
+26fbd2ec	Qu'est-ce qui distingue un rayon X d'un rayon γ ?
+2731d14d	COMMENCER LE CAS  →
+2749a496	Dose efficace au patient
+27c35a89	 (perte T2 : e^(−TE/T2))
+280f0096	Commence par ton premier cas
+287f6fa8	Fractions délivrées
+2885d27b	Grille antidiffusante (#:#)
+28a6f0c2	Courbe
+28ce8c15	Les détecteurs mesurent le positon lui-même
+290489df	Probabilité d'interaction par unité de longueur (cm⁻¹) ; μ/ρ est le coefficient d'atténuation massique (cm²/g).
+296d75eb	Radiobiologie
+29aac115	dose unique, α/β = # (tardif)
+29e178a3	Parler avec la famille
+29e32f3e	Accueil
+2a17c8fd	Bruit hépatique # HU : un abcès peu contrasté peut se perdre dans le bruit.
+2a72143f	Nécessaire pour < # µSv/h au pupitre
+2ab93b6c	Objectif : ≥ # % de dose partout de la peau jusqu'à # cm ; ≤ # % sur l'os à # cm. Choisis l'énergie et l'épaisseur du bolus.
+2ad83ea8	SCANNER
+2afcdfa8	CNR déchirure / ménisque
+2b05bc17	Chaque atome se désintègre à chaque pas de temps avec une probabilité p = # − e^(−λΔt). Avec peu d'atomes, la courbe fluctue statistiquement.
+2b45b1f2	Itérations MLEM
+2b8ee748	Schéma choisi
+2bab58c8	Sécurité IRM : questionnaire, radiographies des orbites (métallurgistes), règles de la zone IV, protection auditive.
+2bbeecb2	De vrais patients, de vraies décisions : radiographie thoracique pédiatrique, scanner pendant la grossesse, patient corpulent, radiothérapie de la prostate, cancer de la peau, TEP et sécurité IRM.
+2bd2dbd1	Prothèse de hanche en titane
+2be6e625	Curiethérapie HDR
+2bfaf1fc	pas encore exposé
+2c30aab8	Dose totale / durée
+2c89960f	EQD2 tumeur (α/β #) = # Gy, peau tardive (α/β #) = # Gy. Une seule grosse fraction expose à une nécrose tardive et à des lésions du cartilage.
+2cafb291	Cas cliniques — 
+2cb28fc5	Éléments
+2ceef116	Couper l'aimant, puis la laisser entrer
+2d0ea9f2	Dose totale
+2d435572	Crée une peur inutile et retarde le diagnostic ; un examen justifié ne doit pas être bloqué.
+2d877b6c	Section
+2d93483f	Tu peux cocher plusieurs options.
+2dcee2fc	après élution (h)
+2e160bcd	Stade
+2e6390f7	Terminé. 
+2e83162e	Conception de la séquence
+2eafe887	Débit
+2ebd290f	Charge du tube (pitch #)
+2ecb2727	Un kV bas augmente le contraste de l'iode mais cause une famine photonique chez les patients corpulents.
+2f0820de	Scanner sans injection
+2f44ed8c	Recommencer
+2f828120	Des sphères chaudes de plusieurs tailles et un insert pulmonaire dans un cylindre rempli d'eau : on y teste les coefficients de recouvrement, l'effet de volume partiel et la correction d'atténuation.
+2fc8666a	CNR œdème / moelle
+3000eed2	temps (jours)
+304ff7fb	Aucun
+30b6e97d	Énergie des électrons et bolus
+30fa92b1	Image reconstruite
+3152bf83	Métastases osseuses (thérapie alpha)
+31b9a47d	Récupération T1
+31e91d5f	Mince au centre et épais sur les bords, il réduit la dose aux bords minces du patient et égalise le signal du détecteur. Le collimateur fixe l'épaisseur de coupe.
+327a15b7	La production de photoneutrons commence au-dessus de ~# MV ; avec la VMAT, #–# MV suffisent pour les cibles profondes.
+32abb5ec	Particules non chargées (photons, neutrons) qui mettent d'abord en mouvement des particules chargées.
+32d80beb	compositions des tissus, grandeurs de dose, facteurs de pondération
+33449df1	#. Atténuation et filtration
+3377af3e	Correct : F = I·L × B. Le bruit augmente avec B₀ (plus fort à # T) ; la CEI ### impose une protection auditive.
+33c3fd73	Médecine nucléaire
+33d5539e	Il y a une demande, scanner immédiatement
+33d5b2f2	Muscle
+34049cb1	Tumeur
+340a8d84	Avance à vitesse constante pendant une acquisition hélicoïdale. Pitch = avance de table par rotation / largeur totale du faisceau ; un pitch > # réduit la dose.
+340d8b25	Rétrodiffusion E′(#°)
+347ac991	La première CDA élimine les photons mous, donc le faisceau restant est plus dur
+34895938	Sol : débit de dose H*(#), µSv/h (échelle log) • ligne blanche = # µSv/h
+34a0fb80	Les particules chargées (électrons, protons, α) subissent en continu des interactions coulombiennes le long de leur trajet : elles sont directement ionisantes. Les photons et les neutrons sont neutres : ils mettent d'abord en mouvement une particule chargée (photon → électron, neutron → proton de recul), et c'est elle qui dépose la dose.
+34a3d9ed	Développeur
+34aaa379	 min
+34dd8fb9	#. Équations de Bloch et relaxation
+3510b740	L'insuline pousse le FDG dans les muscles et la graisse ; attendre ≥ # h ensuite.
+35143fb3	TE (temps d'écho)
+35afca3b	Annuler
+35dd3154	Atomes et noyaux, types de rayonnements, et interactions des photons et des particules chargées avec la matière — le socle de toute la physique médicale.
+35dfee4a	La structure de l'atome
+35fca6f7	Histoires
+36014d05	Espace k
+360983be	Correction du durcissement par l'eau (BHC)
+36315a9f	Os cortical / sang avec contraste
+363200c3	Terminé : 
+36375dc7	Réinitialiser toute la progression ?
+365bad67	Niveau 
+368f3298	 questions
+36c94f4b	Pas de diabète
+36cc1e6f	Fais descendre le débit de dose au pupitre (repère vert) sous # µSv/h
+3769e565	#. Dose
+3809b45a	Écho de spin ! t = 
+381fcf9b	Bruit (ROI vessie, ÉT)
+38362f62	Les tâches terminées, les étoiles des cas et la progression des leçons seront supprimées. Cette action est irréversible.
+38652f80	Temps de fixation
+38ec0bda	Dose efficace (# mSv/MBq)
+38f2a757	Activité massique (pur)
+38f6bec6	Coupe axiale (UH)
+38f9308a	Crâne
+39547f25	Non filtré
+396c9c92	Poumon V2# < # %
+398977ad	Canaux du détecteur
+399e986d	Tâches
+3a6a3b1d	Restants / désintégrés
+3ad53794	AP
+3b1cbe1c	Activité dans le corps après l'examen
+3b272149	✗ Faux
+3b2ac288	L'œdème osseux dans une moelle graisseuse n'apparaît qu'avec une suppression de la graisse (ou STIR).
+3b6eb64c	La paroi rectale antérieure est au contact de la prostate
+3b7e32aa	Rapport entrée / pic
+3b8987c9	  — leçon maîtrisée !
+3ba1a0c6	Chaque CDA divise l'intensité par deux : (#/#)³ = #/#.
+3c21cd4d	Prescription
+3c2dfe59	Masquée
+3c4cfbae	Le titane n'est pas ferromagnétique (compatible IRM / sous conditions) ; aucune mesure nécessaire.
+3c988cc0	Énergie moyenne
+3d27f064	<b>Création de paires :</b> dans le champ d'un noyau, le photon se transforme en paire électron–positon ; le seuil est de # MeV et la probabilité croît environ en Z².
+3d6b9f1f	Tumeur pulmonaire
+3dbec6d5	Indice d'exposition (EI)
+3e04a9b3	Longueur d'onde d'un photon X de # keV : λ ≈ # / # = # nm — environ un dixième du diamètre d'un atome (~# nm).
+3e0553f6	Thorax
+3e233fe3	Vie moyenne τ = #/λ
+3e246e80	La mère demande : « Cette radio peut-elle faire du mal à mon fils ? » Dose efficace d'Emir ≈ # µSv. Que réponds-tu ?
+3e26d09f	CNR œdème/moelle # : contraste faible.
+3e3a239c	Modalité d'imagerie
+3e5c100c	Orthopédie : IRM du genou droit — déchirure méniscale ? contusion osseuse ? (Dr Polat)
+3e6fed3c	Sphère de Bloch (référentiel tournant)
+3ea76ce8	BED tumeur
+3f01de3a	Cinq interactions
+3f6fbd86	Échantillonnage de l'espace k
+3f99f636	Bruit # HU : non diagnostique — il faudrait refaire l'examen, ce qui augmente la dose totale.
+3fa74db5	Spectre de photons (cible + cône égalisateur)
+3fddf4f8	Excellent ! Tu maîtrises le sujet.
+3fe8604c	Tatouage
+3feef465	− Retirer
+4007d15d	Centre d'apprentissage — # thèmes, # leçons
+40253cf6	μ est le coefficient d'atténuation linéique (cm⁻¹), somme des quatre termes d'interaction. μ/ρ (cm²/g) ne dépend pas de la densité, c'est pourquoi les tables (NIST XCOM) le donnent.
+40361aca	Nombre de fractions
+4036e7f4	Cette application enseigne les notions essentielles de la physique médicale grâce à des simulations #D interactives. Tous les calculs reposent sur de vrais modèles physiques et des données de référence, mais elle n'est PAS destinée à un usage clinique.
+4068c7dd	Petit-déjeuner il y a # heures, glycémie # mg/dL. Que fais-tu ?
+4078f8e8	Des bobines autour du tunnel font varier le champ linéairement avec la position (mT/m) : sélection de coupe, codage en fréquence et en phase. Leur commutation rapide produit le bruit.
+41086ad1	mAs pour le même σ (vs # cm)
+411cbb0d	Évitez seulement les femmes enceintes
+414eb5b3	Résumé
+41d150aa	Statif
+41e0bccc	photons
+421ed9be	Deux interactions dominent aux énergies diagnostiques : l'<b>effet photoélectrique</b> (~ Z³/E³, source du contraste) et la <b>diffusion Compton</b> (~ densité électronique, source du diffusé). La simulation utilise les tables NIST μ/ρ(E) pour chaque matériau.
+422af40c	Souris : glisser à gauche = orbite, glisser à droite = déplacer, molette = zoom. Tactile : un doigt = orbite, deux doigts = zoom/déplacement.
+42347061	Courant du tube × temps
+424c4852	#. Formation de l'image
+426e4933	Claustrophobie
+42720baf	Os
+427f78a4	Règles rapides (énergie nominale) : R9# ≈ E/#, R8# ≈ E/#, R5# ≈ E/#, Rp ≈ E/# (cm).
+439ee205	Compare l'effet de la correction d'atténuation au centre de l'image
+43b2aeba	Modifie les paramètres → l'image et la dose sont recalculées (lancer de rayons polyénergétique + données NIST).
+43b5e592	Radionucléide
+43cb67fd	L'énergie de liaison de la couche K du tungstène est de # keV. Un tube fonctionnant à # kVp produit-il les raies K caractéristiques du tungstène ?
+43d93074	EQD2 tumeur (α/β #) = # Gy, peau tardive (α/β #) = # Gy. Sous-dosage : risque élevé de récidive.
+446ceec2	en kerma dans l'air
+44fb5dc7	Source sécurisée ! Dose pendant la mission : 
+4531ef7f	L'atténuation dépend exponentiellement de l'épaisseur.
+4581c4fb	#. Désintégration radioactive
+45901efd	Bobines de gradient
+4602d9ec	touche l'image
+46143215	Point de rencontre des axes de rotation du statif, du collimateur et de la table (±# mm). La distance source-axe (DSA) est de # cm.
+467b083e	Bolus
+46ac079e	Acquisition…
+46e87af2	 % fait
+472bd5d7	Un kV bas renforce le contraste de l'iode (seuil K # keV) ; un bon choix chez une patiente mince.
+475a075b	Sinogramme  p(θ, s)
+477692bf	Médecine nucl.
+47f9a72c	Fièvre (# °C) et toux depuis # jours
+48bee2b3	Une demande de scanner arrive. Les dernières règles d'Elif datent de # semaines. Que fais-tu avant tout examen ionisant ?
+48cabbff	# champs
+48f82113	excrétés 
+49059469	Ça va être rapide ? Je dois retourner travailler demain — je fais du meulage à l'atelier.
+491836e3	erreur 
+499a20d5	AP, couché, DSI # cm
+49cf1cfd	Fréquence de Larmor f₀ = γ̄·B₀
+49e1196b	Déchirure méniscale
+4a690915	Antenne de réception
+4ac37c75	Diffusion Compton
+4b058728	Paramètres
+4b20e113	Médecine nucléaire / TEP
+4b6a214c	Source d'étalonnage, curiethérapie (historique)
+4b7042c7	DFGe # mL/min/# m²
+4b81b768	RSB (centre)
+4be56c9f	Question 
+4bf1fc72	Saturation de la graisse (FS)
+4c3b45ab	• Dose absorbée D (Gy = J/kg)\n• Dose équivalente H_T = w_R · D_T (Sv) ; w_R = # pour les photons et électrons, # pour les alpha, # pour les protons\n• Dose efficace E = Σ w_T · H_T (Sv) ; facteurs de pondération tissulaire de la CIPR #\n• Les radiamètres affichent l'équivalent de dose ambiant H*(#) (≈ # × kerma dans l'air pour le Cs-#).
+4c498c6f	J'allaite mon bébé. Cet examen peut-il lui faire du mal ?
+4c4a1ccb	Photoneutrons
+4c790b94	Réglages modifiés — relance avant de confirmer.
+4c94eaa4	Bien. Revois les leçons des thèmes où tu as fait des erreurs.
+4c96524b	Réduis la dose à la moelle avec un plan protons
+4cf38cb8	Énergie de lecture
+4d1aa535	Thèmes
+4d5f9cf2	an
+4daa2b83	Radioprotection
+4dd7913c	Image le stimulateur cardiaque sur une radiographie thoracique
+4de2c891	Poumons, os, tissus mous et cœur sont modélisés avec les coefficients d'atténuation NIST ; un rayon polyénergétique est tracé pour chaque pixel du détecteur.
+4df6b638	Mesures
+4e0d4ec8	Un écran a une épaisseur de # CDA. Quelle est la transmission en faisceau étroit ?
+4e6c5d36	Simulation
+4e7651ae	Scanner injecté d'emblée
+4e8632ff	Directement ionisant
+4ea60106	#. Grandeurs de dose
+4ebc9931	EQD2 tumeur (α/β #)
+4eed3c07	sous-exposée / bruitée
+4ef63472	dose relative
+4f56491a	Mesure la période du Tc-#m par Monte-Carlo à # % près
+4f5e1d34	#. Trois principes : temps, distance, écran
+4f8bf6fa	Soudeur / meulage : métal intra-oculaire possible
+4fca6bb4	Pas de maladie chronique, vaccinations à jour
+4fd01b06	Énergie du faisceau
+5009de05	Débit de dose à # m
+5009fb9e	Compare la BED tumorale de la SBRT (#×# Gy) et du schéma conventionnel (#×# Gy)
+504443a0	Exposition
+5060769e	lat
+506f8881	rectum
+50793575	Glossaire
+50b3cd30	Radiographie numérique (détecteur CsI)
+50f75e70	CNR œdème/moelle # : la moelle graisseuse masque l'œdème — utilise la saturation de la graisse (FS).
+51301586	ATTENTION
+514a1189	TR (pour la courbe SE)
+515cc083	Pondéré T2
+5169f3c5	Transfert linéique d'énergie : énergie déposée par une particule chargée par unité de longueur (keV/µm).
+51880252	Distribution de dose (plan x–z)
+51b48ac4	Écran placé. Modifie l'épaisseur et le matériau dans le panneau de gauche.
+51d5b7b0	EQD2 tumeur (α/β #) = # Gy, peau tardive (α/β #) = # Gy. Acceptable : moins de séances mais risque plus élevé d'effets tardifs (atrophie, télangiectasies).
+51ea5d41	Touche un patient ou choisis-le dans la liste. Chaque patient est un cas clinique résolu avec de la vraie physique.
+51f21a4b	Sources des données
+51f7e789	dose totale (Gy)
+51fa3930	Terminé. Examine les résultats ; modifie les réglages et relance si besoin.
+523e597b	Substance blanche
+524fb8d1	Appuie sur ÉLUER pour extraire le Tc-#m. Pour le meilleur rendement, attends ≈ # h après l'élution précédente.
+52af1039	Dans les champs d'électrons, l'isodose # % se rétrécit en profondeur ; une marge d'environ #–# cm est nécessaire. Les facteurs d'ouverture doivent être mesurés pour les petits champs (TG-#).
+537cf34e	Rendement de la dernière élution
+539143ed	TCP pour ce schéma (N₀ = #⁹)
+5394c2c1	Produit dose-surface (PDS)
+53a02dda	α/β ≈ # Gy (tumeur, réponse précoce) et ≈ # Gy (tissu sain à réponse tardive, p. ex. moelle épinière). De petites doses par fraction épargnent les tissus tardifs ; de fortes doses par fraction comme en SBRT donnent une BED tumorale très élevée mais exigent un ciblage précis. TCP = exp(−N₀·S).
+53f501c6	Activité au début de l'acquisition
+542674c2	Fantôme
+543dd434	Création de paires
+543f87d4	Colonne
+548c82d8	Aimantation
+5490dc6c	 semaines
+54ba96a0	Période effective
+54ebaaec	Diamètre effectif → SSDE
+550bfe9e	impulsion
+55231493	Cerveau
+55437eb0	Incidence et positionnement
+554740bc	Modifie les angles et les poids des faisceaux : couvre la cible tout en épargnant la moelle, le cœur et les poumons.
+5566f444	Mettre en pratique
+556bb28a	Mettre dans le château
+556d6936	Une fois la source à l'intérieur, quelques cm de plomb réduisent le débit de dose des centaines de fois (chaque CDA le divise par deux, chaque CDD par dix).
+5586c1bb	Position de la table (z)
+55af7f60	Peut se tenir debout, coopératif
+55b7844c	Ionisation directe et indirecte
+55c427dd	Coefficient de recouvrement (plus grande / plus petite sphère)
+55f81dfb	Physique de la TEP
+56a82532	Radiographie
+56aaa165	Cancer cutané de la joue — électronthérapie
+56e6dfdf	Château de plomb
+57270c3f	Délivrer # fraction
+57426dc2	Radiamètre
+580581bf	Dose unique, α/β=
+58390f45	Tatouage sur le bras gauche (#)
+584aaa85	Le spectre électromagnétique
+584ba3f5	clonogènes : 
+5865c9d9	Faisceau sélectionné : 
+5865ea2d	CIPR # et ACOG : pas d'effets déterministes sous # mGy ; une interruption n'est pas recommandée sous # mGy. Communiquer le risque avec des chiffres et du calme.
+5876c756	Patients en attente
+5878a2bf	Rendement en profondeur
+58820d8d	Meilleure réponse : 
+589a5df5	Mouvement du patient (erreurs de phase)
+58c52672	 a
+58e096de	À propos
+590ca79a	Image
+5951ffab	Travailleur (efficace)
+59c7842a	Couverture de la lésion : minimum # % — la surface cutanée est sous-dosée : le bolus remonte la dose des électrons jusqu'à la surface.
+59c80f5b	Radiographie thoracique pédiatrique
+5a09a50e	Parcours des protons (Bragg–Kleeman)
+5a296842	Plans prédéfinis
+5a53afe8	La prostate est à ≈ # cm de profondeur par l'avant et ≈ # cm par le côté. Compare les rendements en profondeur (PDD) et choisis une énergie pour la VMAT.
+5a54e20e	Résultat : 
+5aaf54e6	#. Faisceaux d'électrons
+5ab00023	CNR œdème/moelle # : contusion osseuse visible.
+5af0fb47	Rendement en profondeur Monte-Carlo • pic de Bragg
+5b6df32a	Question suivante  →
+5b765e84	En scanner abdominal, l'utérus est dans le faisceau primaire ; un tablier ne peut pas protéger et dégrade l'image.
+5bac8b63	Angle de bascule α personnalisé
+5c1604f3	Patient suivant : 
+5c1cca76	• <b>Temps :</b> la dose est proportionnelle au temps passé près de la source.\n• <b>Distance :</b> pour une source ponctuelle, le débit de dose décroît en #/d² : doubler la distance divise la dose par quatre. C'est pourquoi les pinces sont si efficaces.\n• <b>Écran :</b> les matériaux denses à Z élevé (plomb) atténuent le mieux les photons. Une CDA divise par deux, une CDD réduit le débit de dose à un dixième.
+5c60f76f	lésion
+5c6467e1	Afficher la carte de dose (x–z)
+5cae40c9	Les noyaux d'hydrogène (protons) portent un moment magnétique. Dans le champ B₀, un infime excédent s'aligne sur le champ et crée une aimantation nette M₀ (M₀ ~ B₀). Les spins précessent autour de B₀ à la fréquence de Larmor.
+5ce2e06a	Correct. En PA, le cœur est proche du détecteur → moins d'agrandissement ; une grande DSI réduit l'agrandissement géométrique et le flou. Les organes antérieurs (seins, thyroïde) reçoivent aussi moins de dose en PA.
+5d155c86	Voir le résultat  →
+5d27c72a	Tc-#m à l'élution
+5d74c24a	Planification du traitement • HDV
+5dc26de3	Comment étudier
+5ddb2028	Bases de la physique des rayonnements
+5de75a0b	Poumon droit
+5dea53d0	Radiothérapie : électronthérapie, CBC joue gauche ; profondeur échographique # cm (Dr Öz)
+5deb5e94	Refuse la chirurgie (sous anticoagulants)
+5e0275a6	#. Générateur et équilibre transitoire
+5e4baa18	Vue
+5e840e69	Fraction survivante S
+5e8aae31	Moelle
+5e8f4863	La RF est inaudible ; le bruit vient des gradients et peut abîmer l'audition.
+5ed62a66	Sang + contraste iodé
+5f38ef7b	Filtre Cu additionnel
+5f594fad	Reconstruction
+6032454b	Diffusion Compton
+6053526e	Pour le FDG : glycémie < # mg/dL et jeûne ≥ #–# h ; temps de fixation # ± # min.
+605c9960	Bruit quantique
+60bf7d6c	Bruit σ ~ #/√(mAs), qui croît exponentiellement avec l'épaisseur ; les patients corpulents ont besoin de #–# kV + plus de mAs (ou de l'exposeur automatique).
+6129d920	Correct : e⁺ + e⁻ → #γ (# × m₀c² = # × # keV). Les coïncidences fortuites et diffusées sont corrigées ; l'atténuation est corrigée grâce au scanner.
+6174d861	Le CTDIvol est la dose dans un fantôme PMMA de # cm, pas celle du patient. AAPM #/# : SSDE = f(D_eff)·CTDIvol ; chez les patients corpulents f < #.
+61814715	Matrice (résolution)
+61999a6b	Longueur d'acquisition limitée (crête iliaque à symphyse) : PDL plus faible.
+61e2a3f8	Source
+61f84dec	La dose est calculée avec une correction d'hétérogénéité par longueur de trajet équivalente (profondeur radiologique = Σ ρₑ·Δl) : un faisceau traversant le poumon est moins atténué. La qualité du plan se juge sur l'HDV : PTV D9# ≥ # %, moelle Dmax < # Gy, poumon V2# < # %, dose pulmonaire moyenne < # Gy, cœur moyenne < # Gy (QUANTEC).
+6246a72c	Réinitialiser (M || B₀)
+6283a899	 min/pas, fixation 
+6292946b	Largeur de modulation
+62b33346	Référence μ(eau)
+62dc212b	Libre parcours moyen #/μ
+6337b9a5	Une impulsion RF (B₁ à la fréquence de Larmor) bascule M de l'angle α. Ensuite :\n• <b>T1 (spin–réseau)</b> : Mz repousse : Mz(t) = M₀ + (Mz(#) − M₀)·e^(−t/T1)\n• <b>T2 (spin–spin)</b> : l'aimantation transversale se déphase : Mxy(t) = Mxy(#)·e^(−t/T2)\n• <b>T2*</b> : l'inhomogénéité du champ ajoute du déphasage (#/T2* = #/T2 + γΔB) — une impulsion de #° inverse cette part : l'<b>écho de spin</b>.
+638a3d27	Grille antidiffusante (Bucky)
+63e33069	Profondeur distale
+63e87165	Âge / sexe
+64053f4c	Sinogramme, rétroprojection filtrée, unités Hounsfield, artefacts.
+64ab923e	transmission en faisceau étroit
+64cec188	Séquence
+650b51c9	Le CTDIvol est une dose fantôme ; utiliser SSDE = f(D_eff)·CTDIvol pour la dose propre au patient (AAPM #/#).
+65297d00	 (repopulation incluse)
+652cb5da	Il faut encore travailler — les leçons ci-dessous t'aideront.
+656c2bdf	Peau / mains
+65b3c1bb	Substance grise
+660f2bd2	Géométrie et détecteur
+662c7590	Ménisque
+6644745a	Diamètre effectif / f
+66597e63	Fortuites
+66c80500	coefficients d'atténuation et d'absorption d'énergie des photons (# matériaux)
+66f00e9c	Correct : la grossesse doit être exclue chez toute femme en âge de procréer lorsque le bassin est dans le faisceau (CIPR #, AIEA SSG-#).
+6705e1b1	Des leçons progressives de l'atome à la radiothérapie, des figures interactives, des exemples résolus, des quiz et un examen blanc.
+672a70aa	Afficher le SOBP (analytique)
+6750e405	Dose efficace = PDS × coefficient de conversion (selon la région). Fond naturel ≈ # mSv/an.
+675d82e1	Sinogramme
+6779effc	Élué
+67b8f497	BED tissu tardif
+67ebc3e7	#. Unités Hounsfield et fenêtrage
+67fabac5	EQD2 rectale (α/β #) = # Gy — risque de toxicité rectale tardive (saignement, rectite).
+6808f26e	C'est risqué ; vous devriez envisager une interruption.
+6817ce15	Échographie : appendice non visualisé. Pas d'IRM la nuit ; le chirurgien insiste sur le risque de perforation. Décision partagée : scanner basse dose.
+687d1f08	Une infirmière veut faire entrer une bouteille d'oxygène en acier dans la salle de l'aimant (zone IV) en urgence. Que fais-tu ?
+68de0f88	Fiche de formules — 
+69069946	Durcissement du faisceau : examen polyénergétique avec BHC désactivé (cupping)
+69338848	Commencer le premier cas  →
+69607fdf	EPID (imagerie MV)
+69762965	Abdomen
+69c54135	 h
+69d97846	Signal tissulaire
+69fc5799	Filtre Cu
+6a494fba	Vue d'ensemble
+6a4f8e94	Aux énergies du diagnostic et de la thérapie, les photons interagissent surtout de cinq façons : diffusion cohérente (Rayleigh), absorption photoélectrique, diffusion Compton, création de paires et réactions photonucléaires. Celle qui domine dépend de l'énergie du photon et du numéro atomique du milieu.
+6a8f4d0e	Pas tout à fait. 
+6ab344fe	Effective (physique + biologique)
+6ada0052	TDM
+6ae55601	Révision
+6b26a05c	Dose à la surface de la peau
+6b7a6181	R = facteur d'accélération : une ligne sur R est acquise → repliement de FOV/R (aliasing). L'imagerie parallèle (SENSE/GRAPPA) le déplie grâce aux sensibilités des antennes.
+6b8da132	Débit de dose à # cm
+6bb77736	Source ponctuelle
+6bbe4f23	Filtre Al (ajouté)
+6bc09210	Aucun changement ; mêmes mAs
+6be9432d	Dose en surface
+6bf0564a	Particules chargées (électrons, protons, α) qui déposent leur énergie par interactions coulombiennes.
+6bf28b9c	Conseil scientifiquement infondé et nuisible.
+6c025c20	pas encore scanné
+6c168d60	Cas terminé
+6c3c9505	énergie des photons
+6c6870d7	Fais un choix
+6c8fcda6	POUR LES DÉBUTANTS
+6cc46a6f	 min de lecture
+6cc784fd	Tu ne prends qu'une décision à la fois.
+6cec06d7	# ng/mL
+6d148508	Scan
+6d8836d2	Possible mais pas en première intention ; l'échographie et l'IRM doivent passer avant.
+6d94e783	Espace k et transformée de Fourier
+6dc54781	 j
+6e2eab59	Exposition correcte : amène l'indice d'écart (DI) d'une image thoracique dans −#…#
+6e67bd16	Référence / analytique
+6e8c7b25	Énergie des photons
+6eb5b73c	Dossier du patient
+6ef0f4ce	FLAIR : supprime le LCS tandis que la lésion reste claire
+6f441d09	Que produit l'annihilation du positon issu du FDG, et comment la TEP le détecte-t-elle ?
+6f7079de	Téléthérapie, Gamma Knife
+6fb2dc0f	 projections, 
+70491c5e	Dernières règles : il y a # semaines (irrégulières)
+705dbc6f	Pas de contraception
+70689f04	Longueur d'acquisition
+706aba83	Limite de table # kg, tunnel # cm
+706fb9f9	TEP (métabolisme du glucose avec le FDG)
+7074357f	#) Justification : le bénéfice doit l'emporter sur le risque. #) Optimisation (ALARA) : maintenir la dose aussi basse que raisonnablement possible tout en préservant la qualité diagnostique. #) Limites de dose : pour les travailleurs et le public (pas pour les patients ; on utilise à la place les niveaux de référence diagnostiques).
+707b359b	La paroi de l'abcès se rehausse avec le contraste ; un scanner sans injection peut la manquer.
+709e0d80	Château de plomb
+70c9432b	Atténuation, CDA et durcissement du faisceau
+70e6ad0e	Noyaux radioactifs
+71c67fc5	garçon
+720bb6d5	Isocentre
+72103ea7	Thorax pédiatrique : sans grille, filtration Cu ajoutée, kVp élevé / mAs faible, collimation serrée, exposition courte (mouvement).
+7211792a	<b>Diffusion Compton :</b> le photon cède une partie de son énergie à un électron faiblement lié et il est diffusé. Elle dépend de la densité électronique et très peu de Z.
+72133fde	#. Contraste
+721471f0	ÉLUER
+72467d86	ASP debout
+729ea19a	+ Placer un écran
+72a6030d	La loi exponentielle ne vaut qu'en géométrie de faisceau étroit, où les photons diffusés n'atteignent pas le détecteur. En faisceau large, les photons diffusés contribuent aussi et la transmission devient B·e^(−μx), avec un facteur d'accumulation B ≥ #. Ignorer B dans un calcul de protection sous-dimensionne l'écran.
+72b715d3	Hasan : « Comment atteignez-vous quelque chose d'aussi profond ? »
+72daab8b	Tendon / ligament
+72f6d05f	Le centre de l'espace k porte le contraste de l'image ; la périphérie porte les détails fins (contours).
+72f991f9	Coefficient d'atténuation linéique μ
+72fb1a0a	Spectre
+72fc2e5a	Manqué : 
+732be2f9	Guidage par l'image (IGRT)
+7342c4c8	Injecter ; avec un DFGe ≥ # et sans IRA, la metformine n'est pas arrêtée
+73715b63	Cas clinique associé  →
+738f6b5a	Une impulsion de #° bascule M dans le plan xy. Les spins s'étalent en éventail car ils précessent à des vitesses différentes (T2*). Une impulsion de #° les retourne et un écho se forme.
+7393264d	Explorer tous les thèmes
+73a87380	Théorie et formules
+73bf80aa	Les photons juste au-dessus du seuil K peuvent éjecter des électrons K, d'où le saut d'absorption photoélectrique. C'est pourquoi les protocoles TDM à bas kV renforcent le contraste iodé.
+73d792b6	Examen avec peu de projections (≤ #) : observe les artefacts en stries
+73e93954	Échographie ; IRM sans contraste si non concluante
+74148df9	Il vient des cryogènes ; sans danger
+7564d845	Oui, c'est dangereux ; évitons-le si possible.
+75793978	L'abdomen de Mehmet mesure # × # cm (adulte moyen ≈ # × #). Pour l'eau, μ(# keV) ≈ # cm⁻¹. De combien # cm de tissu supplémentaire réduisent-ils les photons qui atteignent le détecteur ?
+758e615c	Calcul… (lancer de rayons #×# pixels)
+75a97a00	Nouvel examen
+75afa3bb	Faible valeur diagnostique pour l'appendicite ; dose inutile.
+75d4759c	Douleur de la fosse iliaque gauche, fièvre
+760d8617	Un flacon sous vide dans un pot en plomb aspire le sérum et le Tc-#m à travers la colonne. La percée de Mo-# doit rester < # kBq de Mo par MBq de Tc.
+763fa74b	Ce sont tous deux des photons et leurs gammes d'énergie se recouvrent (le γ de # keV du Tc-#m est plus bas que les rayons X d'un tube à # kVp). Seule l'origine diffère.
+7647a3ac	Réussi — lis attentivement les commentaires.
+765e2544	Règle de la zone IV
+76dd194b	Cœur moyenne < # Gy
+77384e8c	Trompeur. Le modèle LNT suppose un risque minime mais non nul ; utilisez un langage honnête et rassurant.
+774a6613	Un faisceau étroit de photons monoénergétiques traversant une épaisseur x a une probabilité d'interaction constante par unité de longueur. Il en résulte une décroissance exponentielle :
+777502bf	Les repères cutanés ne montrent pas le mouvement interne ; risque élevé de manquer la cible.
+77eb0235	Score
+78197beb	ESAK # µGy > DRL : réduis la dose (kVp plus élevé + filtre Cu, retire la grille, baisse les mAs).
+7835c649	Les électrons occupent les couches K, L, M… Les énergies de liaison des couches internes croissent fortement avec Z : la couche K du tungstène est à # keV, celle de l'iode à # keV, et celle de l'oxygène de l'eau à seulement # keV.
+785a8151	Pitch
+78cd4207	Flacon d'éluat
+792a98a9	• <b>Durcissement du faisceau :</b> les basses énergies sont absorbées en premier ; le long des trajets longs, le μ effectif diminue → « cupping » au centre et stries sombres entre les os denses. L'étalonnage à l'eau (BHC) corrige le cupping mais pas les stries osseuses.\n• <b>Métal :</b> presque tous les photons sont absorbés (photon starvation) → stries radiales claires/sombres.\n• <b>Peu de projections :</b> échantillonnage angulaire insuffisant → artefacts en stries (repliement).\n• <b>Bruit :</b> σ ~ #/√(mAs) ; le compromis fondamental dose–bruit.
+793c090c	Protocole scanner basse dose
+793c5a46	diamètre choisi
+794db469	Moelle osseuse
+79525074	Centre seulement
+79a399e0	Dose
+79ae5968	Vitesse du temps (périodes / # s)
+7a696fee	Équivalent en rayonnement naturel
+7a9ee904	Touche le sol → marcher (clavier : WASD). Surveille le débit de dose du radiamètre. Le temps, la distance et l'écran réduisent la dose.
+7ab00d8b	Distribution de dose axiale
+7b06fb7d	Signal SE en fonction de TE
+7b0ee643	Dose minimale dans la lésion (#–# cm)
+7b3a2d83	Particule alpha
+7b4e65c1	EQD2 rectum (α/β #)
+7b804b26	Effets physiques
+7bdb6a90	horizontal : détecteur s  •  vertical : angle θ (#→#°)
+7be2d594	Distance source–image (DSI)
+7bef2f61	Carte de dose (x–profondeur) : dose relative au maximum, %
+7bf995f5	Sonde (toucher)
+7c162dc9	Spectre • Atténuation • Diffusion • Dose
+7c5092be	Le rayonnement ionisant transporte assez d'énergie (≥ # eV) pour libérer des électrons des atomes. Le haut du domaine UV, les rayons X et γ et toutes les particules chargées rapides sont ionisants ; les ondes radio et la lumière visible ne le sont pas.
+7c72fb1b	Angle d'Ernst (SB)
+7c7da947	Dose efficace
+7c941c55	R8# (≈ profondeur thérapeutique)
+7d7615e3	Cancer de la prostate — radiothérapie externe
+7d96597f	Antécédents
+7d972bea	Accompagné de sa mère ; premier examen d'imagerie
+7dd6f549	Implant en titane
+7de1562e	 ans, 
+7e0e48e1	cT2b N0 M0
+7e0faf28	L'attraction est instantanée ; des blessures graves et des décès ont été rapportés.
+7e323ea2	L'énergie et les données passent sans câbles : le tube peut tourner en continu, ce qui rend possible l'acquisition hélicoïdale.
+7e3a630c	Parcours R₀ (CSDA)
+7e5ca532	Cristallin
+7e64d602	Le tube et le détecteur tournent autour du patient. Pour chaque angle θ et position de détecteur s, l'atténuation mesurée est une intégrale de ligne de μ(x,y). L'ensemble des projections forme le <b>sinogramme</b> : un objet ponctuel trace une sinusoïde.
+7e6646b7	Scanner abdominal chez un patient corpulent
+7e86bdae	Notation
+7e8c6db6	CDA et CDDA
+7ec52420	Radiothérapie interne vectorisée (PSMA, DOTATATE)
+7f8ed8ff	La pompe à hélium ronronne doucement, mais les cognements viennent des gradients.
+7fa4aa8f	Lésion à # cm de l'œil gauche
+7fa59d83	horizontal : radial s • vertical : angle φ
+7fa5ff5c	Complet
+7fb12b63	Arc de détecteurs
+8077377d	Image portale hebdomadaire
+807b9275	Correct : la force d'attraction ~ B·dB/dz est maximale près de l'entrée du tunnel. Si besoin, sortir le patient en zone III pour les soins.
+80cc6fb4	Un positon s'annihile avec un électron en deux photons opposés de # keV. Si deux détecteurs opposés les captent en quelques ns, une coïncidence (ligne de réponse, LOR) est enregistrée.
+80d6fd98	α/β tissu à réponse tardive
+80f76b66	Demander s'il y a une grossesse et prescrire un test β-hCG
+80fd59df	Particule
+811c30cd	Nombre de projections (#°)
+8190561a	Douleur de la fosse iliaque droite, nausées (# h)
+819c9d03	Générateur Mo-#/Tc-#m
+81ad7d36	Utiliser une longue pince (source à # cm du corps)
+81b60676	Ant
+8202e478	Écran
+8210c814	Coupe axiale du cerveau
+826d7453	Électron
+82ce6c55	Cartilage
+82e2dbbd	Région et incidence
+82e733b7	<b>Le diffusé</b> réduit le contraste : le rapport diffusé/primaire croît avec la taille du champ et l'épaisseur du patient. Une grille transmet ~#% du primaire et ~#% du diffusé. La collimation réduit à la fois le diffusé et la dose.
+82fa204f	Un grand champ augmente le diffusé et le PDS ; la vraie protection est un champ étroit.
+832d529e	IRM du genou et sécurité IRM
+832f8681	Poumon
+835889e9	Rein
+836bc242	#–# MV en VMAT délivre assez de dose à la cible profonde sous de nombreux angles ; la peau est épargnée et les neutrons sont négligeables.
+83754be6	Ton meilleur : 
+83d4e55a	# kV chez un patient corpulent provoque des stries de famine photonique et un bruit excessif.
+84737e5d	Mesures
+85124f40	Bruit # HU : diagnostique.
+8516948a	Formules
+851ad665	Angle du statif
+852fc0ce	Zeynep : « J'ai tiré mon lait avant. Mon mari peut lui donner le biberon. »
+8567c350	Ouvrir le bilan
+85e4b82f	OK
+86260ec0	Comment jouer en mode cas
+8647f589	DI # → sous-exposition : bruit quantique, non diagnostique.
+869cfa26	EQD2 tissu tardif
+86c813a5	Coups
+86e1dbb8	Deux photons de # keV à ~#° l'un de l'autre, détectés par deux détecteurs dans une fenêtre de coïncidence de quelques ns → ligne de réponse (LOR)
+87025a9c	Médecine nucléaire : TEP/TDM au F-# FDG, bilan d'extension (Dr Er)
+871c36f0	Ancres en titane
+875c3058	Lésion (œdème / tumeur)
+875f29ca	Pour chaque pixel, un rayon est tracé du foyer au détecteur ; la longueur traversée dans chaque tissu est calculée et la loi de Beer-Lambert est appliquée par intervalle d'énergie. Efficacité d'absorption du CsI η(E) = # − e^(−μ_CsI·t). Le signal est pondéré par l'énergie (détecteur intégrateur d'énergie).
+8762cac3	Énergie des protons
+876b129d	Étape 
+8786af42	✓ Excellent
+87e69378	Diffusées
+882ac676	Dose au nourrisson
+88674cd6	#) Choisis un thème à gauche ; les thèmes vont des bases à la clinique. #) Lis la leçon ; ne saute ni les encadrés POINT CLÉ ni les exemples résolus. #) Déplace les curseurs des figures pour voir ce que disent les formules. #) Fais le quiz de fin de leçon : tout juste marque la leçon d'une ★. #) Utilise « Essayer dans le labo » et « Cas clinique associé » pour appliquer ce que tu as appris.
+886d0cbf	Les impulsions RF font le bruit ; aucune précaution n'est nécessaire
+888cc345	À # m (blindé)
+89235979	Quand le père (Mo-#) vit plus longtemps que le fils (Tc-#m), A₂/A₁ tend vers une constante : équilibre transitoire. Si le père vit beaucoup plus longtemps (ex. Sr-#/Y-#), on obtient l'équilibre séculaire : A₂ = A₁.
+892ef903	Un seul photon de # keV
+897fe13f	Produit de contraste et reins
+89d558f4	Une antenne de réception multicanal proche des tissus augmente le RSB et permet l'imagerie parallèle.
+89f4c462	CNR déchirure/ménisque # : déchirure non visible — un TR long (DP/T2) est nécessaire.
+8a2fa41a	Activité, durée et fixation
+8a355b34	PA, debout, DSI # cm
+8a69358c	temps 
+8aa94879	Les recommandations (CIPR #, AIEA) n'exigent pas d'interrompre l'allaitement pour le FDG ; il est conseillé de limiter le contact rapproché quelques heures et d'utiliser du lait tiré.
+8b0d147c	Contraste osseux (# cm dans # cm de tissu)
+8b0eb3c2	Vraies
+8b5a89a7	Qui domine où ?
+8b68a871	Grossesse possible et appendicite
+8c032c1a	Points d'apprentissage
+8c5db0a7	<b>Effet photoélectrique :</b> le photon est entièrement absorbé et un électron d'une couche interne est éjecté. La probabilité varie environ en Z³/E³.
+8c7d3087	Score : 
+8c880991	Chaque réponse est accompagnée d'une explication et d'un retour.
+8ca7a950	Un compteur Geiger-Müller ou une chambre d'ionisation affichant le débit de dose en µSv/h ; sert aux contrôles de contamination au laboratoire chaud.
+8cde5d5c	Collimateur + filtration additionnelle
+8d46a34c	épaisseur (cm)
+8d815095	Interactions des photons avec la matière
+8d8cee46	Loi de l'inverse du carré
+8dbd5185	Durée # s — le patient peut rester immobile.
+8de41236	Stimulateur cardiaque
+8e5380f5	Emir peut se tenir debout et coopère. Quelle technique choisis-tu ?
+8e925209	Transformée de Radon • FBP • Hounsfield • Artefacts
+8ea57a5e	R9# (profondeur dans le patient)
+8f1b876c	Ton meilleur
+8f30fea5	Taille / poids
+8fb29e12	Choisis un thème et une leçon à gauche. Joue avec les curseurs des figures et teste-toi à la fin de chaque leçon.
+8fd05dbc	Traitement du cancer de la thyroïde et de l'hyperthyroïdie
+8fed86d7	D'accord si c'est rapide
+8ff1e887	Vitesse du temps
+9017c010	+ Ajouter un faisceau
+90571e3f	 questions de quiz
+907a4bcf	Dose au patient (efficace)
+90d642b7	α/β de la tumeur ≈ # Gy, effets tardifs peau / cartilage α/β ≈ # Gy. Lequel convient à une patiente de # ans qui a du mal à venir chaque jour ?
+90da7a12	Radiographie
+90e8ad1a	Tissu
+91078d77	Spectre du tube, filtration, CDA, diffusion, détecteur et dose patient.
+91258979	Radiopharmaceutique
+91882d73	Parcours CSDA (Bethe / NIST)
+91a7732a	Les courants de gradient commutés rapidement subissent des forces de Lorentz dans B₀ ; le bruit peut dépasser # dB → bouchons / casque obligatoires
+91b76332	Rassurant mais inexact : le risque stochastique est minime, pas nul.
+926d87c3	Détecte l'erreur systématique de positionnement mais pas le mouvement d'organe quotidien → marges et dose rectale plus grandes.
+928ef299	femme
+92fe3fad	Contenu pédagogique uniquement — pas pour des décisions cliniques.
+9340f08a	Constante radioactive λ
+93798b62	Générateur
+93926697	Fantôme anthropomorphe
+93fd33cf	Mx (signal)
+94397cd5	Temps de doublement potentiel Tpot
+9441540c	PDL = CTDIvol × longueur ; décrit l'irradiation totale, pas la dose aux organes.
+948fe972	Source de rayons X kV
+94a38054	Ta décision
+94cc8d3b	Dose au nourrisson ≈ 
+94f37251	Le CTDIvol lui-même
+951e2e51	VOIR LE BILAN  →
+95a8c428	Mo-# (T½ # h) → # % → Tc-#m (T½ # h). Le Mo-# est fixé sur une colonne d'alumine ; le Tc-#m s'accumule par sa désintégration et est « élué » au sérum physiologique.
+95bce1b7	Air
+95be3cc5	Meilleur 
+95d6d65a	Référentiel du laboratoire (montrer la précession)
+95f4d5de	Champ et protection de l'œil
+963b7c8f	Salut ! La machine fait mal ? Ma maman peut attendre dehors ?
+966d8f4b	Le thorax d'Emir mesure ≈ # cm d'épaisseur (adulte ≈ # cm). Règle kVp, mAs, filtre, grille et champ, puis appuie sur EXPOSER. Objectif : DI −#…# et ESAK ≤ # µGy.
+96c251ec	Théorème de la coupe centrale : la transformée de Fourier #D d'une projection est une coupe de la transformée de Fourier #D de l'image. On filtre donc d'abord les projections avec la rampe |f|, puis on les rétroprojette. Une rétroprojection non filtrée donne un flou en #/r.
+97080889	Diamètre du patient
+97197ddf	Évitez tout contact pendant une semaine
+971c410e	Décroissance radioactive, générateur Mo-#/Tc-#m, coïncidences TEP et MLEM.
+9741e45e	Il n'y a aucun risque, zéro rayonnement.
+97563b2a	Arrête les rayons gamma pendant le stockage ou le transport du flacon ; quelques mm de plomb suffisent pour les photons de # keV du Tc-#m.
+979c2167	Dose en surface (épargne cutanée)
+97fc3c0a	Tu es le physicien médical de l'hôpital. Chaque patient est un cas : lis le dossier, prends tes décisions et vois les résultats calculés avec de vrais modèles physiques. Après chaque étape, tu apprends pourquoi c'était juste ou faux.
+981c2b72	Détecteur kV
+98333fde	Béton
+9837047f	Lésion + marge d'environ # cm (découpe en plomb ≈ # cm) ; œil hors du champ, cache oculaire interne si besoin
+98582d5e	Indirectement ionisant
+9867b7d1	Le débit de dose décroît avec le carré de la distance, Ḣ = Γ·A/d². Les couleurs du sol montrent ce débit ; la ligne blanche marque # µSv/h.
+9895bce3	EQD2 tumeur
+98b07aa5	Non — l'énergie maximale des électrons (# keV) ne peut pas ioniser la couche K
+98f224a5	EXPOSER
+9920e564	Score du plan
+993014d9	Poids
+9945210a	Algorithme
+994bbd58	Règle : R ≈ #·E^#
+995324ac	Temps 
+995c9ab4	#. Dosimétrie
+9970e954	TEP : coïncidences et reconstruction
+997b38dc	Protocole adapté à la corpulence
+99a15c5e	Dose efficace (approx.)
+99a7a50a	CONTINUER  →
+99f7bee7	Bague collectrice
+99fa0dc1	Statistique de comptage A·t / (#·kg)
+9a125d51	Les électrons issus de la cathode chauffée sont accélérés par le kVp vers une anode tournante en tungstène. Seuls ~# % de leur énergie deviennent des rayons X (freinage + caractéristique) ; le reste est de la chaleur.
+9a23c97b	TEP/TDM au FDG chez une mère allaitante
+9a2b880f	Épaisseur du patient / DSP
+9a73db9b	Langue
+9b012adc	Distance à la source
+9c4aa55c	Tube à rayons X
+9c506f53	Niveau de coupe
+9c528492	Bobinages NbTi refroidis par hélium liquide à ~# K. B₀ (# / # T) est toujours actif : les objets ferromagnétiques deviennent des projectiles.
+9c70fc8a	De fines lamelles de plomb focalisées absorbent les photons diffusés dans le patient. Le contraste s'améliore, mais les mAs doivent augmenter pour la même dose au détecteur (facteur de Bucky #–#).
+9c8081f1	Ouvrir le labo
+9cabb538	Temps • Distance • Écran
+9cf82695	Résultats
+9d145291	Effet photoélectrique
+9d2b5423	Il décrit le rendement du scanner et ignore la taille du patient.
+9d3d585c	Modalité de tous les faisceaux
+9d6f6466	Un filtre élimine de préférence les photons de basse énergie (<b>durcissement du faisceau</b>) qui n'ajouteraient que de la dose à la peau. Plus de filtration augmente l'énergie moyenne et la CDA et réduit le rendement.
+9d70bd7a	DI = #·log₁₀(EI / EI_target) : # ≈ # % de plus, −# ≈ # % de moins, # ≈ #× la dose au détecteur.
+9e134627	Cas cliniques — # patients en attente
+9e1d18ea	#. Radiobiologie
+9e452222	Lequel est indirectement ionisant ?
+9e75940c	Activité
+9e7b7a87	EQD2 tumorale = n·d·(d + #)/(# + #) = # Gy — plus élevée que nécessaire.
+9e8abbb2	Le dosimètre du travailleur indique le débit d'équivalent de dose ambiant H*(#) à sa position ; dose accumulée = débit × temps.
+9e995ba1	Fractionnement (modèle LQ)
+9ebe06d9	Petit-déjeuner il y a # heures
+9f24f2f7	Les produits de contraste exploitent cette physique : le seuil K de l'iode est à # keV et celui du gadolinium à # keV. L'absorption fait un saut quand l'énergie du photon est juste au-dessus du seuil K.
+9f3f7105	Reconstruction…
+9faeab39	La conservation de la quantité de mouvement impose deux photons.
+9fc55136	Signal en fonction de TE (décroissance T2)
+9ffc9a24	Mesure les UH : touche le poumon (< −#), la graisse (−#…−#) et l'os (> #)
+a049bc94	Contraste T1 / T2 / DP
+a0cf38d2	Délai de fixation adéquat : rapport tumeur/bruit de fond standard (SUV comparables).
+a12d8b93	Atomes, noyaux et rayonnement
+a13c66b3	Dose efficace ≈ # × 
+a14e7f7e	Contraste iodé (cœur/aorte)
+a15fa5b0	Échantillonnage
+a1793be6	Os / air
+a17f6a53	# questions aléatoires sur tous les thèmes — une bonne préparation aux entretiens de master et aux examens.
+a1be3d2c	Latéral (LAT)
+a1d821ab	#. Artefacts
+a219bf8b	Salle d'attente
+a22bd65a	protons
+a267e784	Dose efficace ≈ # × # = # mSv (CIPR #).
+a26d32ed	Repousse de Mz (TI)
+a28c2366	Les électrons accélérés à quelques MeV dans le guide d'ondes sont déviés sur une cible (photons) ou à travers un diffuseur (électrons). Le cône égalisateur et les chambres moniteur (UM) se trouvent aussi ici.
+a2c330b1	Vérifie que le R5# d'un faisceau d'électrons suit la règle E/#
+a2eb2f51	Désintégration radioactive (Monte-Carlo)
+a2ed22c4	diamètre effectif D_eff (cm)
+a30f0337	PDD des électrons : la dose en surface augmente avec l'énergie (# MeV ≈ # %, # MeV ≈ # %) ; le bolus augmente la dose en surface et raccourcit le parcours.
+a37bf952	Excellent — un vrai physicien médical !
+a408a7ff	Femmes en âge de procréer avec le bassin dans le faisceau : exclure d'abord une grossesse (β-hCG si besoin).
+a431924a	Prendre la source
+a475164f	Plomb
+a4843b38	Os (# cm) # % — inutilement élevé : risque d'ostéoradionécrose. Choisis une énergie plus basse.
+a4a2847a	TR court + TE court → pondéré T1 ; TR long + TE long → pondéré T2 ; TR long + TE court → densité de protons.
+a4be5f34	Isotope
+a4eeda8f	Lésion
+a50be870	Table du patient
+a51067fd	Désintégration
+a5916fb6	Cas terminé — 
+a5a57f6f	En imagerie, le contraste vient surtout de l'effet photoélectrique, car la dépendance en Z³ sépare nettement l'os (Ca, Z = #) des tissus mous (Z effectif ≈ #). Le Compton est la principale source de diffusé, qui réduit le contraste.
+a5d46b38	PDL (# cm d'examen)
+a5ee64bb	Moyennages (NEX)
+a5ff15cb	Fait tourner la tête de #° autour du patient. La source RF (magnétron/klystron) et le guide d'ondes se trouvent dans le statif et son support.
+a60133e5	Reconstruction (FFT #D inverse)
+a60a634d	Dose du nourrisson ≈ # µSv (inverse du carré : le débit de dose à # cm est #× celui à # m ; vie moyenne du F-# τ = T½/ln2 ≈ # h).
+a6310194	Conseil
+a650d3f5	FIGURE INTERACTIVE
+a66f47bd	Épaisseur de plomb
+a6e53476	Antenne corps RF
+a6f33ef9	Exact : une comparaison chiffrée (rayonnement naturel ≈ # mSv/an ≈ # µSv/jour), justification et ALARA expliqués ensemble.
+a704e2e8	La section efficace de Klein-Nishina fixe l'angle de diffusion Compton et l'énergie de l'électron de recul. La simulation Monte-Carlo suit chaque photon et chaque électron ; la dose converge avec une incertitude statistique σ ~ #/√N.
+a72ca2ae	Ajoute une période biologique et observe la période effective (I-#)
+a77fb204	Quand un électron d'une couche interne est arraché, un électron externe comble la lacune et la différence est émise sous forme de rayon X caractéristique ou d'électron Auger. Les énergies caractéristiques sont propres à chaque élément ; la raie Kα du tungstène d'un tube à rayons X est à ≈ # keV.
+a7ae7cae	# MeV
+a85562cb	Dépistage de grossesse omis : le fœtus aurait pu être irradié sans le savoir.
+a861d965	Reconstruire
+a86b43b2	Filtre papillon + collimateur
+a87f9edd	Chaque ligne est une coïncidence (LOR) : vert = vraie, jaune = diffusée, rouge = fortuite. Collecte assez de coups, puis « Reconstruire ».
+a8b4a774	SSDE — CTDIvol corrigé pour le diamètre effectif
+a93ad5ad	bruit σ (HU)
+a97badd0	Lance ton premier examen et regarde le sinogramme se remplir
+a97d3fea	Énergie effective (monoénergétique)
+a9887e52	Centre d'apprentissage
+a99ef883	Calcul…
+a9f0a4e6	Points
+a9f3146e	Eau / os / plomb
+aa28ed13	Culture cellulaire (#D)
+aa2ce59e	Histogramme dose-volume (HDV)
+aa430d6d	Non justifié : scanner thoracique pédiatrique ≈ #–# mSv contre ≈ # mSv pour une radiographie PA. Viole le principe de justification (CIPR #).
+aa4446a7	Filtré (entrée)
+aa7120ec	Arrêter la metformine # h, puis scanner
+aaaa64f1	Charge du tube
+aaede69c	ACR Appropriateness Criteria et ACOG : échographie d'abord, puis IRM sans gadolinium — pas de rayonnement ionisant.
+aaee7048	Durée d'acquisition (# phase, ETL #)
+ab14bcac	Tomodensitométrie
+ab25d4ea	Facteur de rétrodiffusion BSF ≈ #. Le PDS (Gy·cm²) ne dépend pas de la distance et se convertit en dose efficace avec des coefficients : thorax PA ≈ #, abdomen ≈ #, bassin ≈ #, crâne ≈ # mSv/(Gy·cm²). Thorax PA typique : ESAK ~#–# mGy, E ~# mSv.
+ab834a11	Période biologique (# = aucune)
+ab8ca2c5	Cuve à eau
+abdee8d2	Les photons MV interagissent dans l'eau surtout par diffusion Compton ; l'énergie est déposée par les électrons secondaires sur plusieurs cm. La dose est donc faible en surface et monte jusqu'à dmax (<b>build-up</b> ; épargne cutanée). Elle diminue ensuite par atténuation et selon la loi de l'inverse du carré.
+abe195be	Passe à la fenêtre pulmonaire sur une coupe thoracique
+abe68d6f	Fréquence respiratoire
+ac5b89c3	Dose par fraction
+ac720a66	Faisceau étroit et large : facteur d'accumulation
+ac737796	Image le faisceau de traitement en sortie (image portale) ; sert à vérifier la forme du champ et la dose délivrée.
+aca79e3e	Étapes : 
+aced2b71	Fractionnement (patiente âgée)
+ada7afdb	aucun
+ada880a8	Théorie bientôt disponible.
+adbf56a0	Son énergie : les rayons γ sont toujours plus énergétiques
+add79038	Graisse / muscle
+ae20a6a3	Le pouvoir d'arrêt croît comme #/β² à mesure que le proton ralentit ; l'essentiel de l'énergie est déposé en fin de parcours (pic de Bragg). La dispersion du parcours (≈ # %·R) et l'étalement en énergie élargissent le pic. Une somme pondérée de pics d'énergies différentes forme le SOBP qui couvre la tumeur. Au-delà du pic la dose est ~# : les organes distaux sont épargnés.
+ae27b827	Mode cas cliniques
+ae6bb2bb	max 
+ae888d5f	L'isodose # % des électrons se rétrécit en profondeur : la découpe doit être d'environ # cm plus grande que la lésion.
+aef94af7	Correct. 
+af010c63	Os (côte/bassin)
+afe72516	Le maximum de dose net en fin de parcours d'une particule chargée lourde.
+afe8043f	temps (h)
+b081abb7	transition isomérique (TI)
+b0adb207	Pourquoi la deuxième CDA d'un faisceau polyénergétique est-elle plus grande que la première ?
+b0c23fb1	Activités (équilibre transitoire)
+b0db6938	 jours
+b0f260dc	Pas le premier choix en cas de suspicion de pneumonie ; un profil demande plus de dose et ne suffit pas seul.
+b11e7606	Quels éléments du questionnaire nécessitent une ACTION SUPPLÉMENTAIRE avant l'IRM ? (sélectionne toutes les réponses applicables)
+b1b83851	profondeur dans l'eau (cm)
+b1c222ab	EQD2 = n·d·(d + α/β)/(# + α/β). Les tumeurs à faible α/β (prostate ≈ #) bénéficient de l'hypofractionnement.
+b1c8c38e	Barre : part quotidienne d'un travailleur (# mSv/an ÷ # jours = # µSv).
+b1e88af6	Si un photon de # keV du Tc-#m est rétrodiffusé à #° : E′ = # / (# + #·#/#) = # / # ≈ # keV. La fenêtre en énergie de la gamma-caméra (≈ #–# keV) rejette la plupart de ces photons diffusés.
+b21a4f64	Dose pulmonaire moyenne < # Gy
+b232d1f0	Couverture de la lésion : minimum # % — complète.
+b2697ad8	Les rayons X et γ sont le même type de photons ; seule leur origine diffère. Les rayons X proviennent des électrons (freinage ou transitions entre couches), les rayons γ du noyau (désintégration radioactive).
+b2972ae3	Tête
+b2aad11c	Paramètres d'acquisition
+b33eb976	Modèle : géométrie en faisceau parallèle (données en éventail réarrangées), détecteur intégrateur d'énergie, diffusion négligée.
+b34b3fcd	Pause / Lecture
+b3755394	La probabilité photoélectrique augmente très fortement avec le numéro atomique et diminue fortement avec l'énergie : c'est pourquoi un kVp bas augmente le contraste osseux.
+b38452f0	Repère (TR ou TE)
+b3af5cc8	#. ALARA et limites
+b3f9f066	J'ai très mal… et je ne sais pas si je pourrais être enceinte.
+b48eaaae	#. Espace k
+b4d90f43	Dose au patient
+b528da3e	Opaque
+b5377fa4	Acier
+b54b4085	Rapproche-toi du château (< # m).
+b54d1bc5	Explorer les labos
+b58894f8	Dans le référentiel tournant (x', y'), on tourne à la fréquence de Larmor : seuls les écarts de fréquence (Δω) restent visibles.
+b589c5ea	Largeur de champ (isocentre)
+b5f6bbb8	cible 
+b6b8c8bf	Précession de Larmor, équations de Bloch, T1/T2, écho de spin, espace k.
+b6e00083	Cœur
+b6e56670	Couche de demi-atténuation et de déci-atténuation
+b6fab935	Pondéré DP
+b72c1283	#. Faisceaux de photons et rendement en profondeur
+b7312de4	Air −#, eau #, graisse ≈ −#, tissus mous #…#, os #…# UH. Comme l'œil ne distingue que ~#–# niveaux de gris, les images sont affichées à travers une fenêtre (largeur W, niveau L) : poumon W1#/L−#, tissus mous W4#/L4#, os W2#/L4#, cerveau W8#/L3#.
+b77556fd	L'énergie d'un photon est proportionnelle à sa fréquence : E = h·ν. Raccourci pratique : E[keV] ≈ # / λ[nm]. Les ondes radio (IRM), la lumière visible et les rayons X/γ sont le même phénomène à des énergies différentes.
+b7d0e925	Énergie du photon incident
+b7fdc96d	Depuis la dernière élution
+b8095719	EANM : A·t ~ poids. Un examen plus long permet une activité et une dose plus faibles.
+b846a137	Choisis le niveau de coupe et appuie sur SCAN. Touche l'image pour mesurer les UH.
+b85a81d5	Schéma de fractionnement
+b8628c9b	Os spongieux
+b86f8853	EXEMPLE RÉSOLU
+b8757751	Oui ; la radiothérapie externe ne rend pas radioactif — rien ne subsiste une fois l'appareil arrêté
+b8932bde	Leçon complète  →
+b89df01a	Aide
+b8ccfa2e	Teste-toi
+b8de25e7	Le seuil K de l'iode est à # keV et l'absorption fait un saut juste au-dessus
+b8e79c59	Pour l'eau, μ/ρ (# keV) = # cm²/g, donc μ = # cm⁻¹. CDA = #/# = # cm. La transmission à travers # cm d'eau vaut e^(−#) = # : seuls # % des photons passent.
+b8ebb4eb	Instant du maximum de Tc-#m
+b8f48602	Constantes
+b8ff3ac7	Champ #×# cm : adapté aux poumons.
+b92e17d6	Grille utilisée : un thorax d'enfant de ~# cm produit peu de diffusé ; une grille (facteur de Bucky #–#) augmente inutilement la dose.
+b95e783d	Rapproche-toi de la source (< # m).
+b999f041	Carcinome basocellulaire de # cm sur la joue gauche (prouvé par biopsie)
+b9a92b6b	Dose ≈ # µSv : environ # jours de rayonnement naturel. Le bénéfice du diagnostic de pneumonie dépasse largement le risque.
+ba151840	Comment varie, approximativement, la probabilité photoélectrique ?
+ba1de520	Fréquence de Larmor f = γ̄·B₀ (# MHz/T). DAS ~ B₀² : ~#× d'échauffement RF à # T.
+ba44e340	SSDE 
+ba66cab6	Bruit accepté chez un patient corpulent : ≤ # HU dans la ROI hépatique (≈ # HU chez un adulte moyen). Choisis kV et mAs, puis SCANNER. Garde le SSDE sous # mGy.
+bade5b16	Tourne avec le statif #–# fois par seconde et envoie un faisceau en éventail à travers le patient sous tous les angles.
+bb5bd1d0	Énergie moyenne / effective
+bb62355a	Couverture de la lésion : minimum # % — le bord profond est sous # % : énergie trop faible.
+bb757050	éluer
+bbabaa0a	Acquisition plus longue que nécessaire : de la crête iliaque à la symphyse suffit pour une appendicite.
+bc38932a	Dosimétrie de référence (AIEA TRS-#) et mesures de rendements/profils : une chambre d'ionisation est déplacée dans l'eau. Ici, chaque trace est une particule suivie par Monte-Carlo.
+bc506327	Zeynep : « Dois-je me reposer au calme après l'injection ? »
+bc566d93	Dose fœtale ≈ SSDE = 
+bc5d4211	Tout délivrer
+bd77abf8	Chirurgie d'urgence : appendicite aiguë ? Scanner abdomino-pelvien injecté (Dr Şahin)
+bd7bba09	signal
+bd9533e5	Lymphome de Hodgkin — bilan d'extension
+be5b1f2d	La question du patient
+be65f185	Les pigments à l'oxyde de fer peuvent chauffer : informer le patient, compresse froide si besoin. Ce n'est pas une contre-indication.
+bf06df89	Énergie des électrons
+bf300ab6	filtré
+bf62a8bf	La flèche jaune est l'aimantation nette M. Une impulsion RF la bascule hors de B₀ ; elle repousse longitudinalement avec T1 et décroît transversalement avec T2. Les flèches colorées sont des isochromats à différentes fréquences (T2*).
+bf6d791a	Dans les faisceaux larges, des photons diffusés atteignent aussi le détecteur ; le facteur d'accumulation B ≥ # en tient compte. Ici on utilise B ≈ # + k·μx.
+bfaba695	Concentration d'activité relative (au maximum de l'image)
+bfb0dfa4	Pas d'allergie ; créatinine normale
+bfce608a	Patient / fantôme
+bfe05f84	Tissus mous
+bfe92fa7	Sang
+c013320b	SALLE D'ATTENTE
+c03749ef	Observations
+c0455b80	# MV pénètre bien mais produit des photoneutrons par (γ,n) → dose supplémentaire au corps entier et besoins de blindage.
+c06853d2	TI d'annulation (LCS / graisse)
+c07735e3	↻ Réessayer
+c0774077	Mets la source dans le château de plomb ; dose totale < # µSv
+c09eec06	MLEM est une méthode itérative qui modélise directement la statistique de Poisson ; elle produit moins de stries que la FBP, mais le bruit augmente avec le nombre d'itérations.
+c0aad756	Afficher les traces des particules
+c0f5bb27	L'axe de rotation. Centrer le patient ici est important : un décentrage annule l'effet du filtre papillon et augmente le bruit et la dose.
+c124dd95	Chaque cellule survit à une fraction avec la probabilité S(d) = exp(−αd − βd²). Les tissus à α/β faible sont plus sensibles à la dose par fraction.
+c1329b8d	Elif : « S'il vous plaît, utilisez la dose la plus faible pour mon bébé. »
+c14f1584	Acquisition totale (# pas)
+c1811e60	L'IGRT quotidienne corrige #–# mm de mouvement d'organe et permet des marges PTV d'environ # mm (van Herk : M = #Σ + #σ).
+c1d1684b	Faisceaux
+c285174a	profondeur dans le patient (cm)
+c2dcb4a3	Attendre bien plus longtemps est inutile : le F-# a presque entièrement décru, et l'allaitement est perturbé sans raison.
+c2e4e241	transition isomérique
+c2f67ba3	# mm Al + # mm Cu
+c341622f	La dose du bébé provient surtout des photons de # keV émis par le corps de la mère (exposition externe) ; très peu de FDG passe dans le lait. Quand le contact rapproché (porter, allaiter à ~# cm) peut-il reprendre ? Objectif du jeu : dose du nourrisson ≤ # µSv.
+c35ec4c3	Antéro-postérieur (AP)
+c3a14e9a	eau μen/ρ
+c3e47672	Écho de spin
+c3ff1e50	Les électrons issus de la cathode sont accélérés par la tension du tube (kVp) vers une anode en tungstène. ~#% de l'énergie devient de la chaleur, ~#% des rayons X. Les électrons freinés dans le champ des noyaux émettent un <b>rayonnement de freinage</b> au spectre continu jusqu'à E_max = kVp.
+c4547490	Physique des spins
+c487c009	Fenêtre W(f) : Ram-Lak (nette, bruitée), Shepp-Logan (sinc), Cosinus, Hann (douce, peu de bruit). Compromis netteté ↔ bruit.
+c4a7b302	Couleurs des traces : jaune = photon, bleu = électron, magenta = positon, orange = proton, vert = interaction nucléaire.
+c4ef192a	sans grille, 
+c558bcea	Profession : soudeur / meulage (# ans)
+c5748eb4	Questionnaire de sécurité IRM
+c57b585f	La console affiche le CTDIvol. Quelle grandeur représente le mieux la dose de ce patient corpulent ?
+c59c3c01	Ayşe : « C'est quoi, ce truc gélatineux ? Vous allez le mettre sur mon visage ? »
+c5d4754f	# mg/dL
+c5e874f2	Les cache-gonades ne sont plus recommandés en routine ; la collimation est la meilleure protection.
+c60cf4ca	Compare les débits de dose du Co-# et du Tc-#m à # m
+c69a5477	Diffusion : fais la même exposition avec et sans grille
+c6a141c6	Rendement en profondeur sur l'axe
+c6b800d4	#. Spin et précession
+c6c23301	Correct. (Un implant permanent de grains d'I-# impliquerait des restrictions de contact rapproché à court terme.)
+c6c4ee23	Probabilité de contrôle tumoral
+c6d6b1b5	Cela ne vaut que pour ~# cm (une CDA).
+c6d8a5ee	 (tête)
+c7801b3c	LEÇON SUIVANTE
+c7e4693e	Note sur le modèle : le diffusé utilise un noyau simplifié dépendant du champ et de l'épaisseur ; la DQE du détecteur et le flou du foyer sont négligés.
+c81dd039	Moelle épinière Dmax < # Gy
+c8423429	Adapté aux nourrissons et aux patients alités, mais l'ombre cardiaque est agrandie et les organes antérieurs reçoivent plus de dose.
+c8828318	Loi de l'inverse du carré : enregistre des mesures à ~# m, ~# m et ~# m
+c8f76d70	La dose est bien inférieure au seuil d'environ # mGy pour les malformations ; le risque supplémentaire de cancer infantile est très faible (≈ # % pour # mGy). Il n'y a aucune raison médicale d'interrompre la grossesse.
+c901ddc3	Liquide articulaire
+c91a26b5	La prostate bouge d'un jour à l'autre selon le remplissage de la vessie et du rectum. Comment vérifies-tu chaque fraction ?
+c9248cc8	Protection et collimation
+c926cd17	Eau / LCS / urine
+c944c820	La diffusion Compton disparaît à cette énergie
+c964528c	Au détecteur (centre)
+c9db273f	Choisir une langue
+ca1a3109	Pourquoi le contraste iodé est-il le mieux visible avec un spectre dont le maximum est proche de # keV ?
+ca42e28e	Prends les décisions du cas de radiographie thoracique pédiatrique d'Emir, vois le résultat et comprends la raison de chaque étape. Les labos techniques t'attendront quand tu seras prêt.
+caa249cb	Espace k (log |S(kx, ky)|)
+cae55017	Photon
+cae6e1b1	Huit thèmes, des bases de la physique médicale jusqu'à la clinique. Chaque leçon propose des explications, des formules, des exemples résolus, des figures interactives fondées sur de vrais modèles physiques et un court quiz. À la fin, tu peux passer au labo et au cas clinique correspondants.
+cb988a96	Après # h (depuis # MBq)
+cbad3f92	Le positon s'annihile en ~# mm de tissu ; seuls les photons de # keV s'échappent.
+cbd54f80	Matériau
+cbd7b457	Formules rapides
+cc25a532	Cou
+cc4c7f13	Leçon 
+cc4da60f	Coïncidences fortuites
+cca2c192	Filtration totale = # mm Al (inhérente) + additionnelle. Réglementation : ≥ # mm Al (># kVp).
+ccdfbfa0	Public
+cd38aa8b	Attente avant contact rapproché
+cd4c6563	Pupitre de commande
+cd86acc3	Fermer
+cd9bfde6	Afficher le capot du statif en transparence
+cdd62ae0	Arc (type VMAT)
+cde4341b	Angle : #° = antérieur (AP), #° = gauche du patient, #° = postérieur (PA), #° = droite.
+ce0454c7	Les petites sphères montrent une activité mesurée plus faible à cause de l'effet de volume partiel (RC < #).
+ce3486fb	horizontal : x (−#…# cm) • vertical : profondeur #→# cm
+ce483eb5	Épaisseur
+ce6b3dac	R8# distal (MC)
+ce715e71	Un scintillateur CsI:Tl convertit les rayons X en lumière et une matrice de photodiodes a-Si convertit la lumière en charge. L'indice d'exposition (EI) indique la dose reçue par le détecteur.
+cf377b43	Examen blanc
+cf781cab	La mère demande un tablier de plomb pour Emir. Que fais-tu ?
+cfc2c2f6	La filtration (Al, Cu) élimine d'avance les photons de basse énergie que le patient absorberait de toute façon et qui n'atteignent jamais l'image, ce qui réduit la dose à la peau. L'artefact en « cupping » du scanner vient lui aussi du durcissement du faisceau.
+d020ae28	Dans une colonne d'alumine blindée au plomb, le Mo-# (T½ # h) se désintègre en Tc-#m (T½ # h). Le sérum physiologique passé dans la colonne n'emporte que le pertechnétate de Tc-#m (élution).
+d070218a	Profondeur
+d0a43715	Un aimant supraconducteur ne se coupe pas simplement ; un quench libère l'hélium, coûte cher et est dangereux — réservé aux situations vitales.
+d0fd90b6	Exposer automatiquement à chaque changement
+d1998663	Oui, mais seule la raie Kβ apparaît
+d1af3044	Les amalgames et les composites sont sans danger ; ils peuvent seulement créer des artefacts.
+d1b7ec5b	EQD2 tumorale = n·d·(d + #)/(# + #) = # Gy — sous-dosage, risque d'échec biochimique.
+d21058ed	Touche le sol pour placer l'écran.
+d22ff1b4	Le filtre Cu élimine les photons de basse énergie : dose à la peau bien plus faible pour le même DI.
+d252b05e	Choisis un patient dans la salle d'attente, lis son dossier et commence le cas. À chaque étape, tu décides : répondre à une question, régler les paramètres de l'appareil ou produire une image. Le moteur physique calcule le résultat ; appuie sur CONFIRMER pour obtenir des points et une explication.
+d28e3e42	Notation : qualité diagnostique / efficacité du traitement, dose au patient (ALARA), sécurité et communication. ★★★ exige ≥ # %.
+d2ab41fb	attendu 
+d2c74831	Première étape
+d2db263e	Un positon issu d'une désintégration β⁺ s'annihile avec un électron en quelques mm (parcours du positon → perte de résolution) et produit deux photons de # keV presque dos à dos (±#°). Si deux cristaux de l'anneau réagissent dans la fenêtre temporelle (~# ns), une coïncidence et une ligne de réponse (LOR) sont enregistrées.
+d350ad22	Tissu adipeux
+d4066030	Atténuation exponentielle
+d4601b55	• <b>Atténuation :</b> la probabilité que les deux photons s'échappent vaut exp(−∫μ dl) le long de la LOR — indépendamment du point d'émission ! C'est pourquoi la correction d'atténuation en TEP se fait directement à partir du scanner.\n• <b>Diffusion :</b> les photons diffusés par effet Compton créent de fausses LOR ; la fenêtre en énergie (#–# keV) en rejette une partie.\n• <b>Fortuites :</b> deux photons sans lien tombent dans la même fenêtre ; taux ~ activité².\n• <b>NEC</b> = T²/(T+S+R) : une mesure de la qualité d'image.
+d46b8bd4	Étapes
+d4ab7bf3	Semble inoffensif mais peut entrer dans le champ → nouvelle exposition et hausse de dose par l'exposeur automatique. Mieux vaut répondre à l'inquiétude de la mère par une explication.
+d4beda32	Grille antidiffusante
+d4c68488	volume %
+d4ffd893	Rapport os / eau (contraste)
+d51a0c7d	fractionné, α/β = #
+d54bb772	Œdème médullaire
+d584bb20	Poumon gauche
+d5c4ed9d	prostate
+d5cc8e12	Urgences pédiatriques : thorax de face (PA) — pneumonie ? (Dr Aydın)
+d5f8859c	Quiz sur ce thème
+d618a937	Faisceau et étalonnage
+d63556b0	Eau
+d64fa515	avec plomb
+d68f0065	Ouvrir la leçon : 
+d720c7e2	Plainte et demande
+d77aac98	#. Production des rayons X
+d77bb8f6	Ouvre le cas
+d7b6610e	Les électrons de # MeV n'atteignent que ≈ # cm (Rp ≈ E/#) : ils ne peuvent pas atteindre la prostate.
+d7fcdf81	Chirurgie générale : diverticulite / abcès ? Scanner abdominal injecté (Dr Tunç)
+d908d184	Indicateur de dose
+d9370cf8	Inversion (#°)
+d9556410	Paramètres d'exposition
+d9b3e49e	Sang / cœur
+da35274d	La lésion mesure # cm. Quelle taille de découpe et quelle protection oculaire choisis-tu ?
+da435822	La dernière fois, ça a pris une éternité… Est-ce que je vais rentrer dans la machine ?
+da880d68	Source en main ! Porte-la vite jusqu'au château de plomb.
+dad956f3	Le Tc-#m culmine à t_max = ln(λTc/λMo)/(λTc − λMo) ≈ # h après l'élution. À l'équilibre, A_Tc/A_Mo → #·λTc/(λTc − λMo) ≈ #.
+db90e18f	os
+dba8b336	Nous te montrons la meilleure première étape.
+dbb638ff	Imagerie TEMP (os, perfusion myocardique)
+dbbc21b7	Physique : pourquoi le bruit augmente-t-il ?
+dbf4470f	Score 
+dc0b6beb	Références
+dc411606	Équations de Bloch • précession • écho de spin
+dcc0d7a5	pas encore lancé
+dce06e30	IRM avec gadolinium
+dd2558f8	# kg / # cm
+ddd13aac	Durée # s — trop longue, artefacts de mouvement probables ; raccourcis le TR ou augmente le facteur turbo.
+de128bc0	Bruit acoustique
+deb145c5	Mettre un tablier de plomb et scanner tout de suite
+deea998c	TR (temps de répétition)
+deeed36b	Qualité d'image
+df0c22b3	Résonance magnétique
+df3faa41	Filtration additionnelle
+df518691	Découpe exactement à la taille de la lésion (# cm)
+df697a33	D'abord un cliché de profil
+df6e8cfc	Étape en cours
+df7177fa	POINT CLÉ
+df76eace	activité A(t)
+df926a69	Bruit (ROI foie, ÉT)
+dfe4e404	Temps
+e026c507	photon diffusé E′
+e03ac455	CDA = ln2/μ = #/# ≈ # cm.
+e0a49aab	Commencer l'examen  →
+e0bbd3df	Seuil de création de paires
+e0ccc31f	Menu principal
+e0e1e90f	 jours de fond naturel)
+e0fe199e	Les trois principes de la radioprotection (CIPR #)
+e15b5d80	Courbe de survie cellulaire (LQ)
+e1940a73	Astuce : tu peux cliquer sur un appareil en arrière-plan quand tu veux ; ce n'est pas nécessaire pour commencer.
+e19d9fd0	homme
+e232e2c1	Parcours pratique Rp (réf.)
+e2433a82	Dose fœtale ≈ SSDE (utérus dans le champ). Le CTDIvol est une dose fantôme et doit être corrigé selon la taille du patient.
+e2d84590	Nombre de fractions n
+e2e5fdc7	PTV (GTV + # mm) moyenne = # Gy / # fractions (# Gy)
+e3232976	Statistique de comptage # — trop peu de coups : image bruitée, de petits ganglions peuvent être manqués.
+e3726bce	Le lendemain matin : à jeun depuis # h, glycémie # mg/dL.
+e3f06eaf	angle de diffusion θ (°)
+e41d8109	profondeur (cm)
+e43e04b0	Tube à rayons X (générateur)
+e4ab1899	Largeur de fenêtre (W)
+e4c140b2	La désintégration est aléatoire : on ne peut pas prédire quand un noyau isolé se désintègre, mais un grand nombre de noyaux suit la loi exponentielle. L'activité se mesure en becquerels (# Bq = # désintégration/s) ; l'ancienne unité est le curie (# Ci = #·#¹⁰ Bq).
+e4e5be6e	Elif demande en larmes : « Est-ce que ça a fait du mal à mon bébé ? » Dose fœtale estimée ≈ # mGy.
+e4ff8488	Niveau de fenêtre (L)
+e53403f8	mixte
+e549237e	Prostate α/β ≈ # Gy, rectum (effets tardifs) α/β ≈ # Gy. Objectif : EQD2 tumorale #–# Gy, paroi rectale antérieure (en supposant qu'elle reçoive # %) EQD2 ≤ # Gy.
+e56e73a9	Mâchoires + MLC
+e5dcf84a	Dose accumulée
+e5e8cc94	Rapport pic / entrée
+e5f27121	Inversion-récupération
+e5f6fa50	Intensité du champ
+e621da6d	Front Compton T_max
+e636070c	Fourier partiel # %
+e670f9a4	Dose fœtale estimée
+e6862f05	non filtré
+e70efde8	Rotation du patient
+e73b4300	Filtre Al additionnel
+e74c644a	Modules
+e75dfe28	Salle d'attente — choisis un patient
+e78631fd	Fenêtre
+e7883571	#. Planification du traitement
+e8145ea3	 % du kVp)
+e8511c37	Préréglages
+e8f9a7ba	← Accueil simple
+e934bbc7	Durée totale
+e9cef8c2	Les électrons ont un parcours fini : idéal pour les tumeurs superficielles. Règles pratiques : R5# ≈ E₀/# cm, Rp ≈ #·E₀ cm, profondeur thérapeutique R8# ≈ E/# cm. La petite queue en profondeur provient des photons de freinage.
+e9eeaebf	pas de rayonnement ionisant
+e9f3813b	Dose au nourrisson (# % de contact rapproché)
+ea3ff3b9	Les cas sont uniquement pédagogiques et ne servent pas aux décisions cliniques.
+ea445006	Fantôme de qualité d'image NEMA
+ea617450	Suspicion d'appendicite chez une patiente enceinte. Que faut-il faire en premier ?
+eab8f509	Filtration : porte la CDA au-delà de # mm Al
+eac26593	Dose efficace (# cm)
+ead12e43	Cinématique Compton
+ead463ae	Énergie effective
+eaeaaa7b	Comprends pourquoi
+eaf105c7	Mettre en évidence
+eaf5e11d	Si μ = # cm⁻¹, quelle est la CDA ?
+eaff7e77	DFGe # mL/min/# m², sous metformine. Que fais-tu pour le produit de contraste iodé ?
+eb1b05b8	Neutron
+eb267579	 (sans AC)
+eb2ba7e2	Hauteur du champ
+eb5ba0e3	#. Rétroprojection filtrée (FBP)
+eb6d0c3f	Préparation du patient
+ebb00912	aucun écran nécessaire
+ebee5570	Emir : « Je dois retenir ma respiration ? D'accord, je la retiens ! »
+ec3c5945	Astuce : la page « Théorie » dans la barre du haut liste les formules clés.
+ec3ea500	Notes sur le modèle : le MC utilise l'histoire condensée (diffusion multiple de Highland) ; la planification est #D et néglige la diffusion latérale.
+ec88aab2	Terminé
+ece35ca8	Essayer dans le labo  →
+ece838e8	acquisition
+ed03c7fc	≈ Partiellement juste
+ed465190	Objectif : montrer la déchirure méniscale et l'œdème médullaire. Écho de spin : S = PD·(# − e^(−TR/T1))·e^(−TE/T2). Choisis TR, TE, saturation de la graisse et B₀, puis appuie sur LANCER LA SÉQUENCE.
+eda30c59	Tâche accomplie : 
+edbd8b07	Pondération
+eddfea6b	Des centaines de canaux × de nombreuses rangées de scintillateur céramique. Il mesure une projection par angle ; ensemble, elles forment le sinogramme.
+edf0d031	Réinitialiser le quiz
+ee5e0890	Collimater étroitement sur les poumons ; pas de cache-gonades, et expliquer pourquoi à la mère
+ee69cbe6	Elif demande en larmes : « Est-ce que cela a fait du mal à mon bébé ? » Dose fœtale estimée ≈ 
+ee88a3cc	Pour un examen corps entier, le patient avance par positions de lit ; le champ de vue axial est de #–# cm, et de #–# m sur les systèmes à long champ axial.
+ee940d80	Clair = forte atténuation (os, métal). Affichage selon la convention radiologique : droite du patient à gauche. La fenêtre est réglée automatiquement.
+ef57cd07	Glycémie
+ef646af7	Les faisceaux de rayons X réels sont polyénergétiques. Les photons de basse énergie sont absorbés en priorité dans les premiers centimètres, si bien que l'énergie moyenne du faisceau restant augmente : c'est le durcissement. La deuxième CDA est donc plus grande que la première ; CDA₁/CDA₂ est le coefficient d'homogénéité.
+ef945465	Impulsions RF
+efce91bf	T½ mesurée (MC)
+efd604d5	Température
+efd9baf3	Rapport Tc/Mo (équilibre transitoire)
+f02abde8	Durcissement du faisceau
+f0565afa	Fractionné (d fixe)
+f0c79167	Post
+f10c7001	Sa vitesse : les rayons γ vont plus vite que la lumière
+f1d69164	Couche de demi-atténuation (CDA)
+f1e3d43f	Le gadolinium traverse le placenta ; pendant la grossesse seulement si indispensable. L'IRM sans contraste suffit pour l'appendicite.
+f1e5a8a5	Quand le kVp dépasse l'énergie de liaison de la couche K du W (# keV), des raies <b>caractéristiques</b> apparaissent : Kα ≈ #–# keV, Kβ ≈ #–# keV. Intensité ~ (U − #)^#, U = kVp / E_K.
+f2125926	Bruit hépatique # HU : l'abcès et la graisse sont distinguables.
+f215c98f	DI # → surexposition (DI # ≈ # %, # ≈ #× la dose).
+f2586cb3	Champ (au détecteur)
+f25c8ffb	Fond naturel (moyenne mondiale)
+f28c5bf6	Leçons • figures interactives • quiz
+f2e56345	Règle l'épaisseur de plomb sur la CDA du Cs-# (≈ # cm) et observe la division par deux
+f2f0b95b	attente (h)
+f38b9efa	#. Projections et transformée de Radon
+f3952697	électron de recul T
+f3987859	Le rendement du tube varie à peu près comme kVp² et linéairement avec les mAs : #% de kVp en plus double environ le signal du détecteur (règle des #%).
+f3b48ff1	L'arrêter : l'aimant supraconducteur est toujours actif et les objets ferromagnétiques deviennent des projectiles ; uniquement du matériel compatible IRM
+f3f36daf	Rayonnement assez énergétique (≥ # eV) pour arracher des électrons aux atomes.
+f425bff1	  → écho attendu à : 
+f48a9bb6	Rendement en profondeur Monte Carlo, pic de Bragg, planification du traitement, HDV, radiobiologie.
+f4a277c4	Planification
+f4a9c097	Filtre
+f5c1b5b5	Taille de champ (en surface)
+f5e305fa	Champ #×# cm : le thorax mesure ≈ #×# cm ; diaphragme davantage (PDS et diffusé).
+f5efdcd1	# mg/L
+f60d1c54	Image pondérée T2 : LCS plus clair que la substance blanche
+f67cc940	Mode de désintégration
+f6862a0b	Transmission du blindage (accumulation incluse)
+f6d42ce8	Profondeur du pic de Bragg
+f6f22637	Commandes
+f71b5abf	Dose biologique efficace
+f728f992	adulte moyen (# cm)
+f7c4fef9	« Merci, vous avez été très attentionné ! »
+f80ba400	Comment utiliser cette section
+f810e311	EQD2 rectale (α/β #) = # Gy — acceptable.
+f8486832	N'utilise que le centre de l'espace k : le contraste reste, les détails disparaissent
+f84b8da5	Faux et anxiogène pour une radiothérapie externe.
+f8c4150d	# MeV e⁻
+f8d6f331	Son origine : les rayons X viennent des électrons, les γ du noyau
+f900a313	Dites-moi, ça va laisser une cicatrice sur mon visage ? Et faites attention à mon œil, s'il vous plaît.
+fa033cd5	Mission : récupérer la source
+fa73ce08	Bon travail — quelques points à améliorer.
+faa8e755	FLAIR : choisir TI = T1·ln2 annule le LCS (≈ # ms à # T). STIR : un TI court supprime la graisse (≈ #–# ms).
+fad26615	Émet des impulsions B₁ à la fréquence de Larmor (~# MHz à # T) qui basculent M. L'échauffement des tissus (DAS) vient d'ici.
+fae02622	Radiographies des orbites : AUCUN corps étranger métallique. L'examen a lieu.
+faff56b8	Temps écoulé
+fb079007	Dose par fraction d
+fb5419ac	Bords sous-dosés → risque de récidive ; le R9# devient aussi moins profond dans les très petits champs.
+fb77122a	Commencer le premier cas
+fb8da0b7	Appendicite pendant la grossesse : écho → IRM sans contraste → scanner basse dose si nécessaire.
+fb990b3e	★★★ ≥ # %, ★★ ≥ # %, ★ ≥ # %. Ton meilleur résultat est enregistré ; rejoue pour l'améliorer.
+fba0b4a2	Cosinus
+fbb64dbd	Tension du tube
+fc6adbf7	Kerma dans l'air à la surface d'entrée (ESAK)
+fc7e5fc3	Statistique de comptage # — plus d'activité que nécessaire ; la dose supplémentaire n'apporte aucun bénéfice diagnostique.
+fc82911d	relatif
+fcdeb802	surexposé
+fcff6168	Bassin
+fd4e03b8	Temps par pas
+fd53e067	après l'injection (min)
+fd7f93f9	Paramètres
+fd8f9de5	Les gradients codent la position en fréquence et en phase ; le signal acquis est la transformée de Fourier #D de l'image (espace k). L'image s'obtient par FFT inverse. La taille de matrice fixe la résolution, le FOV la taille des pixels ; le sous-échantillonnage provoque un repliement, le mouvement des fantômes selon la direction de phase.
+fd9045b9	#–# kV traversent mieux les patients corpulents : moins de mAs pour le même bruit.
+fddaa9d0	Indice de conformité (Paddick)
+fe0012eb	Conseil dépassé ; inutile avec un DFGe ≥ # et retarde le diagnostic.
+fe2bb7a7	Entourer le bassin d'un tablier de plomb
+feb29647	Faisceau polyénergétique (réaliste)
+feb7cede	Hypertension (contrôlée)
+febab6f7	IGRT : avant le traitement, on acquiert une image kV ou un CBCT (cone-beam CT) et on corrige la position du patient au millimètre.
+fec9a6c7	Imagerie kV / CBCT quotidienne avec recalage sur les marqueurs en or
+ff1483ac	Stimulateur cardiaque (titane)
+ff559aca	Can : « Heureusement que vous m'avez donné un casque. Voilà les bruits ! »
+ff97f266	Énergie moyenne des photons
+ffedd789	Allaite un bébé de # mois

@@ -1,0 +1,133 @@
+@topic mri | MR | Manyetik Rezonans Görüntüleme | Magnetic Resonance Imaging | mri
+@desc Spin ve Larmor frekansı, gevşeme (T1, T2, T2*), sekanslar ve kontrast, uzaysal kodlama ve k-uzayı, MR güvenliği. || Spin and the Larmor frequency, relaxation (T1, T2, T2*), sequences and contrast, spatial encoding and k-space, MR safety.
+@formula Larmor frekansı || Larmor frequency :: f = γ̄ · B₀     γ̄(¹H) = 42.58 MHz/T
+@formula T1 geri kazanımı || T1 recovery :: Mz(t) = M₀ · (1 − e^(−t/T1))
+@formula T2 sönümü || T2 decay :: Mxy(t) = M₀ · e^(−t/T2)
+@formula Spin eko sinyali || Spin-echo signal :: S = PD · (1 − e^(−TR/T1)) · e^(−TE/T2)
+@formula İnversiyon sıfırlama || Inversion null :: TI_null = T1 · ln2  (TR >> T1)
+@formula Çekim süresi || Scan time :: T = TR · N_faz · NEX / ETL
+@formula SAR || SAR :: SAR ~ B₀² · α² · (darbe sayısı / s)
+@term Larmor frekansı || Larmor frequency :: Protonların B₀ etrafında presesyon frekansı; 1.5 T'da 63.9 MHz. || The precession frequency of protons around B₀; 63.9 MHz at 1.5 T.
+@term TR / TE || TR / TE :: Tekrarlama süresi (iki uyarım arası) / eko süresi (uyarım ile sinyal arası). || Repetition time (between excitations) / echo time (between excitation and signal).
+@term k-uzayı || k-space :: Ham MR verisinin uzaysal frekans gösterimi; görüntü bunun Fourier dönüşümüdür. || The spatial-frequency representation of raw MR data; the image is its Fourier transform.
+@term SAR || SAR :: Özgül soğurma hızı: RF enerjisinin dokuda ısıya dönüşme hızı (W/kg). || Specific absorption rate: how fast RF energy is turned into heat in tissue (W/kg).
+
+@lesson nmr | Spin, Larmor frekansı ve manyetizasyon | Spin, the Larmor frequency and magnetisation | 9
+## Manyetik alanda protonlar || Protons in a magnetic field
+Hidrojen çekirdeği (proton) küçük bir mıknatıs gibi davranır. Güçlü B₀ alanında protonlar alanla paralel ya da antiparalel hizalanır ve alan etrafında Larmor frekansıyla presesyon yapar: || The hydrogen nucleus (proton) behaves like a tiny magnet. In a strong field B₀ protons align parallel or antiparallel and precess around the field at the Larmor frequency:
+$ f = γ̄ · B₀        γ̄ = 42.58 MHz/T  →  1.5 T: 63.9 MHz,  3 T: 127.7 MHz
+Paralel durumdaki fazlalık çok küçüktür (1.5 T'da ~5 ppm). Ancak vokseldeki çok sayıda proton sayesinde ölçülebilir bir net manyetizasyon (M₀) oluşur. M₀ B₀ ile artar; yüksek alanda sinyal–gürültü oranının daha iyi olmasının nedeni budur. || The excess in the parallel state is tiny (~5 ppm at 1.5 T), but the huge number of protons in a voxel gives a measurable net magnetisation M₀, which grows with B₀ — the reason high fields give better signal-to-noise.
+## Rezonans ve RF darbesi || Resonance and the RF pulse
+Larmor frekansındaki bir RF darbesi M'yi B₀'dan uzaklaştırır (90° darbe M'yi enine düzleme yatırır). Enine manyetizasyon dönerken alıcı bobinde akım indükler. Bu sinyale serbest indüksiyon sönümü (FID) denir. Rezonans koşulu, MR'ın yalnızca istenen çekirdeği ve uzaysal konumu uyarmasını sağlar. || An RF pulse at the Larmor frequency tips M away from B₀ (a 90° pulse lays it in the transverse plane). The rotating transverse magnetisation induces a current in the receive coil — the free induction decay (FID). The resonance condition lets MRI excite only the chosen nucleus and location.
+? 3 T'da protonların Larmor frekansı yaklaşık nedir? || What is the proton Larmor frequency at 3 T?
++ ≈ 128 MHz || ≈ 128 MHz
+- ≈ 64 MHz || ≈ 64 MHz
+- ≈ 42.6 kHz || ≈ 42.6 kHz
+= f = 42.58 × 3 ≈ 127.7 MHz. || f = 42.58 × 3 ≈ 127.7 MHz.
+? Yüksek alanın (3 T) temel avantajı nedir? || What is the main advantage of a higher field (3 T)?
++ Net manyetizasyon ve dolayısıyla SNR artar || Net magnetisation, and hence SNR, increases
+- SAR azalır || SAR decreases
+- T1 değerleri kısalır || T1 values shorten
+= M₀ ~ B₀'dır, SNR yaklaşık B₀ ile artar. Ancak SAR ~B₀² ile artar ve T1'ler uzar. || M₀ ~ B₀ and SNR rises roughly with B₀, but SAR rises as ~B₀² and T1s lengthen.
+
+@lesson relax | Gevşeme: T1, T2 ve T2* | Relaxation: T1, T2 and T2* | 10
+## T1: boylamsal geri kazanım || T1: longitudinal recovery
+RF darbesinden sonra boylamsal manyetizasyon, spinlerin enerjiyi çevreye (latise) vermesiyle geri kazanılır. Bu yüzden T1'e spin–latis gevşemesi denir. Yağın T1'i kısa (1.5 T'da ~260 ms), sıvının uzundur (BOS ~4000 ms). T1, B₀ arttıkça uzar. || After an RF pulse the longitudinal magnetisation recovers as the spins give energy to their surroundings (the lattice) — spin-lattice relaxation, T1. Fat has a short T1 (~260 ms at 1.5 T), fluid a long one (CSF ~4000 ms); T1 lengthens as B₀ rises.
+$ Mz(t) = M₀ · (1 − e^(−t/T1))
+## T2 ve T2*: enine sönüm || T2 and T2*: transverse decay
+Enine manyetizasyon, spinler birbirleriyle etkileşip faz uyumunu kaybettikçe söner. Buna spin–spin gevşemesi (T2) denir. Gerçekte alan homojensizlikleri faz kaybını hızlandırır; gözlenen sönüm T2* < T2'dir. 180° yeniden odaklama darbesi (spin eko), sabit homojensizliklerin etkisini geri alır ve gerçek T2'yi ölçmemizi sağlar. || Transverse magnetisation decays as spins interact and lose phase coherence — spin-spin relaxation, T2. In practice field inhomogeneities speed up the dephasing, so the observed decay is T2* < T2. A 180° refocusing pulse (spin echo) undoes static inhomogeneities and recovers the true T2.
+$ Mxy(t) = M₀ · e^(−t/T2)        T2* < T2 ≤ T1
+%fig relax
+> Tipik değerler (1.5 T): beyaz cevher T1 ≈ 790 ms, T2 ≈ 75 ms; gri cevher T1 ≈ 1150 ms, T2 ≈ 95 ms; BOS T1 ≈ 3800 ms, T2 ≈ 1800 ms; yağ T1 ≈ 260 ms, T2 ≈ 70 ms. Patolojilerin çoğu (ödem, tümör) su artışıyla hem T1'i hem T2'yi uzatır. || Typical values (1.5 T): white matter T1 ≈ 790 ms, T2 ≈ 75 ms; grey matter T1 ≈ 1150 ms, T2 ≈ 95 ms; CSF T1 ≈ 3800 ms, T2 ≈ 1800 ms; fat T1 ≈ 260 ms, T2 ≈ 70 ms. Most pathology (oedema, tumour) adds water and lengthens both T1 and T2.
+? 90° darbesinden T1 kadar süre sonra boylamsal manyetizasyon M₀'ın yüzde kaçıdır? || What fraction of M₀ has the longitudinal magnetisation recovered one T1 after a 90° pulse?
++ ≈ %63 || ≈ 63 %
+- %50 || 50 %
+- %37 || 37 %
+= Mz = M₀(1 − e^(−1)) ≈ 0.63 M₀. %37, T2 kadar süre sonra kalan enine manyetizasyondur. || Mz = M₀(1 − e^(−1)) ≈ 0.63 M₀; 37 % is what remains of the transverse magnetisation after one T2.
+? Spin eko neyin etkisini ortadan kaldırır? || What does a spin echo cancel?
++ Sabit alan homojensizliklerinden doğan faz kaybını (T2* etkisini) || Dephasing from static field inhomogeneities (the T2* effect)
+- T1 gevşemesini || T1 relaxation
+- Gerçek T2 gevşemesini || True T2 relaxation
+= 180° darbe faz sırasını tersine çevirir; sabit homojensizlikler TE'de yeniden odaklanır. Rastgele spin–spin etkileşimleri (T2) ise geri alınamaz. || The 180° pulse reverses the phase order so static inhomogeneities refocus at TE; random spin-spin interactions (T2) cannot be undone.
+
+@lesson contrast | Sekanslar ve kontrast | Sequences and contrast | 11
+## TR ve TE ile ağırlık seçimi || Choosing the weighting with TR and TE
+Spin eko sinyali hem T1 hem T2 terimlerini içerir: || The spin-echo signal contains both T1 and T2 terms:
+$ S = PD · (1 − e^(−TR/T1)) · e^(−TE/T2)
+* <b>T1 ağırlıklı:</b> kısa TR (~400–600 ms), kısa TE (~10–20 ms). Yağ parlak, sıvı koyudur; anatomi ve kontrast tutulumu için kullanılır. || <b>T1-weighted:</b> short TR (~400–600 ms), short TE (~10–20 ms). Fat is bright and fluid dark; used for anatomy and contrast enhancement.
+* <b>T2 ağırlıklı:</b> uzun TR (> 2000 ms), uzun TE (~80–120 ms). Sıvı ve ödem parlaktır; patolojinin çoğu görünür. || <b>T2-weighted:</b> long TR (> 2000 ms), long TE (~80–120 ms). Fluid and oedema are bright; most pathology shows.
+* <b>PD ağırlıklı:</b> uzun TR, kısa TE. Proton yoğunluğu farkını gösterir; kas-iskelet sisteminde (menisküs) kullanılır. || <b>PD-weighted:</b> long TR, short TE. Shows proton density differences; used in musculoskeletal imaging (menisci).
+## İnversiyon geri kazanım ve yağ baskılama || Inversion recovery and fat suppression
+180° inversiyon darbesinden sonra bir doku, Mz'si sıfırdan geçtiği anda uyarılırsa sinyal vermez: TI_null = T1·ln2. STIR (TI ≈ 150–180 ms, 1.5 T) yağı, FLAIR (TI ≈ 2000–2500 ms) BOS'u baskılar. Kimyasal yağ baskılama ise yağın su ile 3.5 ppm'lik frekans farkını kullanır (1.5 T'da ≈ 220 Hz). || After a 180° inversion, a tissue excited just as its Mz crosses zero gives no signal: TI_null = T1·ln2. STIR (TI ≈ 150–180 ms at 1.5 T) nulls fat, FLAIR (TI ≈ 2000–2500 ms) nulls CSF. Chemical fat saturation uses the 3.5 ppm frequency offset between fat and water (≈ 220 Hz at 1.5 T).
+## Gradyan eko ve kontrast madde || Gradient echo and contrast agents
+Gradyan eko sekansları 180° darbe kullanmaz. Bu yüzden hızlıdırlar ama T2* ağırlıklıdırlar (kanama, kalsifikasyon). Küçük flip açısıyla kısa TR mümkündür. En yüksek sinyal Ernst açısında elde edilir: cos α_E = e^(−TR/T1). Gadolinyum ajanları paramanyetik olup T1'i kısaltır ve T1 ağırlıklı görüntüde tutulum yapan dokuyu parlak gösterir. || Gradient-echo sequences use no 180° pulse, so they are fast but T2*-weighted (haemorrhage, calcification). Small flip angles allow short TR, with maximum signal at the Ernst angle: cos α_E = e^(−TR/T1). Gadolinium agents are paramagnetic: they shorten T1 and make enhancing tissue bright on T1-weighted images.
+! 1.5 T'da yağ (T1 ≈ 260 ms) için STIR inversiyon zamanı: TI ≈ 260 × 0.693 ≈ 180 ms. Pratikte 150–170 ms kullanılır, çünkü TR sonsuz değildir. || STIR inversion time for fat (T1 ≈ 260 ms) at 1.5 T: TI ≈ 260 × 0.693 ≈ 180 ms; in practice 150–170 ms is used because TR is finite.
+? T2 ağırlıklı spin eko için hangi parametreler uygundur? || Which parameters give a T2-weighted spin echo?
++ TR 4000 ms, TE 100 ms || TR 4000 ms, TE 100 ms
+- TR 500 ms, TE 15 ms || TR 500 ms, TE 15 ms
+- TR 500 ms, TE 100 ms || TR 500 ms, TE 100 ms
+= Uzun TR T1 etkisini ortadan kaldırır, uzun TE T2 farklarını ortaya çıkarır. || A long TR removes the T1 effect, a long TE brings out T2 differences.
+? FLAIR sekansı neyi baskılar? || What does a FLAIR sequence suppress?
++ BOS (serbest sıvı) sinyalini || The CSF (free fluid) signal
+- Yağ sinyalini || The fat signal
+- Kas sinyalini || The muscle signal
+= Uzun TI (≈ 2000–2500 ms) ile T1'i çok uzun olan BOS sıfırlanır; periventriküler lezyonlar ortaya çıkar. || A long TI (≈ 2000–2500 ms) nulls CSF, whose T1 is very long, revealing periventricular lesions.
+? Gadolinyumlu kontrast madde nasıl etki eder? || How does a gadolinium contrast agent work?
++ Yakındaki protonların T1'ini kısaltır || It shortens the T1 of nearby protons
+- Kendisi sinyal üretir || It produces signal itself
+- B₀'ı artırır || It increases B₀
+= Gd³⁺'nın eşleşmemiş elektronları gevşemeyi hızlandırır; T1 ağırlıklı görüntüde tutulum parlak görünür. || Gd³⁺'s unpaired electrons speed up relaxation, so enhancement appears bright on T1-weighted images.
+
+@lesson encoding | Uzaysal kodlama ve k-uzayı | Spatial encoding and k-space | 11
+## Gradyanlarla konum bilgisi || Position from gradients
+Gradyan bobinleri B₀'a konumla doğrusal değişen küçük bir alan ekler. Böylece Larmor frekansı konuma bağlı olur. || Gradient coils add a small field that varies linearly with position, making the Larmor frequency position-dependent:
+* <b>Kesit seçimi:</b> RF darbesi sırasında uygulanan gradyan; dar bantlı darbe yalnızca bir kesiti uyarır. || <b>Slice selection:</b> a gradient during the RF pulse, so a narrow-band pulse excites only one slice.
+* <b>Frekans kodlama:</b> okuma sırasında; her sütun farklı frekansla sinyal verir. || <b>Frequency encoding:</b> during readout, so each column signals at a different frequency.
+* <b>Faz kodlama:</b> her TR'de farklı genlikte kısa bir gradyan; satırları faz farkıyla ayırır. || <b>Phase encoding:</b> a short gradient of different strength in every TR that separates rows by phase.
+## k-uzayı || k-space
+Toplanan sinyaller k-uzayını doldurur. Görüntü, k-uzayının 2B Fourier dönüşümüdür. k-uzayının merkezi kontrastı ve genel sinyal düzeyini, çevresi ise ince detayları ve kenarları taşır. Her TR'de (spin ekoda) bir satır toplanır. || The acquired signals fill k-space, and the image is its 2D Fourier transform. The centre of k-space carries contrast and overall signal; the periphery carries fine detail and edges. In a spin echo one line is acquired per TR.
+$ Çekim süresi T = TR × N_faz × NEX / ETL
+! TR = 3000 ms, 256 faz satırı, NEX = 1. Konvansiyonel spin ekoda süre 3 × 256 = 768 s ≈ 13 dk'dır. Turbo spin ekoda (ETL = 16) 768/16 = 48 s'ye iner. || TR = 3000 ms, 256 phase lines, NEX = 1: a conventional spin echo takes 3 × 256 = 768 s ≈ 13 min; a turbo spin echo with ETL = 16 takes 768/16 = 48 s.
+> SNR voksel hacmiyle ve √(N_faz · N_frekans · NEX) ile orantılıdır. Çözünürlüğü iki katına çıkarmak (vokseli 4'te birine indirmek) SNR'yi ciddi düşürür. Paralel görüntüleme (SENSE/GRAPPA) çekimi hızlandırır ama SNR kaybettirir. || SNR scales with voxel volume and √(N_phase · N_freq · NEX). Doubling in-plane resolution (a quarter of the voxel) costs a lot of SNR; parallel imaging (SENSE/GRAPPA) speeds up acquisition at an SNR cost.
+## Sık artefaktlar || Common artefacts
+* <b>Katlanma (aliasing):</b> FOV dışındaki doku faz yönünde karşı tarafa katlanır. || <b>Aliasing (wrap-around):</b> tissue outside the FOV folds over in the phase direction.
+* <b>Kimyasal kayma:</b> yağ-su sınırında frekans yönünde parlak/koyu bant. || <b>Chemical shift:</b> a bright/dark band at fat-water boundaries in the frequency direction.
+* <b>Hareket ve akım:</b> faz yönünde hayalet görüntüler. || <b>Motion and flow:</b> ghosts in the phase direction.
+* <b>Duyarlılık:</b> metal ve hava-doku sınırlarında sinyal kaybı ve bozulma (özellikle GRE ve EPI). || <b>Susceptibility:</b> signal loss and distortion at metal and air-tissue interfaces (especially GRE and EPI).
+? k-uzayının merkezi neyi belirler? || What does the centre of k-space determine?
++ Görüntü kontrastını ve genel sinyal düzeyini || Image contrast and overall signal level
+- İnce detayları ve kenarları || Fine detail and edges
+- Kesit kalınlığını || Slice thickness
+= Düşük uzaysal frekanslar merkezdedir. Merkezi alınmayan bir görüntü kontrastını kaybeder; çevresi alınmayan görüntü ise bulanık olur. || Low spatial frequencies sit in the centre: without the centre the image loses contrast, without the periphery it becomes blurred.
+? TR 2000 ms, 256 satır, NEX 2 ile konvansiyonel spin eko ne kadar sürer? || How long does a conventional spin echo with TR 2000 ms, 256 lines and NEX 2 take?
++ ≈ 17 dakika || ≈ 17 minutes
+- ≈ 8.5 dakika || ≈ 8.5 minutes
+- ≈ 1 dakika || ≈ 1 minute
+= 2 s × 256 × 2 = 1024 s ≈ 17 dk. Turbo spin ekonun klinikte standart olmasının nedeni budur. || 2 s × 256 × 2 = 1024 s ≈ 17 min — which is why turbo spin echo is the clinical standard.
+
+@lesson safety | MR güvenliği | MR safety | 10
+@case can
+## Üç alan, üç risk || Three fields, three risks
+* <b>Statik alan (B₀):</b> ferromanyetik cisimler füze gibi çekilir. Çekim kuvveti B·dB/dz ile orantılıdır ve tünel girişinde en büyüktür. Süperiletken mıknatıs her zaman açıktır. Bazı implantlar (eski kalp pilleri, anevrizma klipsleri) kontrendikedir. || <b>Static field (B₀):</b> ferromagnetic objects become projectiles. The pull scales with B·dB/dz and peaks at the bore entrance. A superconducting magnet is always on. Some implants (older pacemakers, aneurysm clips) are contraindicated.
+* <b>Gradyanlar (dB/dt):</b> periferik sinir uyarımı ve yüksek akustik gürültü (> 100 dB). 99 dB(A) üzerinde kulak koruması zorunludur. || <b>Gradients (dB/dt):</b> peripheral nerve stimulation and loud acoustic noise (> 100 dB); hearing protection is mandatory above 99 dB(A).
+* <b>RF (B₁):</b> dokuda ısınma; SAR (W/kg) ile sınırlanır. Normal modda tüm vücut SAR ≤ 2 W/kg, baş ≤ 3.2 W/kg'dır (IEC 60601-2-33). İletken kablo ve halkalar yanık yapabilir. || <b>RF (B₁):</b> tissue heating, limited by SAR (W/kg): whole-body ≤ 2 W/kg and head ≤ 3.2 W/kg in normal mode (IEC 60601-2-33). Conductive leads and loops can cause burns.
+$ SAR ~ B₀² · (flip açısı)² · (RF darbe sayısı / s)
+## Bölgeler ve tarama || Zones and screening
+ACR dört bölge tanımlar: I halka açık alan, II tarama, III kontrollü erişim, IV mıknatıs odası. Her hasta ve personel Zon III'e girmeden önce yazılı tarama formundan geçer. Metal işçilerinde göz içi metal parça şüphesi varsa önce orbita grafisi veya BT yapılır. İmplantlar "MR güvenli", "MR koşullu" veya "MR güvensiz" olarak etiketlenir ve koşullara uyulur. || The ACR defines four zones: I public, II screening, III controlled access, IV the magnet room. Every patient and staff member is screened in writing before entering Zone III; metal workers with possible intra-ocular metal get orbit radiographs or CT first. Implants are labelled MR Safe, MR Conditional or MR Unsafe, and their conditions are followed.
+!! Süperiletken mıknatıs "kapatılamaz". Acil söndürme (quench) helyumu dışarı atar, pahalıdır ve odada oksijeni azaltabilir; yalnızca hayati tehlikede (ör. mıknatısa sıkışma) yapılır. Kardiyak arrestte hasta Zon III'e çıkarılıp orada müdahale edilir. || A superconducting magnet cannot simply be "switched off". A quench vents the helium, is costly and can deplete oxygen in the room; it is done only when life is at risk (e.g. someone pinned to the magnet). In cardiac arrest the patient is moved out to Zone III for resuscitation.
+> Gebelikte MR iyonlaştırıcı radyasyon içermediği için tercih edilir. Ancak gadolinyum plasentayı geçer ve yalnızca zorunluysa verilir. eGFR < 30 olan hastalarda gadolinyum nefrojenik sistemik fibroz (NSF) riski nedeniyle dikkat ister. || In pregnancy MRI is preferred because it involves no ionising radiation, but gadolinium crosses the placenta and is given only when essential. In patients with eGFR < 30 gadolinium requires caution because of the risk of nephrogenic systemic fibrosis (NSF).
+? MR'da ferromanyetik bir cismin çekim kuvveti nerede en büyüktür? || Where is the pull on a ferromagnetic object greatest in MRI?
++ Tünel girişinin yakınında, alan gradyanının en büyük olduğu yerde || Near the bore entrance, where the spatial field gradient is largest
+- Tünelin tam merkezinde || Exactly at the centre of the bore
+- Kumanda odasında || In the control room
+= Kuvvet B·dB/dz ile orantılıdır. Merkezde B en büyük ama dB/dz ≈ 0'dır; girişte ikisinin çarpımı en büyüktür. || The force scales with B·dB/dz; at the centre B is largest but dB/dz ≈ 0, while at the entrance the product peaks.
+? Normal çalışma modunda tüm vücut SAR sınırı nedir? || What is the whole-body SAR limit in normal operating mode?
++ 2 W/kg || 2 W/kg
+- 20 W/kg || 20 W/kg
+- 0.2 W/kg || 0.2 W/kg
+= IEC 60601-2-33: normal mod 2 W/kg, birinci seviye 4 W/kg (tıbbi gözetimle). || IEC 60601-2-33: 2 W/kg in normal mode, 4 W/kg in first-level mode (under medical supervision).
+? Kaynak işçisi bir hastada MR öncesi ne yapılmalıdır? || What must be done before MRI in a welder?
++ Göz içi metal parça için orbita grafisi veya BT || Orbit radiographs or CT to exclude intra-ocular metal
+- Daha düşük alanlı (1.5 T) tarayıcı kullanmak yeterlidir || Using a lower-field (1.5 T) scanner is enough
+- Gözü bantla kapatmak yeterlidir || Taping the eye shut is enough
+= Ferromanyetik bir parça 1.5 T'da da hareket edebilir ve körlüğe yol açabilir. Önce tarama yapılmalıdır. || A ferromagnetic fragment can move at 1.5 T too and cause blindness, so it must be excluded first.
