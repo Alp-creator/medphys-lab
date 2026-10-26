@@ -2037,6 +2037,7 @@ f3987859	Randamentul tubului crește aproximativ cu kVp² și liniar cu mAs: #% 
 f3b48ff1	O oprești: magnetul supraconductor este mereu pornit, iar obiectele feromagnetice devin proiectile; doar echipament sigur RM
 f3d4e34a	Zonele se clasifică drept controlate sau supravegheate în funcție de doza așteptată, se semnalizează și au acces restricționat. O sursă pierdută, o citire neașteptat de mare a dozimetrului sau iradierea pacientului ori a locului greșit este un incident: se înregistrează, i se analizează cauza principală și, când este necesar, se raportează autorității de reglementare (în Turcia, NDK).
 f3f36daf	Radiație suficient de energică (≥ # eV) pentru a smulge electroni din atomi.
+f41e1c4d	# /min
 f425bff1	  → ecou așteptat la: 
 f43d0d9d	Cu dozimetrul de sub șorț
 f43d5d4c	În tumorile cu proliferare rapidă (cap și gât), repopularea se declanșează dacă tratamentul durează mai mult de ~# zile, costând aproximativ ~# Gy EQD2 pe zi. De aceea întreruperile neplanificate trebuie compensate (de ex. o fracțiune suplimentară în weekend sau două fracțiuni pe zi).

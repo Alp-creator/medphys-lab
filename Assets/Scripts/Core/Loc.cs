@@ -109,6 +109,10 @@ namespace MedPhys.Core
             return Translate(en);
         }
 
+        /// <summary>T for formulas. Right-to-left languages keep the English (Latin) notation: inside a left-to-right
+        /// formula the bidi algorithm moves numbers next to the wrong words ("CTDI_2/3 + مركز").</summary>
+        public static string TEq(string tr, string en) => Current.Rtl ? en : T(tr, en);
+
         // ------------------------------------------------------------------ translation tables
         static Dictionary<uint, string> table;
         static readonly Regex Num = new Regex(@"(?<![A-Za-z_])[-+]?\d+(?:[.,]\d+)?", RegexOptions.CultureInvariant);

@@ -2037,6 +2037,7 @@ f3987859	Le rendement du tube varie à peu près comme kVp² et linéairement av
 f3b48ff1	L'arrêter : l'aimant supraconducteur est toujours actif et les objets ferromagnétiques deviennent des projectiles ; uniquement du matériel compatible IRM
 f3d4e34a	Les zones sont classées contrôlées ou surveillées selon la dose attendue, signalées et soumises à un accès restreint. Une source perdue, une lecture de dosimètre anormalement élevée ou l'exposition du mauvais patient ou du mauvais site constitue un incident : il est consigné, sa cause profonde est analysée et, si nécessaire, il est déclaré à l'autorité de sûreté (la NDK en Turquie).
 f3f36daf	Rayonnement assez énergétique (≥ # eV) pour arracher des électrons aux atomes.
+f41e1c4d	# /min
 f425bff1	  → écho attendu à : 
 f43d0d9d	Avec le dosimètre placé sous le tablier
 f43d5d4c	Dans les tumeurs à prolifération rapide (tête et cou), la repopulation s'accélère si le traitement dure plus de ~# jours, ce qui coûte environ ~# Gy EQD2 par jour. Les interruptions non prévues doivent donc être compensées (p. ex. une fraction supplémentaire le week-end ou deux fractions par jour).

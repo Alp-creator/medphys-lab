@@ -119,8 +119,9 @@ into `Assets/Resources/Lang/_keys.txt` (numbers are masked as `#`), and each lan
 its translation, so translations survive code changes. To fix or add a translation, write `N|text` lines
 (N = line in `_keys.txt`) and merge them with `python Bridge/i18n.py merge <code> <file>`; the tool checks that
 placeholders, tags and line breaks are kept. Lesson equations are language-neutral unless they contain words; then
-they are written as `$ denklem || equation` and translated like any other line. `python Bridge/i18n.py status` shows
-coverage. After changing
+they are written as `$ denklem || equation` and translated like any other line. Arabic and Persian always show the
+English form of equations (`Loc.TEq`): inside a left-to-right formula, right-to-left words make the bidi algorithm move
+numbers next to the wrong symbols. `python Bridge/i18n.py status` shows coverage. After changing
 translations, run `python Bridge/i18n_fonts.py --subset` and **MedPhys → Fonts** so the fonts contain every character.
 Pull requests that improve translations are very welcome.
 

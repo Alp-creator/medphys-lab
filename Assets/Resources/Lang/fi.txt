@@ -2037,6 +2037,7 @@ f3987859	Putken tuotto kasvaa suunnilleen kuten kVp² ja lineaarisesti mAs:n muk
 f3b48ff1	Pysäytä hänet: suprajohtava magneetti on aina päällä ja ferromagneettisista esineistä tulee ammuksia; vain MK-turvallisia välineitä
 f3d4e34a	Alueet luokitellaan odotetun annoksen mukaan valvonta- tai tarkkailualueiksi, merkitään ja niille pääsyä rajoitetaan. Kadonnut lähde, odottamattoman suuri annosmittarilukema tai väärän potilaan tai väärän kohdan säteilytys on poikkeama: se kirjataan, sen juurisyy analysoidaan ja tarvittaessa siitä ilmoitetaan valvovalle viranomaiselle (Turkissa NDK).
 f3f36daf	Säteily, jonka energia riittää (≥ # eV) irrottamaan elektroneja atomeista.
+f41e1c4d	# /min
 f425bff1	  → kaiku odotetaan hetkellä: 
 f43d0d9d	Esiliinan alla olevalla annosmittarilla
 f43d5d4c	Nopeasti proliferoivissa kasvaimissa (pää–kaula) repopulaatio käynnistyy, jos hoito kestää yli ~# päivää, ja se maksaa noin ~# Gy EQD2 päivässä. Suunnittelemattomat tauot on siksi kompensoitava (esim. ylimääräinen fraktio viikonloppuna tai kaksi fraktiota päivässä).

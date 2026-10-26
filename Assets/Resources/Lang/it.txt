@@ -2037,6 +2037,7 @@ f3987859	La resa del tubo cresce circa con kVp² e linearmente con i mAs: un #% 
 f3b48ff1	Fermarla: il magnete superconduttore è sempre acceso e gli oggetti ferromagnetici diventano proiettili; solo attrezzature sicure in RM
 f3d4e34a	Le zone sono classificate come controllate o sorvegliate in base alla dose attesa, segnalate e ad accesso limitato. Una sorgente smarrita, una lettura dosimetrica inaspettatamente alta o l'esposizione del paziente o della sede sbagliati sono un incidente: viene registrato, se ne analizza la causa principale e, quando richiesto, lo si notifica all'autorità di controllo (in Turchia la NDK).
 f3f36daf	Radiazione abbastanza energetica (≥ # eV) da strappare elettroni agli atomi.
+f41e1c4d	# /min
 f425bff1	  → eco atteso a: 
 f43d0d9d	Con il dosimetro sotto il camice
 f43d5d4c	Nei tumori a rapida proliferazione (testa-collo) il ripopolamento si attiva se il trattamento dura più di ~# giorni, con una perdita di circa ~# Gy EQD2 al giorno. Le interruzioni non programmate vanno quindi compensate (ad es. una frazione extra nel fine settimana o due frazioni al giorno).

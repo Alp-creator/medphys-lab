@@ -579,7 +579,7 @@ namespace MedPhys.Modules
             UIKit.Eq(c, "dN/dt = −λN    N(t) = N₀·e^(−λt)    A = λN    T½ = ln2/λ    τ = 1/λ");
             UIKit.P(c, T("Bozunma rastgeledir: tek bir çekirdeğin ne zaman bozunacağı bilinemez, ama çok sayıda çekirdeğin davranışı üstel yasaya uyar. Aktivite birimi Becquerel (1 Bq = 1 bozunma/s), eski birim Curie (1 Ci = 3.7·10¹⁰ Bq).",
                              "Decay is random: one cannot predict when a single nucleus decays, but many nuclei follow the exponential law. Activity is measured in becquerel (1 Bq = 1 decay/s); the old unit is the curie (1 Ci = 3.7·10¹⁰ Bq)."));
-            UIKit.Eq(c, "1/T_eff = 1/T_fiziksel + 1/T_biyolojik");
+            UIKit.Eq(c, TEq("1/T_eff = 1/T_fiziksel + 1/T_biyolojik", "1/T_eff = 1/T_physical + 1/T_biological"));
             UIKit.H(c, T("2. Jeneratör ve geçici denge", "2. Generator and transient equilibrium"));
             UIKit.Eq(c, "A₂(t) = BR · A₁(0) · λ₂/(λ₂ − λ₁) · (e^(−λ₁t) − e^(−λ₂t))");
             UIKit.P(c, T("Ana çekirdek (Mo-99) kız çekirdekten (Tc-99m) daha uzun ömürlü olduğunda zamanla A₂/A₁ sabit bir değere ulaşır: geçici denge. Ana çekirdek çok uzun ömürlüyse (ör. Sr-90/Y-90) seküler denge oluşur: A₂ = A₁.",

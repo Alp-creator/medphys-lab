@@ -3,6 +3,7 @@ Can stand, cooperative
 No chronic illness, fully vaccinated
 Temperature
 Pulse
+# /min
 Resp. rate
 Projection and positioning
 Emir can stand and cooperates. Which technique do you choose?
@@ -532,6 +533,7 @@ Beam and calibration
 Mean / effective energy
 μ(water) reference
 Noise (σ, uniform region)
+HU = # · (μ − μ_water) / (μ_water − μ_air)
 Dose
 DLP (# cm scan)
 CTDIw: # cm body (# cm head) phantom; E = DLP × k (chest #, abdomen #, head # mSv/mGy·cm).
@@ -806,6 +808,7 @@ Done. Centre/background ratio:
  (no AC)
 #. Radioactive decay
 Decay is random: one cannot predict when a single nucleus decays, but many nuclei follow the exponential law. Activity is measured in becquerel (# Bq = # decay/s); the old unit is the curie (# Ci = #·#¹⁰ Bq).
+#/T_eff = #/T_physical + #/T_biological
 #. Generator and transient equilibrium
 When the parent (Mo-#) lives longer than the daughter (Tc-#m), A₂/A₁ tends to a constant: transient equilibrium. If the parent is much longer-lived (e.g. Sr-#/Y-#) secular equilibrium arises: A₂ = A₁.
 A positron from β⁺ decay annihilates with an electron within a few mm (positron range → resolution loss), producing two # keV photons almost back-to-back (±#°). If two crystals of the ring fire within the timing window (~# ns), a coincidence and a line of response (LOR) are recorded.
@@ -1621,7 +1624,6 @@ Backscatter is highest on the tube side, where the beam enters the patient; the 
 Projections and the sinogram, filtered back-projection and iterative reconstruction, Hounsfield units, image quality and artefacts, CTDI/DLP/SSDE.
 Projection
 Hounsfield unit
-HU = # · (μ − μ_water) / (μ_water − μ_air)
 pitch = table feed per rotation ÷ total collimation
 CTDIw / CTDIvol
 CTDIw = #/#·CTDI_centre + #/#·CTDI_periphery     CTDIvol = CTDIw / pitch
@@ -1709,7 +1711,6 @@ CTDIvol = CTDIw / pitch. Many scanners use "effective mAs" (mAs/pitch), in which
 Radioactive decay, radionuclide production and generators, the gamma camera and SPECT, PET, internal dosimetry and patient safety.
 Decay law
 A = λ·N     # Bq = # decay/s     # mCi = # MBq
-#/T_eff = #/T_physical + #/T_biological
 Generator (transient equilibrium)
 SUV
 SUV = C_tissue [kBq/mL] / (A_injected [kBq] / weight [g])

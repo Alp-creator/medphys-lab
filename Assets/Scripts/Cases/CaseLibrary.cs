@@ -54,9 +54,9 @@ namespace MedPhys.Cases
             c.History.Add(("Ayakta durabiliyor, iş birliği iyi", "Can stand, cooperative"));
             c.History.Add(("Kronik hastalığı yok, aşıları tam", "No chronic illness, fully vaccinated"));
             c.Vitals.Add(("Ateş", "Temperature", "38.9 °C"));
-            c.Vitals.Add(("Nabız", "Pulse", "112 /dk"));
-            c.Vitals.Add(("SpO₂", "SpO₂", "%95"));
-            c.Vitals.Add(("Solunum", "Resp. rate", "28 /dk"));
+            c.Vitals.Add(("Nabız", "Pulse", T("112 /dk", "112 /min")));
+            c.Vitals.Add(("SpO₂", "SpO₂", T("%95", "95 %")));
+            c.Vitals.Add(("Solunum", "Resp. rate", T("28 /dk", "28 /min")));
 
             c.Steps.Add(Q("Projeksiyon ve pozisyon", "Projection and positioning",
                     "Emir ayakta durabiliyor ve iş birliği yapıyor. Hangi tekniği seçersin?",
@@ -189,7 +189,7 @@ namespace MedPhys.Cases
             c.History.Add(("Doğum kontrolü yok", "No contraception"));
             c.History.Add(("Alerji yok; kreatinin normal", "No allergies; creatinine normal"));
             c.Vitals.Add(("Ateş", "Temperature", "37.9 °C"));
-            c.Vitals.Add(("Nabız", "Pulse", "98 /dk"));
+            c.Vitals.Add(("Nabız", "Pulse", T("98 /dk", "98 /min")));
             c.Vitals.Add(("Tansiyon", "Blood pressure", "118/76"));
             c.Vitals.Add(("Lökosit", "WBC", "13.8 ×10⁹/L"));
 
@@ -326,7 +326,7 @@ namespace MedPhys.Cases
             c.History.Add(("eGFR 74 mL/dk/1.73 m²", "eGFR 74 mL/min/1.73 m²"));
             c.History.Add(("Masa ağırlık sınırı 227 kg, gantri açıklığı 70 cm", "Table limit 227 kg, gantry bore 70 cm"));
             c.Vitals.Add(("Ateş", "Temperature", "38.4 °C"));
-            c.Vitals.Add(("Nabız", "Pulse", "102 /dk"));
+            c.Vitals.Add(("Nabız", "Pulse", T("102 /dk", "102 /min")));
             c.Vitals.Add(("Tansiyon", "Blood pressure", "142/88"));
             c.Vitals.Add(("CRP", "CRP", "186 mg/L"));
 
@@ -739,7 +739,7 @@ namespace MedPhys.Cases
             act.ChartInit = ch =>
             {
                 ch.XMin = 0; ch.XMax = 240; ch.YMin = 0; ch.YMax = 620; ch.AutoY = false; ch.XLabel = T("enjeksiyondan sonra (dk)", "after injection (min)"); ch.YLabel = "MBq";
-                ch.Add("F-18 (T½ 109.8 dk)", new Color(0.4f, 1f, 0.6f), 3f).Fill = true;
+                ch.Add("F-18 (T½ 109.8" + T(" dk", " min") + ")", new Color(0.4f, 1f, 0.6f), 3f).Fill = true;
             };
             act.Plot = (v, ch) =>
             {

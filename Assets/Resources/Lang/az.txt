@@ -2037,6 +2037,7 @@ f3987859	Borunun çıxışı təxminən kVp² ilə və mAs ilə xətti artır: k
 f3b48ff1	Onu dayandırmaq: superkeçirici maqnit həmişə işləkdir və ferromaqnit əşyalar mərmiyə çevrilir; yalnız MR üçün təhlükəsiz avadanlıq
 f3d4e34a	Zonalar gözlənilən dozaya görə nəzarət olunan və ya müşahidə olunan kimi təsnif edilir, nişanlanır və girişi məhdudlaşdırılır. İtmiş mənbə, gözlənilmədən yüksək dozimetr göstəricisi və ya səhv xəstənin/səhv nahiyənin şüalanması hadisədir: qeydə alınır, kök səbəbi təhlil olunur və tələb olunduqda tənzimləyici orqana (Türkiyədə NDK) bildirilir.
 f3f36daf	Atomlardan elektron qoparmaq üçün kifayət qədər enerjili (≥ # eV) şüalanma.
+f41e1c4d	# /dəq
 f425bff1	  → gözlənilən exo anı: 
 f43d0d9d	Önlüyün altındakı dozimetrlə
 f43d5d4c	Sürətlə proliferasiya edən şişlərdə (baş-boyun) müalicə ~# gündən uzun sürərsə, repopulyasiya başlayır və gündə təxminən ~# Gy EQD2 itkiyə səbəb olur. Buna görə planlaşdırılmamış fasilələr kompensasiya edilməlidir (məs. həftəsonu əlavə fraksiya və ya gündə iki fraksiya).

@@ -2037,6 +2037,7 @@ f3987859	Suất ra của bóng tăng khoảng theo kVp² và tuyến tính theo 
 f3b48ff1	Ngăn lại: nam châm siêu dẫn luôn bật và vật sắt từ trở thành vật phóng; chỉ dùng thiết bị an toàn với MR
 f3d4e34a	Các vùng được phân loại là vùng kiểm soát hoặc vùng giám sát theo liều dự kiến, được đặt biển báo và hạn chế ra vào. Một nguồn bị mất, một chỉ số liều kế cao bất thường hoặc chiếu nhầm bệnh nhân/nhầm vị trí là một sự cố: sự cố được ghi nhận, phân tích nguyên nhân gốc và, khi có yêu cầu, báo cáo cho cơ quan quản lý (ở Thổ Nhĩ Kỳ là NDK).
 f3f36daf	Bức xạ có đủ năng lượng (≥ # eV) để bứt electron khỏi nguyên tử.
+f41e1c4d	# /phút
 f425bff1	  → echo dự kiến tại: 
 f43d0d9d	Bằng liều kế bên dưới áo chì
 f43d5d4c	Ở các khối u tăng sinh nhanh (đầu cổ), tái tăng sinh xuất hiện nếu điều trị kéo dài hơn ~# ngày, làm mất khoảng ~# Gy EQD2 mỗi ngày. Vì vậy các gián đoạn ngoài kế hoạch phải được bù (ví dụ thêm một phân liều cuối tuần hoặc hai phân liều mỗi ngày).

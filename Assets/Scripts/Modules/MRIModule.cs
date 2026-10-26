@@ -511,8 +511,8 @@ namespace MedPhys.Modules
                              "An RF pulse (B₁ at the Larmor frequency) tips M by the flip angle α. Then:\n• <b>T1 (spin–lattice)</b>: Mz recovers: Mz(t) = M₀ + (Mz(0) − M₀)·e^(−t/T1)\n• <b>T2 (spin–spin)</b>: transverse magnetisation dephases: Mxy(t) = Mxy(0)·e^(−t/T2)\n• <b>T2*</b>: field inhomogeneity adds dephasing (1/T2* = 1/T2 + γΔB) — a 180° pulse reverses this part: the <b>spin echo</b>."));
             UIKit.H(c, T("3. Kontrast", "3. Contrast"));
             UIKit.Eq(c, "SE:  S = PD·(1 − e^(−TR/T1))·e^(−TE/T2)        IR:  S = PD·|1 − 2e^(−TI/T1) + e^(−TR/T1)|·e^(−TE/T2)");
-            UIKit.Eq(c, T("GRE:  S = PD·sinα·(1 − E₁)/(1 − cosα·E₁)·e^(−TE/T2*)      Ernst açısı: cos α_E = e^(−TR/T1)",
-                          "GRE:  S = PD·sinα·(1 − E₁)/(1 − cosα·E₁)·e^(−TE/T2*)      Ernst angle: cos α_E = e^(−TR/T1)"));
+            UIKit.Eq(c, TEq("GRE:  S = PD·sinα·(1 − E₁)/(1 − cosα·E₁)·e^(−TE/T2*)      Ernst açısı: cos α_E = e^(−TR/T1)",
+                            "GRE:  S = PD·sinα·(1 − E₁)/(1 − cosα·E₁)·e^(−TE/T2*)      Ernst angle: cos α_E = e^(−TR/T1)"));
             UIKit.P(c, T("FLAIR: TI = T1·ln2 seçilerek BOS sinyali sıfırlanır (1.5 T'de ≈ 2500 ms). STIR: kısa TI ile yağ bastırılır (≈ 150–180 ms).",
                              "FLAIR: choosing TI = T1·ln2 nulls CSF (≈ 2500 ms at 1.5 T). STIR: a short TI suppresses fat (≈ 150–180 ms)."));
             UIKit.H(c, T("4. k-uzayı", "4. k-space"));

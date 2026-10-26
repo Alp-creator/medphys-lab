@@ -2037,6 +2037,7 @@ f3987859	O rendimento do tubo cresce aproximadamente com kVp² e linearmente com
 f3b48ff1	Impedir: o magneto supercondutor está sempre ligado e objetos ferromagnéticos viram projéteis; só equipamento seguro para RM
 f3d4e34a	As áreas são classificadas como controladas ou supervisionadas conforme a dose esperada, sinalizadas e com acesso restrito. Uma fonte perdida, uma leitura de dosímetro inesperadamente alta ou a irradiação do paciente ou do local errado é um incidente: é registrado, sua causa raiz é analisada e, quando exigido, é notificado à autoridade reguladora (a NDK na Turquia).
 f3f36daf	Radiação com energia suficiente (≥ # eV) para arrancar eletrões dos átomos.
+f41e1c4d	# /min
 f425bff1	  → eco esperado em: 
 f43d0d9d	Com o dosímetro por baixo do avental
 f43d5d4c	Em tumores de proliferação rápida (cabeça e pescoço), a repopulação começa se o tratamento durar mais de ~# dias, custando cerca de ~# Gy EQD2 por dia. Por isso, interrupções não planejadas devem ser compensadas (p. ex., uma fração extra no fim de semana ou duas frações por dia).

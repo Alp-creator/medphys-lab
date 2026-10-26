@@ -2037,6 +2037,7 @@ f3987859	De buisopbrengst schaalt ruwweg met kVp² en lineair met mAs: #% meer k
 f3b48ff1	Tegenhouden: de supergeleidende magneet staat altijd aan en ferromagnetische voorwerpen worden projectielen; alleen MR-veilige apparatuur
 f3d4e34a	Zones worden naar verwachte dosis ingedeeld als gecontroleerd of bewaakt, gemarkeerd en met beperkte toegang. Een verloren bron, een onverwacht hoge dosimeterwaarde of een bestraling van de verkeerde patiënt of plaats is een incident: het wordt vastgelegd, de grondoorzaak wordt geanalyseerd en zo nodig wordt het gemeld aan de toezichthouder (in Turkije de NDK).
 f3f36daf	Straling met genoeg energie (≥ # eV) om elektronen uit atomen los te maken.
+f41e1c4d	# /min
 f425bff1	  → echo verwacht bij: 
 f43d0d9d	Met de dosimeter onder het schort
 f43d5d4c	Bij snel prolifererende tumoren (hoofd-hals) treedt repopulatie op als de behandeling langer dan ~# dagen duurt, wat ongeveer ~# Gy EQD2 per dag kost. Ongeplande onderbrekingen moeten daarom worden gecompenseerd (bijv. een extra fractie in het weekend of twee fracties per dag).

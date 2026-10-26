@@ -2037,6 +2037,7 @@ f3987859	Keluaran tabung kira-kira sebanding dengan kVp² dan linear dengan mAs:
 f3b48ff1	Hentikan dia: magnet superkonduktor selalu aktif dan benda feromagnetik menjadi proyektil; hanya peralatan aman MR
 f3d4e34a	Daerah diklasifikasikan sebagai daerah pengendalian atau supervisi menurut dosis yang diperkirakan, diberi tanda, dan aksesnya dibatasi. Sumber yang hilang, bacaan dosimeter yang tinggi tak terduga, atau penyinaran pasien/lokasi yang salah adalah insiden: dicatat, akar penyebabnya dianalisis, dan bila diwajibkan dilaporkan ke badan pengawas (di Turki: NDK).
 f3f36daf	Radiasi yang cukup berenergi (≥ # eV) untuk melepaskan elektron dari atom.
+f41e1c4d	# /menit
 f425bff1	  → echo diharapkan pada: 
 f43d0d9d	Dengan dosimeter di bawah apron
 f43d5d4c	Pada tumor yang berproliferasi cepat (kepala dan leher), repopulasi dimulai jika pengobatan berlangsung lebih dari ~# hari, dengan kehilangan sekitar ~# Gy EQD2 per hari. Karena itu jeda yang tidak direncanakan harus dikompensasi (mis. fraksi tambahan di akhir pekan atau dua fraksi sehari).

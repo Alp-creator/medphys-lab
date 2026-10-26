@@ -2037,6 +2037,7 @@ f3987859	Výkon rentgenky roste přibližně s kVp² a lineárně s mAs: o #% vy
 f3b48ff1	Zastavit ji: supravodivý magnet je stále zapnutý a feromagnetické předměty se stávají projektily; jen vybavení bezpečné pro MR
 f3d4e34a	Pásma se podle očekávané dávky klasifikují jako kontrolovaná nebo sledovaná, označují se a omezuje se do nich přístup. Ztracený zdroj, nečekaně vysoký údaj dozimetru nebo ozáření nesprávného pacienta či místa je mimořádná událost: zaznamená se, analyzuje se její kořenová příčina a v případě potřeby se ohlásí dozornému orgánu (v Turecku NDK).
 f3f36daf	Záření s dostatečnou energií (≥ # eV) k uvolnění elektronů z atomů.
+f41e1c4d	# /min
 f425bff1	  → echo očekáváno v: 
 f43d0d9d	Dozimetrem pod zástěrou
 f43d5d4c	U rychle proliferujících nádorů (hlava a krk) nastupuje repopulace, trvá-li léčba déle než ~# dní, a stojí zhruba ~# Gy EQD2 za den. Neplánovaná přerušení je proto nutné kompenzovat (např. frakcí navíc o víkendu nebo dvěma frakcemi denně).

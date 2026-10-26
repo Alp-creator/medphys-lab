@@ -2037,6 +2037,7 @@ f3987859	Rørytelsen øker omtrent med kVp² og lineært med mAs: #% høyere kVp
 f3b48ff1	Stopp henne: den superledende magneten er alltid på, og ferromagnetiske gjenstander blir prosjektiler; kun MR-sikkert utstyr
 f3d4e34a	Områder klassifiseres som kontrollerte eller overvåkede etter forventet dose, skiltes og har begrenset adgang. En savnet kilde, en uventet høy dosimeteravlesning eller bestråling av feil pasient eller feil sted er en hendelse: den registreres, rotårsaken analyseres, og ved behov meldes den til tilsynsmyndigheten (i Tyrkia NDK).
 f3f36daf	Stråling med nok energi (≥ # eV) til å rive løs elektroner fra atomer.
+f41e1c4d	# /min
 f425bff1	  → ekko ventet ved: 
 f43d0d9d	Med dosimeteret under forkleet
 f43d5d4c	I raskt prolifererende svulster (hode–hals) setter repopulasjonen inn hvis behandlingen varer lenger enn ~# dager, og det koster omtrent ~# Gy EQD2 per dag. Uplanlagte opphold må derfor kompenseres (f.eks. en ekstra fraksjon i helgen eller to fraksjoner per dag).

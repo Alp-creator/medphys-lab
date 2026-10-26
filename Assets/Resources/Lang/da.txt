@@ -2037,6 +2037,7 @@ f3987859	Rørydelsen stiger omtrent med kVp² og lineært med mAs: #% højere kV
 f3b48ff1	Stop hende: den superledende magnet er altid tændt, og ferromagnetiske genstande bliver til projektiler; kun MR-sikkert udstyr
 f3d4e34a	Områder klassificeres som kontrollerede eller overvågede efter forventet dosis, skiltes og har begrænset adgang. En mistet kilde, en uventet høj dosimeteraflæsning eller bestråling af forkert patient eller forkert sted er en hændelse: den registreres, grundårsagen analyseres, og om nødvendigt indberettes den til tilsynsmyndigheden (i Tyrkiet NDK).
 f3f36daf	Stråling med nok energi (≥ # eV) til at rive elektroner løs fra atomer.
+f41e1c4d	# /min
 f425bff1	  → ekko forventet ved: 
 f43d0d9d	Med dosimeteret under forklædet
 f43d5d4c	I hurtigt prolifererende tumorer (hoved-hals) sætter repopulationen ind, hvis behandlingen varer længere end ~# dage, og det koster omtrent ~# Gy EQD2 pr. dag. Uplanlagte pauser skal derfor kompenseres (fx en ekstra fraktion i weekenden eller to fraktioner dagligt).

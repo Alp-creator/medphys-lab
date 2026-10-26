@@ -249,7 +249,7 @@ namespace MedPhys.Modules
             switch (b.Kind)
             {
                 case BlockKind.Heading: { var l = new Label(b.Text); l.AddToClassList("mp-learn-h"); l.enableRichText = true; return l; }
-                case BlockKind.Equation: { var l = new Label(b.Text); l.AddToClassList("mp-eq"); return l; }
+                case BlockKind.Equation: { var l = new Label(TEq(b.Tr, b.En)); l.AddToClassList("mp-eq"); return l; }
                 case BlockKind.Bullet: { var l = new Label("•  " + b.Text); l.AddToClassList("mp-learn"); l.AddToClassList("mp-bullet"); l.enableRichText = true; return l; }
                 case BlockKind.Figure: return LessonFigures.Build(b.Tr);
                 case BlockKind.Key: return Box("mp-keybox", T("ÖNEMLİ", "KEY POINT"), b.Text);
@@ -427,7 +427,7 @@ namespace MedPhys.Modules
                 UIKit.Text(sec, "<b>" + T(pt[0], pe[0]) + "</b>");
                 if (pe.Length > 1 && pe[1].Length > 0)
                 {
-                    var e = new Label(T(pt[1], pe[1])); e.AddToClassList("mp-eq");
+                    var e = new Label(TEq(pt[1], pe[1])); e.AddToClassList("mp-eq");
                     if (Loc.Current.Rtl) e.languageDirection = LanguageDirection.LTR;   // formulas read left to right, as in the lessons
                     sec.Add(e);
                 }

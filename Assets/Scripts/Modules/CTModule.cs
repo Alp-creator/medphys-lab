@@ -239,7 +239,8 @@ namespace MedPhys.Modules
             vEff = UIKit.KV(sec, T("Ortalama / efektif enerji", "Mean / effective energy"));
             vMuW = UIKit.KV(sec, T("μ(su) referansı", "μ(water) reference"));
             vNoise = UIKit.KV(sec, T("Gürültü (σ, homojen bölge)", "Noise (σ, uniform region)"));
-            UIKit.Note(sec, "HU = 1000 · (μ − μ_su) / (μ_su − μ_hava)");
+            UIKit.Note(sec, TEq("HU = 1000 · (μ − μ_su) / (μ_su − μ_hava)", "HU = 1000 · (μ − μ_water) / (μ_water − μ_air)"))
+                .languageDirection = LanguageDirection.LTR;
 
             sec = UIKit.Section(R, T("Doz", "Dose"));
             vCtdi = UIKit.KV(sec, "CTDIvol");
@@ -466,15 +467,15 @@ namespace MedPhys.Modules
             UIKit.P(c, T("Pencere W(f): Ram-Lak (keskin, gürültülü), Shepp-Logan (sinc), Kosinüs, Hann (yumuşak, düşük gürültü). Keskinlik ↔ gürültü dengesi.",
                              "Window W(f): Ram-Lak (sharp, noisy), Shepp-Logan (sinc), Cosine, Hann (smooth, low noise). Sharpness ↔ noise trade-off."));
             UIKit.H(c, T("3. Hounsfield birimi ve pencereleme", "3. Hounsfield units and windowing"));
-            UIKit.Eq(c, "HU = 1000 · (μ − μ_su) / (μ_su − μ_hava)");
+            UIKit.Eq(c, TEq("HU = 1000 · (μ − μ_su) / (μ_su − μ_hava)", "HU = 1000 · (μ − μ_water) / (μ_water − μ_air)"));
             UIKit.P(c, T("Hava −1000, su 0, yağ ≈ −100, yumuşak doku +20…+60, kemik +300…+1500 HU. Göz yalnızca ~40–60 gri tonu ayırt edebildiği için görüntü bir pencerede (W genişlik, L seviye) gösterilir: akciğer W1500/L−600, yumuşak doku W400/L40, kemik W2000/L400, beyin W80/L35.",
                              "Air −1000, water 0, fat ≈ −100, soft tissue +20…+60, bone +300…+1500 HU. Because the eye separates only ~40–60 grey levels, images are shown through a window (width W, level L): lung W1500/L−600, soft tissue W400/L40, bone W2000/L400, brain W80/L35."));
             UIKit.H(c, T("4. Artefaktlar", "4. Artefacts"));
             UIKit.P(c, T("• <b>Işın sertleşmesi:</b> polienerjetik ışında düşük enerjiler önce soğurulur; uzun yollarda etkin μ düşer → merkezde 'çanak' (cupping) ve yoğun kemikler arasında koyu çizgiler. Su kalibrasyonu (BHC) çanağı düzeltir, kemik çizgilerini düzeltemez.\n• <b>Metal:</b> fotonların neredeyse tamamı soğurulur (foton açlığı) → parlak/koyu ışınsal çizgiler.\n• <b>Az projeksiyon:</b> açısal örnekleme yetersiz → çizgi (aliasing) artefaktı.\n• <b>Gürültü:</b> σ ~ 1/√(mAs); doz ile gürültü arasındaki temel denge.",
                              "• <b>Beam hardening:</b> low energies are absorbed first; along long paths the effective μ drops → 'cupping' in the centre and dark streaks between dense bones. Water calibration (BHC) fixes cupping but not bone streaks.\n• <b>Metal:</b> almost all photons are absorbed (photon starvation) → bright/dark radial streaks.\n• <b>Few views:</b> insufficient angular sampling → streak (aliasing) artefacts.\n• <b>Noise:</b> σ ~ 1/√(mAs); the fundamental dose–noise trade-off."));
             UIKit.H(c, T("5. Doz", "5. Dose"));
-            UIKit.Eq(c, T("CTDIw = ⅓·CTDI_merkez + 2/3·CTDI_çevre     CTDIvol = CTDIw / pitch     DLP = CTDIvol · L     E ≈ k · DLP",
-                          "CTDIw = ⅓·CTDI_centre + 2/3·CTDI_periphery     CTDIvol = CTDIw / pitch     DLP = CTDIvol · L     E ≈ k · DLP"));
+            UIKit.Eq(c, TEq("CTDIw = ⅓·CTDI_merkez + 2/3·CTDI_çevre     CTDIvol = CTDIw / pitch     DLP = CTDIvol · L     E ≈ k · DLP",
+                            "CTDIw = ⅓·CTDI_centre + 2/3·CTDI_periphery     CTDIvol = CTDIw / pitch     DLP = CTDIvol · L     E ≈ k · DLP"));
             UIKit.Note(c, T("Model: paralel ışın geometrisi (fan ışın verisinin yeniden gruplanmış hali), enerji-integre eden dedektör, saçılma ihmal.", "Model: parallel-beam geometry (rebinned fan-beam data), energy-integrating detector, scatter neglected."));
         }
     }

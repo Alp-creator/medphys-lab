@@ -2037,6 +2037,7 @@ f3987859	Die Röhrenleistung steigt etwa mit kVp² und linear mit mAs: #% mehr k
 f3b48ff1	Aufhalten: Der supraleitende Magnet ist immer an, ferromagnetische Gegenstände werden zu Geschossen; nur MR-sichere Ausrüstung
 f3d4e34a	Bereiche werden je nach erwarteter Dosis als Kontroll- oder Überwachungsbereich eingestuft, gekennzeichnet und im Zugang beschränkt. Eine verlorene Quelle, ein unerwartet hoher Dosimeterwert oder eine Bestrahlung des falschen Patienten bzw. der falschen Körperstelle ist ein Vorkommnis: Es wird dokumentiert, seine Grundursache wird analysiert und, falls erforderlich, wird es der Aufsichtsbehörde gemeldet (in der Türkei der NDK).
 f3f36daf	Strahlung mit genügend Energie (≥ # eV), um Elektronen aus Atomen zu lösen.
+f41e1c4d	# /min
 f425bff1	  → Echo erwartet bei: 
 f43d0d9d	Mit dem Dosimeter unter der Schürze
 f43d5d4c	Bei schnell proliferierenden Tumoren (Kopf-Hals) setzt die Repopulierung ein, wenn die Behandlung länger als ~# Tage dauert, und kostet etwa ~# Gy EQD2 pro Tag. Ungeplante Behandlungspausen müssen daher ausgeglichen werden (z. B. eine zusätzliche Fraktion am Wochenende oder zweimal tägliche Fraktionen).

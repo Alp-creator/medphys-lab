@@ -2037,6 +2037,7 @@ f3987859	Wydajność lampy rośnie mniej więcej jak kVp² i liniowo z mAs: #% w
 f3b48ff1	Zatrzymać ją: magnes nadprzewodzący jest zawsze włączony, a przedmioty ferromagnetyczne stają się pociskami; tylko sprzęt bezpieczny w MR
 f3d4e34a	Tereny klasyfikuje się jako kontrolowane lub nadzorowane zależnie od spodziewanej dawki, oznakowuje się je i ogranicza do nich dostęp. Zagubione źródło, nieoczekiwanie wysoki odczyt dawkomierza lub napromienienie niewłaściwego pacjenta lub miejsca to zdarzenie: odnotowuje się je, analizuje jego przyczynę źródłową i w razie potrzeby zgłasza organowi dozoru (w Turcji jest to NDK).
 f3f36daf	Promieniowanie o energii wystarczającej (≥ # eV), by wybić elektrony z atomów.
+f41e1c4d	# /min
 f425bff1	  → echo oczekiwane w: 
 f43d0d9d	Dawkomierzem pod fartuchem
 f43d5d4c	W szybko proliferujących nowotworach (głowa i szyja) repopulacja przyspiesza, jeśli leczenie trwa dłużej niż ~# dni, co kosztuje około ~# Gy EQD2 na dzień. Nieplanowane przerwy trzeba więc kompensować (np. dodatkowa frakcja w weekend lub dwie frakcje dziennie).

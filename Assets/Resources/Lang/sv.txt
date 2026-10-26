@@ -2037,6 +2037,7 @@ f3987859	Rörutbytet ökar ungefär med kVp² och linjärt med mAs: #% högre kV
 f3b48ff1	Stoppa henne: den supraledande magneten är alltid på och ferromagnetiska föremål blir projektiler; endast MR-säker utrustning
 f3d4e34a	Områden klassas som kontrollerade eller skyddade utifrån förväntad dos, skyltas och har begränsat tillträde. En förlorad källa, ett oväntat högt dosimetervärde eller bestrålning av fel patient eller fel ställe är en händelse: den dokumenteras, grundorsaken analyseras och vid behov rapporteras den till tillsynsmyndigheten (i Turkiet NDK).
 f3f36daf	Strålning med tillräcklig energi (≥ # eV) för att slå loss elektroner från atomer.
+f41e1c4d	# /min
 f425bff1	  → eko väntas vid: 
 f43d0d9d	Med dosimetern under förklädet
 f43d5d4c	I snabbt prolifererande tumörer (huvud–hals) sätter repopulationen in om behandlingen pågår längre än ~# dagar, vilket kostar ungefär ~# Gy EQD2 per dag. Oplanerade uppehåll måste därför kompenseras (t.ex. en extra fraktion under helgen eller två fraktioner per dag).

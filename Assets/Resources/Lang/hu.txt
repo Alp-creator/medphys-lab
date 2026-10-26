@@ -2037,6 +2037,7 @@ f3987859	A csőhozam nagyjából kVp²-tel és lineárisan a mAs-sel nő: #%-kal
 f3b48ff1	Megállítod: a szupravezető mágnes mindig be van kapcsolva, a ferromágneses tárgyak lövedékké válnak; csak MR-biztonságos eszköz
 f3d4e34a	A területeket a várható dózis szerint ellenőrzött vagy felügyelt területnek minősítik, megjelölik, és korlátozzák a belépést. Egy elveszett forrás, egy váratlanul magas doziméterérték vagy rossz beteg, illetve rossz testtájék besugárzása rendkívüli esemény: rögzítik, kivizsgálják a kiváltó okát, és ha előírás, jelentik a hatóságnak (Törökországban az NDK-nak).
 f3f36daf	Olyan energiájú sugárzás (≥ # eV), amely elektronokat tud kiszakítani az atomokból.
+f41e1c4d	# /perc
 f425bff1	  → várható echó ideje: 
 f43d0d9d	A kötény alatti doziméterrel
 f43d5d4c	Gyorsan prolifáló daganatoknál (fej-nyak) a repopuláció beindul, ha a kezelés ~# napnál tovább tart, és ez naponta nagyjából ~# Gy EQD2-be kerül. A nem tervezett szüneteket ezért kompenzálni kell (pl. egy pluszfrakció hétvégén vagy napi kétszeri frakció).

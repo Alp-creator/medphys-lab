@@ -2037,6 +2037,7 @@ f3987859	El rendimiento del tubo crece aproximadamente con kVp² y linealmente c
 f3b48ff1	Detenerla: el imán superconductor está siempre activo y los objetos ferromagnéticos se convierten en proyectiles; solo material seguro para RM
 f3d4e34a	Las zonas se clasifican como controladas o vigiladas según la dosis esperada, se señalizan y se restringe su acceso. Una fuente perdida, una lectura de dosímetro inesperadamente alta o una irradiación del paciente o de la zona equivocados es un incidente: se registra, se analiza su causa raíz y, cuando corresponde, se notifica a la autoridad reguladora (la NDK en Turquía).
 f3f36daf	Radiación con energía suficiente (≥ # eV) para arrancar electrones de los átomos.
+f41e1c4d	# /min
 f425bff1	  → eco esperado en: 
 f43d0d9d	Con el dosímetro debajo del delantal
 f43d5d4c	En los tumores de proliferación rápida (cabeza y cuello), la repoblación se activa si el tratamiento dura más de ~# días, con una pérdida aproximada de ~# Gy EQD2 por día. Por eso las interrupciones no previstas deben compensarse (p. ej., una fracción extra en fin de semana o dos fracciones diarias).
