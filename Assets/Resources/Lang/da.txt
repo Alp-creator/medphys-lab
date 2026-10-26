@@ -1,34 +1,47 @@
 002e566d	Kliniske cases
 005ef20f	Status
 006f11ff	Lungenodulus (tumor)
+007cc916	<b>Snitvalg:</b> en gradient under RF-pulsen, så en smalbåndet puls kun exciterer ét snit.
+00af857c	Middeldosis defineret i et PMMA-fantom på # eller # cm — ikke patientens dosis.
+00cb23fb	<b>Berettigelse:</b> enhver anvendelse af stråling skal gøre mere gavn end skade; i sundhedsvæsenet vurderes det for hver undersøgelse.
 00e896c1	Mål dmax og PDD1# for fotoner på # MV (≥ # # historier)
 00e97d3d	Der er slet ingen risiko.
 01446da3	Kontrastblod
+01703bea	<b>Kollimering:</b> mindsker det bestrålede volumen og dermed både spredning og dosis — det vigtigste skridt.
 01b10287	Lever
 022ebff6	  — læs forklaringerne, og prøv igen.
 02307551	Strålebeskyttelsens tre principper: berettigelse, optimering (ALARA: så lavt som det med rimelighed er muligt) og dosisgrænser. Arbejdstager: # mSv/år (gennemsnit over # år, maks. # på ét år), befolkningen: # mSv/år, øjenlinse: # mSv/år.
+023478eb	Spin, Larmor-frekvens og magnetisering
 0282b42b	Intet raster: rigtigt valg til en smal børnethorax.
 02875262	Blodtryk
 028cc680	Åbne et stort felt og lægge bly på skjoldbruskkirtlen
+02943f2b	# Sv
 02daa186	Gradientekko
 02ff0734	timer
 03410798	Start med lektion #  →
+03a5ffee	<b>Primærbarriere:</b> en væg, som strålen kan ramme direkte (U < #).
 03aded2d	Proton
+03bd2a69	# %
 03d9f12f	BEKRÆFT
+03ee7f99	Dosis-areal-produkt
+04031976	En tumor måler # kBq/mL; en patient på # kg fik # MBq (henfaldskorrigeret). SUV = # / (# # / # #) = # / # = #.
 04215fff	Behandlingshoved
 04665812	Middelenergi (indgang / detektor)
 04b21fef	Kun periferien
 04c33449	Startantal atomer N₀
+04d7b85a	Det er nok at tape øjet til
 05446544	Ioniserende stråling
 054ed6b1	#. Protoner og Bragg-toppen
 0551e426	Superledende magnet
 05735a1f	Der høres høje bankelyde under scanningen. Årsag og forholdsregel?
 05747e6b	Aktuelle anbefalinger (AAPM #, BIR/IPEM #): kollimering er den mest effektive beskyttelse. Gonadedosis uden for feltet er allerede minimal; en afskærmning, der glider ind i feltet, skjuler anatomien og får eksponeringsautomatikken til at øge dosis.
 05883f18	Dosishastighed H*(#)
+05a40e0d	Muskelsignalet
 05aeb14d	Unødvendig dosis til øjet og den raske ansigtshud.
 05b19ab8	Studietips
 05b21be8	Tumor-EQD2 = n·d·(d + #)/(# + #) = # Gy — kurativt område.
 05f6dc9a	Hovedfelt B₀
+0682d944	DVH og dosisgrænser
 069d81b7	 kanaler
 06ba43bc	Hver kugle er en kerne. I hvert tidsskridt henfalder den med sandsynligheden p = # − e^(−λΔt) og udsender en fotonlinje; med få kerner fluktuerer N(t) statistisk.
 06df51de	Injiceret aktivitet
@@ -39,64 +52,97 @@
 07ef138f	KØR SEKVENS
 0827bee2	Dosisgrænser (ICRP #)
 086c6bbb	Farve: #%·#%·#%·#%·#%-isodoser. Konturer: grøn PTV, gul rygmarv, rød hjerte, lyserød lunger.
+08b1f023	<b>Gravid arbejdstager:</b> efter anmeldelse af graviditeten bør dosis til det ufødte barn ikke overstige ~# mSv i resten af graviditeten.
 08c92619	Børn er #–#× mere strålefølsomme end voksne og har en lang forventet levetid → ALARA betyder endnu mere.
 09138ded	Jeg vil ikke opereres. Hvordan foregår den her strålebehandling, gør det ondt?
+094a7633	β⁻-henfald
 096813ae	Støj (σ, homogent område)
+096b4d6f	Radiokrom film
 098d1ad9	Radioembolisering af leveren (SIRT)
+09aa91b9	Primærstrålen
 09c4871c	Hvilken vekselvirkning dominerer for en foton på # MeV i bløddele?
+09e38d90	Arvelig mutation
 09f71920	Larmorfrekvens
 09feeabb	Sammenlign Bragg-toppen for protoner på # MeV med NIST's CSDA-rækkevidde
+0a2d132a	Hvem overvåges, og hvordan?
+0a2d70d0	Filtreret tilbageprojektion: projektionerne rampefiltreres og tilbageprojiceres.
+0a43bb10	BED = # × (# + #/#) = # Gy. Med α/β = # ville den være # Gy.
 0a496fc5	Fosterdosis ≈ SSDE (uterus helt i feltet). Diagnostisk støjgrænse ≈ # HU (lavdosisprotokol for appendicitis). Vælg kV, mAs, pitch og scanlængde, og tryk derefter på SCAN.
 0a52c35c	T1-vægtet
 0aa78268	Hypofraktionering: prostatas α/β er lavere end rektums, så store fraktioner begunstiger tumorbehandlingen (CHHiP #/#, PACE-B #/#), og patienten skal rejse mindre.
+0ac75168	Hvis doseraten er # µSv/h i # m, hvad er den så i # m?
 0ac8a560	Nulstil
 0acf4d25	Større tekst
+0b2830b9	SUV
+0b2a90c5	MIRD
+0b3d4df2	Børn
 0b4677ab	EANM: glukose < # mmol/L (≈ # mg/dL). Hyperglykæmi konkurrerer med FDG og sænker tumoroptaget.
 0b4d8f40	overlevende fraktion
 0b81ff1c	Overkæbeknogle ≈ # cm under læsionen
 0b8b3199	Dosisbegrænsninger (QUANTEC / RTOG)
 0bbe8b9f	Monte Carlo i realtid: hvert spor er en partikel. Flere historier = mindre statistisk støj (σ ~ #/√N).
+0be48cca	As Low As Reasonably Achievable — at holde doserne så lave, som det med rimelighed er muligt, under hensyn til økonomiske og sociale faktorer.
+0c088256	ICRP # fandt en katarakttærskel på ~# Gy og sænkede grænsen fra # til # mSv/år — derfor er blybriller vigtige i interventionel kardiologi.
+0c13aa12	Hvad gør rampefilteret i FBP?
 0c1c4f42	Stråleonkologi: kurativ EBRT, prostata ± sædblærer (Dr. Kılıç)
 0c2610e2	CNR læsion/menisk #: læsionen tydelig (væske lys, menisk mørk på PD/T2).
 0c433245	Lavt tumor/baggrund-forhold → risiko for stadieinddelingsfejl.
 0c903e49	Blyskodder begrænser feltet: mindre patientdosis og spredning. Al/Cu-filtrering fjerner lavenergetiske fotoner, hærder strålen og sænker huddosis.
 0ccd4680	Forhold kugle / baggrund
+0cd9d0ad	Hvorfor bruges lav kVp i mammografi?
 0ce92428	CTDIw: kropsfantom # cm (hoved # cm); E = DLP × k (thorax #, abdomen #, hoved # mSv/mGy·cm).
 0d78d08a	Byg en # cm bred SOBP
+0d816b59	TMR er kun defineret for elektroner
 0db9cc3e	Puls
 0dec8195	Anvend #° – τ – #° og dan et spinekko
 0e1a0a7b	enkeltdosis, α/β = # (tidlig / tumor)
 0e32111a	Felt
 0e629e6c	Ny tid: ≥ #–# t faste, blodsukker skal være < # mg/dL
+0efb8aba	Hvad er protonens Larmor-frekvens ved # T?
 0f01dfcb	Næste elueringstid
 0f6a0301	#×# cm applikator, ingen udskæring
+0ff0ece3	Kraften skalerer med B·dB/dz; i midten er B størst, men dB/dz ≈ #, mens produktet topper ved åbningen.
 0ff4383c	Gravid arbejdstager (foster)
 10225e52	Kortikal knogle
+10446e37	Stråleforhårdning (cupping)
+105d6ef1	De optagne signaler fylder k-rummet, og billedet er dets #D-Fourier-transformation. Midten af k-rummet bærer kontrast og samlet signal; periferien fine detaljer og kanter. Ved et spinekko optages én linje pr. TR.
 10bddc32	En ferromagnetisk splint i øjet kan bevæge sig i B₀ og give blindhed → orbitarøntgen (eller CT) først.
 10bee102	Afvigelsesindeks (DI)
+10ea12d4	Lunge, tyktarm, mavesæk, bryst, rød knoglemarv og øvrige væv: #; skjoldbruskkirtel #; hud #.
 10f562e1	Give hurtigtvirkende insulin og injicere med det samme
 10f6a1bd	Lineær-kvadratisk model • BED
+11021e45	Mammografi
 113249ae	Lav en fotonplan, der opfylder alle dosiskrav
 114fa830	Multileaf-kollimatoren (lameller på #–# mm) former feltet efter tumoren og bevæger sig under bestrålingen ved IMRT og VMAT.
 116e6f62	Hologram
 11a18b82	Fjern alle
 11a4e77a	Diagnostisk / terapeutisk kvalitet
+11a6d3ed	Prostatas α/β (~# Gy) er lavere end det omgivende sene vævs (rektum ~# Gy)
+11be0e65	Katarakt har en tærskel (ICRP #: ~# Gy), og sværhedsgraden stiger med dosis; kræft og arvelige effekter er stokastiske.
+120a6115	Patient, pårørende og personale
+120fdb1f	Brachyterapi (TG-#, punkt)
+122b6e24	TR = # ms, # faselinjer, NEX = #: et konventionelt spinekko tager # × # = # s ≈ # min; et turbo-spinekko med ETL = # tager #/# = # s.
 124f5fe7	Kontrast hvid / grå substans (ved markøren)
+1264df05	Graviditet, børn og risikokommunikation
 129b582e	DI # → korrekt eksponering.
 132d55ba	relative fotoner
 134c264b	Metalartefakt: scan et bækkensnit med hofteprotesen
 135a8cc7	 t efter
 136685c9	EQD2 tumor (α/β #) = # Gy, sen hud (α/β #) = # Gy. God balance mellem kontrol og kosmetik.
 1370333f	Feltbredde
+138168c1	Hvilken ækvivalent dosis giver # Gy α-stråling?
 138fb3e1	Korrekt: I/I₀ = e^(−μx). Da σ ~ #/√N, stiger støjen ≈ √# ≈ #× ved samme mAs.
 13ad4851	β-hCG POSITIV: ca. # uger henne.
 13bea53e	# guldmarkører implanteret
 13f06473	Ryd aflæsninger
+1425444e	# MV, felt #×# cm², # cGy til isocentret i # cm dybde. Kalibrering: # cGy/MU ved d_max i isocentret. TMR(# cm) ≈ #, S_c = S_p = #, ISF = #. MU = # / (# × #) ≈ # MU.
 1451f91f	sand 
 14d5133a	ACR (#) og ESUR #: metformin fortsættes ved eGFR ≥ #; iv-kontrast er nødvendig for at påvise en absces.
 14e77c03	Nulstil fremskridt
 151c3f35	Detektorring (LYSO + SiPM)
 1527c7a5	Udforsk medicinsk fysik i små skridt med rigtige beregninger.
+154a1ae4	Hvad er hovedfordelen ved et højere felt (# T)?
+158c91bf	≈ # MBq
 15b23cec	 point
 15c3229f	α/β tumor
 15cf43c6	Det flade panel over for kV-kilden; det opsamler hundredvis af projektioner til CBCT, mens gantryen roterer.
@@ -107,64 +153,115 @@
 16280e6a	Dosishastighed fra patienten ~ A/d²; F-# T½ = # min. At udskyde tæt kontakt i nogle timer sænker spædbarnets dosis kraftigt.
 1640e3a4	afstand (m)
 164b6930	Gem aflæsning
+167d88c8	≈ # MHz
 16b19be2	kVp-effekt: eksponér ved ≤# kVp og ≥# kVp; sammenlign knoglekontrasten
 16d4a955	Strålebehandling
+16f6a6d1	SAR
 17098140	Prostataadenokarcinom, intermediær risiko (Gleason ##, PSA #)
 1716fced	Fosterdosis ≈ SSDE = # mGy (CTDIvol # × f #).
 1725def4	K-linjer kræver, at den indfaldende elektron overstiger K-skallens bindingsenergi, så wolframs K-linjer optræder først over # kVp.
 17278db5	Energi
+174431ff	Ved diagnostiske energier (fotoeffekten dominerer) er bly meget effektivt: #–# mm Pb stopper #–# % af fotonerne ved # kVp. Ved MV-energier (comptonspredning dominerer) følger svækkelsen elektrontætheden, så behandlingsrum bruger billig, tyk beton. Neutroner kræver brintholdige materialer (polyethylen, borholdig beton).
+176d6111	Hvilken henfaldsmåde er grundlaget for PET?
 17a150b4	Ja — karakteristiske linjer afhænger ikke af kVp
 17a890d2	Tilbageværende kerner N(t)
 17c2afe2	I bløddele dominerer fotoeffekten under ca. # keV, compton mellem # keV og ~# MeV og pardannelse derover. I materialer med højt Z som bly rækker det fotoelektriske område op til ca. # keV — derfor er bly en god afskærmning.
 17cd8fa8	 lektioner • 
+17e23d13	Forbigående erytem begynder ved ~# Gy huddosis; ved lange interventioner skal den maksimale huddosis overvåges og registreres.
+17f14029	Det øger B₀
+17f5c6dc	Hvorfor er hypofraktionering en fordel ved prostatakræft?
+17fda0a4	Ionkammer
 1808f4a6	I bløddele dominerer compton fra ca. # keV til # MeV. Pardannelse kan slet ikke ske under sin tærskel på # MeV.
 18279c08	Udbredt Bragg-top (SOBP)
 18284597	<b>Eksponeringsindeks</b> EI = # × K_detektor [µGy] (IEC ##). Afvigelsesindeks DI = #·log₁₀(EI / EI_mål); |DI| ≤ # er passende. DI = # betyder dobbelt så stor dosis som nødvendigt.
 182fdbbe	EANM (lejeoverlap > # %): A·t ≥ # MBq·min·kg⁻¹ × vægt. Mindre aktivitet + længere tid giver det samme billede med lavere dosis. En optagstid på # ± # min anbefales.
 18674089	<b>Kohærent spredning:</b> fotonen skifter retning uden at miste energi; et lille bidrag ved lave energier.
+188a8059	LET og biologisk effekt
+189d2fc2	Hvor kommer de fra?
 18d0a565	CT af thorax
 1904dc9d	EANM-anbefaling
 19201036	Tid–afstand–afskærmning, afstandskvadratloven, dosishastighedskort, missioner.
 193ee1fd	Udbredt Bragg-top (SOBP, # cm)
+195d68ba	Farmer-ionkammer
+197560c4	Den transversale magnetisering henfalder, når spinnene vekselvirker og mister fasekohærensen — spin-spin-relaksation, T2. I praksis fremskynder feltinhomogeniteter dephaseringen, så det observerede henfald er T2* < T2. En #°-refokuseringspuls (spinekko) ophæver statiske inhomogeniteter og genskaber det sande T2.
+19a0d56e	Ladede partiklers ligevægt (CPE)
+19a49e9f	IGRT
 19b5eb24	Tommelfingerregel: R9# ≈ E/# cm, R5# ≈ E/# cm, Rp ≈ E/# cm. Elektroner stopper i en skarp dybde — ideelt til overfladiske tumorer.
 19c23656	 t ventetid
+1a0c0de0	# mSv
 1a36a166	Fremskridt
+1a3806f2	Hvad er BED for # Gy × # = # Gy i et væv med α/β = # Gy?
+1a8231be	Absorberet dosis
+1aa52b11	Positronen annihileres med en elektron til to modsatrettede fotoner på # keV, som PET detekterer i koincidens.
 1ace7035	Fladpaneldetektor
+1ad4cee2	Diagnostisk referenceniveau: den #. percentil af den nationale fordeling. Et optimeringsværktøj, ikke en grænse.
 1b01a1c6	Et atom består af en kerne med Z protoner og N neutroner, omgivet af Z elektroner. Massetallet er A = Z + N. Kerner med samme Z, men forskelligt N er isotoper, fx ¹²C og ¹⁴C.
 1b06e46e	Saml ≥ # # koincidenser, og rekonstruér med MLEM
 1b12fad7	Type #-diabetes (metformin)
+1b3d5f37	En ladet partikel gennemgår utallige små coulombvekselvirkninger med mediets elektroner og taber energi kontinuerligt. Energitabet pr. vejlængde er stopkraften S = −dE/dx (MeV/cm), også angivet som massestopkraft S/ρ (MeV·cm²/g).
+1b97c482	Efter en RF-puls genoprettes den longitudinale magnetisering, efterhånden som spinnene afgiver energi til omgivelserne (gitteret) — spin-gitter-relaksation, T1. Fedt har kort T1 (~# ms ved # T), væske lang (CSF ~# ms); T1 bliver længere, når B₀ stiger.
+1b9905a7	Rumlig kodning og k-rummet
 1bbe9bf8	Mehmet: "Armene over hovedet? Okay."
 1be9e2d9	Halvværdilaget (HVL) er den tykkelse, der halverer intensiteten: HVL = ln2/μ. Tiendedelsværdilaget er TVL = ln1#/μ ≈ # HVL. n HVL reducerer intensiteten med en faktor #ⁿ.
+1c0f8606	For at halvere støjen skal mAs (og dosis) firdobles. Alternativt halverer et skift fra # mm til # mm snit også støjen, på bekostning af z-opløsningen.
+1c3ba3dc	Den gravide patient
+1c4e4f9c	Stopkraft
+1c7776da	Tilfældige fejl betyder slet ikke noget
 1c872a31	ja (> # MV)
 1ca87565	Hudmarkeringer og lasere er nok
 1cb740a3	<b>Afstandskvadratloven:</b> intensitet ~ #/d². At gå fra SID # til # cm kræver ~#× mAs for samme detektordosis, men huddosis stiger mindre, og forstørrelsen falder.
 1cc0e3d5	Moren spørger: „Kan denne røntgen skade min søn?“ Emirs effektive dosis ≈ 
+1d38faf9	Varmere luft betyder mindre gas i kammeret og en lavere aflæsning. TRS-#-referencen er # °C og # kPa. Ved # °C og # kPa er k_TP = (##)/(##) × #/# ≈ # × # ≈ #. Uden denne korrektion ville dosis blive aflæst # % for lavt.
 1d4b8ac2	Injicere straks
+1d6a995e	En systematisk fejl forskyder hver fraktion på samme måde og flytter dosis permanent
 1d6b9aba	Under organogenesen (uge #–#) er den deterministiske tærskel ~#–# mGy; diagnostiske undersøgelser ligger langt under.
 1d8a20dd	Mehmets abdomen er 
 1dd9a37f	Ikke-standard optagstid: SUV'er kan ikke sammenlignes med tidligere/senere scanninger.
+1ddd0e0d	Ved et røntgenbillede af thorax får lungerne # mGy og brysterne # mGy (resten ubetydeligt). E ≈ #·# + #·# = # mSv ≈ # mSv — omkring # dages naturlig baggrundsstråling.
+1e466356	Protoner afsætter størstedelen af deres dosis i braggtoppen og næsten intet bag den, mens fotoner også afsætter en betydelig udgangsdosis bag målet. Protonterapi nedsætter derfor integraldosis markant, især hos børn og ved tumorer tæt på kritiske organer (øje, kraniebasis, rygsøjle).
+1e4f76b7	Inversions-nulpunkt
 1e6a827e	Find protonens larmorfrekvens ved # T (≈ # MHz)
+1e788d30	Et gammakamera består af kollimator, en stor NaI(Tl)-krystal, fotomultiplikatorrør (PMT'er) og positions-/energielektronik. En foton, der absorberes i krystallen, giver et lysglimt; det vægtede gennemsnit af PMT-signalerne giver hændelsens position (Anger-logik), og summen giver energien.
 1e836d59	T2-henfald
+1e96362a	Protoner bevæger sig næsten retlinet. De afsætter det meste af deres dosis i de sidste millimeter af rækkevidden, hvorefter dosis falder næsten til nul. Rækkevidden er skarpt bestemt af energien (Bragg–Kleemans regel R ≈ #·E^#). De enkelte protoner standser i lidt forskellige dybder (rækkeviddespredning), så toppen er nogle mm bred.
+1e9e1a29	Linjefokusprincippet: den skrå anode fordeler varmen over et stort areal, mens det effektive fokus set fra detektoren forbliver lille. På grund af heel-effekten er strålens anodeside lidt svagere.
+1ef452c8	S_col ~ (z² / v²) · ln(# m_e v² / I)        (I: middelexcitationsenergi; ≈ # eV for vand)
 1f05f68e	Vævsparametre
 1f12087d	Dosis ≈ 
+1f2ecf71	Støj
 1f4ea376	Initial Mo-#-aktivitet
 1f6b3b4a	Knogle (# cm) # % — skånet.
+1f956563	Planlægningsteknikker
+1fe5d236	Røntgenrøret og spektret, billeddannelse, kontrast og støj, spredt stråling og raster, detektorer, EI/DI, patientdosis; gennemlysning og mammografi.
+2009a0a3	Hvad giver et blyforklæde en radiograf, der klargør et PET-sporstof?
+200b57d8	CT måler et snits svækkelsesprofil fra alle retninger med et rør, der roterer om patienten, og en detektorrække overfor. Hvert detektorelement ser integralet af μ langs sin stråle:
 20170133	Tandfyldninger
 2056fe0a	Co-# har lav PDD og bred halvskygge; bruges ikke til moderne kurativ prostatastrålebehandling.
 20c4a5a9	Hudvisning
 20c53222	Vælg et vilkårligt emne. Er du ny, så prøv først den korte startcase.
 20caf1bb	Eluer generatoren #–# t efter forrige eluering (maksimalt udbytte)
+20daffb6	Hvis et vævs μ er # % højere end vands, hvad er så dets HU (μ_luft ≈ #)?
+20e5e537	<b>Thyroideakrave og blybriller:</b> ved gennemlysning og interventioner.
+20e99949	Dosisstørrelser
 210acf6e	Hasan: "Hvor mange dage skal jeg komme? Jeg rejser ind fra landsbyen."
+2128d576	Nær overfladen kommer der færre elektroner ind, end der går ud; dosis opbygges over elektronrækkevidden (d_max), indtil den nærmer sig kermaen.
 218447b4	Fedt
+21ce1114	Graviditeten bør afbrydes
 21db31eb	Kort TR/TE → T1; lang TR, kort TE → PD; lang TR/TE → T2-vægtning.
 21f331e9	Skulderartroskopi #: titanankre
+221c38d0	Væv med lavt α/β er mere følsomt for store fraktioner. Da tumorens α/β ligger under rektums, kan der gives en højere biologisk tumordosis ved samme sene toksicitet.
+22392fc6	Mo-#/Tc-#m-generatoren
 224a7dd2	Ingen sådan begrænsning ved ekstern stråling; det kan gælde brachyterapi-seeds.
 229566cb	Hasan: „Må jeg kramme mine børnebørn efter behandlingen? Bliver jeg radioaktiv?“
 22a06b53	ALARA: thoraxbillede med ESAK < # mGy og DI ≥ −#
+22a87b76	<b>Generator:</b> en langlivet moder danner en kortlivet datter: Mo-#/Tc-#m, Ge-#/Ga-#.
+22d2c2ce	Det er nok at bruge en skanner med lavere felt (# T)
 22fd0749	Daglig IGRT korrigerer organbevægelse og mindsker marginer og rektaldosis.
 2357d727	Strålefysik
 23f641a4	• Tjek enhederne i hver formel (cm⁻¹, Gy, Sv, MBq). • Løs eksemplerne selv først, og tjek derefter. • Gennemgå efter øvelseseksamen lektionerne for de spørgsmål, du missede. • Til samtaler kommer oftest: ICRP-principperne, HVL, afstandskvadratloven, LQ/EQD2, CTDIvol/SSDE, T1/T2, PDD og Bragg-toppen.
+240febd8	I-#
 24176da5	Mo-# / Tc-#m-generator
+243eddb1	Geometri
 2448ca2f	bly
 2456b993	Kontrast
 2523a664	Gå hen til kilden (< # m), tag den op, og bær den til blybeholderen.
@@ -172,128 +269,214 @@
 252a0fa6	uafskærmet
 253898c0	Tællestatistik # — billedkvalitet på EANM-niveau.
 25517e15	Bragg-top
+255b2c81	Det mindsker støjen
+256cadab	R ≈ #·E^#   (vand, R i cm, E i MeV)
 2576aae7	Vægt / højde
+258734b7	<b>Stråleforhårdning:</b> cupping (mørkt centrum) og mørke striber mellem tætte knogler; vandkalibrering korrigerer cupping.
 25941612	Knogledosis (# cm)
+25a52545	For I-# er T_fys = # dage; lad skjoldbruskkirtlens T_bio være # dage. T_eff = (# × #)/(# + #) = # dage — altid kortere end den mindste af de to.
 25b31f5d	Rørydelse (# m)
 25c2fc03	Ingen spørgsmål fundet.
 25e14a19	Strøm × tid
 25edd5e3	referencer for stopeevne og rækkevidde for protoner og elektroner
+25f0ba98	ICRP # angiver w_R = # for α: H = # × # Gy = # Sv.
+260c9112	#
+26abae68	HU = # × (# μ_w − μ_w)/μ_w = # × # = # — typisk for bløddele.
 26f973b0	Svækkelseskorrektion (AC)
 26fbd2ec	Hvad adskiller røntgenstråling fra γ-stråling?
+271d6d1e	<b>Sekundærbarriere:</b> mod spredt stråling fra patienten og lækstråling fra strålehovedet (~# % af arbejdsbelastningen); U = #.
 2731d14d	START CASE  →
 2749a496	Effektiv dosis til patienten
+274a6a69	TR / TE
+27b867bb	BED og EQD2
 27c35a89	 (T2-tab: e^(−TE/T2))
 280f0096	Start med din første case
+285171e9	I-# går over i modermælken og ophobes i spædbarnets skjoldbruskkirtel; ved terapiaktiviteter stoppes amningen af det barn.
 287f6fa8	Givne fraktioner
 2885d27b	Spredningsraster (#:#)
 28a6f0c2	Graf
+28b66559	#°-pulsen vender faserækkefølgen, så statiske inhomogeniteter refokuseres ved TE; tilfældige spin-spin-vekselvirkninger (T2) kan ikke gøres om.
 28ce8c15	Detektorerne måler selve positronen
 290489df	Vekselvirkningssandsynlighed pr. vejlængde (cm⁻¹); μ/ρ er massesvækkelseskoefficienten (cm²/g).
 296d75eb	Strålebiologi
+299d31a2	SUV = C_væv / (A_injiceret / kropsvægt)
 29aac115	enkeltdosis, α/β = # (sen)
 29e178a3	Samtale med familien
 29e32f3e	Reception
 2a17c8fd	Leverstøj # HU: en absces med lav kontrast kan forsvinde i støjen.
 2a72143f	Nødvendig for < # µSv/t ved pulten
+2ab5c9fc	<b>Cyklotron:</b> protonbeskydning; F-# fremstilles af beriget vand via ¹⁸O(p,n)¹⁸F. Med T½ = # min distribueres det fra regionale cyklotroner.
 2ab93b6c	Mål: ≥ # % dosis overalt fra huden ned til # cm; ≤ # % ved knoglen i # cm. Vælg energi og bolustykkelse.
+2aca6a7c	Omtrent hvor lang tid efter en eluering topper Tc-#m-aktiviteten i en generator?
 2ad83ea8	SCAN
+2aecbbea	Lave rumlige frekvenser ligger i midten: uden midten mister billedet kontrast, uden periferien bliver det sløret.
 2afcdfa8	CNR læsion / menisk
+2b02aa61	Den stiger #×
+2b030ee3	I PET detektion af to fotoner på # keV i modstående detektorer inden for få ns.
 2b05bc17	Hvert atom henfalder i hvert tidsskridt med sandsynligheden p = # − e^(−λΔt). Med få atomer fluktuerer kurven statistisk.
 2b45b1f2	MLEM-iterationer
+2b6a8342	Hvilket instrument er bedst til at gennemsøge et rum for kontaminering?
 2b8ee748	Valgt skema
 2bab58c8	MR-sikkerhed: screeningsskema, orbitarøntgen (metalarbejdere), zone IV-regler, høreværn.
 2bbeecb2	Rigtige patienter, rigtige beslutninger: røntgen af thorax på et barn, CT under graviditet, en stor patient, prostatastråling, hudkræft, PET og MR-sikkerhed.
 2bd2dbd1	Hofteprotese i titan
+2bd612e8	En lang TI (≈ #–# ms) nulstiller CSF, hvis T1 er meget lang, og afslører periventrikulære læsioner.
 2be6e625	HDR-brachyterapi
 2bfaf1fc	endnu ikke eksponeret
 2c30aab8	Samlet dosis / tid
+2c32813e	# W/kg
+2c32a937	SSDE (AAPM #)
+2c5508a5	<b>Erhvervsmæssigt:</b> effektiv dosis # mSv/år (gennemsnit over # år, højst # mSv i et enkelt år); øjenlinse # mSv/år (ICRP #); hud og ekstremiteter # mSv/år.
+2c58f0bf	CTDI er integralet af dosisprofilen for én rotation, målt med et blyantkammer på # mm i PMMA-fantomer (hoved # cm, krop # cm). Det vægtede CTDIw kombinerer centrum og periferi; CTDIvol tager højde for pitch og vises på konsollen.
+2c7551a1	Hvorfor behøver PET ingen kollimator?
 2c89960f	EQD2 tumor (α/β #) = # Gy, sen hud (α/β #) = # Gy. En enkelt stor fraktion giver risiko for sen nekrose og bruskskade.
+2caf8732	Hvordan ændrer en fordobling af rørstrømmen (mA) spektret?
 2cafb291	Kliniske cases — 
 2cb28fc5	Dele
 2ceef116	Sluk magneten, og lad hende så komme ind
+2cf118a7	HU = # · (μ − μ_vand) / (μ_vand − μ_luft)
 2d0ea9f2	Totaldosis
+2d38e091	M_PTV = #·Σ + #·σ    (Σ, σ: SD for de systematiske og tilfældige fejl)
 2d435572	Skaber unødig frygt og forsinker diagnosen; en berettiget undersøgelse bør ikke blokeres.
+2d59f0fd	Strålehærdning: når middelenergien stiger, falder μ, så den anden halvering kræver et tykkere lag.
 2d877b6c	Afsnit
+2d8fb0b2	For helt at fjerne spredningen
 2d93483f	Du kan sætte flere krydser.
 2dcee2fc	efter eluering (t)
 2e160bcd	Stadie
+2e2c2d5d	f = # × # ≈ # MHz.
+2e4d104d	Billeddannelse: kontrast, spredt stråling og raster
+2e5665a5	Protonernes præcessionsfrekvens om B₀; # MHz ved # T.
+2e5bf3b5	Fedtsignalet
+2e62f99c	Hvordan ændres dosis ved HDR i # cm i stedet for # cm fra kilden (kun afstandskvadratloven)?
 2e6390f7	Færdig. 
 2e83162e	Sekvensdesign
 2eafe887	Hastighed
+2ebc2a84	CTDI-familien
 2ebd290f	Rørbelastning (pitch #)
 2ecb2727	Lav kV øger jodkontrasten men giver fotonmangel hos store patienter.
+2ed4bd8c	For stokastiske effekter (kræft, arvelige effekter) antager strålebeskyttelsen den lineære model uden tærskel (LNT): sandsynligheden er proportional med dosis, mens sværhedsgraden ikke afhænger af den. ICRP #'s nominelle risikokoefficient for kræft er ≈ # % pr. Sv for hele befolkningen.
+2ee5a97a	Effektiv dosis E = Σ w_T H_T udtrykker den stokastiske risiko ved en ujævn bestråling med ét tal. Vævsvægtfaktorer (ICRP #): rød knoglemarv, tyktarm, lunge, mavesæk, bryst og "øvrige væv" #; gonader #; blære, spiserør, lever og skjoldbruskkirtel #; knogleoverflade, hjerne, spytkirtler og hud #. Summen er #.
 2f0820de	Scanne uden kontrast
+2f1696b0	<b>Metal:</b> stjerneformede lyse/mørke striber pga. fotonmangel og forhårdning; MAR-algoritmer og højere kV hjælper.
+2f2650d9	MIRD-metoden
 2f44ed8c	Genstart
+2f538647	<b>β⁺:</b> proton → neutron + positron + neutrino (F-#, Ga-#); positronen annihileres til # × # keV fotoner — grundlaget for PET.
 2f828120	Varme kugler i flere størrelser og en lungeindsats i en vandfyldt cylinder: med det testes recovery-koefficienter, partialvolumeneffekten og svækkelseskorrektionen.
+2f9059d6	Cirka hvor stor en del af energien bliver til røntgenstråling i en wolframanode ved # kV?
+2faee7d1	Skanningstid
+2fb366b1	Raster
 2fc8666a	CNR ødem / marv
+2fdacb63	FBP
+2ffbb13c	TR # ms, TE # ms
 3000eed2	tid (dage)
+30477590	<b>Højere mAs:</b> spektrets form er uændret; fotonantal og dosis stiger lineært.
 304ff7fb	Ingen
+309e5265	Hvorfor protoner?
 30b6e97d	Elektronenergi og bolus
+30b7dd3d	En lang TR fjerner T1-effekten, en lang TE fremhæver T2-forskellene.
 30fa92b1	Rekonstrueret billede
+31417a84	Hvad er SAR-grænsen for helkrop i normal driftstilstand?
 3152bf83	Knoglemetastaser (alfabehandling)
 31b9a47d	T1-genopretning
+31bbbc99	Magnetisk resonans-skanning
+31d8fb21	<b>T1-vægtet:</b> kort TR (~#–# ms), kort TE (~#–# ms). Fedt er lyst og væske mørk; bruges til anatomi og kontrastopladning.
 31e91d5f	Tyndt i midten og tykt i kanterne: det sænker dosis i patientens tynde kanter og udjævner detektorsignalet. Kollimatoren bestemmer snittykkelsen.
+31fd861c	Fotoner vekselvirker ikke der
 327a15b7	Dannelsen af fotoneutroner starter over ~# MV; med VMAT er #–# MV nok til dybe mål.
+328c47ab	Strålebehandlingens # R'er
 32abb5ec	Uladede partikler (fotoner, neutroner), der først sætter ladede partikler i bevægelse.
 32d80beb	vævssammensætninger, dosisstørrelser, vægtfaktorer
 33449df1	#. Svækkelse og filtrering
 3377af3e	Korrekt: F = I·L × B. Støjen stiger med B₀ (højere ved # T); IEC ### kræver høreværn.
+339ae232	Typiske værdier (# T): hvid substans T1 ≈ # ms, T2 ≈ # ms; grå substans T1 ≈ # ms, T2 ≈ # ms; CSF T1 ≈ # ms, T2 ≈ # ms; fedt T1 ≈ # ms, T2 ≈ # ms. De fleste patologier (ødem, tumor) tilfører vand og forlænger både T1 og T2.
 33c3fd73	Nuklearmedicin
 33d5539e	Der er en henvisning, scan straks
 33d5b2f2	Muskel
+33ddebe6	Afskærmningsmaterialer
 34049cb1	Tumor
 340a8d84	Bevæger sig med konstant hastighed under en spiralscanning. Pitch = bordfremføring pr. omdrejning / samlet strålebredde; pitch > # sænker dosis.
 340d8b25	Tilbagespredning E′(#°)
+342904de	<b>Fasekodning:</b> en kort gradient med forskellig styrke i hver TR, der adskiller rækkerne ved fasen.
+34350203	En ustabil kerne har en konstant sandsynlighed pr. tidsenhed for at henfalde (λ). Aktiviteten A = λN er henfaldshastigheden og aftager eksponentielt:
 347ac991	Det første HVL fjerner de bløde fotoner, så den resterende stråle er hårdere
 34895938	Gulv: dosishastighed H*(#), µSv/t (log-skala) • hvid linje = # µSv/t
 34a0fb80	Ladede partikler (elektroner, protoner, α) gennemgår konstant coulombvekselvirkninger langs deres bane og er direkte ioniserende. Fotoner og neutroner er uladede: de sætter først en ladet partikel i bevægelse (foton → elektron, neutron → rekylproton), og det er den partikel, der afsætter dosis.
 34a3d9ed	Udvikler
 34aaa379	 min
+34da35d5	≈ # MeV
 34dd8fb9	#. Bloch-ligningerne og relaksation
+34e79c54	Mo-# (T½ # h) er bundet til en aluminiumoxidsøjle; ~# % af dens henfald giver Tc-#m. Saltvand, der ledes gennem søjlen (eluering), opløser kun pertechnetatet (TcO₄⁻). Da moderen lever længere — men ikke meget længere — end datteren, opstår transient ligevægt: Tc-#m-aktiviteten topper ~# h efter en eluering.
+34ec1b57	CTDIvol = CTDIw / pitch. Mange scannere bruger "effektiv mAs" (mAs/pitch); så forbliver CTDIvol konstant.
+350bcbe4	Dosis = doserate × tid          Ḣ(d) = Γ · A / d²          Ḣ_afskærmet = Ḣ₀ · B · e^(−μx)
 3510b740	Insulin driver FDG ud i muskler og fedt; vent derefter ≥ # t.
 35143fb3	TE (ekkotid)
+35370a12	ICRP #: under # mGy er abort ikke medicinsk begrundet. Den stokastiske risiko er meget lille, men ikke nul, så kommunikationen bør være ærlig og rolig.
+35a72ef2	CTDIw / CTDIvol
 35afca3b	Annuller
+35db04cd	DRL
 35dd3154	Atomer og kerner, strålingstyper og hvordan fotoner og ladede partikler vekselvirker med stof — fundamentet for al medicinsk fysik.
 35dfee4a	Atomets opbygning
+35ece971	<b>β⁻:</b> neutron → proton + elektron + antineutrino (I-#, Lu-#, Y-#); elektronerne med kort rækkevidde bruges i terapi.
 35fca6f7	Historier
 36014d05	k-rummet
 360983be	Vandbaseret strålehærdningskorrektion (BHC)
 36315a9f	Kortikal knogle / kontrastblod
 363200c3	Færdig: 
 36375dc7	Nulstil alle fremskridt?
+364873b6	α/β-forhold
 365bad67	Niveau 
 368f3298	 spørgsmål
 36c94f4b	Ingen diabetes
 36cc1e6f	Få dosishastigheden ved kontrolpulten (grøn markering) under # µSv/t
+375f3043	I praksis bruger diagnostiske undersøgelser den effektive dosis pr. aktivitetsenhed efter ICRP #, fx F-# FDG ≈ # mSv/MBq og Tc-#m-knoglescintigrafi (MDP) ≈ # mSv/MBq.
 3769e565	#. Dosis
+37c8362e	Skjoldbruskkirtel
+37cc2d08	Tre værktøjer
 3809b45a	Spinekko! t = 
 381fcf9b	Støj (ROI blære, SD)
 38362f62	Gennemførte opgaver, case-stjerner og lektionsfremskridt slettes. Det kan ikke fortrydes.
+38576bba	Hvad er den grundlæggende fysiske årsag til Bragg-toppen?
+385a8606	Den rumlige opløsning forringes
 38652f80	Optagelsestid
+38660fa2	Områdeinddeling og hændelser
+38b44594	Ved at måle flyvetiden
 38ec0bda	Effektiv dosis (# mSv/MBq)
 38f2a757	Specifik aktivitet (ren)
 38f6bec6	Aksialt snit (HU)
 38f9308a	Kranie
+392650d1	Fotoner afsætter dosis i to trin: først overfører de energi til ladede partikler (kerma = frigjort kinetisk energi pr. masseenhed), derefter afsætter disse partikler den i mediet (absorberet dosis). Kerma tælles, hvor vekselvirkningen sker, dosis der, hvor elektronerne når hen.
 39547f25	Ufiltreret
 396c9c92	Lunge V2# < # %
+3970bb49	Henfaldsmåder
 398977ad	Detektorkanaler
 399e986d	Opgaver
+39e59875	DVH
+39e88871	Hvad sker der med en parallelhulskollimator, når kilden fjernes fra detektoren?
 3a6a3b1d	Tilbage / henfaldne
 3ad53794	AP
+3b078b13	SAR ~ B₀² · α² · (pulser / s)
 3b1cbe1c	Aktivitet i kroppen efter scanningen
 3b272149	✗ Forkert
 3b2ac288	Knoglemarvsødem i fedtholdig marv ses først med fedtundertrykkelse (eller STIR).
+3b324767	Z / E
 3b6eb64c	Forreste rektalvæg støder op til prostata
 3b7e32aa	Forhold indgang / top
 3b8987c9	  — lektionen mestret!
 3ba1a0c6	Hvert HVL halverer intensiteten: (#/#)³ = #/#.
+3c04e9f8	Med EI_T = # har et billede med EI # DI = #·log₁₀(#) = #: dobbelt detektordosis. Selv om billedet ser godt ud, bør mAs halveres næste gang.
 3c21cd4d	Ordination
 3c2dfe59	Skjult
 3c4cfbae	Titan er ikke ferromagnetisk (MR-sikkert / betinget); ingen handling nødvendig.
+3c96d414	En α-partikel på # MeV
 3c988cc0	Middelenergi
+3d2156fc	Rampen (|f|) forstærker høje frekvenser, så uskarpheden netop ophæves, hvilket også øger støjen; vinduerede kerner fastlægger balancen.
 3d27f064	<b>Pardannelse:</b> i en kernes felt bliver fotonen til et elektron–positronpar; tærsklen er # MeV, og sandsynligheden stiger omtrent som Z².
+3d44f458	Geiger–Müller-tæller
 3d6b9f1f	Lungetumor
+3d767dfb	Forskellen mellem brugerens strålekvalitet og kalibreringskvaliteten (Co-#)
 3dbec6d5	Eksponeringsindeks (EI)
+3dd00737	Dimensionering efter NCRP #/#
 3e04a9b3	Bølgelængden for en røntgenfoton på # keV: λ ≈ # / # = # nm — omkring en tiendedel af et atoms diameter (~# nm).
 3e0553f6	Brystkasse
 3e233fe3	Middellevetid τ = #/λ
@@ -302,11 +485,13 @@
 3e3a239c	Billeddiagnostisk metode
 3e5c100c	Ortopædi: MR af højre knæ — menisklæsion? knoglekontusion? (Dr. Polat)
 3e6fed3c	Bloch-kugle (roterende system)
+3e77062b	Brintkernen (protonen) opfører sig som en lille magnet. I et stærkt felt B₀ retter protonerne sig parallelt eller antiparallelt og præcesserer om feltet med Larmor-frekvensen:
 3ea76ce8	BED tumor
 3f01de3a	Fem vekselvirkninger
 3f6fbd86	k-rums-sampling
 3f99f636	Støj # HU: ikke diagnostisk — det ville kræve en gentagelse, som øger den samlede dosis.
 3fa74db5	Fotonspektrum (target + udjævningsfilter)
+3fdc4de2	Indirekte, via OH·-radikaler fra radiolyse af vand
 3fddf4f8	Fremragende! Du mestrer stoffet.
 3fe8604c	Tatovering
 3feef465	− Fjern
@@ -314,56 +499,99 @@
 40253cf6	μ er den lineære svækkelseskoefficient (cm⁻¹), summen af de fire vekselvirkningsled. μ/ρ (cm²/g) afhænger ikke af densiteten og tabelleres derfor (NIST XCOM).
 40361aca	Antal fraktioner
 4036e7f4	Appen underviser i kerneemnerne i medicinsk fysik med interaktive #D-simuleringer. Alle beregninger bygger på rigtige fysiske modeller og referencedata, men appen er IKKE til klinisk brug.
+4037c6dd	Rummet er optaget # % af tiden
+40470c54	Meget lidt — tyndt bly er utilstrækkeligt mod fotoner på # keV
 4068c7dd	Morgenmad for # timer siden, blodsukker # mg/dL. Hvad gør du?
+407381a7	Billedvejledt strålebehandling: verifikation af patientens position med kV/CBCT før hver fraktion.
 4078f8e8	Spoler rundt om tunnelen får feltet til at variere lineært med positionen (mT/m): snitvalg, frekvens- og fasekodning. Den hurtige omskiftning giver støjen.
 41086ad1	mAs for samme σ (mod # cm)
 411cbb0d	Hold dig bare væk fra gravide kvinder
 414eb5b3	Opsummering
+4157224d	β⁺-henfald (positron)
+41b45f05	<b>Højere kVp:</b> maksimal- og middelenergien stiger, og strålen trænger bedre igennem; ydelsen stiger omtrent som kVp²; kontrasten falder.
 41d150aa	Gantry
 41e0bccc	fotoner
 421ed9be	Ved diagnostiske energier dominerer to vekselvirkninger: <b>fotoelektrisk effekt</b> (~ Z³/E³, kilde til kontrast) og <b>comptonspredning</b> (~ elektrontæthed, kilde til spredning). Simuleringen bruger NIST-tabeller μ/ρ(E) for hvert materiale.
+422525cf	BED / EQD2
 422af40c	Mus: venstretræk = rotér, højretræk = panorér, hjul = zoom. Berøring: én finger = rotér, to fingre = zoom/panorér.
+423010bd	T1-relaksation
 42347061	Rørstrøm × tid
 424c4852	#. Billeddannelse
 426e4933	Klaustrofobi
 42720baf	Knogle
 427f78a4	Hurtige regler (nominel energi): R9# ≈ E/#, R8# ≈ E/#, R5# ≈ E/#, Rp ≈ E/# (cm).
+42a1f7ce	Det skal fordobles
+42b7c6d8	Gammakameraet og SPECT
+42e381ed	Gennemlysning giver billeder i realtid (billedforstærker eller fladpanel). Den automatiske lysstyrkeregulering (ABC) hæver kVp og mA, når patienten er tykkere. Den samlede dosis er dosishastighed × tid, og ved lange interventioner kan huddosis overstige deterministiske tærskler: forbigående erytem ~# Gy, hårtab ~# Gy, alvorlig skade > #–# Gy.
+42f504d1	Deres RBE er #
+432ffd97	Ved MV dominerer comptonspredning, svækkelsen afhænger af elektrontætheden, og tyk beton er billig og bærende
+435cb733	Støj og detektorer
 439ee205	Sammenlign effekten af svækkelseskorrektion i billedets midte
 43b2aeba	Skift parametre → billede og dosis genberegnes (polyenergetisk strålesporing + NIST-data).
 43b5e592	Radionuklid
+43bcbe39	T1-værdierne bliver kortere
 43cb67fd	Bindingsenergien for wolframs K-skal er # keV. Giver et rør, der kører ved # kVp, wolframs karakteristiske K-linjer?
 43d93074	EQD2 tumor (α/β #) = # Gy, sen hud (α/β #) = # Gy. Underdoseret: høj risiko for recidiv.
 446ceec2	i luftkerma
+449d5209	f(# cm) = # × e^(−#) ≈ #, så SSDE ≈ # × # ≈ # mGy. Derfor skal pædiatriske protokoller optimeres for sig.
+44b565e7	≈ # minut
 44fb5dc7	Kilden sikret! Dosis under missionen: 
 4531ef7f	Svækkelsen afhænger eksponentielt af tykkelsen.
 4581c4fb	#. Radioaktivt henfald
 45901efd	Gradientspoler
 4602d9ec	tryk på billedet
 46143215	Hvor gantryens, kollimatorens og lejets rotationsakser mødes (±# mm). Afstanden kilde–akse (SAD) er # cm.
+4642dfa0	Projektion
 467b083e	Bolus
 46ac079e	Scanner…
+46d4c952	Et linjeintegral
+46db0052	<b>Ringe:</b> et defekt eller fejlkalibreret detektorelement.
 46e87af2	 % færdig
+4719156f	Røntgenrøret og spektret
 472bd5d7	Lav kV øger jodkontrasten (K-kant # keV); et godt valg hos en slank patient.
+4731830d	<b>Ophold:</b> kontorer T = #, gange T ≈ #/#, venteværelser T ≈ #/# (NCRP's forslag).
 475a075b	Sinogram  p(θ, s)
 477692bf	Nuklearmed.
+477c08b3	# MBq FDG: E ≈ # × # = # mSv; CT-delen af en PET/CT kan lægge yderligere #–# mSv til.
+47900c2b	Hounsfield-skalaen
+47932082	<b>Graviditet:</b> skal afklares på forhånd; radiojod kan ødelægge fostrets skjoldbruskkirtel (fra uge #–#).
+47955da0	Hvad betyder en brugsfaktor U = #?
+47ae1b91	t_max = ln(λ_Tc/λ_Mo)/(λ_Tc − λ_Mo) ≈ # h, og derfor eluerer hospitaler som regel én gang om dagen.
+47f7e1bf	<b>Neutroner:</b> over ~# MV danner (γ,n)-reaktioner fotoneutroner; døren og labyrinten dimensioneres efter dem.
 47f9a72c	Feber (# °C) og hoste i # dage
+47fcd7a2	Den falder med afstanden
+48240919	Den andel af tiden, hvor primærstrålen er rettet mod en given barriere.
+482ee3dd	Kerma, absorberet dosis, ækvivalent og effektiv dosis; dosimetre; hvordan stråling påvirker celler, LQ-modellen, BED og EQD2.
+483d1dab	E² / Z
+4876b3ed	Den andel af tiden, hvor den mest eksponerede person opholder sig i et område.
+488a432b	CT-dosis: CTDI, DLP og SSDE
+48b92494	Elektroner, der ikke rammer et target, bruges direkte; pencil-strålen fra bølgelederen spredes af en tynd folie med højt Z til et klinisk felt.
 48bee2b3	Der kommer en CT-henvisning. Elifs sidste menstruation var for # uger siden. Hvad gør du før enhver undersøgelse med ioniserende stråling?
 48cabbff	#-felts
+48eb3008	Forstørrelsestilstande (mindre FOV) øger dosishastigheden.
 48f82113	udskilt 
 49059469	Går det hurtigt? Jeg skal på arbejde i morgen — jeg sliber på værkstedet.
 491836e3	fejl 
 499a20d5	AP, liggende, SID # cm
 49cf1cfd	Larmorfrekvens f₀ = γ̄·B₀
 49e1196b	Meniskruptur
+4a5fde88	Ifølge Bethes formel skalerer kollisionsstopkraften omtrent som z²/v²: jo langsommere partiklen bliver, desto hurtigere taber den energi. Det er oprindelsen til Bragg-toppen for tunge partikler.
+4a6030a5	Rasteret sidder omvendt
+4a610ce1	SAR ~ B₀² · (flipvinkel)² · (RF-pulser / s)
 4a690915	Modtagerspole
 4ac37c75	Comptonspredning
 4b058728	Indstillinger
 4b20e113	Nuklearmedicin / PET
+4b26d668	Fotoner følger Poisson-statistik: støjen er √N for N fotoner og SNR ~ √N, så en fordobling af SNR koster fire gange dosis. Digitale detektorer bruger indirekte (CsI-scintillator + a-Si-fotodiode) eller direkte (a-Se) konvertering. Detektorens effektivitet udtrykkes ved DQE = SNR²_out / SNR²_in.
+4b66e013	Strålingsarbejdere bærer persondosimetre (OSL/TLD): Hp(#) for helkropsdosis, Hp(#) for huden og ringdosimetre til hænderne. Med blyforklæde bæres dosimeteret som regel under det på kroppen; til øjenlinsedosis anbefales et ekstra i kravehøjde uden på forklædet.
 4b6a214c	Kalibreringskilde, brachyterapi (historisk)
 4b7042c7	eGFR # mL/min/# m²
 4b81b768	SNR (midten)
+4b88091d	E ≈ # × # = # mSv (ICRP #).
+4baca147	En enkelt top er kun få mm bred. For at dække et mål vægtes og summeres toppe med forskellige energier til en udbredt braggtop (SOBP). Moderne systemer "maler" målet lag for lag og spot for spot med pencil beam scanning (PBS), hvilket muliggør intensitetsmoduleret protonterapi (IMPT).
 4be56c9f	Spørgsmål 
 4bf1fc72	Fedtmætning (FS)
+4bf8421e	<b>Monitorkamre:</b> måler løbende output (MU) og strålesymmetri; de er dobbelte og uafhængige.
 4c3b45ab	• Absorberet dosis D (Gy = J/kg)\n• Ækvivalent dosis H_T = w_R · D_T (Sv); w_R = # for fotoner og elektroner, # for alfa, # for protoner\n• Effektiv dosis E = Σ w_T · H_T (Sv); vævsvægtfaktorer fra ICRP #\n• Strålingsmålere viser omgivelsesdosisækvivalenten H*(#) (≈ # × luftkerma for Cs-#).
 4c498c6f	Jeg ammer min baby. Kan denne undersøgelse skade hende?
 4c4a1ccb	Fotoneutroner
@@ -371,37 +599,51 @@
 4c94eaa4	Godt. Gennemgå lektionerne i de emner, hvor du svarede forkert.
 4c96524b	Sænk rygmarvsdosis med en protonplan
 4cf38cb8	Aflæsningsenergi
+4d1863f4	<b>Repopulation:</b> tumoren prolifererer under behandlingen; en forlænget samlet behandlingstid nedsætter tumorkontrollen.
 4d1aa535	Emner
+4d3dd3bd	Tumorkontrollen forbedres
 4d5f9cf2	år
 4daa2b83	Strålebeskyttelse
 4dd7913c	Afbild pacemakeren på et røntgenbillede af thorax
 4de2c891	Lunger, knogler, bløddele og hjerte er modelleret med NIST-svækkelseskoefficienter; for hver detektorpixel spores en polyenergetisk stråle.
 4df6b638	Aflæsninger
 4e0d4ec8	En afskærmning er # HVL tyk. Hvad er transmissionen i smal geometri?
+4e2183c3	Det kumulative DVH viser, hvor mange procent af en struktur der får mindst dosis D. For mål bruges D9# (den dosis, der dækker # % af volumenet); for OAR bruges Vx (andel, der får x Gy), Dmax og Dmiddel. QUANTEC-eksempler: lunge V2# ≤ #–# % og middeldosis ≤ #–# Gy (pneumonitis < # %); rygmarv Dmax ≤ # Gy (fraktioner på # Gy); rektum V7# < # %; ørespytkirtel middeldosis < # Gy.
+4e3cc928	Aktiviteten i kroppen falder både ved fysisk henfald og ved biologisk udskillelse:
 4e6c5d36	Simulering
 4e7651ae	Direkte CT med kontrast
+4e7782c3	Z³ / E³
 4e8632ff	Direkte ioniserende
 4ea60106	#. Dosisstørrelser
 4ebc9931	Tumor-EQD2 (α/β #)
 4eed3c07	undereksponeret / støjende
 4ef63472	relativ dosis
+4f01c549	E ≈ # × # = # mSv.
 4f56491a	Mål halveringstiden for Tc-#m med Monte Carlo inden for # %
 4f5e1d34	#. Tre principper: tid, afstand, afskærmning
 4f8bf6fa	Svejser / slibning: muligt metal i øjet
+4f92129e	Det samlede antal henfald i et organ (tidsintegralet af aktiviteten).
 4fca6bb4	Ingen kronisk sygdom, fuldt vaccineret
 4fd01b06	Stråleenergi
+4fdd3825	M_Q er aflæsningen korrigeret for temperatur-tryk, polaritet, rekombination og elektrometer; N_D,w,Q0 er kalibreringsfaktoren for vanddosis fra standardlaboratoriet (i Co-#), og k_Q korrigerer for strålekvaliteten.
+5009dc40	Radioaktivt henfald
 5009de05	Dosishastighed ved # m
 5009fb9e	Sammenlign tumorens BED ved SBRT (#×# Gy) og konventionel behandling (#×# Gy)
+5021c2fa	Hvad repræsenterer en projektionsværdi p?
 504443a0	Eksponering
 5060769e	lat
 506f8881	rektum
+507364c6	<b>Befolkningen:</b> # mSv/år; øjenlinse # mSv/år; hud # mSv/år.
 50793575	Ordliste
 50b3cd30	Digitalt røntgenbillede (CsI-detektor)
+50b6db4e	Spredningen ved detektoren
 50f75e70	CNR ødem/marv #: fedtmarv skjuler ødemet — brug fedtmætning (FS).
 51301586	ADVARSEL
+51327597	ACR definerer fire zoner: I offentlig, II screening, III kontrolleret adgang, IV magnetrummet. Hver patient og medarbejder screenes skriftligt, før zone III betrædes; metalarbejdere med mulig metal i øjet får først orbitarøntgen eller CT. Implantater er mærket MR Safe, MR Conditional eller MR Unsafe, og deres betingelser følges.
 514a1189	TR (til SE-grafen)
 515cc083	T2-vægtet
 5169f3c5	Lineær energioverførsel: energi, som en ladet partikel afsætter pr. vejlængde (keV/µm).
+517390af	Hjertet ligger tæt på detektoren, hvilket mindsker forstørrelse og geometrisk uskarphed
 51880252	Dosisfordeling (x–z-planet)
 51b48ac4	Afskærmning placeret. Skift tykkelse og materiale i venstre panel.
 51d5b7b0	EQD2 tumor (α/β #) = # Gy, sen hud (α/β #) = # Gy. Acceptabelt: færre besøg, men højere risiko for sene effekter (atrofi, telangiektasier).
@@ -410,85 +652,132 @@
 51f7e789	total dosis (Gy)
 51fa3930	Færdig. Gennemgå resultaterne; ændr indstillingerne, og kør igen om nødvendigt.
 523e597b	Hvid substans
+524bb01f	Isocentriske (SAD-)teknikker bruger TMR, en dybdedosiskurve uden afstandskvadratlov-effekt ved fast afstand kilde–punkt. Outputfaktorer tager højde for kollimatorspredning (S_c) og fantomspredning (S_p) afhængigt af feltstørrelsen.
 524fb8d1	Tryk på ELUER for at udvinde Tc-#m. For det højeste udbytte, vent ≈ # t efter forrige eluering.
+52784cfd	Kun neutroner
 52af1039	I elektronfelter indsnævres #%-isodosen med dybden; en margin på ~#–# cm er nødvendig. Outputfaktorer skal måles for små felter (TG-#).
 537cf34e	Udbytte ved seneste eluering
 539143ed	TCP for dette skema (N₀ = #⁹)
 5394c2c1	Dosis-arealprodukt (DAP)
 53a02dda	α/β ≈ # Gy (tumor, tidligt reagerende) og ≈ # Gy (senreagerende normalvæv, fx rygmarv). Små fraktionsdoser skåner sene væv; høje fraktionsdoser som ved SBRT giver meget høj tumor-BED, men kræver præcis sigtning. TCP = exp(−N₀·S).
+53db2663	Følsomheden falder til nul
 53f501c6	Aktivitet ved scanningsstart
 542674c2	Fantom
+542cb793	PDD og hvad der påvirker den
 543dd434	Pardannelse
 543f87d4	Rygsøjle
 548c82d8	Magnetisering
 5490dc6c	 uger
 54ba96a0	Effektiv halveringstid
 54ebaaec	Effektiv diameter → SSDE
+54f725f4	DLP og effektiv dosis
 550bfe9e	puls
 55231493	Hjerne
 55437eb0	Projektion og lejring
 554740bc	Skift strålevinkler og -vægte: dæk målet, og skån rygmarv, hjerte og lunger.
+554b47d8	At smøre hver projektion tilbage over snittet langs dens retning (simpel tilbageprojektion) giver en #/r-uskarphed. For at korrigere den rampefiltreres projektionerne først (|f|); filtreret tilbageprojektion (FBP) forener de to trin. Da rampen også forstærker støjen, vindues den (Shepp–Logan, Hann …): en skarp kerne betyder høj opløsning og meget støj.
 5566f444	Anvend det
 556bb28a	Læg i beholderen
 556d6936	Når kilden er inde, sænker få cm bly dosishastigheden hundredvis af gange (hver HVL halverer den, hver TVL deler den med ti).
 5586c1bb	Bordposition (z)
+55953a46	Luftkerma ved indgangsfladen, inklusive tilbagespredning.
 55af7f60	Kan stå, samarbejdsvillig
 55b7844c	Direkte og indirekte ionisering
+55c3d9ec	Konsollen viser CTDIvol # mGy. Omtrent hvad er SSDE for et barn med # cm effektiv diameter?
 55c427dd	Recovery-koefficient (største / mindste kugle)
+55e29d05	Mod ekstern bestråling er der tre værktøjer: afkort tiden (dosis = doserate × tid), øg afstanden (fra en punktkilde falder doseraten som #/d²) og anbring afskærmning imellem (hvert HVL halverer dosis).
 55f81dfb	PET-fysik
 56a82532	Røntgenradiografi
 56aaa165	Hudkræft på kinden — elektronbehandling
 56e6dfdf	Blybeholder
+571ea1cc	Afskærmningens transmission
 57270c3f	Giv # fraktion
+573a4142	Overeksponering; patienten fik unødig dosis
 57426dc2	Strålingsmåler
+57a7b53c	Omtrent hvad er den effektive dosis ved # MBq FDG?
+57fd150b	Targetet accelererer elektronerne
 580581bf	Enkeltdosis, α/β=
+581bf5b5	Tilbagespredningen er størst på rørsiden, hvor strålen går ind i patienten; detektorsiden er sikrere.
+58247ddd	De vigtigste fordele ved megavoltfotoner er dyb gennemtrængning og hudskåning: dosis er lav ved overfladen og når sit maksimum ved d_max (# MV: # cm, # MV: # cm).
 58390f45	Tatovering på venstre arm (#)
 584aaa85	Det elektromagnetiske spektrum
 584ba3f5	klonogener: 
 5865c9d9	Valgt stråle: 
 5865ea2d	ICRP # og ACOG: ingen deterministiske effekter under # mGy; afbrydelse anbefales ikke under # mGy. Formidl risikoen med tal og ro.
+5869cede	Fremstilling af radionuklider og generatoren
 5876c756	Ventende patienter
 5878a2bf	Dybdedosis
 58820d8d	Bedste svar: 
+588c2a16	Ved ligevægt for ladede partikler (CPE) og ubetydeligt bremsestrålingstab er den absorberede dosis lig med kollisionskermaen: D = K_col. I build-up-området nær overfladen er der ingen CPE — derfor skåner megavoltstråler huden.
+588ce9ad	#/T_eff = #/T_fysisk + #/T_biologisk
 589a5df5	Patientbevægelse (fasefejl)
 58c52672	 år
 58e096de	Om
+58ead5a3	Hvorfor er D ≠ K_col i build-up-området?
 590ca79a	Billede
+5947fcd5	PTV-margin (van Herk)
 5951ffab	Arbejdstager (effektiv)
 59c7842a	Læsionsdækning: minimum # % — hudoverfladen er underdoseret: bolus trækker elektrondosis op til overfladen.
 59c80f5b	Røntgen af thorax hos barn
+59d56146	≈ # timer
 5a09a50e	Protonrækkevidde (Bragg–Kleeman)
+5a252151	Omtrent hvor ligger tærsklen for huderytem ved gennemlysning?
 5a296842	Planskabeloner
+5a46ef7e	<b>Flyvetid (TOF):</b> forskellen i ankomsttid (~#–# ps) lokaliserer hændelsen langs LOR til få cm og mindsker støjen.
 5a53afe8	Prostata ligger ≈ # cm dybt forfra og ≈ # cm fra siden. Sammenlign dybdedoserne (PDD), og vælg en energi til VMAT.
 5a54e20e	Resultat: 
+5a5f631a	≈ # kHz
+5a87b1d6	<b>Personale:</b> sprøjteafskærmning, afstand og tid frem for blyforklæder, samt fingerdosimetre (Hp(#)).
 5aaf54e6	#. Elektronstråler
 5ab00023	CNR ødem/marv #: knoglekontusion synlig.
 5af0fb47	Monte Carlo-dybdedosis • Bragg-top
 5b6df32a	Næste spørgsmål  →
+5b71adcb	Stram kollimering (med rasterløs lavdosisteknik)
 5b765e84	Ved CT af abdomen ligger livmoderen i primærstrålen; et forklæde kan ikke beskytte og forringer billedet.
 5bac8b63	Egen flipvinkel α
 5c1604f3	Næste patient: 
 5c1cca76	• <b>Tid:</b> dosis er proportional med tiden nær kilden.\n• <b>Afstand:</b> for en punktkilde falder dosishastigheden som #/d²: dobbelt afstand giver en fjerdedel af dosis. Derfor er tænger så effektive.\n• <b>Afskærmning:</b> tætte materialer med højt Z (bly) svækker fotoner bedst. Én HVL halverer, én TVL sænker dosishastigheden til en tiendedel.
+5c5faa98	Billedkontrast opstår af forskellen i svækkelse mellem nabostrålebaner. Knogle adskiller sig stærkt fra bløddele ved lav energi (fotoelektrisk effekt dominerer) og svagt ved høj energi (comptonspredning dominerer) — derfor #–# kVp til mammografi og #–# kVp til røntgen af thorax.
 5c60f76f	læsion
 5c6467e1	Vis dosiskort (x–z)
+5c74eff9	Hvad korrigerer k_Q for i TRS-#?
+5cab77e9	Patienter og pårørende er ofte bange for stråling. En god forklaring er talbaseret, men forståelig, sammenligner med den naturlige baggrundsstråling, fremhæver gevinsten ved undersøgelsen og undgår overdrivelser som "nul risiko" eller "meget farligt".
+5cadc7e1	Dosis = doserate × tid
 5cae40c9	Brintkerner (protoner) har et magnetisk moment. I feltet B₀ retter et lille overskud sig ind efter feltet og danner en nettomagnetisering M₀ (M₀ ~ B₀). Spinnene præcesserer om B₀ med larmorfrekvensen.
 5ce2e06a	Korrekt. Ved PA ligger hjertet tæt på detektoren → mindre forstørrelse; en lang SID mindsker geometrisk forstørrelse og uskarphed. Forreste organer (bryst, skjoldbruskkirtel) får også mindre dosis ved PA.
+5cefb1d7	Et gitter af blylameller, der absorberer spredte fotoner.
 5d155c86	Se resultatet  →
 5d27c72a	Tc-#m ved eluering
+5d34e900	Mz = M₀(# − e^(−#)) ≈ # M₀; # % er det, der er tilbage af den transversale magnetisering efter én T2.
+5d4d8ed3	η ≈ #×#⁻⁹ × # × #⁵ ≈ #; de resterende # % er varme, så rørets varmestyring er afgørende.
 5d74c24a	Dosisplanlægning • DVH
+5d9e42a8	σ ~ # / √(mAs · snittykkelse)
 5dc26de3	Sådan studerer du
 5ddb2028	Grundlæggende strålingsfysik
 5de75a0b	Højre lunge
 5dea53d0	Stråleonkologi: elektronbehandling, BCC venstre kind; ultralydsdybde # cm (Dr. Öz)
 5deb5e94	Afslår kirurgi (i antikoagulationsbehandling)
+5dfaa4f1	AAPM TG-# anbefaler # %/# mm med ≥ # % som tolerance-/handleniveau.
 5e0275a6	#. Generator og transient ligevægt
+5e380c3b	<b>Kollimation:</b> blænder og en multileaf-kollimator (MLC, lameller på #–# mm) former feltet efter målet og gør IMRT/VMAT mulig.
 5e4baa18	Visning
 5e840e69	Overlevende fraktion S
 5e8aae31	Rygmarv
 5e8f4863	RF kan ikke høres; støjen kommer fra gradienterne og kan skade hørelsen.
+5e8fb6de	Systematiske fejl er altid større
 5ed62a66	Blod + jodkontrast
+5ed90f63	De karakteristiske linjer forsvinder
+5ee0c02a	Det viste HU-område (W) og dets midte (L).
+5f2b803e	Ved gennemlysning stammer det meste af personaledosis fra stråling, der spredes fra patienten. Brug blyforklæde, thyreoideakrave, blybriller og loftmonteret skærm, og hold afstand (afstandskvadratloven).
 5f38ef7b	Ekstra Cu-filter
+5f3d9216	ALARA
+5f48df71	MU-beregning (SAD)
 5f594fad	Rekonstruktion
+5f842ccc	kVp
+5fbbbe70	Acceleratorens output målt af dens monitorkamre, kalibreret fx til # cGy/MU under referencebetingelser.
+5fcb368b	<b>ESAK:</b> luftkerma ved indgangsfladen inklusive tilbagespredning (BSF ≈ #–#); bruges til deterministiske effekter og DRL-sammenligninger.
+5fef495e	Vindue / niveau
+60139e9e	Hvilket volumen ordineres dosis til?
 6032454b	Comptonspredning
 6053526e	For FDG: glukose < # mg/dL og ≥ #–# t faste; optagelsestid # ± # min.
 605c9960	Kvantestøj
@@ -497,85 +786,135 @@
 6174d861	CTDIvol er dosis i et PMMA-fantom på # cm, ikke patientens. AAPM #/#: SSDE = f(D_eff)·CTDIvol; hos store patienter er f < #.
 61814715	Matrix (opløsning)
 61999a6b	Begrænset scanlængde (hoftekam til symfyse): lavere DLP.
+61b09960	Ved # keV er blyets HVL ~# mm, så # mm Pb stopper kun ~# % af fotonerne. Ved PET er det afstand, tid, sprøjteafskærmning og L-blokke, der tæller.
 61e2a3f8	Kilde
+61e37e95	<b>Filtrering:</b> fjerner lave energier, øger HVL og sænker huddosis. Reglerne kræver en samlet filtrering på mindst # mm Al over # kVp.
 61f84dec	Dosis beregnes med inhomogenitetskorrektion via ækvivalent vejlængde (radiologisk dybde = Σ ρₑ·Δl): en stråle gennem lunge svækkes mindre. Planens kvalitet vurderes på DVH: PTV D9# ≥ # %, rygmarv Dmax < # Gy, lunge V2# < # %, middel lungedosis < # Gy, hjerte middel < # Gy (QUANTEC).
+61fa4b9a	Brachyterapi og kvalitetssikring
+620629d0	pitch = (bordfremføring pr. rotation) / (strålens samlede kollimation)
+620ac3ff	<b>GTV:</b> synlig tumor. <b>CTV:</b> GTV + mikroskopisk spredning. <b>ITV:</b> CTV + intern bevægelse (fx vejrtrækning).
 6246a72c	Nulstil (M || B₀)
 6283a899	 min/lejeposition, optag 
 6292946b	Modulationsbredde
 62b33346	μ(vand)-reference
+62bd3c83	Regel: rækkevidde ≈ E/# cm, altså ca. # cm for # MeV. Derfor bruges elektroner til overfladiske tumorer.
 62dc212b	Middel fri vejlængde #/μ
 6337b9a5	En RF-puls (B₁ med larmorfrekvensen) vipper M med flipvinklen α. Derefter:\n• <b>T1 (spin–gitter)</b>: Mz genopretter sig: Mz(t) = M₀ + (Mz(#) − M₀)·e^(−t/T1)\n• <b>T2 (spin–spin)</b>: den transversale magnetisering defaserer: Mxy(t) = Mxy(#)·e^(−t/T2)\n• <b>T2*</b>: feltinhomogenitet giver ekstra defasering (#/T2* = #/T2 + γΔB) — en #°-puls vender denne del: <b>spinekkoet</b>.
+63717795	Det fjerner den #/r-uskarphed, som simpel tilbageprojektion giver
 638a3d27	Spredningsraster (Bucky)
+638c594d	T2 og T2*: transversalt henfald
+63914fc5	Omtrent hvor stor er den praktiske rækkevidde af en elektronstråle på # MeV i vand?
 63e33069	Distal dybde
 63e87165	Alder / køn
+63f9d666	Et område med særlige regler og uddannet personale, hvor dosisgrænserne ellers ville kunne overskrides.
 64053f4c	Sinogram, filtreret tilbageprojektion, Hounsfield-enheder, artefakter.
 64ab923e	transmission i smal stråle
+64af52b9	<b>Radiosensitivitet:</b> den iboende følsomhed i hvert væv og celletype.
 64cec188	Sekvens
+64fa4ca8	Efter en diagnostisk CT estimeres fosterdosis til # mGy. Hvad er den rigtige rådgivning?
 650b51c9	CTDIvol er en fantomdosis; brug SSDE = f(D_eff)·CTDIvol for patientspecifik dosis (AAPM #/#).
 65297d00	 (inkl. repopulation)
 652cb5da	Der skal mere læsning til — lektionerne nedenfor hjælper.
 656c2bdf	Hud / hænder
+658d1478	Primærstrålen er rettet mod den barriere # % af tiden
 65b3c1bb	Grå substans
+660035ea	Præcis i midten af tunnelen
 660f2bd2	Geometri og detektor
 662c7590	Menisk
 6644745a	Effektiv diameter / f
 66597e63	Tilfældige
 66c80500	foton-svækkelses- og energiabsorptionskoefficienter (# materialer)
 66f00e9c	Korrekt: graviditet skal udelukkes hos enhver kvinde i den fødedygtige alder, når bækkenet er i strålefeltet (ICRP #, IAEA SSG-#).
+66fe8adc	Relaksation: T1, T2 og T2*
 6705e1b1	Trinvise lektioner fra atomet til strålebehandling, interaktive figurer, gennemregnede eksempler, quizzer og en øvelseseksamen.
 672a70aa	Vis SOBP (analytisk)
 6750e405	Effektiv dosis = DAP × konverteringskoefficient (efter region). Naturlig baggrund ≈ # mSv/år.
 675d82e1	Sinogram
 6779effc	Elueret
+67af0b2f	<b>OSL (Al₂O₃:C):</b> aflæses ved optisk stimulering og kan aflæses igen; de fleste persondosimetre er af denne type.
 67b8f497	BED sent væv
+67e47d97	Hvad er det mest sandsynlige problem ved et billede med DI = −#?
 67ebc3e7	#. Hounsfield-enheder og vinduesindstilling
 67fabac5	Rektum-EQD2 (α/β #) = # Gy — risiko for sen rektal toksicitet (blødning, proktitis).
+6805c1cb	Børn er #–# gange mere strålefølsomme end voksne og har et langt liv foran sig. Der gælder størrelsestilpassede protokoller ("Image Gently"): lav mAs, intet raster, ekstra Cu-filtrering, stram kollimering; ved CT bør dosis vurderes ud fra SSDE. Gonadebeskyttelse anbefales ikke længere rutinemæssigt (AAPM #); kollimering er mere effektiv.
 6808f26e	Det er risikabelt; du bør overveje at afbryde.
 6817ce15	UL: appendix ikke visualiseret. Ingen MR om natten; kirurgen understreger risikoen for perforation. Fælles beslutning: lavdosis-CT.
+681fce83	Diagnostiske referenceniveauer (DRL) er den #. percentil af den nationale fordeling (ICRP #). De er ikke dosisgrænser; afdelinger, hvis typiske doser overstiger dem, bør optimere.
+6823752e	Det er ikke nødvendigt
+686bef8e	Risikokommunikation
 687d1f08	En sygeplejerske vil i en nødsituation bringe en ilttank af stål ind i scannerrummet (zone IV). Hvad gør du?
+6888962e	Billedkontrast og samlet signalniveau
 68de0f88	Formelark — 
 69069946	Strålehærdning: scan polyenergetisk med BHC slået fra (cupping)
+69232305	Den falder
 69338848	Start den første case  →
+693aa065	N_D,w er angivet i Co-#. Ved brugerens kvalitet (fx # MV, TPR₂₀,₁₀ ≈ #) er stopkraftforhold og forstyrrelsesfaktorer anderledes, og k_Q korrigerer for det.
+694d03af	Lyset fordeles over mange PMT'er, og tyngdepunktet af deres signaler giver positionen.
 69607fdf	EPID (MV-billeddannelse)
 69762965	Abdomen
+6982091c	Rørets ydelse
+699bd238	<b>T2-vægtet:</b> lang TR (> # ms), lang TE (~#–# ms). Væske og ødem er lyse; de fleste patologier ses.
 69c54135	 t
 69d97846	Vævssignal
+69d99419	Fine detaljer og kanter
 69fc5799	Cu-filter
 6a494fba	Oversigt
 6a4f8e94	Ved diagnostiske og terapeutiske energier vekselvirker fotoner hovedsageligt på fem måder: kohærent (Rayleigh-)spredning, fotoelektrisk absorption, comptonspredning, pardannelse og fotonukleare reaktioner. Hvilken der dominerer, afhænger af fotonenergien og mediets atomnummer.
 6a8f4d0e	Ikke helt. 
 6ab344fe	Effektiv (fysisk + biologisk)
+6abfaaba	Dosisstørrelsen i mammografi er den gennemsnitlige kirteldosis (MGD), ≈ #–# mGy pr. optagelse for et standardbryst. Tomosyntese (DBT) er en tomografi med begrænset vinkel, der mindsker vævsoverlejring.
 6ada0052	CT
 6ae55601	Gennemgang
+6b21c3b7	T = TR · N_fase · NEX / ETL
 6b26a05c	Dosis på hudoverfladen
+6b26b7cb	Personer i befolkningen
+6b447c93	Ladede partikler: stopkraft og rækkevidde
+6b5a05de	Henfaldsloven
 6b7a6181	R = accelerationsfaktor: hver R'te linje optages → indfoldning med FOV/R (aliasing). Parallel billeddannelse (SENSE/GRAPPA) folder den ud med spolefølsomhederne.
 6b8da132	Dosishastighed ved # cm
 6bb77736	Punktkilde
 6bbe4f23	Al-filter (tilføjet)
 6bc09210	Ingen ændring; samme mAs
+6be1e44b	# s × # × # = # s ≈ # min — derfor er turbo-spinekko klinisk standard.
 6be9432d	Overfladedosis
 6bf0564a	Ladede partikler (elektroner, protoner, α), der afsætter energi gennem coulombvekselvirkninger.
 6bf28b9c	Videnskabeligt ubegrundet og skadeligt råd.
 6c025c20	endnu ikke scannet
 6c168d60	Case afsluttet
+6c339b71	Stråling spredt fra patienten og lækstråling fra strålehovedet
 6c3c9505	fotonenergi
 6c6870d7	Træf et valg
+6c70ec36	SUV sammenligner en tumors FDG-optag uafhængigt af patienten, men er følsom over for optagstid, blodsukker, rekonstruktion og partielt volumen — derfor EANM's anbefaling om # ± # min optagstid og blodsukker < # mg/dL.
 6c8fcda6	TIL BEGYNDERE
 6cc46a6f	 min læsning
 6cc784fd	Du træffer kun én beslutning ad gangen.
 6cec06d7	# ng/mL
+6d03cdad	#/T_eff = #/T_fys + #/T_biol
 6d148508	Scan
+6d5614c7	Elektronisk kollimering: de to detektorer, der fanger de modsatrettede fotoner, definerer den linje, annihilationen skete på.
 6d8836d2	Muligt, men ikke førstevalg; ultralyd og MR bør komme først.
 6d94e783	k-rummet og fouriertransformationen
 6dc54781	 d
+6dcb0105	Hvordan ændres DAP-aflæsningen, hvis kammeret placeres tættere på eller længere fra røret?
+6e0a7f2e	Scannergenerationer og spiralscanning
 6e2eab59	Korrekt eksponering: få afvigelsesindeks (DI) for et thoraxbillede inden for −#…#
 6e67bd16	Reference / analytisk
 6e8c7b25	Fotonenergi
+6e8ef574	SNR skalerer med voxelvolumen og √(N_fase · N_frekv · NEX). En fordobling af opløsningen i planet (en fjerdedel af voxlen) koster meget SNR; parallel billeddannelse (SENSE/GRAPPA) gør optagelsen hurtigere på bekostning af SNR.
+6ea1bcc5	<b>Opløsningsgrænser:</b> positronens rækkevidde (middel F-# ≈ # mm, Ga-# ≈ # mm), ikke-kollinearitet og krystalstørrelse; den kliniske PET-opløsning er ≈ #–# mm.
 6eb5b73c	Patientjournal
+6ecb14dc	Barrieren slipper # % igennem
 6ef0f4ce	FLAIR: undertryk CSF, mens læsionen forbliver lys
+6f2e642a	Ækvivalent og effektiv dosis
+6f3ba7bf	mA og tid bestemmer kun antallet af elektroner og dermed fotoner; energifordelingen bestemmes af kVp og filtrering.
 6f441d09	Hvad dannes, når positronen fra FDG annihilerer, og hvordan detekterer PET det?
 6f7079de	Teleterapi, Gamma Knife
+6f78682d	DAP = K · A   (uafhængig af afstanden)
+6fa2096f	Ved det vægtede gennemsnit af PMT-signalerne (Anger-logik)
 6fb2dc0f	 projektioner, 
+6fca1b0f	I TMR er afstanden kilde–punkt fast, så den indeholder ingen afstandskvadratlov-effekt
+6fe34f38	Protoner gennemgår pardannelse for enden af rækkevidden
+6ff5a02f	<b>Amning:</b> ved FDG og de fleste Tc-#m-præparater kræves ingen pause eller kun nogle få timer; ved I-# skal amningen ophøre.
 70491c5e	Sidste menstruation: for # uger siden (uregelmæssig)
 705dbc6f	Ingen prævention
 70689f04	Scanlængde
@@ -586,6 +925,8 @@
 709e0d80	Blybeholder
 70c9432b	Svækkelse, HVL og strålehærdning
 70e6ad0e	Radioaktive kerner
+7125219e	Resonans og RF-pulsen
+71a8aa21	σ ~ #/√mAs; et smallere vindue gør blot støjen mere synlig.
 71c67fc5	dreng
 720bb6d5	Isocenter
 72103ea7	Børnethorax: intet gitter, ekstra Cu-filtrering, høj kVp / lav mAs, stram kollimering, kort eksponering (bevægelse).
@@ -593,42 +934,63 @@
 72133fde	#. Kontrast
 721471f0	ELUÉR
 72467d86	Stående oversigtsbillede af abdomen
+724dce60	Elektroner
 729ea19a	+ Placér afskærmning
 72a6030d	Eksponentialloven gælder kun i smal geometri, hvor spredte fotoner ikke når detektoren. I et bredt strålebundt bidrager spredte fotoner også, og transmissionen bliver B·e^(−μx) med build-up-faktor B ≥ #. Ignoreres B i afskærmningsberegninger, bliver afskærmningen underdimensioneret.
 72b715d3	Hasan: "Hvordan når I noget, der ligger så dybt?"
+72c5fc11	Gray (Gy)
 72daab8b	Sene / ledbånd
 72f6d05f	Midten af k-rummet bærer billedkontrasten; periferien bærer de fine detaljer (kanter).
 72f991f9	Lineær svækkelseskoefficient μ
 72fb1a0a	Spektrum
 72fc2e5a	Overset: 
+730dd2e0	<b>RF (B₁):</b> vævsopvarmning, begrænset af SAR (W/kg): helkrop ≤ # W/kg og hoved ≤ # W/kg i normal tilstand (IEC ###). Ledende kabler og løkker kan give forbrændinger.
 732be2f9	Billedvejledning (IGRT)
 7342c4c8	Give kontrast; ved eGFR ≥ # og uden akut nyreskade pauseres metformin ikke
 73715b63	Tilhørende klinisk case  →
 738f6b5a	En #°-puls vipper M ned i xy-planet. Spinnene vifter ud, fordi de præcesserer med forskellig hastighed (T2*). En #°-puls vender dem, og der dannes et ekko.
 7393264d	Udforsk alle emner
+739d2c89	Hvad er protonernes vigtigste dosimetriske fordel frem for fotoner?
 73a87380	Teori og formler
 73bf80aa	Fotoner lige over K-kanten kan slå K-elektroner ud, så den fotoelektriske absorption springer op. Derfor forstærker CT-protokoller med lav kV jodkontrasten.
 73d792b6	Scan med få projektioner (≤ #): se stribeartefakterne
 73e93954	Ultralyd; MR uden kontrast, hvis den ikke er konklusiv
 74148df9	Den kommer fra kryogenet; harmløs
+74fd5f82	Valg af vægtning med TR og TE
+754a8c40	Tilfældige fejl udtværer dosis over fraktionerne (de midles ud), mens en systematisk fejl flytter hele fordelingen væk fra målet.
+755393eb	CTDIvol er ikke patientdosis
 7564d845	Ja, det er farligt; lad os undgå det, hvis muligt.
 75793978	Mehmets mave måler # × # cm (gennemsnitlig voksen ≈ # × #). For vand μ(# keV) ≈ # cm⁻¹. Hvor meget reducerer # cm ekstra væv de fotoner, der når detektoren?
 758e615c	Beregner… (#×# pixels strålesporing)
+759b11e4	Ḣ = Γ · A / d²        Ḣ_afskærmet = Ḣ · B,   B ≈ #^(−x/HVL)
+75a71666	F-# FDG
 75a97a00	Ny eksamen
 75afa3bb	Lav diagnostisk værdi ved blindtarmsbetændelse; unødvendig dosis.
 75d4759c	Smerter i venstre nedre kvadrant, feber
+75d5140c	DNA er hovedmålet ved celledrab. Ved stråling med lav LET er omkring to tredjedele af skaden indirekte: OH·-radikaler fra radiolyse af vand angriber DNA. Enkeltstrengsbrud repareres let; dobbeltstrengsbrud (DSB) er den vigtigste letale læsion.
 760d8617	Et vakuumhætteglas i en blypotte suger saltvandet og Tc-#m gennem søjlen. Gennembruddet af Mo-# skal forblive < # kBq Mo pr. MBq Tc.
+7620b894	Andre dosimetre
 763fa74b	Begge er fotoner, og deres energiområder overlapper (γ på # keV fra Tc-#m har lavere energi end røntgenstråling fra et rør på # kVp). Kun oprindelsen er forskellig.
 7647a3ac	Bestået — læs feedbacken grundigt.
+765479aa	Hvad dimensioneres en sekundærbarriere imod?
 765e2544	Zone IV-reglen
+7686236b	Hvert TVL giver en faktor #: #³ = #, omtrent # HVL.
+76a60042	Under graviditet foretrækkes MR, fordi den ikke indebærer ioniserende stråling, men gadolinium passerer placenta og gives kun, når det er nødvendigt. Hos patienter med eGFR < # kræver gadolinium forsigtighed på grund af risikoen for nefrogen systemisk fibrose (NSF).
 76dd194b	Hjerte middel < # Gy
+7719e496	<b>Elektronindfangning og isomerovergang:</b> Tc-#m er en metastabil tilstand, der udsender en γ på # keV — en ideel billeddannelsesenergi med lidt partikelstråling.
 77384e8c	Misvisende. LNT-modellen antager en meget lille, men ikke nul risiko; brug et ærligt og beroligende sprog.
 774a6613	Et smalt monoenergetisk fotonstrålebundt, der passerer en tykkelse x, har en konstant vekselvirkningssandsynlighed pr. vejlængde. Resultatet er et eksponentielt fald:
 777502bf	Hudmarkeringer viser ikke indre bevægelse; høj risiko for at ramme ved siden af målet.
+777ecec1	# % / # mm
+7791bab3	≈ # mSv
+77e56096	Hvorfor filtrerer man tilbageprojektionen?
 77eb0235	Point
+77f31cee	<b>Effektiv dosis:</b> DAP × konverteringskoefficient — fx thorax PA ≈ # mSv, lændecolumna ≈ # mSv.
 78197beb	ESAK # µGy > DRL: sænk dosis (højere kVp + Cu-filter, fjern rasteret, lavere mAs).
 7835c649	Elektronerne optager K-, L-, M-… skallerne. Bindingsenergierne for de inderste skaller stiger stejlt med Z: wolframs K-skal ligger ved # keV, jods ved # keV og oxygenet i vand kun ved # keV.
 785a8151	Pitch
+78a45025	Sievert (Sv)
+78b30f07	Deterministiske og stokastiske effekter
 78cd4207	Eluathætteglas
 792a98a9	• <b>Strålehærdning:</b> lave energier absorberes først; langs lange veje falder det effektive μ → »cupping« i midten og mørke striber mellem tætte knogler. Vandkalibrering (BHC) retter cupping, men ikke knoglestriberne.\n• <b>Metal:</b> næsten alle fotoner absorberes (photon starvation) → lyse/mørke radiære striber.\n• <b>Få projektioner:</b> utilstrækkelig vinkelsampling → stribe- (aliasing)artefakter.\n• <b>Støj:</b> σ ~ #/√(mAs); den grundlæggende afvejning mellem dosis og støj.
 793c090c	Lavdosis-CT-protokol
@@ -637,28 +999,45 @@
 79525074	Kun midten
 79a399e0	Dosis
 79ae5968	Tidshastighed (halveringstider / # s)
+7a19375c	Hvor er tiltrækningen på en ferromagnetisk genstand størst ved MR?
+7a3977c5	Fuldstændig beskyttelse
+7a4568f0	Ved lav energi er μ meget følsom over for forskelle i Z og densitet; dosis og kompression afvejes mod denne kontrast.
+7a564ff8	Spredte fotoner samles i toppen
 7a696fee	Svarer til naturlig baggrund
 7a9ee904	Tryk på gulvet → gå (tastatur: WASD). Hold øje med målerens dosishastighed. Tid, afstand og afskærmning nedsætter dosis.
+7aa5a762	Gradientekkosekvenser bruger ingen #°-puls, så de er hurtige, men T2*-vægtede (blødning, forkalkning). Små flipvinkler tillader kort TR med maksimalt signal ved Ernst-vinklen: cos α_E = e^(−TR/T1). Gadoliniumkontrastmidler er paramagnetiske: de forkorter T1 og gør opladende væv lyst på T1-vægtede billeder.
 7ab00d8b	Aksial dosisfordeling
+7ad68a4e	<b>Månedligt / årligt:</b> PDD og profiler, MLC'ens positionsnøjagtighed, isocenter, billedsystemer; årlig referencedosimetri (TRS-#).
 7b06fb7d	SE-signal mod TE
 7b0ee643	Minimumsdosis i læsionen (#–# cm)
+7b16b51b	En effekt, hvis sandsynlighed stiger med dosis, og som antages at være uden tærskel (kræft, arvelige effekter).
 7b3a2d83	Alfapartikel
 7b4e65c1	Rektum-EQD2 (α/β #)
 7b804b26	Fysiske effekter
+7bd77338	Uafhængigt af aktiviteten
 7bdb6a90	vandret: detektor s  •  lodret: vinkel θ (#→#°)
 7be2d594	Fokus–billedafstand (SID)
+7bea5b23	Røret bør sidde under bordet: personalet får det meste af sin dosis fra patientens tilbagespredning på rørsiden.
 7bef2f61	Dosiskort (x–dybde): dosis i forhold til maksimum, %
 7bf995f5	Målepunkt (tryk)
 7c162dc9	Spektrum • Svækkelse • Spredning • Dosis
+7c312941	Elektronerne fra kanonen accelereres til MeV-energier i en bølgeleder, der fødes med mikrobølger i S-båndet (~# GHz); en afbøjningsmagnet styrer dem mod targetet. I fotontilstand danner et target med højt Z bremsestråling, og et udjævningsfilter gør strålen jævn; i elektrontilstand trækkes targetet væk, og en spredningsfolie breder den smalle elektronstråle ud.
 7c5092be	Ioniserende stråling har nok energi (≥ # eV) til at frigøre elektroner fra atomer. Den øverste del af UV-området, røntgen- og γ-stråling og alle hurtige ladede partikler er ioniserende; radiobølger og synligt lys er ikke.
+7c547340	γ-fotoner på # keV
 7c72fb1b	Ernst-vinkel (HS)
 7c7da947	Effektiv dosis
 7c941c55	R8# (≈ terapeutisk dybde)
+7cae44a6	≈ # mGy
+7d0cb4a8	Ved brachyterapi placeres kilden i eller tæt ved tumoren. Dosis falder stejlt med afstanden (afstandskvadratloven), hvilket giver høj måldosis og skåner det omgivende væv. HDR bruger Ir-# (T½ # dage, middelenergi ~# keV, ~# GBq) i en fjernstyret afterloader; permanente LDR-seeds bruger I-# (T½ # dage, #–# keV) eller Pd-#.
+7d17d3db	Position fra gradienter
+7d1ab5c2	PA giver mere spredning
 7d7615e3	Prostatakræft — ekstern strålebehandling
 7d96597f	Anamnese
 7d972bea	Ledsaget af sin mor; første billeddiagnostiske undersøgelse
+7db298cb	Hvor bør personalet stå under gennemlysning (C-bue vandret)?
 7dd6f549	Titanimplantat
 7de1562e	 år, 
+7dee6ced	HVL øges (strålen hærdes)
 7e0e48e1	cT2b N0 M0
 7e0faf28	Tiltrækningen er øjeblikkelig; alvorlige skader og dødsfald er rapporteret.
 7e323ea2	Strøm og data overføres uden kabler, så røret kan rotere kontinuerligt, hvilket gør spiralscanning mulig.
@@ -666,48 +1045,71 @@
 7e5ca532	Øjenlinse
 7e64d602	Røret og detektoren roterer om patienten. For hver vinkel θ og detektorposition s er den målte svækkelse et linjeintegral af μ(x,y). Mængden af alle projektioner er <b>sinogrammet</b>: et punktobjekt tegner en sinuskurve.
 7e6646b7	Abdominal-CT hos en stor patient
+7e78e10c	(#/#)² = #/#; svækkelse og spredning i væv korrigeres med g(r), men afstandskvadratloven dominerer.
 7e86bdae	Pointgivning
 7e8c6db6	HVL og TVL
+7e958f84	CT-støj stammer fra kvantestatistik. Standardafvigelsen (σ) på HU i en ROI skalerer som den inverse kvadratrod af mAs og snittykkelse. Jo tykkere patienten er, desto mere falder antallet af fotoner ved detektoren eksponentielt, og desto hurtigere stiger støjen.
 7ec52420	Radioligandbehandling (PSMA, DOTATATE)
+7f80d327	Kortet over alle projektioner efter vinkel og detektorposition.
 7f8ed8ff	Heliumpumpen summer svagt, men bankelydene kommer fra gradienterne.
 7fa4aa8f	Læsion # cm fra venstre øje
 7fa59d83	vandret: radialt s • lodret: vinkel φ
 7fa5ff5c	Fuld
 7fb12b63	Detektorbue
+7fbf730c	Koincidensen mellem de to fotoner definerer allerede hændelsens linje (LOR)
+7fcbce60	K = Ψ · (μ_tr/ρ)        (Ψ: energifluens)
+7ff4afcd	Effektiv dosis er en risikostørrelse, der er midlet over befolkningen. Den bruges til at sammenligne procedurer og optimere strålebeskyttelsen, ikke til at beregne en enkelt patients risiko; det kræver organdoser.
+803de498	U repræsenterer fordelingen af stråleretninger og T opholdet; for sekundærbarrierer bruges U = #.
+804ba45f	Hvordan skal fotonantallet ændres for at fordoble SNR?
+8057daf6	Gd³⁺'s uparrede elektroner fremskynder relaksationen, så opladningen ses lys på T1-vægtede billeder.
 8077377d	Ugentligt portalbillede
 807b9275	Korrekt: tiltrækningskraften ~ B·dB/dz og er størst ved tunnelens indgang. Flyt om nødvendigt patienten ud i zone III til behandling.
 80cc6fb4	En positron annihilerer med en elektron til to modsatrettede fotoner på # keV. Fanger to modstående detektorer dem inden for få ns, registreres en koincidens (responslinje, LOR).
+80d30c6b	CTDIw = ⅓·CTDI_center + #/#·CTDI_periferi     CTDIvol = CTDIw / pitch     DLP = CTDIvol · L     E ≈ k · DLP
 80d6fd98	α/β senreagerende væv
 80f76b66	Spørge til graviditet og bestille en β-hCG-test
 80fd59df	Partikel
 811c30cd	Antal projektioner (#°)
+817e06f4	Kontrolleret område
 8190561a	Smerter i højre nedre kvadrant, kvalme (# t)
+8193cecf	Spinekkosignal
 819c9d03	Mo-#/Tc-#m-generator
+81aa5ec6	<b>Bevægelse:</b> striber og spøgelsesbilleder, som mindskes med korte rotationstider og vejrtrækningsstop.
 81ad7d36	Brug en lang tang (kilden # cm fra kroppen)
 81b60676	Ant
+81d7d87b	Fotoner, der comptonspredes i patienten, når detektoren fra tilfældige retninger, sænker kontrasten og giver støj. I tykke kropsdele kan forholdet spredt/primær stråling nå #–#. Måder at mindske spredningen på:
 8202e478	Afskærmning
 8210c814	Aksialt hjernesnit
+8231915e	SPECT
 826d7453	Elektron
+82b88998	En skærm kan kun vise ~# gråtoner, så man vælger vindue (W) og niveau (L): typisk W # / L # til bløddele, W # / L −# til lunge og W # / L # til knogle.
 82ce6c55	Brusk
 82e2dbbd	Region og projektion
 82e733b7	<b>Spredning</b> nedsætter kontrasten: forholdet spredt/primær vokser med feltstørrelse og patienttykkelse. Et raster lader ~#% af den primære og ~#% af den spredte stråling passere. Kollimering nedsætter både spredning og dosis.
 82fa204f	Et stort felt øger spredt stråling og DAP; den egentlige beskyttelse er et smalt felt.
+82fdbac3	Spektret
 832d529e	MR af knæ og MR-sikkerhed
 832f8681	Lunge
 835889e9	Nyre
 836bc242	#–# MV VMAT giver tilstrækkelig dosis til det dybe mål fra mange vinkler; huden skånes, og neutronerne er ubetydelige.
 83754be6	Din bedste: 
+8385b274	Dosimetri og strålebiologi
 83d4e55a	# kV hos en stor patient giver striber af fotonmangel og for meget støj.
 84737e5d	Aflæsninger
+84cf07c1	Der er slet ingen risiko
 85124f40	Støj # HU: diagnostisk.
 8516948a	Formler
 851ad665	Gantryvinkel
+851e9f59	Små fraktioner skåner sent reagerende væv, fordi β-leddet bliver mindre. Men hvis tumorens α/β er lavere end det sene vævs (prostata), favoriserer hypofraktionering effekten på tumoren — grunden til at forsøgene CHHiP (# Gy/#) og PACE-B (# Gy/#) lykkedes.
 852fc0ce	Zeynep: "Jeg har malket ud på forhånd. Min mand kan give hende flaske."
 8567c350	Åbn gennemgangen
 85e4b82f	OK
+8616bbc4	Last image hold, kollimering og at flytte detektoren tæt på patienten nedsætter dosis.
 86260ec0	Sådan spiller du case-tilstanden
+863c496a	Prostata er hypoksisk
 8647f589	DI # → undereksponering: kvantestøj, ikke diagnostisk.
 869cfa26	EQD2 sent væv
+86aa8c33	HVL mindskes
 86c813a5	Tællinger
 86e1dbb8	To fotoner på # keV ~#° fra hinanden, registreret af to detektorer inden for et koincidensvindue på få ns → responslinje (LOR)
 87025a9c	Nuklearmedicin: F-# FDG-PET/CT, stadieinddeling (Dr. Er)
@@ -717,164 +1119,268 @@
 8762cac3	Protonenergi
 876b129d	Trin 
 8786af42	✓ Fremragende
+87dbef57	<b>Reparation:</b> rask væv reparerer subletale skader mellem fraktionerne (≥ # t imellem).
+87dc07cb	Deres huddosis er nul
 87e69378	Spredte
+87ff7f51	<b>Reoxygenering:</b> hypoksiske tumorceller iltes mellem fraktionerne.
 882ac676	Dosis til spædbarnet
+88444e3c	Koincidensdetektion
 88674cd6	#) Vælg et emne til venstre; emnerne går fra grundlaget til klinikken. #) Læs lektionen; spring ikke NØGLEPUNKT-boksene og de gennemregnede eksempler over. #) Flyt figurernes skydere for at se, hvad formlerne siger. #) Tag quizzen i slutningen af lektionen: alt rigtigt markerer lektionen med ★. #) Brug »Prøv det i laboratoriet« og »Tilhørende klinisk case« til at anvende det, du har lært.
 886d0cbf	RF-pulserne laver støjen; ingen forholdsregler nødvendige
 888cc345	Ved # m (afskærmet)
+88905e3e	p = ln(I₀/I) = ∫μ dl: én måling giver den samlede svækkelse langs vejen, så der skal mange vinkler til for at genskabe snittet.
+889fa24c	Hvordan fremstilles F-#?
+88faff94	Build-up-faktoren falder
+8904ba00	Kumuleret aktivitet Ã
+891d411a	Lineær energioverførsel (LET) er den energi, der afsættes pr. vejlængde. Fotoner og elektroner har lav LET (~#–# keV/µm); α-partikler og langsomme tunge ioner har høj LET (~# keV/µm) og efterlader tætte, svært reparerbare DNA-skader — deraf strålingsvægtfaktoren # for α.
 89235979	Når moderkernen (Mo-#) lever længere end datterkernen (Tc-#m), går A₂/A₁ mod en konstant: transient ligevægt. Lever moderkernen meget længere (fx Sr-#/Y-#), opstår sekulær ligevægt: A₂ = A₁.
+89261fb7	Hvordan bestemmes hændelsens position i et gammakamera?
+892a4e53	Generator (transient ligevægt)
 892ef903	En enkelt foton på # keV
+89598673	Da SNR ~ √N, kræver en fordoblet SNR #× så mange fotoner — og #× så stor dosis.
+896dd872	Deterministisk effekt
 897fe13f	Kontrast og nyrer
 89d558f4	En flerkanals modtagerspole tæt på vævet øger SNR og muliggør parallel billeddannelse.
 89f4c462	CNR læsion/menisk #: læsionen ses ikke — der kræves lang TR (PD/T2).
 8a2fa41a	Aktivitet, tid og optag
 8a355b34	PA, stående, SID # cm
 8a69358c	tid 
+8a794070	Gradientspoler tilføjer et lille felt, der varierer lineært med positionen, så Larmor-frekvensen bliver positionsafhængig:
+8a79948a	Persondosimetri og overvågning
 8aa94879	Retningslinjerne (ICRP #, IAEA) kræver ikke amningspause ved FDG; det anbefales at begrænse tæt kontakt i nogle timer og bruge udmalket mælk.
+8ae221d1	Ugedosis i et punkt bag en barriere må ikke overstige designmålet P: # mSv/uge (# mSv/år) for kontrollerede områder og # mSv/uge (# mSv/år) for ikke-kontrollerede områder. Den nødvendige transmission følger af arbejdsbelastningen W, brugsfaktoren U, opholdsfaktoren T og afstanden d:
 8b0d147c	Knoglekontrast (# cm i # cm væv)
 8b0eb3c2	Ægte
+8b2fcd4a	Røret bliver mindre varmt ved # cm
 8b5a89a7	Hvad dominerer hvor?
 8b68a871	Mulig graviditet og blindtarmsbetændelse
+8bde112c	Inversion recovery og fedtundertrykkelse
 8c032c1a	Læringspunkter
 8c5db0a7	<b>Fotoelektrisk effekt:</b> fotonen absorberes fuldstændigt, og en elektron fra en indre skal slås ud. Sandsynligheden skalerer omtrent som Z³/E³.
 8c7d3087	Point: 
+8c83f65c	<b>PTV:</b> CTV/ITV + lejringsmargin; ordinationen gælder PTV.
 8c880991	Hvert svar har en forklaring og feedback.
 8ca7a950	En GM-tæller eller ionkammer, der viser dosishastigheden i µSv/h; bruges til kontaminationskontrol i det radioaktive laboratorium.
 8cde5d5c	Kollimator + ekstra filtrering
+8d1ed6ee	Den stiger med afstanden
 8d46a34c	tykkelse (cm)
 8d815095	Fotoners vekselvirkning med stof
 8d8cee46	Afstandskvadratloven
+8db1a663	Nettomagnetiseringen, og dermed SNR, øges
 8dbd5185	Tid # s — patienten kan ligge stille.
 8de41236	Pacemaker
 8e5380f5	Emir kan stå og samarbejder. Hvilken teknik vælger du?
 8e925209	Radontransformation • FBP • Hounsfield • Artefakter
 8ea57a5e	R9# (dybde i patienten)
+8f11c218	η ≈ #×#⁻⁹ · Z · V   (W, # kV: ≈ # %)
 8f1b876c	Din bedste
 8f30fea5	Højde / vægt
+8f7ca05e	Stopkraften stiger omtrent som #/v², så den opbremsende partikel afsætter mere og mere energi
 8fb29e12	Vælg et emne og en lektion til venstre. Leg med figurernes skydere, og test dig selv i slutningen af hver lektion.
 8fd05dbc	Behandling af skjoldbruskkirtelkræft og hyperthyreose
+8fd304c9	CTDIw = #/#·CTDI_center + #/#·CTDI_periferi        CTDIvol = CTDIw / pitch
+8fd58c41	Primærbarriere for en #-MV-accelerator: W = # Gy/uge (i # m), U = #, T = # (kontor), P = # mSv/uge = #×#⁻⁵ Sv (ikke-kontrolleret), d = # m fra isocentret. B = #×#⁻⁵ × # / (# × # × #) ≈ #×#⁻⁶ → n = # TVL. For beton TVL₁ = # cm, TVL_e = # cm (NCRP #): x ≈ # + # × # ≈ # cm beton.
 8fed86d7	Fint, hvis det går hurtigt
 8ff1e887	Tidshastighed
 9017c010	+ Tilføj stråle
+9018cfae	Hvordan skalerer raten af tilfældige koincidenser med aktiviteten?
+901f2a3e	Folien omdanner elektroner til fotoner
+902aac5f	M = SID/SOD og U_g ~ OID/SOD: med lille OID og stor SID ses hjertet næsten i virkelig størrelse og skarpt.
 90571e3f	 quizspørgsmål
+905ee9cb	Kerma og absorberet dosis
 907a4bcf	Patientdosis (effektiv)
+907fefb6	CTDIvol
+908240bf	SUV = C_væv [kBq/mL] / (A_injiceret [kBq] / vægt [g])
+90c0a335	Kollimator
 90d642b7	Tumorens α/β ≈ # Gy, sene hud-/brusk-effekter α/β ≈ # Gy. Hvad passer til en #-årig, der har svært ved at komme hver dag?
 90da7a12	Røntgen
+90dd40c0	I et større felt når flere spredte fotoner centralaksen, hvilket øger PDD, især i dybden.
 90e8ad1a	Væv
 91078d77	Rørspektrum, filtrering, HVL, spredning, detektor og patientdosis.
 91258979	Radiofarmakon
+915b2438	Et raster forbedrer kontrasten — men hvad øger det ellers?
 91882d73	CSDA-rækkevidde (Bethe / NIST)
+9192b5dc	Fotoner på # keV kan ikke trænge gennem bly
+91a42068	Fra elektroner til fotoner
 91a7732a	Hurtigt skiftede gradientstrømme påvirkes af Lorentzkræfter i B₀; støjen kan overstige # dB → ørepropper / høretelefoner er obligatoriske
 91b76332	Beroligende, men upræcist: den stokastiske risiko er meget lille, ikke nul.
+9238d6ff	Strålingsarbejdere
 926d87c3	Fanger systematiske lejringsfejl, men ikke den daglige organbevægelse → større marginer og rektaldosis.
 928ef299	kvinde
+9293a3fa	<b>Partielt volumen:</b> i tykke snit midles forskellige væv inden for én voxel.
 92fe3fad	Kun undervisningsindhold — ikke til kliniske beslutninger.
 9340f08a	Henfaldskonstant λ
+9364ced4	Positronen bevæger sig ~# mm i væv og annihileres med en elektron til to næsten modsatrettede fotoner på # keV. Hvis ringdetektorer (LYSO, BGO) fanger begge inden for et koincidensvindue på få nanosekunder, ligger hændelsen på responslinjen (LOR) mellem dem. Der kræves ingen kollimator, så følsomheden er langt højere end et gammakameras.
+93672c16	Alle detektorværdier ved én vinkel danner en projektion; ordnet efter vinkel og position over #°+viftevinkel danner de sinogrammet. Hvert punkt i snittet tegner en sinuskurve i sinogrammet.
+936f0729	M₀ ~ B₀, og SNR stiger omtrent med B₀, men SAR stiger som ~B₀², og T1-tiderne bliver længere.
+93755f1f	Signalet fra CSF (fri væske)
 93798b62	Generator
 93926697	Antropomorft fantom
+93c69625	Rørstrøm × tid; bestemmer lineært antallet af fotoner (og dosis).
 93fd33cf	Mx (signal)
 94397cd5	Potentiel fordoblingstid Tpot
 9441540c	DLP = CTDIvol × længde; beskriver den samlede bestråling, ikke organdosis.
+947997c0	Hvad er den årlige dosisgrænse for øjenlinsen for arbejdstagere (ICRP #)?
 948fe972	kV-røntgenkilde
 94a38054	Din beslutning
+94ab30dc	<b>Strålingsmålere:</b> ionkammer til doserate; GM- eller pancakeprobe til kontaminering.
 94cc8d3b	Spædbarnets dosis ≈ 
 94f37251	CTDIvol selv
 951e2e51	SE GENNEMGANGEN  →
 95a8c428	Mo-# (T½ # t) → # % → Tc-#m (T½ # t). Mo-# holdes fast på en aluminiumoxidsøjle; Tc-#m opbygges ved dets henfald og »elueres« med saltvand.
+95ac4fdd	"#%-reglen": at hæve kVp med # % fordobler omtrent eksponeringen ved detektoren, så mAs kan halveres. Patientdosis falder som regel, men det gør kontrasten også.
 95bce1b7	Luft
 95be3cc5	Bedste 
 95d6d65a	Laboratoriesystem (vis præcession)
+95f2bf9e	(γ,n)-tærsklerne for de fleste materialer ligger omkring #–# MeV, så stråler på #–# MV har en mærkbar neutronkontaminering.
 95f4d5de	Felt og øjenbeskyttelse
+95f8091a	Strålebeskyttelsesprincipper og dosisgrænser, tid–afstand–afskærmning, dimensionering af rumafskærmning, persondosimetri, graviditet, børn og risikokommunikation.
+962e3a8d	α/β-forholdet (Gy) er den dosis, hvor de to led er lige store: ≈ # Gy for tidligt reagerende væv og de fleste tumorer, ≈ # Gy for sent reagerende væv (rygmarv, rektum, hudfibrose). Prostata- (~# Gy) og brystkræft (~# Gy) har lavt α/β.
 963b7c8f	Hej! Gør maskinen ondt? Må min mor vente udenfor?
+963c7428	#–# gange
 966d8f4b	Emirs brystkasse er ≈ # cm tyk (voksen ≈ # cm). Indstil kVp, mAs, filter, raster og felt, og tryk derefter på EKSPONÉR. Mål: DI −#…# og ESAK ≤ # µGy.
+969a2726	Dosis falder brat efter braggtoppen; indgangsdosis er ikke nul, men lavere end for fotoner.
 96c251ec	Fourier-snitsætningen: den #D fouriertransformation af en projektion er et snit gennem den #D fouriertransformation af billedet. Derfor filtreres projektionerne først med |f|-rampen og tilbageprojiceres derefter. Ufiltreret tilbageprojektion giver #/r-sløring.
 97080889	Patientens diameter
 97197ddf	Undgå al kontakt i en uge
 971c410e	Radioaktivt henfald, Mo-#/Tc-#m-generator, PET-koincidenser og MLEM.
 9741e45e	Der er slet ingen risiko, nul stråling.
 97563b2a	Afskærmer gammastrålingen, mens hætteglasset opbevares eller bæres; få mm bly er nok til fotonerne på # keV fra Tc-#m.
+97667826	Overskuddet i den parallelle tilstand er lille (~# ppm ved # T), men det enorme antal protoner i en voxel giver en målbar nettomagnetisering M₀, der vokser med B₀ — grunden til at høje felter giver bedre signal-støj-forhold.
+9773e002	γ på # keV, T½ # h; den mest anvendte radionuklid.
+978d448a	Intern dosimetri og patientsikkerhed
 979c2167	Overfladedosis (hudbesparelse)
 97fc3c0a	Du er hospitalets medicinske fysiker. Hver patient er en case: læs journalen, træf dine beslutninger, og se resultater beregnet med ægte fysiske modeller. Efter hvert trin lærer du, hvorfor det var rigtigt eller forkert.
 981c2b72	kV-detektor
 98333fde	Beton
 9837047f	Læsion + ~# cm margin (≈ # cm blyudskæring); øjet uden for feltet, indvendigt øjenskjold om nødvendigt
+98532465	GRE:  S = PD·sinα·(# − E₁)/(# − cosα·E₁)·e^(−TE/T2*)      Ernst-vinkel: cos α_E = e^(−TR/T1)
 98582d5e	Indirekte ioniserende
 9867b7d1	Dosishastigheden falder med kvadratet på afstanden, Ḣ = Γ·A/d². Gulvfarverne viser denne dosishastighed; den hvide linje markerer # µSv/t.
+986c335e	Til sammenligning: den globale gennemsnitlige naturlige baggrundsstråling er ≈ # mSv/år (UNSCEAR). Et PA-røntgenbillede af thorax ≈ # mSv (~# dage), en CT af abdomen ≈ # mSv (~# år), en flyvning Istanbul–New York ≈ # mSv.
+9888d039	<b>Bevægelse og flow:</b> spøgelsesbilleder i faseretningen.
 9895bce3	EQD2 tumor
 98b07aa5	Nej — den maksimale elektronenergi (# keV) kan ikke ionisere K-skallen
 98f224a5	EKSPONÉR
 9920e564	Planscore
+992370e6	α-henfald
 993014d9	Vægt
 9945210a	Algoritme
 994bbd58	Regel: R ≈ #·E^#
 995324ac	Tid 
 995c9ab4	#. Dosimetri
 9970e954	PET: koincidenser og rekonstruktion
+9973e834	Tommelfingerregler for elektroner
 997b38dc	Størrelsestilpasset protokol
 99a15c5e	Effektiv dosis (ca.)
+99a61a5f	Gennemlysning og mammografi
 99a7a50a	FORTSÆT  →
 99f7bee7	Slæbering
 99fa0dc1	Tællestatistik A·t / (#·kg)
 9a125d51	Elektroner fra den opvarmede katode accelereres af kVp mod en roterende wolframanode. Kun ~# % af deres energi bliver til røntgenstråling (bremsestråling + karakteristisk); resten er varme.
 9a23c97b	FDG-PET/CT hos en ammende mor
 9a2b880f	Patienttykkelse / SSD
+9a548d26	pitch = #/# = #; ved samme mAs er CTDIvol #/# af værdien ved pitch #.
 9a73db9b	Sprog
+9a83f5a9	Procentvis dybdedosis
+9ab3d4c5	# µSv/h
 9b012adc	Afstand til kilden
+9b173448	"Dette røntgenbillede af brystkassen giver cirka # mSv — den stråling, vi får fra naturen på cirka # dage. Gevinsten ved at stille den rigtige diagnose af lungebetændelse er langt større end denne meget lille risiko."
+9b1a53e6	≈ # %
+9b243684	Det skal firdobles
+9c46f193	Hvert hul modtager fotoner fra en kegle, hvis fodaftryk vokser med afstanden, hvilket forringer opløsningen — derfor placeres detektoren tæt på patienten.
 9c4aa55c	Røntgenrør
 9c506f53	Snitniveau
 9c528492	NbTi-viklinger kølet med flydende helium til ~# K. B₀ (# / # T) er altid tændt: ferromagnetiske genstande bliver til projektiler.
 9c70fc8a	Fokuserede tynde blystrimler absorberer fotoner, der spredes i patienten. Kontrasten forbedres, men mAs skal øges for samme detektordosis (Bucky-faktor #–#).
 9c8081f1	Åbn laboratoriet
 9cabb538	Tid • Afstand • Afskærmning
+9cb890cd	Spinekkosignalet indeholder både T1- og T2-led:
+9ce536e5	For en CT på # mSv er den nominelle ekstra kræftrisiko ≈ # Sv × # / Sv ≈ # %, omkring # ud af # — lille ved siden af den livslange basisincidens af kræft på ~# %, men den kræver stadig berettigelse.
 9cf82695	Resultater
 9d145291	Fotoelektrisk effekt
+9d21a288	Rasteret absorberer også en del af primærstrålen, så mAs skal øges #–#× for det samme detektorsignal.
 9d2b5423	Beskriver scannerens output og ser bort fra patientens størrelse.
 9d3d585c	Modalitet for alle stråler
+9d49828f	Elektronerne selv er behandlingsstrålen; folien breder den smalle stråle ud til et bredt, jævnt felt
+9d598f66	Iltforstærkningsforholdet for røntgenstråling er ~#–#; for stråling med høj LET nærmer det sig #.
 9d6f6466	Et filter fjerner fortrinsvis lavenergetiske fotoner (<b>strålehærdning</b>), som kun ville øge huddosis. Mere filtrering hæver middelenergien og HVL og sænker ydelsen.
 9d70bd7a	DI = #·log₁₀(EI / EI_target): # ≈ # % mere, −# ≈ # % mindre, # ≈ #× detektordosis.
+9de25720	Brugsfaktor U
+9de4bb08	Brystets væv (fedt, fibroglandulært væv, tumor) adskiller sig meget lidt i svækkelse, derfor bruges lave energier, hvor den fotoelektriske effekt dominerer: #–# kVp med anode/filter Mo/Mo, Mo/Rh, W/Rh eller W/Ag. Kompression mindsker tykkelse, spredning, bevægelse og dosis. Mikroforkalkninger kræver et meget lille fokus (#–# mm).
 9e134627	Kliniske cases — # patienter venter
 9e1d18ea	#. Strålebiologi
+9e2b6eb5	PTV
 9e452222	Hvilken af disse er indirekte ioniserende?
 9e75940c	Aktivitet
 9e7b7a87	Tumor-EQD2 = n·d·(d + #)/(# + #) = # Gy — højere end nødvendigt.
+9e851bcc	Strålebehandlingsfysik
 9e8abbb2	Arbejdstagerens måler viser omgivelsesdosisækvivalenthastigheden H*(#), hvor personen står; akkumuleret dosis = dosishastighed × tid.
 9e995ba1	Fraktionering (LQ-model)
+9eb1083f	I kontrolrummet
 9ebe06d9	Morgenmad for # timer siden
+9f012d98	SAR falder
 9f24f2f7	Kontraststoffer udnytter denne fysik: jods K-kant ligger ved # keV og gadoliniums ved # keV. Absorptionen springer op, når fotonenergien ligger lige over K-kanten.
+9f323307	Scantid T = TR × N_fase × NEX / ETL
 9f3f7105	Rekonstruerer…
 9faeab39	Bevarelse af impuls kræver to fotoner.
 9fc55136	Signal mod TE (T2-henfald)
+9fc5a477	Cellen består mest af vand; OH·-radikaler fra radiolysen forårsager omkring to tredjedele af skaden, og ilten gør den permanent.
+9fed9d91	Formen er den samme; antallet af fotoner fordobles ved hver energi
 9ffc9a24	Mål HU: tryk på lunge (< −#), fedt (−#…−#) og knogle (> #)
 a049bc94	T1- / T2- / PD-kontrast
+a049c691	Billedet forstørres
+a07e0be8	Tc-#m MDP
+a0899a7e	Firdoble mAs
+a0a42eb1	Stokastisk effekt
+a0afe4ef	CTDIw = #/#·CTDI_center + #/#·CTDI_periferi     CTDIvol = CTDIw / pitch
 a0cf38d2	Passende optagstid: standard tumor/baggrund-forhold (sammenlignelige SUV'er).
 a12d8b93	Atomer, kerner og stråling
 a13c66b3	Effektiv dosis ≈ # × 
+a147ccfe	Hvad undertrykker en FLAIR-sekvens?
 a14e7f7e	Jodkontrast (hjerte/aorta)
+a15a9e57	Daglig QC: homogenitet (flood) og energitop; ugentligt opløsning/linearitet.
 a15fa5b0	Sampling
+a1691857	Leddet #/v² i Bethes formel: når hastigheden falder, vokser energitabet pr. vejlængde og giver en skarp top for enden af rækkevidden.
 a1793be6	Knogle / luft
 a17f6a53	# tilfældige spørgsmål fra alle emner — god forberedelse til kandidatsamtaler og eksamener.
 a1be3d2c	Lateral (LAT)
 a1d821ab	#. Artefakter
+a2059fd4	Dephasering fra statiske feltinhomogeniteter (T2*-effekten)
 a219bf8b	Venteværelse
 a22bd65a	protoner
 a267e784	Effektiv dosis ≈ # × # = # mSv (ICRP #).
 a26d32ed	Mz-genopretning (TI)
+a27c2818	Den ændres ikke
 a28c2366	Elektroner accelereret til MeV i bølgelederen bøjes mod et target (fotoner) eller gennem en spredningsfolie (elektroner). Udjævningsfiltret og monitorkamrene (MU) sidder også her.
+a2b24ff7	Hos kvinder i den fødedygtige alder spørges der først om graviditet, hvis bækkenet er i primærstrålen, eller hvis der skal gives et radionuklid, om nødvendigt med en β-hCG-test. Fosterdoser fra diagnostiske undersøgelser er for det meste < # mGy; under ~# mGy forventes ingen deterministiske effekter, og abort kan ikke begrundes medicinsk (ICRP #). Den ekstra risiko for kræft i barndommen er ≈ # % pr. # mGy (baggrundsrisiko ≈ #–# %).
+a2b54d61	De rå MR-datas repræsentation i rumlige frekvenser; billedet er deres Fourier-transformation.
 a2c330b1	Se, at en elektronstråles R5# følger reglen E/#
 a2eb2f51	Radioaktivt henfald (Monte Carlo)
 a2ed22c4	effektiv diameter D_eff (cm)
 a30f0337	Elektron-PDD: overfladedosis stiger med energien (# MeV ≈ # %, # MeV ≈ # %); bolus øger overfladedosis og forkorter rækkevidden.
+a331c4a6	R9# ≈ E/# → E ≈ # × # ≈ # MeV; # MeV ville give unødigt dyb dosis.
+a340d8fe	Den falder til #/# af værdien
+a370731d	CT-principper: projektioner og sinogram
+a3729e56	Projektioner og sinogram, filtreret tilbageprojektion og iterativ rekonstruktion, Hounsfield-enheder, billedkvalitet og artefakter, CTDI/DLP/SSDE.
 a37bf952	Fremragende — en ægte medicinsk fysiker!
 a408a7ff	Kvinder i den fødedygtige alder med bækkenet i strålefeltet: udeluk først graviditet (β-hCG ved behov).
 a431924a	Tag kilden
+a45ef663	Kerma
 a475164f	Bly
 a4843b38	Knogle (# cm) # % — unødigt høj: risiko for osteoradionekrose. Vælg en lavere energi.
+a49d211b	Deterministiske effekter (vævsreaktioner) har en tærskel, og sværhedsgraden stiger med dosis. Eksempler: forbigående hudrødme ~# Gy, midlertidigt hårtab ~# Gy, linseuklarhed/katarakt ~# Gy (ICRP #). Derfor overvåges huddosis ved lange gennemlysningsvejledte indgreb.
 a4a2847a	Kort TR + kort TE → T1-vægtet; lang TR + lang TE → T2-vægtet; lang TR + kort TE → protontæthed.
 a4be5f34	Isotop
 a4eeda8f	Læsion
+a50bb8ca	Elektrondosis falder hurtigt ud over en vis dybde, hvilket er ideelt til overfladiske mål. Tommelfingerregler (E i MeV, dybde i cm): R9# ≈ E/# (behandlingsdybde), R8# ≈ E/#, praktisk rækkevidde Rp ≈ E/#. Overfladedosis er høj (#–# %) og stiger med energien; bolus øger den yderligere og forkorter rækkevidden i patienten.
 a50be870	Patientleje
 a51067fd	Henfald
+a5206542	# h ≈ # halveringstider (T½ = # h): # × (#/#)² = # MBq.
+a56385b1	Specifik absorptionsrate: hvor hurtigt RF-energi omdannes til varme i vævet (W/kg).
 a5916fb6	Case afsluttet — 
+a59db3b2	Radioaktivt henfald, fremstilling af radionuklider og generatorer, gammakamera og SPECT, PET, intern dosimetri og patientsikkerhed.
+a5a30ba8	Ilt "fikserer" frie radikal-skader, så hypoksiske celler er #–# gange mere resistente (iltforstærkningsforhold, OER). Tumorers hypoksiske kerne er derfor et behandlingsproblem.
 a5a57f6f	I billeddannelse kommer kontrasten hovedsageligt fra fotoeffekten, fordi Z³-afhængigheden tydeligt adskiller knogle (Ca, Z = #) fra bløddele (effektivt Z ≈ #). Compton er den vigtigste kilde til spredt stråling, som mindsker kontrasten.
 a5d46b38	DLP (# cm scanning)
 a5ee64bb	Midlinger (NEX)
@@ -884,44 +1390,74 @@ a60a634d	Spædbarnsdosis ≈ # µSv (afstandskvadratloven: dosishastigheden på 
 a6310194	Rådgivning
 a650d3f5	INTERAKTIV FIGUR
 a66f47bd	Blytykkelse
+a675b402	<b>End-to-end-tests:</b> verificerer hele kæden fra CT-simulering til behandling med et antropomorft fantom.
+a6b773b5	Hvad ophæver et spinekko?
 a6e53476	RF-kropsspole
 a6f33ef9	Rigtigt: en sammenligning i tal (naturlig baggrund ≈ # mSv/år ≈ # µSv/dag), med berettigelse og ALARA forklaret sammen.
 a704e2e8	Klein–Nishina-tværsnittet bestemmer comptonspredningsvinklen og rekylelektronens energi. Monte Carlo-simuleringen følger hver foton og elektron; dosis konvergerer med statistisk usikkerhed σ ~ #/√N.
 a72ca2ae	Tilføj en biologisk halveringstid, og se den effektive halveringstid (I-#)
 a77fb204	Når en elektron i en indre skal fjernes, udfylder en ydre elektron hullet, og forskellen udsendes som karakteristisk røntgenstråling eller som en Auger-elektron. Karakteristiske energier er grundstofspecifikke; wolframs Kα-linje i et røntgenrør ligger ved ≈ # keV.
 a7ae7cae	# MeV
+a7b12571	Abdominal scanning: CTDIvol # mGy over # cm. DLP = # mGy·cm, E ≈ # × # ≈ # mSv — omkring # års naturlig baggrundsstråling.
+a7fc4636	Hvis midten af et vandfantom ser mørkere ud end kanten, hvad er så årsagen?
+a81646ff	Energivinduet (# keV ± # % for Tc-#m) afviser de fleste spredte fotoner.
 a85562cb	Graviditetsscreening sprunget over: fosteret kan være blevet bestrålet uden nogens vidende.
+a85680c5	#/# (# %)
 a861d965	Rekonstruér
 a86b43b2	Bowtie-filter + kollimator
+a8721f49	Organdoser uden for feltet er i forvejen meget små; afskærmning i feltet forringer billedet og får eksponeringsautomatikken til at øge dosis.
 a87f9edd	Hver linje er en koincidens (LOR): grøn = ægte, gul = spredt, rød = tilfældig. Saml nok tællinger, og vælg så »Rekonstruér«.
 a8b4a774	SSDE — CTDIvol korrigeret for den effektive diameter
+a8ca95fa	≤ # %
+a8efac85	<b>Optimering (ALARA):</b> doser holdes så lave, som det med rimelighed er muligt; for patienter betyder det at sænke dosis og samtidig bevare den diagnostiske kvalitet (DRL er et værktøj).
 a93ad5ad	støj σ (HU)
+a949da20	Rørets virkningsgrad
 a97badd0	Kør din første scanning, og se sinogrammet fyldes
 a97d3fea	Effektiv (monoenergetisk) energi
 a9887e52	Læringscenter
 a99ef883	Beregner…
+a9ec004a	pitch = bordfremføring pr. rotation ÷ samlet kollimation
 a9f0a4e6	Point
 a9f3146e	Vand / knogle / bly
+aa119389	ESAK
+aa1209da	Omtrent hvad er den effektive dosis ved en CT af thorax med DLP # mGy·cm?
 aa28ed13	Cellekultur (#D)
 aa2ce59e	Dosis-volumen-histogram (DVH)
+aa36db58	≈ # MV
 aa430d6d	Ikke berettiget: pædiatrisk CT-thorax ≈ #–# mSv mod ≈ # mSv for et PA-billede. Strider mod berettigelsesprincippet (ICRP #).
 aa4446a7	Filtreret (indgang)
+aa7069a5	En superledende magnet kan ikke bare "slukkes". En quench lukker heliummet ud, er dyr og kan fortrænge ilten i rummet; den udføres kun ved livsfare (fx hvis nogen er klemt fast mod magneten). Ved hjertestop bringes patienten ud i zone III til genoplivning.
 aa7120ec	Pausere metformin i # t og derefter scanne
 aaaa64f1	Rørbelastning
+aad07647	Bevægelse
 aaede69c	ACR Appropriateness Criteria og ACOG: først ultralyd, derefter MR uden gadolinium — ingen ioniserende stråling.
 aaee7048	Scanningstid (# fase, ETL #)
+ab06bf6d	STIR-inversionstid for fedt (T1 ≈ # ms) ved # T: TI ≈ # × # ≈ # ms; i praksis bruges #–# ms, fordi TR er endelig.
 ab14bcac	Computertomografi
 ab25d4ea	Tilbagespredningsfaktor BSF ≈ #. DAP (Gy·cm²) er uafhængig af afstanden og omregnes til effektiv dosis med koefficienter: thorax PA ≈ #, abdomen ≈ #, bækken ≈ #, kranie ≈ # mSv/(Gy·cm²). Typisk thorax PA: ESAK ~#–# mGy, E ~# mSv.
+ab344af2	<b>Ægte, spredte og tilfældige koincidenser:</b> tilfældige vokser med kvadratet på aktiviteten (korrigeres med et forsinket vindue); spredning korrigeres ved modellering.
 ab834a11	Biologisk halveringstid (# = ingen)
 ab8ca2c5	Vandfantom
+aba2f3f7	Pulseret gennemlysning og lav billedfrekvens (fx # billeder/s) nedsætter dosis forholdsmæssigt.
+abb049f7	Elektronstråler
+abc084d1	Hvad sker der cirka, hvis en hoved-hals-behandling forlænges med en uge?
+abcdcf7a	Hvilken RBE-værdi bruges i klinisk protonterapi?
 abdee8d2	MV-fotoner vekselvirker i vand hovedsageligt ved comptonspredning; energien afsættes af sekundære elektroner over flere cm. Derfor er dosis lav ved overfladen og stiger til dmax (<b>opbygning</b>; hudskånsel). Derefter falder den på grund af svækkelse og afstandskvadratloven.
 abe195be	Skift til lungevindue på et thoraxsnit
 abe68d6f	Respirationsfrekvens
+abfef648	<b>Radiokrom film (EBT3/EBT4):</b> #D-dosisfordeling med høj rumlig opløsning, bruges til patientspecifik IMRT-QA.
+ac46edc7	Hvorfor har den systematiske fejl (Σ) en større koefficient end den tilfældige fejl (σ) i van Herks formel?
 ac5b89c3	Dosis pr. fraktion
 ac720a66	Smalt og bredt strålebundt: build-up
 ac737796	Afbilder den udgående behandlingsstråle (portalbillede); bruges til at verificere feltform og afgivet dosis.
+ac7d67eb	Usikkerheder
+ac92d741	Hvordan overvåges øjenlinsedosis hos en arbejdstager, der bærer blyforklæde?
 aca79e3e	Trin: 
 aced2b71	Fraktionering (ældre patient)
+acf4af3c	Hvilket væv har vægtfaktoren #?
+acf8c2eb	Hvorfor trækkes targetet væk, og hvorfor bruges en spredningsfolie i elektrontilstand?
+ad7cb1fd	A = λ·N     # Bq = # henfald/s     # mCi = # MBq
+ad863383	En radioaktiv patient er en tid selv en kilde: dosishastigheden ved # m følger Γ·A/d². Terapipatienter (fx I-#) udskrives efter nationale grænser for dosishastighed eller aktivitet, med skriftlige instrukser om at begrænse tæt kontakt med børn og gravide.
 ada7afdb	ingen
 ada880a8	Teori kommer snart.
 adbf56a0	Energien: γ-stråling har altid højere energi
@@ -930,16 +1466,31 @@ ae20a6a3	Stopeevnen stiger som #/β², mens protonen bremses; det meste af energ
 ae27b827	Tilstand: kliniske cases
 ae6bb2bb	maks. 
 ae888d5f	Elektronernes #%-isodosis indsnævres i dybden: udskæringen bør være ~# cm større end læsionen.
+aeb91213	ICRU-volumener
+aebe6d8f	Lækstrålingen er begrænset til ~# % af arbejdsbelastningen; spredningen afhænger af vinkel og feltstørrelse.
 aef94af7	Rigtigt. 
 af010c63	Knogle (ribben/bækken)
+af366776	Hos en gravid patient med livmoderen i primærstrålen er fosterdosis ≈ SSDE; den ligger langt under # mGy, hvor der ikke forventes deterministiske effekter (ICRP #).
+afbed5fb	Hvad er pitch ved # mm kollimering og # mm bordfremføring pr. omdrejning?
 afe72516	Det skarpe dosismaksimum for enden af en tung ladet partikels rækkevidde.
 afe8043f	tid (t)
+aff91e2c	Celleoverlevelse beskrives bedst af den lineær-kvadratiske (LQ) model. α-leddet repræsenterer letal skade fra et enkelt spor, β-leddet samspillet mellem skader fra to separate spor.
+b0411b94	# gange
 b081abb7	isomer overgang (IT)
+b08d33bd	#D-konform strålebehandling bruger nogle få faste, MLC-formede felter. IMRT deler hvert felt op i små segmenter for at modulere intensiteten, og invers planlægning optimerer en objektfunktion (måldoser og OAR-grænser). VMAT ændrer MLC, doserate og gantryhastighed kontinuerligt, mens gantryen roterer, og giver IMRT-kvalitet på få minutter.
 b0adb207	Hvorfor er det andet HVL for en polyenergetisk stråle større end det første?
 b0c23fb1	Aktiviteter (transient ligevægt)
+b0ca3b9d	Hvor mange TVL afskærmning reducerer doseraten # gange?
+b0d829f3	≈ # cm
 b0db6938	 dage
+b0e35e18	Kun beskyttelse mod betastråling
+b0e55336	<b>Svækkelseskorrektion:</b> de to fotoner krydser tilsammen hele kroppens tykkelse; et μ-kort for # keV bygges ud fra CT.
+b0e5e70b	SPECT rekonstruerer snit, ligesom CT, ud fra projektioner optaget ved at rotere kameraet rundt om patienten (som regel OSEM). Svækkelseskorrektionen bruger CT'en fra en SPECT/CT.
 b0f260dc	Ikke førstevalg ved mistanke om lungebetændelse; et sidebillede kræver mere dosis og er ikke tilstrækkeligt alene.
 b11e7606	Hvilke punkter på screeningsskemaet kræver EKSTRA HANDLING før MR? (vælg alle relevante)
+b17551b5	Cirka hvor mange gange mere resistente er hypoksiske celler end veliltede (lav LET)?
+b18eabf1	Ifølge Bragg–Grays kavitetsteori er dosis i mediet lig med dosis i kaviteten gange forholdet mellem massestopkræfterne for medium og gas. I praksis bruges protokollen IAEA TRS-# eller AAPM TG-#:
+b1a99313	≈ # Gy EQD2 i effekt går tabt ved repopulation
 b1b83851	dybde i vand (cm)
 b1c222ab	EQD2 = n·d·(d + α/β)/(# + α/β). Tumorer med lav α/β (prostata ≈ #) har gavn af hypofraktionering.
 b1c8c38e	Bjælke: daglig andel for en arbejdstager (# mSv/år ÷ # dage = # µSv).
@@ -949,33 +1500,55 @@ b232d1f0	Læsionsdækning: minimum # % — fuldstændig.
 b2697ad8	Røntgen- og γ-stråling er samme slags fotoner; de adskiller sig kun ved oprindelsen. Røntgenstråling kommer fra elektroner (bremsestråling eller skalovergange), γ-stråling fra kernen (radioaktivt henfald).
 b2972ae3	Hoved
 b2aad11c	Scanningsparametre
+b31c403d	<b>Geiger–Müller-tæller:</b> en meget følsom tæller til at finde kontaminering; giver ingen energioplysninger. Til dosishastighedsmåling er et ionkammerinstrument at foretrække.
+b32962b7	Den historiske størrelse eksposition (C/kg) måler kun ionisering i luft. At danne ét ionpar i luft koster i gennemsnit W/e = # J/C, så K_luft = X · #.
 b33eb976	Model: parallelstrålegeometri (omsorterede viftestråledata), energiintegrerende detektor, spredning negligeret.
 b34b3fcd	Pause / Kør
+b357382c	Artefakter
+b3615a21	Hvor stor en del af M₀ har den longitudinale magnetisering genvundet én T1 efter en #°-puls?
 b3755394	Sandsynligheden for fotoeffekt stiger meget stejlt med atomnummeret og falder stejlt med energien — derfor øger en lav kVp knoglekontrasten.
 b38452f0	Markør (TR eller TE)
+b391a968	Med et ekstra dosimeter i kravehøjde uden for forklædet
+b397b1d8	Hud
 b3af5cc8	#. ALARA og grænser
+b3c141a0	MR-sikkerhed
 b3f9f066	Det gør så ondt … og jeg ved ikke, om jeg kunne være gravid.
+b43b8664	S = exp(−α·D − β·D²)        ved n fraktioner:  S = exp[−n(α·d + β·d²)]
+b45d336f	Hvor meget er # MBq Tc-#m efter # timer?
 b48eaaae	#. k-rummet
+b4b43e70	Nær tunnelens åbning, hvor feltets rumlige gradient er størst
+b4cffd96	<b>Kemisk skift:</b> et lyst/mørkt bånd ved fedt-vand-grænser i frekvensretningen.
 b4d90f43	Patientdosis
+b50e98d5	Tre grundprincipper (ICRP #)
 b528da3e	Uigennemsigtig
 b5377fa4	Stål
+b53e3b71	For at sammenligne fraktioneringsskemaer bruger vi den biologisk effektive dosis (BED) og den ækvivalente dosis i fraktioner á # Gy (EQD2):
 b54b4085	Gå tættere på beholderen (< # m).
 b54d1bc5	Udforsk laboratorierne
 b58894f8	I det roterende system (x', y') roterer vi med larmorfrekvensen: kun frekvensafvigelser (Δω) er synlige.
 b589c5ea	Feltbredde (isocenter)
+b5bc01ee	Der dominerer bremsestråling
+b5df3592	For at skåne røret
 b5f6bbb8	mål 
+b6289cee	Sekvenser og kontrast
+b63830af	Kammerets polaritet
 b6b8c8bf	Larmorpræcession, Bloch-ligninger, T1/T2, spinekko, k-rum.
+b6db5e97	Hvad er et typisk gammakriterium for patientspecifik IMRT-QA?
 b6e00083	Hjerte
 b6e56670	Halv- og tiendedelsværdilag
 b6fab935	PD-vægtet
+b70423e7	Mayneords F-faktor
 b72c1283	#. Fotonstråler og dybdedosis
 b7312de4	Luft −#, vand #, fedt ≈ −#, bløddele #…#, knogle #…# HU. Da øjet kun skelner ~#–# gråtoner, vises billeder gennem et vindue (bredde W, niveau L): lunge W1#/L−#, bløddele W4#/L4#, knogle W2#/L4#, hjerne W8#/L3#.
+b7362550	Repetitionstid (mellem excitationer) / ekkotid (mellem excitation og signal).
 b77556fd	En fotons energi er proportional med dens frekvens: E = h·ν. En praktisk tommelfingerregel er E[keV] ≈ # / λ[nm]. Radiobølger (MR), synligt lys og røntgen-/γ-stråling er det samme fænomen ved forskellige energier.
 b7d0e925	Indfaldende fotonenergi
 b7fdc96d	Siden seneste eluering
 b8095719	EANM: A·t ~ vægt. En længere scanning tillader lavere aktivitet og dosis.
+b80f1610	PET bruger kun spredte fotoner
 b846a137	Vælg snitniveau, og tryk på SCAN. Tryk på billedet for at måle HU.
 b85a81d5	Fraktioneringsskema
+b8624b08	En labyrint får spredte fotoner til at kastes frem og tilbage flere gange, før de når døren. Over # MV indeholder døren også borholdig polyethylen og bly mod neutroner og indfangnings-gammastråling. En strålingsmåling efter installationen er obligatorisk.
 b8628c9b	Spongiøs knogle
 b86f8853	GENNEMREGNET EKSEMPEL
 b8757751	Ja; ekstern strålebehandling gør dig ikke radioaktiv — intet er tilbage, når maskinen er slukket
@@ -987,32 +1560,66 @@ b8e79c59	For vand er μ/ρ (# keV) = # cm²/g, så μ = # cm⁻¹. HVL = #/# = #
 b8ebb4eb	Tidspunkt for maksimal Tc-#m
 b8f48602	Konstanter
 b8ff3ac7	Felt #×# cm: passer til lungerne.
+b90ddbf5	Bly slipper ingen MV-fotoner igennem
 b92e17d6	Raster brugt: en børnethorax på ~# cm giver lidt spredt stråling; et raster (Bucky-faktor #–#) øger dosis unødigt.
 b95e783d	Gå tættere på kilden (< # m).
 b999f041	# cm basalcellekarcinom på venstre kind (biopsiverificeret)
 b9a92b6b	Dosis ≈ # µSv: omkring # dages naturlig baggrundsstråling. Fordelen ved at diagnosticere lungebetændelse overstiger klart risikoen.
+b9bc8c97	Dosimetre og kalibrering
 ba151840	Hvordan skalerer sandsynligheden for fotoeffekt omtrent?
+ba1a8e96	Ḣ ~ #/d²: # × (#/#)² = # µSv/h.
 ba1de520	Larmorfrekvens f = γ̄·B₀ (# MHz/T). SAR ~ B₀²: ~#× RF-opvarmning ved # T.
+ba32dc5a	<b>PD-vægtet:</b> lang TR, kort TE. Viser forskelle i protontæthed; bruges i muskuloskeletal billeddannelse (menisker).
+ba35bb9c	Over hvilken energi bliver produktionen af fotoneutroner betydelig?
 ba44e340	SSDE 
+ba5ac16c	Protonernes stejle distale dosisfald er en fordel, men usikkerheden på rækkevidden er en risiko. På grund af fejl ved omregning af CT-HU til stopkraft og anatomiske ændringer bruges en rækkeviddemargin på typisk "# % + # mm", og strålerne placeres, så de ikke peger direkte mod et kritisk organ.
 ba66cab6	Accepteret støj hos en stor patient: ≤ # HU i lever-ROI'en (≈ # HU hos en gennemsnitlig voksen). Vælg kV og mAs, og tryk på SCAN. Hold SSDE under # mGy.
 bade5b16	Roterer med gantryen #–# gange i sekundet og sender en vifteformet stråle gennem patienten fra alle vinkler.
+bb1b430e	# % / # mm med ≥ # % beståede punkter
+bb4c1849	Ionkammer (TRS-#)
 bb5bd1d0	Middel- / effektiv energi
 bb62355a	Læsionsdækning: minimum # % — den dybe kant ligger under # %: for lav energi.
 bb757050	eluer
+bb961b50	Ved opvarmning
 bbabaa0a	Længere scanning end nødvendigt: hoftekam til symfyse er nok ved appendicitis.
+bbadf5f8	Afvigelsesindekset (DI) viser, hvor langt EI er fra målværdien: DI = # ved målet, # ≈ # % for højt, # = det dobbelte, −# ≈ # % for lavt. Det sædvanlige acceptinterval er −# til #.
+bc1b6d45	Store fraktioner skåner rektum
 bc38932a	Referencedosimetri (IAEA TRS-#) og PDD-/profilmålinger: et ionkammer føres gennem vandet. Her er hvert spor en partikel fulgt med Monte Carlo.
 bc506327	Zeynep: "Skal jeg hvile mig i ro efter injektionen?"
 bc566d93	Fosterdosis ≈ SSDE = 
 bc5d4211	Giv alle
+bc7b5e89	Pitch > # betyder hurtigere scanning med lavere dosis, hvor huller udfyldes ved interpolation; pitch < # betyder overlap og højere dosis.
+bc8245d8	Det korrigerer for stråleforhårdning
+bccb7e5d	Kollimatoren: følsomhed over for opløsning
+bcdac932	Forstørrelse
+bcdc6b6f	<b>Aliasing (indfoldning):</b> væv uden for FOV foldes ind i faseretningen.
+bd1d615b	≈ # Gy
+bd328853	DNA-skader
 bd77abf8	Akut kirurgi: akut appendicitis? CT af abdomen-bækken med kontrast (Dr. Şahin)
 bd7bba09	signal
+bd8ee7fc	≈ # minutter
 bd9533e5	Hodgkins lymfom — stadieinddeling
+bd963d7a	Hvilken elektronenergi dækker en tumor ned til # cm med #-%-isodosen (uden bolus)?
+bd9c904d	Tid, afstand og afskærmning
+bdaf69c4	Gennemlysning
+be1fdde1	At lægge et blyforklæde i feltet
+be4c8b99	Den falder til en fjerdedel
+be515cc5	De afsætter næsten ingen dosis bag målet (ingen udgangsdosis)
+be58929f	Gradientekko og kontrastmidler
 be5b1f2d	Patientens spørgsmål
+be5c7cfc	Røntgenbilleddannelse
 be65f185	Jernoxidpigmenter kan blive varme: informer patienten, kold kompres ved behov. Ikke en kontraindikation.
+be76f7c6	Lineæracceleratoren
+be78efa4	En GM-tæller tæller enkelte hændelser og finder hurtigt lav kontaminering; til dosismåling er et kalibreret ionkammer mere nøjagtigt.
+beb99ac5	<b>Dosisbegrænsning:</b> grænserne gælder for arbejdstagere og befolkningen — ikke for patienter, fordi gevinsten er deres.
 bf06df89	Elektronenergi
 bf300ab6	filtreret
 bf62a8bf	Den gule pil er nettomagnetiseringen M. En RF-puls vipper den væk fra B₀; den genopretter sig longitudinalt med T1 og henfalder transversalt med T2. De farvede pile er isokromater med forskellige frekvenser (T2*).
+bf689b25	Henfaldsloven
+bf6a994f	Fotoner kan ikke brydes, så billedet dannes af en blykollimator, der kun lukker fotoner fra en bestemt retning igennem — kun ~# % slipper igennem. Med en parallelhulskollimator forringes opløsningen med afstanden til kilden, så detektoren placeres så tæt på patienten som muligt. Længere, smallere huller forbedrer opløsningen og sænker følsomheden.
 bf6d791a	I brede stråler når også spredte fotoner detektoren; opbygningsfaktoren B ≥ # tager højde for det. Her bruges B ≈ # + k·μx.
+bf6f2da2	Hvor lang tid tager et konventionelt spinekko med TR # ms, # linjer og NEX #?
+bf7ae11a	≤ #–# %
 bfaba695	Relativ aktivitetskoncentration (i forhold til billedets maksimum)
 bfb0dfa4	Ingen allergier; normal kreatinin
 bfce608a	Patient / fantom
@@ -1028,26 +1635,39 @@ c09eec06	MLEM er en iterativ metode, der direkte modellerer Poisson-statistikken
 c0aad756	Vis partikelspor
 c0f5bb27	Rotationsaksen. Det er vigtigt at centrere patienten her: decentrering modvirker bowtie-filteret og øger både støj og dosis.
 c124dd95	Hver celle overlever en fraktion med sandsynligheden S(d) = exp(−αd − βd²). Væv med lav α/β er mere følsomt over for dosis pr. fraktion.
+c131e9c7	μ i ét enkelt punkt
 c1329b8d	Elif: "Brug venligst den laveste dosis til min baby."
 c14f1584	Samlet scanning (# lejepositioner)
 c1811e60	Daglig IGRT korrigerer #–# mm organbevægelse og tillader PTV-marginer på ~# mm (van Herk: M = #Σ + #σ).
+c1b213e5	Elektroner i en fotonstråle på # MV
 c1d1684b	Stråler
+c27c4e12	På rørsiden
 c285174a	dybde i patienten (cm)
+c296a83d	Spredt stråling og raster
 c2dcb4a3	At vente meget længere er unødvendigt: F-# er næsten helt henfaldet, og amningen forstyrres uden grund.
 c2e4e241	isomer overgang
+c2e97a22	Hvorfor EI?
 c2f67ba3	# mm Al + # mm Cu
+c2fe5429	<b>Redistribution:</b> cellerne bevæger sig ind i følsomme cyklusfaser (G2/M).
 c341622f	Babyens dosis kommer især fra #-keV-fotonerne fra morens krop (ekstern eksponering); meget lidt FDG går over i mælken. Hvornår kan tæt kontakt (bære, amme på ~# cm) genoptages? Spilmål: spædbarnsdosis ≤ # µSv.
+c3593ab4	<b>FFF (uden udjævningsfilter):</b> øger doseraten #–# gange og giver korte stereotaktiske behandlinger.
 c35ec4c3	Anterior-posterior (AP)
 c3a14e9a	vand μen/ρ
+c3e46e55	Rørets spidsspænding; bestemmer den maksimale fotonenergi og strålens gennemtrængning.
 c3e47672	Spinekko
 c3ff1e50	Elektroner fra katoden accelereres af rørspændingen (kVp) mod en wolframanode. ~#% af energien bliver til varme, ~#% til røntgenstråling. Elektroner, der bremses i kernernes felt, udsender <b>bremsestråling</b> med kontinuerligt spektrum op til E_max = kVp.
 c4547490	Spinfysik
+c481cc03	<b>Frekvenskodning:</b> under udlæsningen, så hver kolonne sender med en anden frekvens.
 c487c009	Vindue W(f): Ram-Lak (skarpt, støjende), Shepp-Logan (sinc), Cosinus, Hann (blødt, lidt støj). Afvejning skarphed ↔ støj.
 c4a7b302	Sporfarver: gul = foton, blå = elektron, magenta = positron, orange = proton, grøn = kernevekselvirkning.
+c4b3c7a6	PDD(d) = # · D(d) / D(d_max)   (fast SSD)
+c4cbd544	Tre felter, tre risici
 c4ef192a	uden gitter, 
+c52f63a4	Kildestyrken angives som luftkermastyrke S_K (U = µGy·m²/h); Λ er doseratekonstanten, g(r) den radiale dosisfunktion og F(r,θ) anisotropifunktionen. En Ir-#-kilde mister ~# % pr. dag, så behandlingstiderne forlænges automatisk, og kilden udskiftes cirka hver # måned.
 c558bcea	Erhverv: svejser / slibning (# år)
 c5748eb4	MR-sikkerhedsscreening
 c57b585f	Konsollen viser CTDIvol. Hvilken størrelse afspejler bedst dosis til denne store patient?
+c58f8d26	Med kvadratet på aktiviteten
 c59c3c01	Ayşe: "Hvad er det her geléagtige? Skal det på mit ansigt?"
 c5d4754f	# mg/dL
 c5e874f2	Gonadebeskyttelse anbefales ikke længere rutinemæssigt; kollimering er den bedste beskyttelse.
@@ -1057,26 +1677,50 @@ c6a141c6	Dybdedosis langs centralaksen
 c6b800d4	#. Spin og præcession
 c6c23301	Korrekt. (Et permanent I-#-seed-implantat ville give kortvarige begrænsninger i tæt kontakt.)
 c6c4ee23	Sandsynlighed for tumorkontrol
+c6d283b2	ITV
 c6d6b1b5	Det gælder kun for ~# cm (ét HVL).
 c6d8a5ee	 (hoved)
+c6e71781	For # MBq Cs-# (Γ ≈ # µGy·m²/(MBq·h)) er luftkermaraten i # m ≈ # × # ≈ # µGy/h, dvs. H*(#) ≈ # µSv/h. I # m falder den til en fjerdedel (≈ # µSv/h), i # m til en niendedel. Med et bly-HVL på ≈ # cm for Cs-# reducerer # cm bly (≈ # HVL) den yderligere ~# gange.
+c6f4f9c3	Brachyterapi
+c70bdae0	GTV
 c7801b3c	NÆSTE LEKTION
 c7e4693e	Modelnote: spredningen bruger en forenklet kerne, der afhænger af felt og tykkelse; detektorens DQE og fokususkarphed negligeres.
 c81dd039	Rygmarv Dmax < # Gy
 c8423429	Egnet til spædbørn og sengeliggende patienter, men hjerteskyggen forstørres, og forreste organer får mere dosis.
+c8588751	Behandlingsplanlægning: volumener, IMRT/VMAT og DVH
+c86f5711	Spektret har to dele: kontinuerlig bremsestråling fra # op til kVp (Kramers: I(E) ~ Z(E_max − E)) og karakteristiske linjer — for wolfram Kα ≈ # keV og Kβ ≈ # keV, som kun optræder, når kVp > #.
+c8814047	Effektiv dosis kan ikke måles direkte, så man bruger operationelle størrelser: omgivelsesdosisækvivalent H*(#) til områdeovervågning samt Hp(#) (helkrop) og Hp(#) (hud, hænder) til persondosimetri.
 c8828318	Afstandskvadratloven: registrér aflæsninger ved ~# m, ~# m og ~# m
+c8e11800	Hvad skal der gøres før MR af en svejser?
 c8f76d70	Dosis ligger langt under tærsklen på ~# mGy for misdannelser; den ekstra risiko for børnekræft er meget lille (≈ # % pr. # mGy). Der er ingen medicinsk grund til at afbryde graviditeten.
 c901ddc3	Ledvæske
 c91a26b5	Prostata flytter sig fra dag til dag med blærens og rektums fyldning. Hvordan verificerer du hver fraktion?
+c91ce3d7	Kvalitetssikring
 c9248cc8	Afskærmning og kollimering
 c926cd17	Vand / CSF / urin
+c93c2d38	Ægte T2-relaksation
 c944c820	Comptonspredningen forsvinder ved den energi
 c964528c	Ved detektoren (midten)
+c990d8eb	Almindelige artefakter
+c997bac9	Ved medicinsk bestråling tilfalder gevinsten patienten, så berettigelse og optimering (DRL) gælder, men ingen grænse.
+c9cd7e94	Moderne CT er tredje generation: rør og krum detektor roterer sammen (~#–# s pr. omdrejning). Slæberinge tillader kontinuerlig rotation, så der scannes spiralformet, mens bordet bevæger sig. Multislice-detektorer (#–# rækker) dækker #–# cm pr. omdrejning.
 c9db273f	Vælg sprog
+c9fe7760	Protoner i et magnetfelt
 ca1a3109	Hvorfor ses jodkontrast bedst med et spektrum, der topper nær # keV?
+ca2fbdf7	Fotoeffektens Z³-fordel forsvinder ved MV; svækkelsen pr. masseenhed er næsten uafhængig af materialet, så bly/stål tilføjes kun, hvor der er pladsmangel.
 ca42e28e	Træf beslutningerne i Emirs case med røntgen af thorax på et barn, se udfaldet, og lær grunden bag hvert trin. De tekniske laboratorier venter, når du er klar.
+ca83a24e	<b>DAP (KAP):</b> kerma × areal i Gy·cm². Det afhænger ikke af afstanden til røret (arealet vokser som d², kerma falder som #/d²) og afspejler den samlede afsatte energi.
+ca900d67	<b>Reaktor:</b> neutronindfangning (n,γ) eller fission; Mo-# (moder til Tc-#m) og I-# stammer mest fra fission af U-#.
 caa249cb	k-rummet (log |S(kx, ky)|)
 cae55017	Foton
 cae6e1b1	Otte emner fra grundlaget for medicinsk fysik til klinikken. Hver lektion har forklaringer, formler, gennemregnede eksempler, interaktive figurer drevet af rigtige fysikmodeller og en kort quiz. Til sidst kan du gå videre til det tilhørende laboratorium og den kliniske case.
+cb0b7009	For via den fotoelektriske effekt at forstærke de små svækkelsesforskelle mellem brystvævene
+cb2d5fcc	I filmtiden gjorde en overdosis billedet sort, og det blev opdaget med det samme. Digitale systemer vinduesindstiller automatisk, så selv et overeksponeret billede ser "pænt" ud: risikoen for snigende dosisstigning (dose creep). IEC ## definerer derfor eksponeringsindekset (EI), proportionalt med luftkerma ved detektoren: EI = # × K (µGy).
+cb37627d	Tissue-maximum ratio: dosis i dybden d divideret med dosis i d_max i samme punkt (fast SAD).
+cb52d7bc	Elektroner forlader en opvarmet wolframglødetråd (katode) ved termisk emission og accelereres mod anoden af kVp. Kun ~# % af deres energi bliver til røntgenstråling; resten er varme, derfor roterer anoden og har stor varmekapacitet.
+cb6a7d48	Med systematisk SD Σ = # mm og tilfældig SD σ = # mm er PTV-marginen # × # + # × # = # mm. Hvis daglig IGRT reducerer Σ til # mm, bliver marginen # + # = # mm.
+cb70c670	<b>Patientspecifik QA:</b> IMRT/VMAT-planen måles i et fantom og sammenlignes med gammaanalyse (fx # %/# mm, ≥ # % bestået; TG-#).
+cb8ff794	Afstandskvadratloven gælder for punktkilder på afstande større end kildens størrelse. På meget tæt hold (fx når man holder en kilde) stiger dosis ekstremt hurtigt: brug altid en tang — # cm i stedet for # cm reducerer hånddosis cirka # gange.
 cb988a96	Efter # t (fra # MBq)
 cbad3f92	Positronen annihilerer inden for ~# mm væv; kun fotonerne på # keV slipper ud.
 cbd54f80	Materiale
@@ -1084,80 +1728,139 @@ cbd7b457	Hurtige formler
 cc25a532	Hals
 cc4c7f13	Lektion 
 cc4da60f	Tilfældige koincidenser
+cc673698	Afvigelsesindeks
 cca2c192	Samlet filtrering = # mm Al (iboende) + ekstra. Krav: ≥ # mm Al (># kVp).
 ccdfbfa0	Befolkningen
+cd2f8f64	Rørets opbygning
+cd3156fd	Klinisk ordineres protondoser i Gy(RBE) med en konstant RBE på #, selv om RBE kan overstige # i toppens distale ende, hvor LET stiger.
 cd38aa8b	Ventetid før tæt kontakt
+cd487f09	Patientdosis (med buckyfaktoren)
 cd4c6563	Kontrolpult
+cd617903	<b>Fotonmangel:</b> hos store patienter, især i højde med skuldre og bækken, når for få fotoner frem lateralt, og der dannes vandrette striber.
 cd86acc3	Luk
 cd9bfde6	Vis gantrydækslet gennemsigtigt
 cdd62ae0	Bue (VMAT-lignende)
+cddf6a03	Temperatur og tryk
 cde4341b	Vinkel: #° = anterior (AP), #° = patientens venstre, #° = posterior (PA), #° = højre.
 ce0454c7	Små kugler viser lavere målt aktivitet på grund af partialvolumeneffekten (RC < #).
 ce3486fb	vandret: x (−#…# cm) • lodret: dybde #→# cm
 ce483eb5	Tykkelse
 ce6b3dac	R8# distal (MC)
 ce715e71	En CsI:Tl-scintillator omdanner røntgenstråling til lys, og en a-Si-fotodiodematrix omdanner lyset til ladning. Eksponeringsindekset (EI) angiver dosis på detektoren.
+cf1199b5	Elektroner er lette, så de spredes i store vinkler og følger zigzagbaner. I medier med højt Z spiller bremsestråling (strålingstab) også en rolle — sådan danner et røntgenrør røntgenstråling. Tommelfingerregel: elektronernes rækkevidde i vand er ≈ E/# cm (E i MeV).
 cf377b43	Øvelseseksamen
+cf5b8c68	Det skal stige med √#
 cf781cab	Moren beder om et blyforklæde til Emir. Hvad gør du?
 cfc2c2f6	Filtrering (Al, Cu) fjerner på forhånd de lavenergetiske fotoner, som patienten alligevel ville absorbere, og som aldrig når billedet — det sænker huddosis. Også "cupping"-artefakten i CT skyldes strålehærdning.
 d020ae28	I en blyafskærmet aluminiumoxidsøjle henfalder Mo-# (T½ # t) til Tc-#m (T½ # t). Saltvand, der ledes gennem søjlen, skyller kun Tc-#m-pertechnetatet ud (eluering).
+d0527b5f	Hvorfor afskærmes MV-behandlingsrum med beton i stedet for bly?
+d0591deb	Hvilken gruppe har ingen dosisgrænse?
 d070218a	Dybde
+d0a19740	Fejl i strålebehandling er systematiske og kan ramme mange patienter, derfor er uafhængige MU-kontroller, godkendelse af planer af to personer og en kultur for hændelsesrapportering centrale ansvarsområder for den medicinske fysiker.
 d0a43715	En superledende magnet kan ikke bare slukkes; et quench lukker heliummet ud, er dyrt og farligt — kun i livstruende situationer.
+d0de0de1	<b>α:</b> en He-#-kerne med meget høj LET og en rækkevidde < # mm (Ra-#).
 d0fd90b6	Eksponér automatisk ved ændring
+d1098233	η ≈ #×#⁻⁹ · Z · V    (wolfram Z = #, V = # kV → η ≈ # %)
 d1998663	Ja, men kun Kβ-linjen ses
 d1af3044	Amalgam- og kompositfyldninger er sikre; de kan kun give artefakter.
 d1b7ec5b	Tumor-EQD2 = n·d·(d + #)/(# + #) = # Gy — underdoseret, risiko for biokemisk recidiv.
+d1b834b9	α-partiklen er dobbelt ladet (z² = #) og langsom, med en LET på ~# keV/µm, mod ~# keV/µm for de elektroner, som fotoner sætter i bevægelse.
 d21058ed	Tryk på gulvet for at placere afskærmningen.
+d21b004d	Blypladen med huller, der kun lader fotoner fra en bestemt retning nå gammakameraets krystal.
+d2223509	CTDIvol er dosis i en PMMA-cylinder på # cm. En slank patient (eller et barn) får langt mere dosis ved samme CTDIvol, en stor patient mindre. AAPM Report # giver en omregningsfaktor baseret på den effektive diameter: det størrelsesspecifikke dosisestimat (SSDE).
+d229ed94	Direkte, ved at fotoner bryder DNA
 d22ff1b4	Cu-filteret fjerner lavenergetiske fotoner: meget lavere huddosis ved samme DI.
 d252b05e	Vælg en patient i venteværelset, læs journalen, og start casen. I hvert trin beslutter du: besvar et spørgsmål, indstil apparatets parametre eller lav et billede. Fysikmotoren beregner resultatet; tryk på BEKRÆFT for point og en forklaring.
+d258834e	Middelenergien stiger
+d27f15a1	Opholdsfaktor T
+d28ab5fa	V2# ≤ #–# % og en middeldosis til lungerne ≤ #–# Gy holder risikoen for symptomatisk pneumonitis under # %.
 d28e3e42	Point: diagnostisk kvalitet / behandlingseffekt, patientdosis (ALARA), sikkerhed og kommunikation. ★★★ kræver ≥ # %.
 d2ab41fb	forventet 
+d2c2e72f	Ved direkte at aflæse, hvilket kollimatorhul den passerede
 d2c74831	Første skridt
 d2db263e	En positron fra β⁺-henfald annihilerer med en elektron inden for få mm (positronrækkevidde → tab af opløsning) og danner to fotoner på # keV, der flyver næsten modsat (±#°). Reagerer to krystaller i ringen inden for tidsvinduet (~# ns), registreres en koincidens og en responslinje (LOR).
+d3302805	Hvorfor tages røntgen af thorax PA ved # cm SID?
+d3457fda	LET
+d348b1f3	Spin og Larmor-frekvens, relaksation (T1, T2, T2*), sekvenser og kontrast, rumlig kodning og k-rummet, MR-sikkerhed.
 d350ad22	Fedtvæv
+d37c1018	LQ-overlevelse
+d39e2fda	<b>Susceptibilitet:</b> signaltab og forvrængning ved metal og luft-væv-grænseflader (især GRE og EPI).
 d4066030	Eksponentiel svækkelse
+d424ea14	Lineæracceleratoren, dybdedosis og MU-beregning, dosisplanlægning (volumener, IMRT/VMAT, DVH), protonterapi, brachyterapi og kvalitetssikring.
+d45a18d7	Ved hvilken radionuklid skal amningen helt ophøre?
 d4601b55	• <b>Svækkelse:</b> sandsynligheden for, at begge fotoner slipper ud, er exp(−∫μ dl) langs LOR — uafhængigt af emissionspunktet! Derfor laves svækkelseskorrektionen i PET direkte fra CT.\n• <b>Spredning:</b> comptonspredte fotoner giver forkerte LOR; energivinduet (#–# keV) frasorterer en del.\n• <b>Tilfældige:</b> to urelaterede fotoner falder i samme vindue; rate ~ aktivitet².\n• <b>NEC</b> = T²/(T+S+R): et mål for billedkvaliteten.
 d46b8bd4	Trin
+d48da20f	En vævsreaktion med tærskel, hvis sværhedsgrad stiger med dosis (erytem, katarakt).
 d4ab7bf3	Virker harmløst, men kan komme ind i feltet → ny optagelse og dosisstigning via automatikken. Bedre at møde morens bekymring med en forklaring.
 d4beda32	Spredningsgitter
 d4c68488	volumen %
+d4dfd01b	Et ionkammer er en kondensator, der opsamler den ladning, strålingen danner i en gas. Det er guldstandarden for referencedosimetri. Det cylindriske Farmer-kammer (# cm³) bruges til megavoltfotoner og planparallelle kamre til elektroner.
 d4ffd893	Forhold knogle / vand (kontrast)
 d51a0c7d	fraktioneret, α/β = #
 d54bb772	Marvødem
+d581622c	Strålingens biologiske effekter
 d584bb20	Venstre lunge
+d58f1655	Zoner og screening
+d5abe21a	MU (monitorenhed)
+d5b12f90	Dosisgrænser
 d5c4ed9d	prostata
 d5cc8e12	Børneakutmodtagelse: røntgen af thorax PA — lungebetændelse? (Dr. Aydın)
+d5dea1d4	En proton på # MeV: R ≈ # × #^# ≈ # × # ≈ # cm. NIST PSTAR angiver en CSDA-rækkevidde på # cm, så reglen er et godt skøn.
 d5f8859c	Quiz om emnet
 d618a937	Stråle og kalibrering
 d63556b0	Vand
 d64fa515	med bly
+d67796d1	Planlægningsmålvolumen: CTV plus en margin for lejrings- og bevægelsesusikkerheder.
 d68f0065	Åbn lektion: 
+d6a01349	Billedkvalitet og artefakter
+d70f2e87	I en cyklotron via reaktionen ¹⁸O(p,n)¹⁸F
 d720c7e2	Gener og henvisning
+d752ff03	Enhed for absorberet dosis, # J/kg.
 d77aac98	#. Dannelse af røntgenstråling
 d77bb8f6	Åbn casen
 d7b6610e	Elektroner på # MeV når kun ≈ # cm (Rp ≈ E/#): de kan ikke nå prostata.
+d7d34b45	Leukæmi
 d7fcdf81	Kirurgi: divertikulitis / absces? CT af abdomen med kontrast (Dr. Tunç)
+d88a6749	Det er ligegyldigt
 d908d184	Dosisstørrelse
 d9370cf8	Inversion (#°)
 d9556410	Eksponeringsparametre
+d969abbf	D(mål) = Σ_kilde Ã(kilde) · S(mål ← kilde)        Ã = ∫ A(t) dt ≈ # · A₀ · T_eff
+d96b25e8	Ligevægten for ladede partikler er endnu ikke etableret
 d9b3e49e	Blod / hjerte
+d9cd3b9c	LQ-modellen, BED og EQD2
+d9d9a2cc	Fordoble mAs
+d9fc4c9b	Dosis-volumen-histogram: den andel af en struktur, der får mindst en given dosis.
 da35274d	Læsionen er # cm. Hvilken udskæringsstørrelse og hvilken øjenbeskyttelse vælger du?
 da435822	Sidste gang tog det en evighed … Kan jeg overhovedet være i maskinen?
 da880d68	Kilden i hånden! Bær den hurtigt til blybeholderen.
 dad956f3	Tc-#m topper ved t_max = ln(λTc/λMo)/(λTc − λMo) ≈ # t efter eluering. Ved ligevægt gælder A_Tc/A_Mo → #·λTc/(λTc − λMo) ≈ #.
+db1f3609	D(mål) = Ã(kilde) · S(mål ← kilde)
+db876443	Enhed for ækvivalent og effektiv dosis; udtrykker den stokastiske risiko.
 db90e18f	knogle
 dba8b336	Vi viser dig det bedste første skridt.
 dbb638ff	SPECT-billeddannelse (knogler, myokardieperfusion)
 dbbc21b7	Fysik: hvorfor stiger støjen?
+dbdf67b5	Den halveres
 dbf4470f	Point 
 dc0b6beb	Referencer
 dc411606	Bloch-ligningerne • præcession • spinekko
 dcc0d7a5	ikke kørt endnu
+dcc2469a	En gonadebeskyttelse
 dce06e30	MR med gadolinium
+dcf29cd8	mAs
 dd2558f8	# kg / # cm
+dd49d94d	Hvilken er en deterministisk effekt?
+dd7b54c8	Dosimeteret under forklædet repræsenterer ikke øjet; med en linsegrænse på # mSv/år er målingen vigtig for interventionelt personale.
+dd9f3f2a	Hvordan kan støjen halveres?
 ddd13aac	Tid # s — for lang, bevægelsesartefakter sandsynlige; forkort TR eller øg turbofaktoren.
 de128bc0	Akustisk støj
+de7ed956	Protonterapi og braggtoppen
+de969bfd	Energien fra ladede partikler, der går ind i og ud af et volumen, balancerer; så gælder D = K_col.
 deb145c5	Give et blyforklæde og scanne med det samme
+deb1fdd9	<b>Blyforklæde:</b> #–# mm blyækvivalent; stopper #–# % af de diagnostiske fotoner, men er næsten virkningsløst mod PET-fotoner på # keV.
+ded09878	Hvad foreslår QUANTEC for lungens V2#?
+dee5f315	Strålebeskyttelsesprincipper og dosisgrænser
 deea998c	TR (repetitionstid)
 deeed36b	Billedkvalitet
 df0c22b3	Magnetisk resonans
@@ -1169,39 +1872,60 @@ df7177fa	NØGLEPUNKT
 df76eace	aktivitet A(t)
 df926a69	Støj (ROI lever, SD)
 dfe4e404	Tid
+dffe9654	Orbitarøntgen eller CT for at udelukke metal i øjet
 e026c507	spredt foton E′
 e03ac455	HVL = ln2/μ = #/# ≈ # cm.
+e06240a9	Hvad har den højeste LET?
+e073c123	Den dosis, hvor LQ-modellens lineære og kvadratiske led er lige store; et mål for fraktioneringsfølsomhed.
 e0a49aab	Start eksamen  →
 e0bbd3df	Tærskel for pardannelse
 e0ccc31f	Hovedmenu
 e0e1e90f	 dages naturlig baggrund)
+e0f63b6b	Integralet af μ langs strålen
 e0fe199e	Strålebeskyttelsens tre principper (ICRP #)
 e15b5d80	Celleoverlevelseskurve (LQ)
 e1940a73	Tip: du kan til enhver tid klikke på et apparat i baggrunden; det er ikke nødvendigt for at komme i gang.
 e19d9fd0	mand
 e232e2c1	Praktisk rækkevidde Rp (ref.)
 e2433a82	Fosterdosis ≈ SSDE (livmoderen i feltet). CTDIvol er en fantomdosis og skal korrigeres for patientens størrelse.
+e2671f77	Koincidens
+e2c75b33	Hvis pitch går fra # til # ved konstant mAs, hvordan ændres CTDIvol?
 e2d84590	Antal fraktioner n
 e2e5fdc7	PTV (GTV + # mm) middel = # Gy / # fraktioner (# Gy)
 e3232976	Tællestatistik # — for få tællinger: støjfyldt billede, små lymfeknuder kan overses.
+e327fb76	Iterativ rekonstruktion (ASIR, SAFIRE, modelbaseret) gætter et billede, sammenligner det med de målte projektioner og korrigerer det; den kan modellere støjstatistikken — hvilket giver #–# % dosisreduktion ved samme kvalitet, til prisen af en til tider "plastikagtig" tekstur.
+e32a5d63	Den procentvise dybdedosis (PDD) er ændringen af dosis på centralaksen med dybden ved fast SSD. PDD stiger med energien, med feltstørrelsen (mere spredning) og med SSD (svagere afstandskvadratlov-effekt — Mayneords F-faktor).
+e33558b2	Hounsfield-enhed
 e3726bce	Næste morgen: fastende i # t, blodsukker # mg/dL.
+e3d17916	Vævsinhomogenitet (lunge, knogle, lufthulrum) påvirker dosisberegningen: lunge med lav densitet øger dosis i dybden og gør penumbraen bredere. Moderne algoritmer (AAA, Acuros, Monte Carlo) tager højde for dette.
 e3f06eaf	spredningsvinkel θ (°)
 e41d8109	dybde (cm)
+e43cb2ca	Ved at eluere en generator
 e43e04b0	Røntgenrør (generator)
+e46edbca	<b>Dagligt:</b> outputkonstans ±# %, lasere, sikkerhedsinterlocks, overensstemmelse mellem lys- og strålefelt (AAPM TG-#).
+e47dd3eb	T1: longitudinal genopretning
+e486e4c2	<b>TLD (LiF:Mg,Ti):</b> afgiver lagret energi som lys ved opvarmning; næsten vævsækvivalent, bruges til persondosimetri og in vivo-dosimetri.
 e4ab1899	Vinduesbredde (W)
 e4c140b2	Henfald er tilfældigt: man kan ikke forudsige, hvornår en enkelt kerne henfalder, men mange kerner følger eksponentialloven. Aktivitet måles i becquerel (# Bq = # henfald/s); den gamle enhed er curie (# Ci = #·#¹⁰ Bq).
+e4c224ea	# Gy i # fraktioner (# Gy): for tumoren (α/β = #) EQD2 = #·(##)/(##) = # Gy; for sent væv (α/β = #) EQD2 = #·(##)/(##) = # Gy. Større fraktioner "straffer" sent reagerende væv mere.
+e4dc2f18	Stråler gennem midten tilbagelægger en længere vej og forhårdes mere, så det effektive μ falder, og midten ser mørkere ud (lavere HU).
 e4e5be6e	Elif spørger grædende: "Har det skadet min baby?" Anslået fosterdosis ≈ # mGy.
+e4fe3008	Langt under den deterministiske tærskel; meget lille ekstra risiko; ingen grund til abort
+e4fec5f8	Størrelser for patientdosis
 e4ff8488	Vinduesniveau (L)
 e53403f8	blandet
 e549237e	Prostata α/β ≈ # Gy, rektum (sene effekter) α/β ≈ # Gy. Mål: tumor-EQD2 #–# Gy, forreste rektumvæg (antag at den får # %) EQD2 ≤ # Gy.
 e56e73a9	Blændere + MLC
+e5d8d1ac	#/#
 e5dcf84a	Akkumuleret dosis
 e5e8cc94	Forhold top / indgang
 e5f27121	Inversion recovery
 e5f6fa50	Feltstyrke
 e621da6d	Comptonkant T_max
 e636070c	Delvis Fourier # %
+e6393de5	Undereksponering; billedet kan være støjfyldt
 e670f9a4	Estimeret fosterdosis
+e6737e82	Det giver selv signal
 e6862f05	ufiltreret
 e70efde8	Patientrotation
 e73b4300	Ekstra Al-filter
@@ -1209,16 +1933,28 @@ e74c644a	Moduler
 e75dfe28	Venteværelse — vælg en patient
 e78631fd	Vindue
 e7883571	#. Dosisplanlægning
+e790f279	Dybdedosis og MU-beregning
+e7a94ca1	Det forkorter T1 for nærliggende protoner
+e7baa8c0	Operationelle størrelser
+e7fcf842	Hvilke parametre giver et T2-vægtet spinekko?
 e8145ea3	 % af kVp)
+e833649b	Samlet behandlingstid og pauser
 e8511c37	Forudindstillinger
+e86c6807	Den stiger (større spredningsbidrag)
+e8afa1cb	Ved intern eksponering er dosis det samlede antal henfald i kildeorganet (kumuleret aktivitet Ã) gange S-værdien, der giver den energi, som når målorganet:
 e8f9a7ba	← Enkel startside
+e90246db	<b>Gradienter (dB/dt):</b> perifer nervestimulation og høj støj (> # dB); høreværn er obligatorisk over # dB(A).
 e934bbc7	Samlet behandlingstid
+e9427778	≈ # HU
 e9cef8c2	Elektroner har en endelig rækkevidde: ideelt til overfladiske tumorer. Tommelfingerregler: R5# ≈ E₀/# cm, Rp ≈ #·E₀ cm, terapeutisk dybde R8# ≈ E/# cm. Den lille hale i dybden kommer fra bremsestrålingsfotoner.
 e9eeaebf	ingen ioniserende stråling
 e9f3813b	Spædbarnets dosis (# % tæt kontakt)
+ea2e74ca	Rekonstruktion og Hounsfield-enheder
 ea3ff3b9	Casene er kun til undervisning, ikke til kliniske beslutninger.
 ea445006	NEMA-billedkvalitetsfantom
+ea48645c	Geometrisk uskarphed
 ea617450	Mistanke om appendicitis hos en gravid patient. Hvad skal komme først?
+ea778ea7	Den ændres ikke: arealet skalerer som d² og kerma som #/d²
 eab8f509	Filtrering: hæv HVL over # mm Al
 eac26593	Effektiv dosis (# cm)
 ead12e43	Comptonkinematik
@@ -1227,26 +1963,39 @@ eaeaaa7b	Forstå hvorfor
 eaf105c7	Fremhæv
 eaf5e11d	Hvis μ = # cm⁻¹, hvad er HVL?
 eaff7e77	eGFR # mL/min/# m², tager metformin. Hvad gør du med det jodholdige kontraststof?
+eb1ada30	En ferromagnetisk splint kan også bevæge sig ved # T og give blindhed, så den skal udelukkes først.
 eb1b05b8	Neutron
 eb267579	 (uden AC)
+eb2a1095	Intet — den samlede dosis er den samme
 eb2ba7e2	Felthøjde
+eb4d158b	Objektkontrast
 eb5ba0e3	#. Filtreret tilbageprojektion (FBP)
+eb6d0b86	# cm
 eb6d0c3f	Forberedelse af patienten
 ebb00912	ingen afskærmning nødvendig
 ebee5570	Emir: "Skal jeg holde vejret? Okay, jeg holder!"
 ec3c5945	Tip: siden »Teori« i topbjælken viser de vigtigste formler.
 ec3ea500	Modelnoter: MC bruger condensed history (Highlands multipelspredning); planlægningen er #D og ser bort fra lateral spredning.
+ec51e118	Filteret fjerner lavenergetiske fotoner, så middelenergien og dermed HVL øges.
 ec88aab2	Gennemført
+ecc43793	Enheden er becquerel (# Bq = # henfald/s); den gamle enhed er curie (# Ci = # GBq). Diagnostiske aktiviteter ligger i MBq, terapeutiske i GBq.
 ece35ca8	Prøv det i laboratoriet  →
 ece838e8	scanning
 ed03c7fc	≈ Delvist rigtigt
+ed23a0d1	Et target af beriget H₂¹⁸O beskydes med protoner, efterfulgt af FDG-syntese.
 ed465190	Mål: vis menisklæsionen og knoglemarvsødemet. Spinekko: S = PD·(# − e^(−TR/T1))·e^(−TE/T2). Vælg TR, TE, fedtmætning og B₀, og tryk derefter på KØR SEKVENS.
 eda30c59	Opgave fuldført: 
 edbd8b07	Vægtning
 eddfea6b	Hundredvis af kanaler × mange rækker keramisk scintillator. Den måler én projektion pr. vinkel; tilsammen danner de sinogrammet.
 edf0d031	Nulstil quiz
+edf5ddd0	<b>Statisk felt (B₀):</b> ferromagnetiske genstande bliver til projektiler. Tiltrækningen skalerer med B·dB/dz og er størst ved tunnelens åbning. En superledende magnet er altid tændt. Visse implantater (ældre pacemakere, aneurismeclips) er kontraindicerede.
+ee010b9e	PET
+ee14e5d2	Lineært med aktiviteten
+ee1fc13a	<b>Dioder og MOSFET'er:</b> små og følsomme, bruges in vivo og ved små felter; de viser energi- og vinkelafhængighed.
 ee5e0890	Kollimerer stramt til lungerne; ingen gonadebeskyttelse, og forklarer moren hvorfor
 ee69cbe6	Elif spørger grædende: „Har det skadet min baby?“ Estimeret fosterdosis ≈ 
+ee7232f8	R = #τ·S₁·S₂: begge singlerater stiger med aktiviteten, så tilfældige vokser som A² — en grund til, at for meget aktivitet ikke forbedrer billedet.
+ee792940	TMR er uafhængig af feltstørrelsen
 ee88a3cc	Ved helkropsscanning flyttes patienten gennem lejepositioner; det aksiale synsfelt er #–# cm, #–# m i long-axial-systemer.
 ee940d80	Lyst = høj svækkelse (knogle, metal). Vist efter radiologisk konvention: patientens højre side til venstre. Vinduet indstilles automatisk.
 ef57cd07	Blodsukker
@@ -1256,9 +2005,17 @@ efce91bf	Målt T½ (MC)
 efd604d5	Temperatur
 efd9baf3	Forhold Tc/Mo (transient ligevægt)
 f02abde8	Strålehærdning
+f03867ac	Forstørrelse (M) og geometrisk uskarphed (U_g) vokser med afstanden objekt–detektor (OID). Derfor tages røntgen af thorax PA (hjertet tæt på detektoren) ved # cm SID. Et lille fokus (f) giver skarpere billede, men begrænser rørets varmebelastning.
 f0565afa	Fraktioneret (fast d)
+f056bd95	Metoden efter NCRP # og #
+f07687d2	IEC ###: # W/kg i normal tilstand, # W/kg i kontrolleret tilstand på første niveau (under lægeligt opsyn).
+f0b3d9d9	Eksponeringsindeks og patientdosis
 f0c79167	Post
+f0d40ccc	Efter en #°-inversion giver et væv, der exciteres netop når dets Mz passerer nul, intet signal: TI_null = T1·ln2. STIR (TI ≈ #–# ms ved # T) nulstiller fedt, FLAIR (TI ≈ #–# ms) nulstiller CSF. Kemisk fedtmætning udnytter frekvensforskellen på # ppm mellem fedt og vand (≈ # Hz ved # T).
+f0dca9d4	<b>Luftspalte:</b> en afstand mellem patient og detektor får en del af spredningen til at ramme forbi detektoren, mod en forstørrelse.
+f0ff89cc	En ringartefakt
 f10c7001	Hastigheden: γ-stråling bevæger sig hurtigere end lyset
+f1897daf	Den lineær-kvadratiske model
 f1d69164	Halvværdilag (HVL)
 f1e3d43f	Gadolinium passerer placenta; under graviditet kun hvis det er uundværligt. MR uden kontrast er nok ved blindtarmsbetændelse.
 f1e5a8a5	Når kVp overstiger bindingsenergien for wolframs K-skal (# keV), opstår <b>karakteristiske</b> linjer: Kα ≈ #–# keV, Kβ ≈ #–# keV. Intensitet ~ (U − #)^#, U = kVp / E_K.
@@ -1267,51 +2024,89 @@ f215c98f	DI # → overeksponering (DI # ≈ # %, # ≈ #× dosis).
 f2586cb3	Felt (ved detektoren)
 f25c8ffb	Naturlig baggrund (verdensgennemsnit)
 f28c5bf6	Lektioner • interaktive figurer • quizzer
+f2b302fd	Hvordan ændres PDD i en given dybde, når feltet bliver større?
+f2dea7ee	PTV er det geometriske begreb, der sikrer, at CTV får den ordinerede dosis trods usikkerheder i lejring og bevægelse.
 f2e56345	Sæt blytykkelsen til HVL for Cs-# (≈ # cm), og se halveringen
+f2f04328	<b>OAR / PRV:</b> risikoorgan og dets planlægningsmargin (fx rygmarv + # mm).
 f2f0b95b	ventetid (t)
+f323dc10	At vælge det rette dosimeter er at vide, hvad man måler: ionkammer til referencedosis, film eller arrays til fordelinger, OSL/TLD til persondosis, GM-tæller til kontaminering.
+f351af88	TMR
 f38b9efa	#. Projektioner og radontransformationen
 f3952697	rekylelektron T
 f3987859	Rørydelsen stiger omtrent med kVp² og lineært med mAs: #% højere kVp fordobler omtrent detektorsignalet (#%-reglen).
 f3b48ff1	Stop hende: den superledende magnet er altid tændt, og ferromagnetiske genstande bliver til projektiler; kun MR-sikkert udstyr
+f3d4e34a	Områder klassificeres som kontrollerede eller overvågede efter forventet dosis, skiltes og har begrænset adgang. En mistet kilde, en uventet høj dosimeteraflæsning eller bestråling af forkert patient eller forkert sted er en hændelse: den registreres, grundårsagen analyseres, og om nødvendigt indberettes den til tilsynsmyndigheden (i Tyrkiet NDK).
 f3f36daf	Stråling med nok energi (≥ # eV) til at rive elektroner løs fra atomer.
 f425bff1	  → ekko forventet ved: 
+f43d0d9d	Med dosimeteret under forklædet
+f43d5d4c	I hurtigt prolifererende tumorer (hoved-hals) sætter repopulationen ind, hvis behandlingen varer længere end ~# dage, og det koster omtrent ~# Gy EQD2 pr. dag. Uplanlagte pauser skal derfor kompenseres (fx en ekstra fraktion i weekenden eller to fraktioner dagligt).
 f48a9bb6	Monte Carlo-dybdedosis, Bragg-top, behandlingsplanlægning, DVH, strålebiologi.
+f49bd7cf	Gøre vinduet smallere
+f4a0a51b	Automatisk rørstrømsmodulering (AEC) tilpasser mA ved hver vinkel og z-position til patientens tykkelse, holder støjen på et målniveau og optimerer dosis.
 f4a277c4	Planlægning
 f4a9c097	Filter
+f4eb467e	På detektorsiden (billedmodtageren)
+f50a6eee	PDD er defineret ved fast SSD, så dybere punkter ligger længere fra kilden; TMR passer til isocentrisk behandling.
+f565bd92	Ved accelereret repopulation tabes ~# Gy pr. dag: # dage × # ≈ # Gy. Derfor kompenseres pauser.
+f5b86b6b	Kvalitetskontrol: Mo-#-gennembrud i eluatet må ikke overstige # kBq Mo-# pr. MBq Tc-#m; det kontrolleres med en blybeholder, der stopper Tc's # keV men lader Mo's fotoner på # keV passere. Også indholdet af aluminiumioner og den radiokemiske renhed kontrolleres.
 f5c1b5b5	Feltstørrelse (ved overfladen)
+f5e265e2	Hvordan påvirker mere filtrering HVL?
 f5e305fa	Felt #×# cm: thorax er ≈ #×# cm; afblænd mere (DAP og spredning).
 f5efdcd1	# mg/L
+f5fce81d	Dimensionering af rumafskærmning
 f60d1c54	T2-vægtet billede: CSF lysere end hvid substans
+f62997ab	Hvordan virker et gadoliniumkontrastmiddel?
+f63ab85a	Anger-kameraet
+f6466836	Materialets densitet stiger
 f67cc940	Henfaldsmåde
 f6862a0b	Afskærmningens transmission (inkl. opbygning)
 f6d42ce8	Bragg-toppens dybde
 f6f22637	Styring
 f71b5abf	Biologisk effektiv dosis
 f728f992	gennemsnitlig voksen (# cm)
+f72b2c12	Hvad er det mest effektive beskyttelsestiltag ved et røntgenbillede af thorax hos et barn?
+f73eed5b	Patienter, der udsættes for medicinsk bestråling
+f77fcacc	Vand er # HU og luft −# HU; fedt ≈ −#, lunge ≈ −#…−#, bløddele #…#, knogle #…# HU. Da μ afhænger af energien (især for knogle og jod), ændres HU-værdierne med kVp.
+f7b242ee	# Gy
 f7c4fef9	»Tak, du var meget omsorgsfuld!«
+f7e06859	Hvad bestemmer midten af k-rummet?
 f80ba400	Sådan bruger du denne del
 f810e311	Rektum-EQD2 (α/β #) = # Gy — acceptabel.
+f82c600a	Ækvivalent dosis
+f830e238	Produktet K·A er uafhængigt af afstanden, derfor kan DAP måles med et kammer på rørets kollimator.
 f8486832	Brug kun midten af k-rummet: kontrasten bevares, detaljerne går tabt
 f84b8da5	Forkert og angstskabende ved ekstern strålebehandling.
+f862b10b	Den rumlige opløsning
 f8c4150d	# MeV e⁻
 f8d6f331	Oprindelsen: røntgenstråling kommer fra elektroner, γ fra kernen
 f900a313	Søde, bliver der et ar i ansigtet? Og pas nu på mit øje.
+f92bb98e	Hvordan opstår det meste DNA-skade ved stråling med lav LET?
+f93ff2ec	Den samme fysiske dosis giver forskellige biologiske effekter for forskellige strålingstyper. Ækvivalent dosis er H_T = Σ w_R D_T,R. Strålingsvægtfaktorer (ICRP #): # for fotoner og elektroner, # for protoner, # for α og #–# for neutroner afhængigt af energien.
 fa033cd5	Mission: hent kilden
+fa42bc08	At estimere fosterdosis er den medicinske fysikers opgave: ved CT er fosterdosis ≈ SSDE, når livmoderen er i feltet.
 fa73ce08	Godt arbejde — et par punkter kan forbedres.
 faa8e755	FLAIR: TI = T1·ln2 nulstiller CSF (≈ # ms ved # T). STIR: en kort TI undertrykker fedt (≈ #–# ms).
 fad26615	Sender B₁-pulser med larmorfrekvensen (~# MHz ved # T), som vipper M. Vævsopvarmningen (SAR) kommer herfra.
 fae02622	Orbitarøntgen: INGEN metallisk fremmedlegeme. Undersøgelsen gennemføres.
+faf2ae6e	Hvordan adskiller TMR sig fra PDD?
 faff56b8	Forløbet tid
 fb079007	Dosis pr. fraktion d
+fb1c3fc2	Beton er tættere end bly
+fb4411db	Snittykkelse
 fb5419ac	Underdoserede kanter → risiko for recidiv; R9# bliver desuden mere overfladisk i meget små felter.
 fb77122a	Start den første case
 fb8da0b7	Blindtarmsbetændelse under graviditet: UL → MR uden kontrast → lavdosis-CT ved behov.
 fb990b3e	★★★ ≥ # %, ★★ ≥ # %, ★ ≥ # %. Dit bedste resultat gemmes; spil igen for at forbedre det.
 fba0b4a2	Cosinus
 fbb64dbd	Rørspænding
+fbb96484	En RF-puls ved Larmor-frekvensen vipper M væk fra B₀ (en #°-puls lægger den i transversalplanet). Den roterende transversale magnetisering inducerer en strøm i modtagerspolen — det frie induktionshenfald (FID). Resonansbetingelsen gør, at MR kun exciterer den valgte kerne og placering.
+fbc6d057	Alternativer (ultralyd, MR) kommer først; er CT nødvendig, bruges en lavdosisprotokol og en begrænset scanlængde.
+fc01ae34	Ved fission af uran i en reaktor
+fc44dba7	Systemopløsning ≈ #–# mm (ved # cm); intrinsisk opløsning ≈ #–# mm.
 fc6adbf7	Indgangsfladens luftkerma (ESAK)
 fc7e5fc3	Tællestatistik # — mere aktivitet end nødvendigt; den ekstra dosis tilføjer ingen diagnostisk værdi.
 fc82911d	relativ
+fca25fac	Protoner og Bragg-toppen
 fcdeb802	overeksponeret
 fcff6168	Bækken
 fd4e03b8	Tid pr. lejeposition
@@ -1322,11 +2117,16 @@ fd9045b9	#–# kV trænger bedre igennem store patienter: færre mAs for samme s
 fddaa9d0	Konformitetsindeks (Paddick)
 fe0012eb	Forældet råd; unødvendigt ved eGFR ≥ # og forsinker diagnosen.
 fe2bb7a7	Vikle et blyforklæde om bækkenet
+fe67e3af	k-koefficienterne (mSv pr. mGy·cm) for voksne er: hoved #, hals #, thorax #, abdomen og bækken #.
 feb29647	Polyenergetisk stråle (realistisk)
 feb7cede	Hypertension (velbehandlet)
 febab6f7	IGRT: før behandlingen tages et kV-billede eller cone-beam-CT (CBCT), og patientens leje korrigeres på millimeteren.
 fec9a6c7	Daglig kV-billeddannelse / CBCT med matching på guldmarkørerne
+fed90ed4	Et negativt DI betyder, at detektordosis ligger under målet (−# ≈ # % for lavt), og kvantestøj kan forringe diagnosen.
 ff1483ac	Pacemaker (titan)
+ff3f9ab4	<b>Raster:</b> blylameller absorberer spredt stråling (rasterforhold #:#–#:#) på bekostning af dosis — buckyfaktor #–#. Ved kropsdele tyndere end #–# cm og hos børn er et raster som regel unødvendigt.
 ff559aca	Can: "Godt, I gav mig høretelefoner. Her kommer lydene!"
+ff801f8c	Katarakt
 ff97f266	Middel fotonenergi
+ffe8e8a6	Gy(RBE) = # × fysisk dosis; må ikke forveksles med ICRP's strålingsvægtfaktor til strålebeskyttelse w_R = #.
 ffedd789	Ammer et barn på # måneder

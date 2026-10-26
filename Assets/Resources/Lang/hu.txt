@@ -1,34 +1,47 @@
 002e566d	Klinikai esetek
 005ef20f	Állapot
 006f11ff	Tüdőgóc (daganat)
+007cc916	<b>Szeletkiválasztás:</b> gradiens az RF-impulzus alatt, így a keskeny sávú impulzus csak egy szeletet gerjeszt.
+00af857c	A # vagy # cm-es PMMA-fantomban definiált átlagdózis — nem a beteg dózisa.
+00cb23fb	<b>Indokoltság:</b> minden sugárzással járó tevékenységnek több hasznot kell hoznia, mint kárt; az orvoslásban ezt minden egyes vizsgálatnál mérlegelik.
 00e896c1	Mérd meg a dmax-ot és a PDD1#-et # MV-os fotonoknál (≥ # # történet)
 00e97d3d	Egyáltalán nincs kockázat.
 01446da3	Kontrasztos vér
+01703bea	<b>Kollimálás:</b> csökkenti a besugárzott térfogatot, így a szórást és a dózist is — a legfontosabb lépés.
 01b10287	Máj
 022ebff6	  — olvasd el a magyarázatokat, és próbáld újra.
 02307551	A sugárvédelem három alapelve: indokoltság, optimálás (ALARA: az ésszerűen elérhető legalacsonyabb szint) és dóziskorlátok. Munkavállaló: # mSv/év (# év átlagában, egy évben max. #), lakosság: # mSv/év, szemlencse: # mSv/év.
+023478eb	Spin, Larmor-frekvencia és mágnesezettség
 0282b42b	Nincs rács: helyes választás vékony gyermekmellkashoz.
 02875262	Vérnyomás
 028cc680	Széles mezőt nyitok, és ólmot teszek a pajzsmirigyre
+02943f2b	# Sv
 02daa186	Gradiensecho
 02ff0734	óra
 03410798	Kezdés a(z) #. leckével  →
+03a5ffee	<b>Primer védőfal:</b> olyan fal, amelyet a nyaláb közvetlenül eltalálhat (U < #).
 03aded2d	Proton
+03bd2a69	# %
 03d9f12f	MEGERŐSÍTÉS
+03ee7f99	Dózis-terület szorzat
+04031976	Egy daganatban # kBq/mL mérhető; egy # kg-os beteg # MBq-t kapott (bomláskorrigálva). SUV = # / (# # / # #) = # / # = #.
 04215fff	Besugárzófej
 04665812	Átlagos energia (belépés / detektor)
 04b21fef	Csak a periféria
 04c33449	Kezdeti atomszám N₀
+04d7b85a	Elég leragasztani a szemet
 05446544	Ionizáló sugárzás
 054ed6b1	#. Protonok és a Bragg-csúcs
 0551e426	Szupravezető mágnes
 05735a1f	A vizsgálat alatt hangos kopogás hallható. Oka és óvintézkedés?
 05747e6b	Jelenlegi ajánlások (AAPM #, BIR/IPEM #): a kollimálás a leghatékonyabb védelem. A mezőn kívüli gonáddózis már így is csekély; a mezőbe csúszó védő eltakarja az anatómiát, és az automata expozíció megemeli a dózist.
 05883f18	Dózisteljesítmény H*(#)
+05a40e0d	Az izom jelét
 05aeb14d	Felesleges dózis a szemre és az ép arcbőrre.
 05b19ab8	Tanulási tippek
 05b21be8	Tumor EQD2 = n·d·(d + #)/(# + #) = # Gy — kuratív tartomány.
 05f6dc9a	B₀ főtér
+0682d944	DVH és dóziskorlátok
 069d81b7	 csatorna
 06ba43bc	Minden gömb egy atommag. Minden időlépésben p = # − e^(−λΔt) valószínűséggel bomlik el, és fotonvonalat bocsát ki; kevés magnál N(t) statisztikusan ingadozik.
 06df51de	Beadott aktivitás
@@ -39,64 +52,97 @@
 07ef138f	SZEKVENCIA INDÍTÁSA
 0827bee2	Dóziskorlátok (ICRP #)
 086c6bbb	Színek: #%·#%·#%·#%·#%-os izodózisok. Kontúrok: zöld PTV, sárga gerincvelő, piros szív, rózsaszín tüdő.
+08b1f023	<b>Várandós munkavállaló:</b> a terhesség bejelentése után a magzati dózis a terhesség hátralévő részében ne haladja meg a ~# mSv-et.
 08c92619	A gyermekek #–#× sugárérzékenyebbek a felnőtteknél, és hosszú várható élettartamuk van → az ALARA még fontosabb.
 09138ded	Nem akarok műtétet. Milyen ez a sugárkezelés, fáj?
+094a7633	β⁻-bomlás
 096813ae	Zaj (σ, homogén terület)
+096b4d6f	Radiokróm film
 098d1ad9	Máj radioembolizációja (SIRT)
+09aa91b9	Az elsődleges nyaláb ellen
 09c4871c	Melyik kölcsönhatás dominál egy # MeV-es fotonnál lágyszövetben?
+09e38d90	Örökletes mutáció
 09f71920	Larmor-frekvencia
 09feeabb	Hasonlítsd össze a # MeV-es protonok Bragg-csúcsát a NIST CSDA-hatótávolsággal
+0a2d132a	Kit ellenőriznek, és hogyan?
+0a2d70d0	Szűrt visszavetítés: a projekciókat rámpaszűrővel szűrik, majd visszavetítik.
+0a43bb10	BED = # × (# + #/#) = # Gy. α/β = # esetén # Gy lenne.
 0a496fc5	Magzati dózis ≈ SSDE (a méh teljesen a mezőben). Diagnosztikus zajhatár ≈ # HU (alacsony dózisú appendicitis-protokoll). Válaszd ki a kV-t, a mAs-t, a pitch-et és a vizsgálati hosszt, majd nyomd meg: SZKENNELÉS.
 0a52c35c	T1-súlyozott
 0aa78268	Hipofrakcionálás: a prosztata α/β-ja kisebb a végbélénél, így a nagy frakciók a daganatot kezelik hatékonyabban (CHHiP #/#, PACE-B #/#), és a betegnek ritkábban kell bejárnia.
+0ac75168	Ha a dózisteljesítmény # µSv/h # m-en, mennyi # m-en?
 0ac8a560	Alaphelyzet
 0acf4d25	Nagyobb szöveg
+0b2830b9	SUV
+0b2a90c5	MIRD
+0b3d4df2	Gyermekek
 0b4677ab	EANM: glükóz < # mmol/L (≈ # mg/dL). A hiperglikémia versenyez az FDG-vel, és csökkenti a daganat felvételét.
 0b4d8f40	túlélő hányad
 0b81ff1c	Felső állcsont ≈ # cm-rel a lézió alatt
 0b8b3199	Dóziskorlátok (QUANTEC / RTOG)
 0bbe8b9f	Valós idejű Monte Carlo: minden nyom egy részecske. Több történet = kisebb statisztikus zaj (σ ~ #/√N).
+0be48cca	As Low As Reasonably Achievable — a dózisok olyan alacsonyan tartása, amennyire az észszerűen elérhető, a gazdasági és társadalmi tényezők figyelembevételével.
+0c088256	Az ICRP # ~# Gy-es szürkehályog-küszöböt állapított meg, és a korlátot # mSv/évről # mSv/évre csökkentette — ezért fontos az ólomszemüveg az intervenciós kardiológiában.
+0c13aa12	Mit csinál a rámpaszűrő az FBP-ben?
 0c1c4f42	Sugáronkológia: kuratív EBRT, prosztata ± ondóhólyagok (Dr. Kılıç)
 0c2610e2	Szakadás/meniszkusz CNR #: a szakadás jól látszik (folyadék világos, meniszkusz sötét PD/T2-n).
 0c433245	Alacsony daganat/háttér arány → stádiumbeosztási hibák kockázata.
 0c903e49	Ólomzárak határolják a mezőt: kevesebb betegdózis és szórás. Az Al/Cu szűrés eltávolítja a kis energiájú fotonokat, keményíti a nyalábot és csökkenti a bőrdózist.
 0ccd4680	Gömb / háttér arány
+0cd9d0ad	Miért használnak alacsony kVp-t a mammográfiában?
 0ce92428	CTDIw: # cm-es test- (# cm-es fej-) fantom; E = DLP × k (mellkas #, has #, fej # mSv/mGy·cm).
 0d78d08a	Építs egy # cm széles SOBP-t
+0d816b59	A TMR csak elektronokra van definiálva
 0db9cc3e	Pulzus
 0dec8195	Alkalmazz #° – τ – #° sorozatot, és hozz létre spinechót
 0e1a0a7b	egyszeri dózis, α/β = # (korai / tumor)
 0e32111a	Nyaláb
 0e629e6c	Új időpont: ≥ #–# óra éhezés, a vércukor legyen < # mg/dL
+0efb8aba	Mekkora a proton Larmor-frekvenciája # T-n?
 0f01dfcb	Következő elúciós idő
 0f6a0301	#×# cm-es applikátor, kivágás nélkül
+0ff0ece3	Az erő B·dB/dz-vel arányos; középen B a legnagyobb, de dB/dz ≈ #, a bejáratnál viszont a szorzat maximális.
 0ff4383c	Várandós munkavállaló (magzat)
 10225e52	Kortikális csont
+10446e37	Nyalábkeményedés (cupping)
+105d6ef1	A felvett jelek kitöltik a k-teret, és a kép ennek #D Fourier-transzformáltja. A k-tér közepe hordozza a kontrasztot és az összjelet, a széle a finom részleteket és éleket. Spinechónál TR-enként egy sort vesznek fel.
 10bddc32	A szemben lévő ferromágneses szilánk elmozdulhat B₀-ban és vakságot okozhat → előbb orbitafelvétel (vagy CT).
 10bee102	Eltérési index (DI)
+10ea12d4	Tüdő, vastagbél, gyomor, emlő, vörös csontvelő és egyéb szövetek: #; pajzsmirigy #; bőr #.
 10f562e1	Gyors hatású inzulint adok, és azonnal beadom
 10f6a1bd	Lineáris-kvadratikus modell • BED
+11021e45	Mammográfia
 113249ae	Készíts fotonos tervet, amely minden dóziskorlátot teljesít
 114fa830	A sokleveles kollimátor (#–# mm-es levelek) a daganathoz igazítja a mezőt, és IMRT/VMAT során besugárzás közben mozog.
 116e6f62	Hologram
 11a18b82	Mind eltávolítása
 11a4e77a	Diagnosztikai / kezelési minőség
+11a6d3ed	A prosztata α/β-ja (~# Gy) kisebb, mint a környező késői szöveté (végbél ~# Gy)
+11be0e65	A szürkehályognak küszöbe van (ICRP #: ~# Gy), és súlyossága a dózissal nő; a rák és az örökletes hatások sztochasztikusak.
+120a6115	Beteg, család és személyzet
+120fdb1f	Brachyterápia (TG-#, pont)
+122b6e24	TR = # ms, # fáziskódoló sor, NEX = #: egy hagyományos spinecho # × # = # s ≈ # perc; egy ETL = # értékű turbó spinecho #/# = # s.
 124f5fe7	Fehér / szürkeállomány kontraszt (a jelölőnél)
+1264df05	Terhesség, gyermekek és kockázatkommunikáció
 129b582e	DI # → helyes expozíció.
 132d55ba	relatív fotonszám
 134c264b	Fémműtermék: vizsgálj egy medenceszeletet a csípőprotézissel
 135a8cc7	 órával utána
 136685c9	EQD2 tumor (α/β #) = # Gy, késői bőr (α/β #) = # Gy. Jó egyensúly a tumorkontroll és a kozmetikum között.
 1370333f	Mezőszélesség
+138168c1	Mekkora egyenértékdózist ad # Gy α-sugárzás?
 138fb3e1	Helyes: I/I₀ = e^(−μx). Mivel σ ~ #/√N, azonos mAs mellett a zaj ≈ √# ≈ #×-esére nő.
 13ad4851	β-hCG POZITÍV: kb. # hetes terhesség.
 13bea53e	# arany jelölőmarker beültetve
 13f06473	Mérések törlése
+1425444e	# MV, #×# cm²-es mező, # cGy az izocentrumba # cm mélységben. Kalibráció: # cGy/MU d_max-ban az izocentrumban. TMR(# cm) ≈ #, S_c = S_p = #, ISF = #. MU = # / (# × #) ≈ # MU.
 1451f91f	valós 
 14d5133a	ACR (#) és ESUR #: a metformin eGFR ≥ # mellett folytatható; tályog kimutatásához iv. kontrasztanyag kell.
 14e77c03	Előrehaladás törlése
 151c3f35	Detektorgyűrű (LYSO + SiPM)
 1527c7a5	Fedezd fel az orvosi fizikát kis lépésekben, valódi számításokkal.
+154a1ae4	Mi a nagyobb tér (# T) fő előnye?
+158c91bf	≈ # MBq
 15b23cec	 pont
 15c3229f	α/β daganat
 15cf43c6	A kV-forrással szemközti síkdetektor; a gantry forgása közben több száz vetületet gyűjt a CBCT-hez.
@@ -107,64 +153,115 @@
 16280e6a	A betegtől eredő dózisteljesítmény ~ A/d²; F-# T½ = # perc. A szoros kontaktus néhány órás halasztása erősen csökkenti a csecsemő dózisát.
 1640e3a4	távolság (m)
 164b6930	Mérés rögzítése
+167d88c8	≈ # MHz
 16b19be2	kVp-hatás: exponálj ≤# kVp-n és ≥# kVp-n; hasonlítsd össze a csontkontrasztot
 16d4a955	Sugárterápia
+16f6a6d1	SAR
 17098140	Prosztata-adenokarcinóma, közepes kockázat (Gleason ##, PSA #)
 1716fced	Magzati dózis ≈ SSDE = # mGy (CTDIvol # × f #).
 1725def4	A K-vonalakhoz a beeső elektronnak meg kell haladnia a K-héj kötési energiáját, ezért a volfrám K-vonalai csak # kVp felett jelennek meg.
 17278db5	Energia
+174431ff	Diagnosztikai energiákon (a fotoeffektus dominál) az ólom nagyon hatékony: #–# mm Pb a fotonok #–# %-át elnyeli # kVp-n. MV-energiákon (a Compton-szórás dominál) a gyengítés az elektronsűrűséget követi, ezért a kezelőhelyiségekhez olcsó, vastag betont használnak. A neutronokhoz hidrogéntartalmú anyagok kellenek (polietilén, bóros beton).
+176d6111	Melyik bomlásmód a PET alapja?
 17a150b4	Igen — a karakterisztikus vonalak nem függenek a kVp-től
 17a890d2	Megmaradt magok N(t)
 17c2afe2	Lágyszövetben kb. # keV alatt a fotoeffektus dominál, # keV és ~# MeV között a Compton-szórás, afölött a párkeltés. Nagy rendszámú anyagokban, például ólomban, a fotoelektromos tartomány kb. # keV-ig terjed — ezért jó árnyékoló az ólom.
 17cd8fa8	 lecke • 
+17e23d13	Az átmeneti erythema ~# Gy bőrdózisnál kezdődik; hosszú intervencióknál a csúcs bőrdózist figyelni és dokumentálni kell.
+17f14029	Növeli a B₀-t
+17f5c6dc	Miért előnyös a hipofrakcionálás prosztatarákban?
+17fda0a4	Ionizációs kamra
 1808f4a6	Lágyszövetben kb. # keV és # MeV között a Compton-szórás dominál. Párkeltés # MeV-es küszöbe alatt egyáltalán nem jöhet létre.
 18279c08	Kiszélesített Bragg-csúcs (SOBP)
 18284597	<b>Expozíciós index</b> EI = # × K_detektor [µGy] (IEC ##). Eltérési index DI = #·log₁₀(EI / EI_cél); |DI| ≤ # megfelelő. DI = # a szükséges dózis kétszeresét jelenti.
 182fdbbe	EANM (ágyátfedés > # %): A·t ≥ # MBq·min·kg⁻¹ × testtömeg. Kevesebb aktivitás + hosszabb idő ugyanazt a képet adja kisebb dózissal. Ajánlott felvételi (uptake) idő: # ± # perc.
 18674089	<b>Koherens szórás:</b> a foton energiaveszteség nélkül változtat irányt; kis járulék alacsony energiákon.
+188a8059	LET és biológiai hatás
+189d2fc2	Honnan származnak?
 18d0a565	Mellkas-CT
 1904dc9d	EANM-ajánlás
 19201036	Idő–távolság–árnyékolás, fordított négyzetes törvény, dózisteljesítmény-térkép, küldetések.
 193ee1fd	Kiszélesített Bragg-csúcs (SOBP, # cm)
+195d68ba	Farmer ionizációs kamra
+197560c4	A transzverzális mágnesezettség lecseng, mert a spinek kölcsönhatnak és elvesztik fázis-koherenciájukat — spin-spin relaxáció, T2. A gyakorlatban a térinhomogenitások gyorsítják a defázisolódást, így a megfigyelt lecsengés T2* < T2. Egy #°-os refókuszáló impulzus (spinecho) kioltja a statikus inhomogenitásokat, és visszaadja a valódi T2-t.
+19a0d56e	Töltöttrészecske-egyensúly (CPE)
+19a49e9f	IGRT
 19b5eb24	Ökölszabály: R9# ≈ E/# cm, R5# ≈ E/# cm, Rp ≈ E/# cm. Az elektronok éles mélységben megállnak — ideálisak felszíni daganatokhoz.
 19c23656	 óra várakozás
+1a0c0de0	# mSv
 1a36a166	Előrehaladás
+1a3806f2	Mekkora a BED # Gy × # = # Gy esetén egy α/β = # Gy-es szövetben?
+1a8231be	Elnyelt dózis
+1aa52b11	A pozitron egy elektronnal két ellentétes irányú # keV-es fotonná annihilálódik, amelyeket a PET koincidenciában detektál.
 1ace7035	Síkdetektor
+1ad4cee2	Diagnosztikai referenciaszint: az országos eloszlás #. percentilise. Optimalizálási eszköz, nem határérték.
 1b01a1c6	Az atom egy Z protonból és N neutronból álló magból és az azt körülvevő Z elektronból áll. A tömegszám A = Z + N. Az azonos Z-jű, de eltérő N-ű magok izotópok, például a ¹²C és a ¹⁴C.
 1b06e46e	Gyűjts ≥ # # koincidenciát, és rekonstruálj MLEM-mel
 1b12fad7	#-es típusú cukorbetegség (metformin)
+1b3d5f37	A töltött részecske számtalan kis Coulomb-kölcsönhatást szenved a közeg elektronjaival, és folyamatosan veszít energiát. Az egységnyi úton elvesztett energia a fékezőképesség S = −dE/dx (MeV/cm), amelyet tömegfékezőképességként S/ρ (MeV·cm²/g) is megadnak.
+1b97c482	Az RF-impulzus után a longitudinális mágnesezettség visszaáll, ahogy a spinek energiát adnak át környezetüknek (a rácsnak) — spin-rács relaxáció, T1. A zsír T1-e rövid (~# ms # T-n), a folyadéké hosszú (liquor ~# ms); a T1 B₀ növekedésével nő.
+1b9905a7	Térbeli kódolás és k-tér
 1bbe9bf8	Mehmet: „Karok a fej fölé? Rendben.”
 1be9e2d9	A felezőréteg (HVL) az a vastagság, amely felére csökkenti az intenzitást: HVL = ln2/μ. A tizedelőréteg TVL = ln1#/μ ≈ # HVL. n felezőréteg #ⁿ-szeresére csökkenti az intenzitást.
+1c0f8606	A zaj felezéséhez a mAs-t (és a dózist) meg kell négyszerezni. Alternatívaként # mm-ről # mm-es szeletre váltva is feleződik a zaj, a z-irányú felbontás rovására.
+1c3ba3dc	A várandós beteg
+1c4e4f9c	Fékezőképesség
+1c7776da	A véletlen hibák egyáltalán nem számítanak
 1c872a31	igen (> # MV)
 1ca87565	A bőrjelek és a lézerek elegendők
 1cb740a3	<b>Távolságnégyzet-törvény:</b> intenzitás ~ #/d². Ha a SID # cm-ről # cm-re nő, ugyanakkora detektordózishoz ~#× mAs kell, de a bőrdózis kevésbé nő, és a nagyítás csökken.
 1cc0e3d5	Az anya megkérdezi: „Árthat ez a röntgen a fiamnak?” Emir effektív dózisa ≈ 
+1d38faf9	A melegebb levegő kevesebb gázt jelent a kamrában és alacsonyabb leolvasást. A TRS-# referenciája # °C és # kPa. # °C-on és # kPa-n k_TP = (##)/(##) × #/# ≈ # × # ≈ #. E korrekció nélkül a dózis # %-kal alacsonyabbnak adódna.
 1d4b8ac2	Azonnal beadom
+1d6a995e	A szisztematikus hiba minden frakciót ugyanúgy tol el, és tartósan elmozdítja a dózist
 1d6b9aba	Az organogenezis idején (#–#. hét) a determinisztikus küszöb ~#–# mGy; a diagnosztikai vizsgálatok messze alatta maradnak.
 1d8a20dd	Mehmet hasa 
 1dd9a37f	Nem standard felvételi idő: az SUV-ok nem vethetők össze korábbi/későbbi vizsgálatokkal.
+1ddd0e0d	Mellkasfelvételnél a tüdő # mGy-t, az emlők # mGy-t kapnak (a többi elhanyagolható). E ≈ #·# + #·# = # mSv ≈ # mSv — kb. # napnyi természetes háttérsugárzás.
+1e466356	A protonok dózisuk nagy részét a Bragg-csúcsban adják le, mögötte pedig szinte semmit, míg a fotonok a céltérfogat mögött is jelentős kilépő dózist adnak. A protonterápia ezért jelentősen csökkenti az integrált dózist, különösen gyermekeknél és kritikus szervek (szem, koponyaalap, gerinc) közelében lévő daganatoknál.
+1e4f76b7	Inverziós nullpont
 1e6a827e	Határozd meg a proton Larmor-frekvenciáját # T-n (≈ # MHz)
+1e788d30	A gammakamera kollimátorból, nagy NaI(Tl) kristályból, fotoelektron-sokszorozókból (PMT) és hely-/energiaelektronikából áll. A kristályban elnyelt foton fényfelvillanást kelt; a PMT-jelek súlyozott átlaga adja az esemény helyét (Anger-logika), összegük pedig az energiáját.
 1e836d59	T2-lecsengés
+1e96362a	A protonok szinte egyenes vonalban haladnak. Dózisuk nagy részét hatótávolságuk utolsó néhány milliméterén adják le, utána a dózis közel nullára esik. A hatótávolságot az energia élesen meghatározza (Bragg–Kleeman-szabály: R ≈ #·E^#). Az egyes protonok kissé eltérő mélységben állnak meg (hatótávolság-szórás), ezért a csúcs néhány mm széles.
+1e9e1a29	A vonalfókusz elve: a ferde anód nagy felületen osztja el a hőt, miközben a detektor felől látott effektív fókuszfolt kicsi marad. A sarokhatás miatt a nyaláb anód felőli oldala kissé gyengébb.
+1ef452c8	S_col ~ (z² / v²) · ln(# m_e v² / I)        (I: átlagos gerjesztési energia; vízre ≈ # eV)
 1f05f68e	Szöveti paraméterek
 1f12087d	Dózis ≈ 
+1f2ecf71	Zaj
 1f4ea376	Kezdeti Mo-# aktivitás
 1f6b3b4a	Csont (# cm) # % — kímélve.
+1f956563	Tervezési technikák
+1fe5d236	A röntgencső és a spektrum, a képalkotás, kontraszt és zaj, szórt sugárzás és rácsok, detektorok, EI/DI, betegdózis; átvilágítás és mammográfia.
+2009a0a3	Mit nyújt az ólomkötény egy PET-nyomjelzőt készítő asszisztensnek?
+200b57d8	A CT egy szelet gyengítési profilját minden irányból méri a beteg körül forgó csővel és a vele szemközti detektorsorral. Minden detektorelem a saját sugara mentén vett μ-integrált látja:
 20170133	Fogtömések
 2056fe0a	A Co-# PDD-je alacsony, félárnyéka széles; a modern kuratív prosztata-sugárterápiában nem használják.
 20c4a5a9	Bőrnézet
 20c53222	Válassz bármilyen témát. Ha új vagy, először próbáld ki a rövid kezdő esetet.
 20caf1bb	Eluáld a generátort #–# órával az előző elúció után (maximális hozam)
+20daffb6	Ha egy szövet μ-je # %-kal nagyobb a vízénél, mennyi a HU-értéke (μ_levegő ≈ #)?
+20e5e537	<b>Pajzsmirigyvédő gallér és ólomszemüveg:</b> átvilágításnál és intervenciós beavatkozásoknál.
+20e99949	Dózismennyiségek
 210acf6e	Hasan: „Hány napig kell bejárnom? A faluból utazom.”
+2128d576	A felszín közelében kevesebb elektron lép be, mint ki; a dózis az elektronok hatótávolságán (d_max) épül fel, amíg megközelíti a kermát.
 218447b4	Zsír
+21ce1114	A terhességet meg kell szakítani
 21db31eb	Rövid TR/TE → T1; hosszú TR, rövid TE → PD; hosszú TR/TE → T2-súlyozás.
 21f331e9	# vállartroszkópia: titán horgonyok
+221c38d0	A kis α/β-jú szövet érzékenyebb a nagy frakciókra. Mivel a daganat α/β-ja a végbélé alatt van, azonos késői toxicitás mellett nagyobb biológiai tumordózis érhető el.
+22392fc6	A Mo-#/Tc-#m generátor
 224a7dd2	Külső besugárzásnál nincs ilyen korlátozás; brachyterápiás szemcséknél lehet.
 229566cb	Hasan: „Megölelhetem az unokáimat a kezelés után? Radioaktív leszek?”
 22a06b53	ALARA: mellkasfelvétel ESAK < # mGy és DI ≥ −# mellett
+22a87b76	<b>Generátor:</b> egy hosszú életű anyaelem rövid életű leányelemet termel: Mo-#/Tc-#m, Ge-#/Ga-#.
+22d2c2ce	Elég egy kisebb terű (# T) készüléket használni
 22fd0749	A napi IGRT korrigálja a szervmozgást, így csökken a margó és a végbéldózis.
 2357d727	Nyalábfizika
 23f641a4	• Minden képletben ellenőrizd a mértékegységeket (cm⁻¹, Gy, Sv, MBq). • A kidolgozott példákat előbb oldd meg magad, aztán ellenőrizd. • A próbavizsga után ismételd át a rosszul megválaszolt kérdések leckéit. • Felvételin leggyakrabban: ICRP-elvek, felezőréteg, távolságnégyzet-törvény, LQ/EQD2, CTDIvol/SSDE, T1/T2, PDD és a Bragg-csúcs.
+240febd8	I-#
 24176da5	Mo-# / Tc-#m generátor
+243eddb1	Geometria
 2448ca2f	ólom
 2456b993	Kontraszt
 2523a664	Menj a forráshoz (< # m), vedd fel, és vidd az ólomtartályhoz.
@@ -172,128 +269,214 @@
 252a0fa6	árnyékolatlan
 253898c0	Beütésszám-elégségesség # — EANM-szintű képminőség.
 25517e15	Bragg-csúcs
+255b2c81	Csökkenti a zajt
+256cadab	R ≈ #·E^#   (víz, R cm-ben, E MeV-ben)
 2576aae7	Testtömeg / magasság
+258734b7	<b>Nyalábkeményedés:</b> cupping (sötét közép) és sötét csíkok sűrű csontok között; a vízkalibráció korrigálja a cuppingot.
 25941612	Csontdózis (# cm)
+25a52545	Az I-# esetén T_fiz = # nap; legyen a pajzsmirigy T_bio-ja # nap. T_eff = (# × #)/(# + #) = # nap — mindig rövidebb a kettő közül a kisebbnél.
 25b31f5d	Csőhozam (# m)
 25c2fc03	Nem található kérdés.
 25e14a19	Áram × idő
 25edd5e3	proton- és elektron-fékezőképesség és hatótávolság referenciák
+25f0ba98	Az ICRP # az α-ra w_R = # értéket ad: H = # × # Gy = # Sv.
+260c9112	#
+26abae68	HU = # × (# μ_w − μ_w)/μ_w = # × # = # — lágy szövetre jellemző.
 26f973b0	Gyengítéskorrekció (AC)
 26fbd2ec	Mi különbözteti meg a röntgensugárzást a γ-sugárzástól?
+271d6d1e	<b>Szekunder védőfal:</b> a betegről szórt sugárzás és a sugárfej szivárgási sugárzása ellen (~# % a munkaterhelésből); U = #.
 2731d14d	ESET INDÍTÁSA  →
 2749a496	A beteg effektív dózisa
+274a6a69	TR / TE
+27b867bb	BED és EQD2
 27c35a89	 (T2-veszteség: e^(−TE/T2))
 280f0096	Kezdd az első eseteddel
+285171e9	Az I-# átjut az anyatejbe, és a csecsemő pajzsmirigyében dúsul; terápiás aktivitásnál az adott gyermek szoptatását befejezik.
 287f6fa8	Leadott frakciók
 2885d27b	Szórtsugárrács (#:#)
 28a6f0c2	Grafikon
+28b66559	A #°-os impulzus megfordítja a fázisok sorrendjét, így a statikus inhomogenitások TE-nél újra fókuszálódnak; a véletlen spin-spin kölcsönhatások (T2) nem fordíthatók vissza.
 28ce8c15	A detektorok magát a pozitront mérik
 290489df	Egységnyi úthosszra eső kölcsönhatási valószínűség (cm⁻¹); μ/ρ a tömeggyengítési együttható (cm²/g).
 296d75eb	Sugárbiológia
+299d31a2	SUV = C_szövet / (A_beadott / testtömeg)
 29aac115	egyszeri dózis, α/β = # (késői)
 29e178a3	Beszélgetés a családdal
 29e32f3e	Recepció
 2a17c8fd	Májzaj # HU: egy kis kontrasztú tályog elveszhet a zajban.
 2a72143f	Szükséges a pultnál < # µSv/h-hoz
+2ab5c9fc	<b>Ciklotron:</b> protonbombázás; az F-# dúsított vízből készül a ¹⁸O(p,n)¹⁸F reakcióval. T½ = # min miatt regionális ciklotronokból terjesztik.
 2ab93b6c	Cél: mindenhol ≥ # % dózis a bőrtől # cm mélységig; a csontnál ≤ # % (# cm mélyen). Válassz energiát és bólusvastagságot.
+2aca6a7c	Egy elúció után nagyjából mennyi idő múlva éri el a csúcsát a Tc-#m aktivitása a generátorban?
 2ad83ea8	SZKENNELÉS
+2aecbbea	Az alacsony térfrekvenciák középen vannak: a közép nélkül a kép elveszíti kontrasztját, a szél nélkül elmosódik.
 2afcdfa8	CNR szakadás / meniszkusz
+2b02aa61	#-szorosára nő
+2b030ee3	PET-ben két # keV-es foton detektálása egymással szemben lévő detektorokban néhány ns-on belül.
 2b05bc17	Minden atom minden időlépésben p = # − e^(−λΔt) valószínűséggel bomlik el. Kevés atomnál a görbe statisztikusan ingadozik.
 2b45b1f2	MLEM-iterációk
+2b6a8342	Melyik műszer a legalkalmasabb egy helyiség szennyezésének felkutatására?
 2b8ee748	Választott séma
 2bab58c8	MR-biztonság: szűrőlap, orbitafelvétel (fémmunkások), IV. zóna szabályai, hallásvédelem.
 2bbeecb2	Valódi betegek, valódi döntések: gyermek mellkasröntgen, CT terhesség alatt, nagy testű beteg, prosztata-sugárkezelés, bőrrák, PET és MR-biztonság.
 2bd2dbd1	Titán csípőprotézis
+2bd612e8	A hosszú TI (≈ #–# ms) nullázza a nagyon hosszú T1-ű liquort, így láthatóvá válnak a periventrikuláris léziók.
 2be6e625	HDR brachyterápia
 2bfaf1fc	még nem exponált
 2c30aab8	Teljes dózis / idő
+2c32813e	# W/kg
+2c32a937	SSDE (AAPM #)
+2c5508a5	<b>Foglalkozási:</b> effektív dózis # mSv/év (# év átlagában, egyetlen évben legfeljebb # mSv); szemlencse # mSv/év (ICRP #); bőr és végtagok # mSv/év.
+2c58f0bf	A CTDI egy fordulat dózisprofiljának integrálja, amelyet # mm-es ceruzakamrával mérnek PMMA-fantomokban (fej # cm, test # cm). A súlyozott CTDIw a közép és a perem értékét kombinálja; a CTDIvol a pitch-et is figyelembe veszi, és ezt mutatja a konzol.
+2c7551a1	Miért nincs szüksége a PET-nek kollimátorra?
 2c89960f	EQD2 tumor (α/β #) = # Gy, késői bőr (α/β #) = # Gy. Egyetlen nagy frakció késői nekrózis és porckárosodás kockázatával jár.
+2caf8732	Hogyan változtatja meg a spektrumot a csőáram (mA) megduplázása?
 2cafb291	Klinikai esetek — 
 2cb28fc5	Alkatrészek
 2ceef116	Kikapcsolod a mágnest, aztán beengeded
+2cf118a7	HU = # · (μ − μ_víz) / (μ_víz − μ_levegő)
 2d0ea9f2	Összdózis
+2d38e091	M_PTV = #·Σ + #·σ    (Σ, σ: a szisztematikus és a véletlen hibák szórása)
 2d435572	Felesleges félelmet kelt és késlelteti a diagnózist; az indokolt vizsgálatot nem szabad megakadályozni.
+2d59f0fd	Nyalábkeményedés: ahogy az átlagos energia nő, μ csökken, ezért a második felezéshez vastagabb réteg kell.
 2d877b6c	Szakasz
+2d8fb0b2	Hogy teljesen kiküszöböljék a szórást
 2d93483f	Több lehetőséget is bejelölhetsz.
 2dcee2fc	elúció után (óra)
 2e160bcd	Stádium
+2e2c2d5d	f = # × # ≈ # MHz.
+2e4d104d	Képalkotás: kontraszt, szórt sugárzás és rácsok
+2e5665a5	A protonok B₀ körüli precessziós frekvenciája; # MHz (# T-n).
+2e5bf3b5	A zsír jelét
+2e62f99c	HDR-nél hogyan változik a dózis a forrástól # cm-re, # cm helyett (csak négyzetes távolságtörvény)?
 2e6390f7	Kész. 
 2e83162e	Szekvenciatervezés
 2eafe887	Sebesség
+2ebc2a84	A CTDI-család
 2ebd290f	Csőterhelés (pitch #)
 2ecb2727	Az alacsony kV növeli a jód kontrasztját, de nagy testű betegeknél fotonhiányt okoz.
+2ed4bd8c	A sztochasztikus hatásoknál (rák, örökletes hatások) a sugárvédelem a küszöb nélküli lineáris (LNT) modellt feltételezi: a valószínűség arányos a dózissal, a súlyosság viszont nem függ tőle. Az ICRP # névleges rákkockázati együtthatója a teljes népességre ≈ # % Sv-enként.
+2ee5a97a	Az effektív dózis E = Σ w_T H_T egyetlen számmal fejezi ki egy egyenetlen sugárterhelés sztochasztikus kockázatát. Szöveti súlytényezők (ICRP #): vörös csontvelő, vastagbél, tüdő, gyomor, emlő és „egyéb szövetek” #; ivarszervek #; hólyag, nyelőcső, máj és pajzsmirigy #; csontfelszín, agy, nyálmirigyek és bőr #. Összegük #.
 2f0820de	Kontrasztanyag nélkül vizsgálok
+2f1696b0	<b>Fém:</b> csillag alakú világos/sötét csíkok fotonhiány és keményedés miatt; a MAR-algoritmusok és a nagyobb kV segítenek.
+2f2650d9	A MIRD-módszer
 2f44ed8c	Újraindítás
+2f538647	<b>β⁺:</b> proton → neutron + pozitron + neutrínó (F-#, Ga-#); a pozitron # × # keV-es fotonná annihilálódik — ez a PET alapja.
 2f828120	Különböző méretű forró gömbök és egy tüdőbetét vízzel töltött hengerben: ezzel vizsgálják a visszanyerési együtthatókat, a parciális térfogathatást és a gyengítéskorrekciót.
+2f9059d6	# kV-on volfrámanódban nagyjából az energia hányad része lesz röntgensugárzás?
+2faee7d1	Vizsgálati idő
+2fb366b1	Rács
 2fc8666a	CNR ödéma / velő
+2fdacb63	FBP
+2ffbb13c	TR # ms, TE # ms
 3000eed2	idő (nap)
+30477590	<b>Nagyobb mAs:</b> a spektrum alakja nem változik; a fotonszám és a dózis lineárisan nő.
 304ff7fb	Nincs
+309e5265	Miért protonok?
 30b6e97d	Elektronenergia és bólus
+30b7dd3d	A hosszú TR kiküszöböli a T1-hatást, a hosszú TE kiemeli a T2-különbségeket.
 30fa92b1	Rekonstruált kép
+31417a84	Mekkora az egésztest-SAR határérték normál üzemmódban?
 3152bf83	Csontáttétek (alfaterápia)
 31b9a47d	T1-visszatérés
+31bbbc99	Mágneses rezonanciás képalkotás
+31d8fb21	<b>T1-súlyozott:</b> rövid TR (~#–# ms), rövid TE (~#–# ms). A zsír világos, a folyadék sötét; anatómiára és kontrasztanyag-halmozás kimutatására használják.
 31e91d5f	Középen vékony, a széleken vastag: csökkenti a dózist a beteg vékony szélein, és kiegyenlíti a detektorjelet. A kollimátor szabja meg a szeletvastagságot.
+31fd861c	A fotonok ott nem hatnak kölcsön
 327a15b7	A fotoneutron-termelés ~# MV felett indul; VMAT-tal mély céltérfogatokhoz #–# MV elég.
+328c47ab	A sugárterápia # R-je
 32abb5ec	Töltés nélküli részecskék (fotonok, neutronok), amelyek először töltött részecskéket hoznak mozgásba.
 32d80beb	szöveti összetételek, dózismennyiségek, súlytényezők
 33449df1	#. Gyengítés és szűrés
 3377af3e	Helyes: F = I·L × B. A zaj B₀-val nő (# T-n hangosabb); az IEC ### hallásvédelmet ír elő.
+339ae232	Tipikus értékek (# T): fehérállomány T1 ≈ # ms, T2 ≈ # ms; szürkeállomány T1 ≈ # ms, T2 ≈ # ms; liquor T1 ≈ # ms, T2 ≈ # ms; zsír T1 ≈ # ms, T2 ≈ # ms. A legtöbb kórfolyamat (ödéma, daganat) vizet visz be, és megnyújtja a T1-et és a T2-t is.
 33c3fd73	Nukleáris medicina
 33d5539e	Van kérőlap, azonnal vizsgálok
 33d5b2f2	Izom
+33ddebe6	Árnyékolóanyagok
 34049cb1	Daganat
 340a8d84	Spirális vizsgálatnál állandó sebességgel halad. Pitch = asztalelőtolás fordulatonként / teljes nyalábszélesség; pitch > # csökkenti a dózist.
 340d8b25	Visszaszórás E′(#°)
+342904de	<b>Fáziskódolás:</b> minden TR-ben más erősségű rövid gradiens, amely a sorokat fázis szerint választja szét.
+34350203	Egy instabil atommag időegységenkénti bomlási valószínűsége állandó (λ). Az A = λN aktivitás a bomlási sebesség, és exponenciálisan csökken:
 347ac991	Az első felezőréteg eltávolítja a lágy fotonokat, így a megmaradó nyaláb keményebb
 34895938	Padló: dózisteljesítmény H*(#), µSv/h (log. skála) • fehér vonal = # µSv/h
 34a0fb80	A töltött részecskék (elektronok, protonok, α) pályájuk mentén folyamatosan Coulomb-kölcsönhatásokat szenvednek, és közvetlenül ionizálnak. A fotonok és a neutronok töltés nélküliek: először egy töltött részecskét hoznak mozgásba (foton → elektron, neutron → visszalökött proton), és ez a részecske adja le a dózist.
 34a3d9ed	Fejlesztő
 34aaa379	 perc
+34da35d5	≈ # MeV
 34dd8fb9	#. Bloch-egyenletek és relaxáció
+34e79c54	A Mo-# (T½ # h) alumínium-oxid oszlopon van megkötve; bomlásainak ~# %-a Tc-#m-et eredményez. Az oszlopon átvezetett sóoldat (elúció) csak a pertechnetátot (TcO₄⁻) oldja ki. Mivel az anyaelem hosszabb — de nem sokkal hosszabb — életű a leányelemnél, tranziens egyensúly alakul ki: a Tc-#m aktivitása egy elúció után ~# h-val éri el a csúcsát.
+34ec1b57	CTDIvol = CTDIw / pitch. Sok berendezés „effektív mAs”-t (mAs/pitch) használ; ilyenkor a CTDIvol állandó marad.
+350bcbe4	Dózis = dózisteljesítmény × idő          Ḣ(d) = Γ · A / d²          Ḣ_árnyékolt = Ḣ₀ · B · e^(−μx)
 3510b740	Az inzulin az FDG-t az izomba és a zsírba tereli; utána ≥ # órát várni kell.
 35143fb3	TE (echóidő)
+35370a12	ICRP #: # mGy alatt a megszakítás orvosilag nem indokolt. A sztochasztikus kockázat nagyon kicsi, de nem nulla, ezért a kommunikáció legyen őszinte és nyugodt.
+35a72ef2	CTDIw / CTDIvol
 35afca3b	Mégse
+35db04cd	DRL
 35dd3154	Atomok és atommagok, sugárzásfajták, és hogyan hatnak kölcsön a fotonok és a töltött részecskék az anyaggal — az egész orvosi fizika alapja.
 35dfee4a	Az atom felépítése
+35ece971	<b>β⁻:</b> neutron → proton + elektron + antineutrínó (I-#, Lu-#, Y-#); a rövid hatótávolságú elektronokat terápiára használják.
 35fca6f7	Történetek
 36014d05	k-tér
 360983be	Vízre vonatkozó keményedéskorrekció (BHC)
 36315a9f	Kortikális csont / kontrasztos vér
 363200c3	Kész: 
 36375dc7	Törlöd a teljes előrehaladást?
+364873b6	α/β arány
 365bad67	Szint 
 368f3298	 kérdés
 36c94f4b	Nincs cukorbetegség
 36cc1e6f	Csökkentsd a dózisteljesítményt a vezérlőpultnál (zöld jel) # µSv/h alá
+375f3043	A gyakorlatban diagnosztikai eljárásoknál az ICRP # szerinti, egységnyi aktivitásra jutó effektív dózist használják, pl. F-# FDG ≈ # mSv/MBq és Tc-#m csontszcintigráfia (MDP) ≈ # mSv/MBq.
 3769e565	#. Dózis
+37c8362e	Pajzsmirigy
+37cc2d08	Három eszköz
 3809b45a	Spinecho! t = 
 381fcf9b	Zaj (hólyag ROI, SD)
 38362f62	A teljesített feladatok, az esetcsillagok és a leckék előrehaladása törlődik. Ez nem vonható vissza.
+38576bba	Mi a Bragg-csúcs alapvető fizikai oka?
+385a8606	Romlik a térbeli felbontás
 38652f80	Felvételi idő
+38660fa2	Területek besorolása és rendkívüli események
+38b44594	A repülési idő mérésével
 38ec0bda	Effektív dózis (# mSv/MBq)
 38f2a757	Fajlagos aktivitás (tiszta)
 38f6bec6	Axiális szelet (HU)
 38f9308a	Koponya
+392650d1	A fotonok két lépésben adják le a dózist: először energiát adnak át töltött részecskéknek (kerma = egységnyi tömegben felszabaduló mozgási energia), majd ezek a részecskék leadják azt a közegben (elnyelt dózis). A kermát ott számoljuk, ahol a kölcsönhatás történik, a dózist ott, ahová az elektronok eljutnak.
 39547f25	Szűretlen
 396c9c92	Tüdő V2# < # %
+3970bb49	Bomlásmódok
 398977ad	Detektorcsatornák
 399e986d	Feladatok
+39e59875	DVH
+39e88871	Párhuzamos furatú kollimátornál mi történik, ha a forrás távolodik a detektortól?
 3a6a3b1d	Megmaradt / elbomlott
 3ad53794	AP
+3b078b13	SAR ~ B₀² · α² · (impulzus / s)
 3b1cbe1c	Aktivitás a testben a vizsgálat után
 3b272149	✗ Helytelen
 3b2ac288	A zsíros csontvelőben lévő velőödéma csak zsírelnyomással (vagy STIR-rel) látszik.
+3b324767	Z / E
 3b6eb64c	A végbél elülső fala a prosztatához fekszik
 3b7e32aa	Belépési / csúcs arány
 3b8987c9	  — a lecke elsajátítva!
 3ba1a0c6	Minden felezőréteg felére csökkenti az intenzitást: (#/#)³ = #/#.
+3c04e9f8	EI_T = # esetén egy EI # értékű kép DI-je = #·log₁₀(#) = #: kétszeres detektordózis. Akkor is, ha a kép jónak látszik, legközelebb felezni kell a mAs-t.
 3c21cd4d	Előírás
 3c2dfe59	Rejtett
 3c4cfbae	A titán nem ferromágneses (MR-biztonságos / feltételes); nincs teendő.
+3c96d414	Egy # MeV-es α-részecske
 3c988cc0	Átlagenergia
+3d2156fc	A rámpa (|f|) úgy erősíti a magas frekvenciákat, hogy pontosan kioltsa az elmosódást, ami a zajt is növeli; az ablakolt kernelek határozzák meg az egyensúlyt.
 3d27f064	<b>Párkeltés:</b> egy atommag terében a foton elektron–pozitron párrá alakul; a küszöb # MeV, a valószínűség nagyjából Z² szerint nő.
+3d44f458	Geiger–Müller-számláló
 3d6b9f1f	Tüdődaganat
+3d767dfb	A felhasználó nyalábminősége és a kalibrációs minőség (Co-#) közötti különbséget
 3dbec6d5	Expozíciós index (EI)
+3dd00737	Tervezés az NCRP #/# szerint
 3e04a9b3	Egy # keV-es röntgenfoton hullámhossza: λ ≈ # / # = # nm — nagyjából egy atom átmérőjének tizede (~# nm).
 3e0553f6	Mellkas
 3e233fe3	Átlagos élettartam τ = #/λ
@@ -302,11 +485,13 @@
 3e3a239c	Képalkotó módszer
 3e5c100c	Ortopédia: jobb térd MR — meniszkuszszakadás? csontzúzódás? (Dr. Polat)
 3e6fed3c	Bloch-gömb (forgó rendszer)
+3e77062b	A hidrogénatommag (proton) apró mágnesként viselkedik. Erős B₀ térben a protonok párhuzamosan vagy antiparallel állnak be, és a Larmor-frekvenciával precesszálnak a tér körül:
 3ea76ce8	BED daganat
 3f01de3a	Öt kölcsönhatás
 3f6fbd86	k-tér mintavétele
 3f99f636	Zaj # HU: nem diagnosztikus — ismételni kellene, ami növeli az összdózist.
 3fa74db5	Fotonspektrum (céltárgy + kiegyenlítő szűrő)
+3fdc4de2	Közvetve, a víz radiolíziséből származó OH·-gyökök révén
 3fddf4f8	Kiváló! Elsajátítottad az anyagot.
 3fe8604c	Tetoválás
 3feef465	− Eltávolítás
@@ -314,56 +499,99 @@
 40253cf6	μ a lineáris gyengítési együttható (cm⁻¹), a négy kölcsönhatási tag összege. A μ/ρ (cm²/g) független a sűrűségtől, ezért táblázatokban adják meg (NIST XCOM).
 40361aca	Frakciók száma
 4036e7f4	Ez az alkalmazás interaktív #D szimulációkkal tanítja az orvosi fizika alaptémáit. Minden számítás valódi fizikai modelleken és referenciaadatokon alapul, de klinikai használatra NEM alkalmas.
+4037c6dd	A helyiség # %-ban kihasznált
+40470c54	Nagyon keveset — a vékony ólom elégtelen a # keV-es fotonok ellen
 4068c7dd	# órája reggelizett, vércukor # mg/dL. Mit teszel?
+407381a7	Képvezérelt sugárterápia: a beteg helyzetének ellenőrzése kV/CBCT-vel minden frakció előtt.
 4078f8e8	A nyílás körüli tekercsek a helytől lineárisan függő teret hoznak létre (mT/m): szeletkiválasztás, frekvencia- és fáziskódolás. A gyors kapcsolás okozza a zajt.
 41086ad1	mAs azonos σ-hoz (# cm-hez képest)
 411cbb0d	Csak a terhes nőket kerülje
 414eb5b3	Összefoglaló
+4157224d	β⁺-bomlás (pozitron)
+41b45f05	<b>Nagyobb kVp:</b> a maximális és az átlagos energia nő, a nyaláb jobban áthatol; a hozam nagyjából kVp²-tel nő; a kontraszt csökken.
 41d150aa	Gantry
 41e0bccc	fotonok
 421ed9be	Diagnosztikai energiákon két kölcsönhatás dominál: a <b>fotoeffektus</b> (~ Z³/E³, a kontraszt forrása) és a <b>Compton-szórás</b> (~ elektronsűrűség, a szórt sugárzás forrása). A szimuláció minden anyaghoz NIST μ/ρ(E) táblázatot használ.
+422525cf	BED / EQD2
 422af40c	Egér: bal húzás = forgatás, jobb húzás = mozgatás, görgő = nagyítás. Érintés: egy ujj = forgatás, két ujj = nagyítás/mozgatás.
+423010bd	A T1-relaxációt
 42347061	Csőáram × idő
 424c4852	#. Képalkotás
 426e4933	Klausztrofóbia
 42720baf	Csont
 427f78a4	Gyors szabályok (névleges energia): R9# ≈ E/#, R8# ≈ E/#, R5# ≈ E/#, Rp ≈ E/# (cm).
+42a1f7ce	Meg kell duplázódnia
+42b7c6d8	A gammakamera és a SPECT
+42e381ed	Az átvilágítás valós idejű képet ad (képerősítő vagy síkdetektor). Az automatikus fényerő-szabályozás (ABC) a beteg vastagodásával növeli a kVp-t és a mA-t. A teljes dózis dózisteljesítmény × idő, és hosszú intervencióknál a bőrdózis túllépheti a determinisztikus küszöböket: átmeneti erythema ~# Gy, szőrvesztés ~# Gy, súlyos sérülés > #–# Gy.
+42f504d1	Az RBE-jük #
+432ffd97	MV-on a Compton-szórás dominál, a gyengítés az elektronsűrűségtől függ, a vastag beton pedig olcsó és teherhordó
+435cb733	Zaj és detektorok
 439ee205	Hasonlítsd össze a gyengítéskorrekció hatását a kép közepén
 43b2aeba	Változtass a paramétereken → a kép és a dózis újraszámolódik (polienergiás sugárkövetés + NIST-adatok).
 43b5e592	Radionuklid
+43bcbe39	Rövidülnek a T1-értékek
 43cb67fd	A volfrám K-héjának kötési energiája # keV. Kelt-e egy # kVp-n működő cső volfrám K karakterisztikus vonalakat?
 43d93074	EQD2 tumor (α/β #) = # Gy, késői bőr (α/β #) = # Gy. Aluldozírozott: magas kiújulási kockázat.
 446ceec2	légkermában
+449d5209	f(# cm) = # × e^(−#) ≈ #, tehát SSDE ≈ # × # ≈ # mGy. Ezért a gyermekprotokollokat külön kell optimalizálni.
+44b565e7	≈ # perc
 44fb5dc7	Forrás biztonságban! Dózis a küldetés alatt: 
 4531ef7f	A gyengülés exponenciálisan függ a vastagságtól.
 4581c4fb	#. Radioaktív bomlás
 45901efd	Gradienstekercsek
 4602d9ec	koppints a képre
 46143215	A gantry, a kollimátor és az asztal forgástengelyeinek metszéspontja (±# mm). A forrás–tengely távolság (SAD) # cm.
+4642dfa0	Projekció
 467b083e	Bólus
 46ac079e	Vizsgálat folyamatban…
+46d4c952	Vonalintegrál
+46db0052	<b>Gyűrűk:</b> hibás vagy rosszul kalibrált detektorelem.
 46e87af2	 % kész
+4719156f	A röntgencső és a spektrum
 472bd5d7	Az alacsony kV növeli a jód kontrasztját (K-él # keV); vékony betegnél jó választás.
+4731830d	<b>Tartózkodás:</b> irodák T = #, folyosók T ≈ #/#, várók T ≈ #/# (NCRP-javaslatok).
 475a075b	Szinogram  p(θ, s)
 477692bf	Nukleáris med.
+477c08b3	# MBq FDG: E ≈ # × # = # mSv; egy PET/CT CT-része további #–# mSv-et adhat hozzá.
+47900c2b	A Hounsfield-skála
+47932082	<b>Terhesség:</b> előre rá kell kérdezni; a radiojód elpusztíthatja a magzati pajzsmirigyet (a #–#. héttől).
+47955da0	Mit jelent az U = # kihasználtsági tényező?
+47ae1b91	t_max = ln(λ_Tc/λ_Mo)/(λ_Tc − λ_Mo) ≈ # h, ezért a kórházak általában naponta egyszer eluálnak.
+47f7e1bf	<b>Neutronok:</b> ~# MV felett a (γ,n) reakciók fotoneutronokat keltenek; az ajtót és a labirintust ezekre tervezik.
 47f9a72c	Láz (# °C) és # napja tartó köhögés
+47fcd7a2	A távolsággal csökken
+48240919	Az idő azon hányada, amikor az elsődleges nyaláb egy adott falra irányul.
+482ee3dd	Kerma, elnyelt dózis, egyenérték- és effektív dózis; doziméterek; hogyan hat a sugárzás a sejtekre, az LQ-modell, BED és EQD2.
+483d1dab	E² / Z
+4876b3ed	Az idő azon hányada, amikor a leginkább exponált személy egy adott területen tartózkodik.
+488a432b	CT-dózis: CTDI, DLP és SSDE
+48b92494	A céltárgyba nem ütköző elektronokat közvetlenül használják; a hullámvezetőből jövő ceruzanyalábot egy vékony, nagy rendszámú fólia klinikai mezővé szórja.
 48bee2b3	CT-kérés érkezik. Elif utolsó menstruációja # hete volt. Mit teszel minden ionizáló sugárzással járó vizsgálat előtt?
 48cabbff	#-mezős
+48eb3008	A nagyító üzemmódok (kisebb FOV) növelik a dózisteljesítményt.
 48f82113	kiürült 
 49059469	Gyors lesz? Holnap vissza kell mennem dolgozni — a műhelyben csiszolok.
 491836e3	hiba 
 499a20d5	AP, fekvő, SID # cm
 49cf1cfd	Larmor-frekvencia f₀ = γ̄·B₀
 49e1196b	Meniszkuszszakadás
+4a5fde88	A Bethe-képlet szerint az ütközési fékezőképesség nagyjából z²/v² szerint változik: minél lassabb a részecske, annál gyorsabban veszít energiát. Ez a nehéz részecskék Bragg-csúcsának eredete.
+4a6030a5	A rács fordítva van behelyezve
+4a610ce1	SAR ~ B₀² · (billentési szög)² · (RF-impulzus / s)
 4a690915	Vevőtekercs
 4ac37c75	Compton-szórás
 4b058728	Beállítások
 4b20e113	Nukleáris medicina / PET
+4b26d668	A fotonok Poisson-statisztikát követnek: N fotonnál a zaj √N és SNR ~ √N, így az SNR megduplázása négyszeres dózisba kerül. A digitális detektorok közvetett (CsI szcintillátor + a-Si fotodióda) vagy közvetlen (a-Se) konverziót használnak. A detektor hatásfokát a DQE = SNR²_out / SNR²_in fejezi ki.
+4b66e013	A sugárveszélyes munkakörben dolgozók személyi dozimétert viselnek (OSL/TLD): Hp(#) az egésztest-dózishoz, Hp(#) a bőrhöz, gyűrűdoziméter a kezekhez. Ólomkötény esetén a dozimétert általában alatta, a törzsön viselik; a szemlencsedózishoz egy második, gallérmagasságban a kötény fölött viselt doziméter ajánlott.
 4b6a214c	Kalibrációs forrás, brachyterápia (történeti)
 4b7042c7	eGFR # mL/perc/# m²
 4b81b768	SNR (közép)
+4b88091d	E ≈ # × # = # mSv (ICRP #).
+4baca147	Egyetlen csúcs csak néhány mm széles. A céltérfogat lefedéséhez különböző energiájú csúcsokat súlyoznak és összegeznek egy kiszélesített Bragg-csúccsá (SOBP). A modern rendszerek ceruzanyalábos letapogatással (PBS) rétegről rétegre és pontról pontra „festik” a céltérfogatot, ami lehetővé teszi az intenzitásmodulált protonterápiát (IMPT).
 4be56c9f	Kérdés 
 4bf1fc72	Zsírszaturáció (FS)
+4bf8421e	<b>Monitorkamrák:</b> folyamatosan mérik a leadott dózist (MU) és a nyaláb szimmetriáját; kettőzöttek és függetlenek.
 4c3b45ab	• Elnyelt dózis D (Gy = J/kg)\n• Egyenérték dózis H_T = w_R · D_T (Sv); w_R = # fotonokra és elektronokra, # alfára, # protonokra\n• Effektív dózis E = Σ w_T · H_T (Sv); szöveti súlytényezők az ICRP # szerint\n• A műszerek a környezeti dózisegyenértéket mutatják, H*(#) (≈ # × légkerma Cs-# esetén).
 4c498c6f	Szoptatom a kislányomat. Árthat neki ez a vizsgálat?
 4c4a1ccb	Fotoneutronok
@@ -371,37 +599,51 @@
 4c94eaa4	Jó. Ismételd át azoknak a témáknak a leckéit, ahol hibáztál.
 4c96524b	Csökkentsd a gerincvelő dózisát protonos tervvel
 4cf38cb8	Leolvasási energia
+4d1863f4	<b>Repopuláció:</b> a daganat a kezelés alatt is proliferál; a hosszabb teljes kezelési idő csökkenti a tumorkontrollt.
 4d1aa535	Témák
+4d3dd3bd	Javul a tumorkontroll
 4d5f9cf2	év
 4daa2b83	Sugárvédelem
 4dd7913c	Készíts felvételt a pacemakerről egy mellkasröntgenen
 4de2c891	A tüdő, csont, lágyrész és szív NIST-gyengítési együtthatókkal van modellezve; minden detektorpixelhez egy polienergiás sugarat követünk.
 4df6b638	Mérések
 4e0d4ec8	Egy árnyékolás # felezőréteg vastag. Mekkora az áteresztés keskeny nyalábban?
+4e2183c3	A kumulatív DVH megmutatja, hogy egy struktúra hány százaléka kap legalább D dózist. A céltérfogatoknál D9#-et használnak (a térfogat # %-át lefedő dózis); az OAR-oknál Vx-et (az x Gy-t kapó százalék), Dmax-ot és Dátlag-ot. QUANTEC-példák: tüdő V2# ≤ #–# % és átlagdózis ≤ #–# Gy (pneumonitis < # %); gerincvelő Dmax ≤ # Gy (# Gy-es frakciók); végbél V7# < # %; fültőmirigy átlagdózis < # Gy.
+4e3cc928	A szervezetben lévő aktivitás a fizikai bomlás és a biológiai kiürülés révén is csökken:
 4e6c5d36	Szimuláció
 4e7651ae	Azonnal kontrasztos CT
+4e7782c3	Z³ / E³
 4e8632ff	Közvetlenül ionizáló
 4ea60106	#. Dózismennyiségek
 4ebc9931	Daganat EQD2 (α/β #)
 4eed3c07	alulexponált / zajos
 4ef63472	relatív dózis
+4f01c549	E ≈ # × # = # mSv.
 4f56491a	Mérd meg a Tc-#m felezési idejét Monte Carlóval # %-on belül
 4f5e1d34	#. Három alapelv: idő, távolság, árnyékolás
 4f8bf6fa	Hegesztő / csiszoló: lehetséges fém a szemben
+4f92129e	Egy szervben bekövetkező bomlások teljes száma (az aktivitás időintegrálja).
 4fca6bb4	Nincs krónikus betegsége, teljes oltottság
 4fd01b06	Nyalábenergia
+4fdd3825	M_Q a hőmérséklet-nyomásra, polaritásra, rekombinációra és elektrométerre korrigált leolvasás; N_D,w,Q0 a standardlaboratóriumtól kapott vízbeli dózis kalibrációs tényező (Co-#-ban), k_Q pedig a nyalábminőséget korrigálja.
+5009dc40	Radioaktív bomlás
 5009de05	Dózisteljesítmény # m-en
 5009fb9e	Hasonlítsd össze a daganat BED-jét SBRT (#×# Gy) és hagyományos frakcionálás (#×# Gy) esetén
+5021c2fa	Mit jelent egy p projekcióérték?
 504443a0	Expozíció
 5060769e	lat
 506f8881	végbél
+507364c6	<b>Lakosság:</b> # mSv/év; szemlencse # mSv/év; bőr # mSv/év.
 50793575	Szószedet
 50b3cd30	Digitális röntgenkép (CsI-detektor)
+50b6db4e	A detektorra jutó szórást
 50f75e70	Ödéma/velő CNR #: a zsíros velő elfedi az ödémát — használj zsírelnyomást (FS).
 51301586	FIGYELEM
+51327597	Az ACR négy zónát határoz meg: I nyilvános, II szűrési, III ellenőrzött hozzáférésű, IV a mágnesterem. Minden beteget és munkatársat írásban szűrnek, mielőtt a III. zónába lép; a fémmel dolgozókat, akiknek szemében fém lehet, előbb orbitafelvétellel vagy CT-vel vizsgálják. Az implantátumok MR Safe, MR Conditional vagy MR Unsafe jelölést kapnak, és feltételeiket betartják.
 514a1189	TR (az SE-grafikonhoz)
 515cc083	T2-súlyozott
 5169f3c5	Lineáris energiaátadás: a töltött részecske által egységnyi úton leadott energia (keV/µm).
+517390af	A szív a detektor közelében van, ami csökkenti a nagyítást és a geometriai életlenséget
 51880252	Dóziseloszlás (x–z sík)
 51b48ac4	Árnyékolás elhelyezve. A vastagságot és az anyagot a bal oldali panelen módosíthatod.
 51d5b7b0	EQD2 tumor (α/β #) = # Gy, késői bőr (α/β #) = # Gy. Elfogadható: kevesebb alkalom, de nagyobb késői mellékhatás-kockázat (atrófia, teleangiectasia).
@@ -410,85 +652,132 @@
 51f7e789	teljes dózis (Gy)
 51fa3930	Kész. Nézd át az eredményeket; ha kell, változtass a beállításokon és futtasd újra.
 523e597b	Fehérállomány
+524bb01f	Az izocentrikus (SAD) technikák a TMR-t használják, amely rögzített forrás–pont távolság mellett négyzetes távolságtörvény-hatástól mentes mélydózisgörbe. A kimeneti tényezők a mezőmérettől függő kollimátorszórást (S_c) és fantomszórást (S_p) veszik figyelembe.
 524fb8d1	Nyomd meg az ELUÁLÁS gombot a Tc-#m kinyeréséhez. A legnagyobb hozamhoz várj ≈ # órát az előző elúció után.
+52784cfd	Csak a neutronok ellen
 52af1039	Elektronmezőkben a # %-os izodózis a mélységgel szűkül; ~#–# cm margó kell. Kis mezőkre a kimeneti tényezőket meg kell mérni (TG-#).
 537cf34e	Utolsó elúció hozama
 539143ed	TCP ennél a sémánál (N₀ = #⁹)
 5394c2c1	Dózis-terület szorzat (DAP)
 53a02dda	α/β ≈ # Gy (daganat, korai reakciójú) és ≈ # Gy (késői reakciójú normál szövet, pl. gerincvelő). A kis frakciódózisok kímélik a késői szöveteket; a nagy frakciódózisok, mint az SBRT, nagyon nagy daganat-BED-et adnak, de pontos célzást igényelnek. TCP = exp(−N₀·S).
+53db2663	Az érzékenység nullára esik
 53f501c6	Aktivitás a vizsgálat kezdetén
 542674c2	Fantom
+542cb793	A PDD és ami befolyásolja
 543dd434	Párkeltés
 543f87d4	Gerinc
 548c82d8	Mágnesezettség
 5490dc6c	 hét
 54ba96a0	Effektív felezési idő
 54ebaaec	Effektív átmérő → SSDE
+54f725f4	DLP és effektív dózis
 550bfe9e	impulzus
 55231493	Agy
 55437eb0	Vetület és beállítás
 554740bc	Változtasd a nyalábszögeket és -súlyokat: fedd le a célt, és kíméld a gerincvelőt, a szívet és a tüdőt.
+554b47d8	Ha minden projekciót a saját irányában visszakenünk a szeletre (egyszerű visszavetítés), #/r jellegű elmosódás keletkezik. Ennek javítására a projekciókat először rámpaszűrővel (|f|) szűrik; a szűrt visszavetítés (FBP) a két lépést egyesíti. Mivel a rámpa a zajt is felerősíti, ablakfüggvényt alkalmaznak (Shepp–Logan, Hann…): az éles kernel nagy felbontást és nagy zajt jelent.
 5566f444	Alkalmazd
 556bb28a	Tartályba helyezés
 556d6936	Amint a forrás bent van, néhány cm ólom százszorosára csökkenti a dózisteljesítményt (minden felezőréteg felezi, minden tizedelőréteg tizedeli).
 5586c1bb	Asztalpozíció (z)
+55953a46	A belépő felszínen mért levegőkerma, a visszaszórással együtt.
 55af7f60	Tud állni, együttműködő
 55b7844c	Közvetlen és közvetett ionizáció
+55c3d9ec	A konzol # mGy CTDIvol-t mutat. Nagyjából mekkora a SSDE egy # cm effektív átmérőjű gyermeknél?
 55c427dd	Visszanyerési együttható (legnagyobb / legkisebb gömb)
+55e29d05	A külső sugárterhelés ellen három eszköz van: az idő rövidítése (dózis = dózisteljesítmény × idő), a távolság növelése (pontforrásnál a dózisteljesítmény #/d² szerint csökken) és árnyékolás közbeiktatása (minden felezőréteg felezi a dózist).
 55f81dfb	PET-fizika
 56a82532	Röntgenradiográfia
 56aaa165	Bőrrák az arcon — elektronterápia
 56e6dfdf	Ólomtartály
+571ea1cc	Az árnyékolás transzmissziója
 57270c3f	# frakció leadása
+573a4142	Túlexponálás; a beteg fölösleges dózist kapott
 57426dc2	Dózisteljesítmény-mérő
+57a7b53c	Nagyjából mekkora # MBq FDG effektív dózisa?
+57fd150b	A céltárgy gyorsítja az elektronokat
 580581bf	Egyszeri dózis, α/β=
+581bf5b5	A visszaszórás a cső oldalán a legnagyobb, ahol a nyaláb belép a betegbe; a detektor oldala biztonságosabb.
+58247ddd	A megavoltos fotonok fő előnye a nagy mélységi behatolás és a bőrkímélés: a dózis a felszínen kicsi, és d_max-ban éri el a maximumát (# MV: # cm, # MV: # cm).
 58390f45	Tetoválás a bal karon (#)
 584aaa85	Az elektromágneses spektrum
 584ba3f5	klonogének: 
 5865c9d9	Kiválasztott nyaláb: 
 5865ea2d	ICRP # és ACOG: # mGy alatt nincsenek determinisztikus hatások; # mGy alatt a megszakítás nem javasolt. A kockázatot számokkal és nyugodtan közöld.
+5869cede	Radionuklid-előállítás és a generátor
 5876c756	Várakozó betegek
 5878a2bf	Mélydózis
 58820d8d	Legjobb válasz: 
+588c2a16	Töltöttrészecske-egyensúlyban (CPE), elhanyagolható fékezésisugárzás-veszteség mellett az elnyelt dózis egyenlő az ütközési kermával: D = K_col. A felszín közeli felépülési tartományban nincs CPE — ezért kímélik a megavoltos nyalábok a bőrt.
+588ce9ad	#/T_eff = #/T_fizikai + #/T_biológiai
 589a5df5	Betegmozgás (fázishibák)
 58c52672	 év
 58e096de	Névjegy
+58ead5a3	Miért D ≠ K_col a felépülési tartományban?
 590ca79a	Kép
+5947fcd5	PTV-biztonsági zóna (van Herk)
 5951ffab	Munkavállaló (effektív)
 59c7842a	Lézió lefedettsége: minimum # % — a bőrfelszín aluldozírozott: a bólus a felszínig emeli az elektrondózist.
 59c80f5b	Gyermek mellkasröntgen
+59d56146	≈ # óra
 5a09a50e	Protonok hatótávolsága (Bragg–Kleeman)
+5a252151	Nagyjából mekkora a bőrerythema küszöbe átvilágításnál?
 5a296842	Tervsablonok
+5a46ef7e	<b>Repülési idő (TOF):</b> az érkezési időkülönbség (~#–# ps) néhány cm-re lokalizálja az eseményt a LOR mentén, és csökkenti a zajt.
 5a53afe8	A prosztata elölről ≈ # cm, oldalról ≈ # cm mélyen van. Hasonlítsd össze a mélydózisokat (PDD), és válassz energiát a VMAT-hoz.
 5a54e20e	Eredmény: 
+5a5f631a	≈ # kHz
+5a87b1d6	<b>Személyzet:</b> fecskendőárnyékolók, távolság és idő az ólomkötény helyett, valamint ujjdoziméterek (Hp(#)).
 5aaf54e6	#. Elektronnyalábok
 5ab00023	Ödéma/velő CNR #: a csontzúzódás látható.
 5af0fb47	Monte Carlo mélydózis • Bragg-csúcs
 5b6df32a	Következő kérdés  →
+5b71adcb	Szoros mezőbeállítás (rács nélküli, alacsony dózisú technikával)
 5b765e84	Hasi CT-nél a méh a primer nyalábban van; a kötény nem véd, és rontja a képet.
 5bac8b63	Egyéni billentési szög α
 5c1604f3	Következő beteg: 
 5c1cca76	• <b>Idő:</b> a dózis arányos a forrás közelében töltött idővel.\n• <b>Távolság:</b> pontforrásnál a dózisteljesítmény #/d² szerint csökken: a távolság megduplázása negyedére csökkenti a dózist. Ezért olyan hatékony a fogó.\n• <b>Árnyékolás:</b> a sűrű, nagy rendszámú anyagok (ólom) gyengítik legjobban a fotonokat. Egy felezőréteg felezi, egy tizedelőréteg tizedére csökkenti a dózisteljesítményt.
+5c5faa98	A képkontraszt a szomszédos sugárutak gyengítésének különbségéből adódik. A csont kis energián (fotoeffektus dominál) erősen, nagy energián (Compton dominál) gyengén különbözik a lágy szövettől — ezért #–# kVp a mammográfiához és #–# kVp a mellkasröntgenhez.
 5c60f76f	lézió
 5c6467e1	Dózistérkép mutatása (x–z)
+5c74eff9	Mit korrigál a k_Q a TRS-#-ban?
+5cab77e9	A betegek és hozzátartozóik gyakran félnek a sugárzástól. A jó magyarázat számszerű, mégis érthető, a természetes háttérrel vet össze, kiemeli a vizsgálat hasznát, és kerüli az olyan túlzásokat, mint a „nulla kockázat” vagy a „nagyon veszélyes”.
+5cadc7e1	Dózis = dózisteljesítmény × idő
 5cae40c9	A hidrogénmagoknak (protonoknak) mágneses momentumuk van. A B₀ térben egy parányi többlet a tér irányába áll, és M₀ eredő mágnesezettséget hoz létre (M₀ ~ B₀). A spinek a Larmor-frekvenciával precesszálnak B₀ körül.
 5ce2e06a	Helyes. PA-ban a szív közel van a detektorhoz → kisebb nagyítás; a hosszú SID csökkenti a geometriai nagyítást és az elmosódást. Az elöl fekvő szervek (emlő, pajzsmirigy) PA-ban kisebb dózist is kapnak.
+5cefb1d7	Ólomlamellákból álló rács, amely elnyeli a szórt fotonokat.
 5d155c86	Eredmény megtekintése  →
 5d27c72a	Tc-#m az elúciókor
+5d34e900	Mz = M₀(# − e^(−#)) ≈ # M₀; # % marad meg a transzverzális mágnesezettségből egy T2 után.
+5d4d8ed3	η ≈ #×#⁻⁹ × # × #⁵ ≈ #; a maradék # % hő, ezért a cső hőkezelése kritikus.
 5d74c24a	Besugárzástervezés • DVH
+5d9e42a8	σ ~ # / √(mAs · szeletvastagság)
 5dc26de3	Hogyan tanulj
 5ddb2028	A sugárfizika alapjai
 5de75a0b	Jobb tüdő
 5dea53d0	Sugáronkológia: elektronterápia, bal arci BCC; ultrahangos mélység # cm (Dr. Öz)
 5deb5e94	Elutasítja a műtétet (antikoagulánst szed)
+5dfaa4f1	Az AAPM TG-# # %/# mm-t javasol ≥ # % megfeleléssel tűrés-/beavatkozási szintként.
 5e0275a6	#. Generátor és tranziens egyensúly
+5e380c3b	<b>Kollimáció:</b> a blendék és egy sokleveles kollimátor (MLC, #–# mm-es lamellák) a céltérfogathoz igazítják a mezőt, és lehetővé teszik az IMRT/VMAT-ot.
 5e4baa18	Nézet
 5e840e69	Túlélő hányad S
 5e8aae31	Gerincvelő
 5e8f4863	Az RF nem hallható; a zaj a gradiensekből jön, és károsíthatja a hallást.
+5e8fb6de	A szisztematikus hibák mindig nagyobbak
 5ed62a66	Vér + jódos kontrasztanyag
+5ed90f63	A karakterisztikus vonalak eltűnnek
+5ee0c02a	A megjelenített HU-tartomány (W) és annak közepe (L).
+5f2b803e	Átvilágításnál a személyzet dózisának nagy része a betegről szóródó sugárzásból ered. Használjon ólomkötényt, pajzsmirigyvédőt, ólomszemüveget és mennyezeti árnyékolót, és tartson távolságot (négyzetes távolságtörvény).
 5f38ef7b	Kiegészítő Cu-szűrő
+5f3d9216	ALARA
+5f48df71	MU-számítás (SAD)
 5f594fad	Rekonstrukció
+5f842ccc	kVp
+5fbbbe70	A gyorsító monitorkamrái által mért kimenet, pl. referenciakörülmények között # cGy/MU-ra kalibrálva.
+5fcb368b	<b>ESAK:</b> a belépő felszínen mért levegőkerma a visszaszórással együtt (BSF ≈ #–#); a determinisztikus hatásokhoz és a DRL-összehasonlításokhoz használják.
+5fef495e	Ablak / szint
+60139e9e	Melyik térfogatra írják elő a dózist?
 6032454b	Compton-szórás
 6053526e	FDG-nél: vércukor < # mg/dL és ≥ #–# óra éhezés; felvételi idő # ± # perc.
 605c9960	Kvantumzaj
@@ -497,85 +786,135 @@
 6174d861	A CTDIvol egy # cm-es PMMA-fantom dózisa, nem a betegé. AAPM #/#: SSDE = f(D_eff)·CTDIvol; nagy testű betegeknél f < #.
 61814715	Mátrix (felbontás)
 61999a6b	Korlátozott vizsgálati hossz (csípőtaréjtól a szimfízisig): alacsonyabb DLP.
+61b09960	# keV-en az ólom felezőrétege ~# mm, így # mm Pb a fotonoknak csak ~# %-át nyeli el. A PET-nél a távolság, az idő, a fecskendővédők és az L-blokkok számítanak.
 61e2a3f8	Forrás
+61e37e95	<b>Szűrés:</b> eltávolítja az alacsony energiákat, növeli a HVL-t és csökkenti a bőrdózist. Az előírások legalább # mm Al teljes szűrést követelnek meg # kVp felett.
 61f84dec	A dózist ekvivalens úthossz szerinti inhomogenitáskorrekcióval számolják (radiológiai mélység = Σ ρₑ·Δl): a tüdőn áthaladó nyaláb kevésbé gyengül. A terv minőségét a DVH alapján ítélik meg: PTV D9# ≥ # %, gerincvelő Dmax < # Gy, tüdő V2# < # %, átlagos tüdődózis < # Gy, szív átlag < # Gy (QUANTEC).
+61fa4b9a	Brachyterápia és minőségbiztosítás
+620629d0	pitch = (asztalelmozdulás fordulatonként) / (a nyaláb teljes kollimációja)
+620ac3ff	<b>GTV:</b> látható daganat. <b>CTV:</b> GTV + mikroszkopikus terjedés. <b>ITV:</b> CTV + belső mozgás (pl. légzés).
 6246a72c	Visszaállítás (M || B₀)
 6283a899	 perc/ágypozíció, felvétel 
 6292946b	Modulációs szélesség
 62b33346	μ(víz) referencia
+62bd3c83	Szabály: hatótávolság ≈ E/# cm, vagyis kb. # cm (# MeV esetén). Ezért használnak elektronokat felszíni daganatokra.
 62dc212b	Átlagos szabad úthossz #/μ
 6337b9a5	Egy RF-impulzus (Larmor-frekvenciás B₁) α billentési szöggel kibillenti M-et. Ezután:\n• <b>T1 (spin–rács)</b>: Mz visszatér: Mz(t) = M₀ + (Mz(#) − M₀)·e^(−t/T1)\n• <b>T2 (spin–spin)</b>: a keresztirányú mágnesezettség fázisát veszti: Mxy(t) = Mxy(#)·e^(−t/T2)\n• <b>T2*</b>: a térinhomogenitás további fázisvesztést okoz (#/T2* = #/T2 + γΔB) — egy #°-os impulzus ezt a részt visszafordítja: ez a <b>spinecho</b>.
+63717795	Megszünteti az egyszerű visszavetítés #/r elmosódását
 638a3d27	Szórtsugárrács (Bucky)
+638c594d	T2 és T2*: transzverzális lecsengés
+63914fc5	Nagyjából mekkora egy # MeV-es elektronnyaláb gyakorlati hatótávolsága vízben?
 63e33069	Disztális mélység
 63e87165	Életkor / nem
+63f9d666	Különleges szabályokkal és képzett személyzettel működő terület, ahol egyébként a dóziskorlátok túlléphetők lennének.
 64053f4c	Szinogram, szűrt visszavetítés, Hounsfield-egységek, műtermékek.
 64ab923e	keskeny nyalábú transzmisszió
+64af52b9	<b>Radioszenzitivitás:</b> az egyes szövetek és sejttípusok saját érzékenysége.
 64cec188	Szekvencia
+64fa4ca8	Egy diagnosztikai CT után # mGy magzati dózist becsülnek. Mi a helyes tanácsadás?
 650b51c9	A CTDIvol fantomdózis; a betegre jellemző dózishoz használd: SSDE = f(D_eff)·CTDIvol (AAPM #/#).
 65297d00	 (repopulációval)
 652cb5da	Még tanulni kell — az alábbi leckék segítenek.
 656c2bdf	Bőr / kéz
+658d1478	Az elsődleges nyaláb az idő # %-ában erre a falra irányul
 65b3c1bb	Szürkeállomány
+660035ea	Pontosan az alagút közepén
 660f2bd2	Geometria és detektor
 662c7590	Meniszkusz
 6644745a	Effektív átmérő / f
 66597e63	Véletlen
 66c80500	fotongyengítési és energiaabszorpciós együtthatók (# anyag)
 66f00e9c	Helyes: minden fogamzóképes korú nőnél ki kell zárni a terhességet, ha a medence a nyalábban van (ICRP #, NAÜ SSG-#).
+66fe8adc	Relaxáció: T1, T2 és T2*
 6705e1b1	Lépésről lépésre haladó leckék az atomtól a sugárterápiáig, interaktív ábrák, kidolgozott példák, kvízek és egy próbavizsga.
 672a70aa	SOBP mutatása (analitikus)
 6750e405	Effektív dózis = DAP × konverziós együttható (régió szerint). Természetes háttér ≈ # mSv/év.
 675d82e1	Szinogram
 6779effc	Eluálva
+67af0b2f	<b>OSL (Al₂O₃:C):</b> optikai stimulációval olvassák ki, és újra kiolvasható; a legtöbb személyi doziméter ilyen.
 67b8f497	BED késői szövet
+67e47d97	Mi a legvalószínűbb probléma egy DI = −# értékű képnél?
 67ebc3e7	#. Hounsfield-egységek és ablakolás
 67fabac5	Végbél EQD2 (α/β #) = # Gy — késői végbél-toxicitás kockázata (vérzés, proktitisz).
+6805c1cb	A gyermekek #–#-szor sugárérzékenyebbek a felnőtteknél, és hosszú élet áll előttük. Testméretre szabott protokollok érvényesek („Image Gently”): alacsony mAs, rács nélkül, kiegészítő Cu-szűrés, szoros mezőbeállítás; CT-nél a dózist az SSDE alapján kell megítélni. Az ivarszervvédő már nem ajánlott rutinszerűen (AAPM #); a szoros mezőbeállítás hatékonyabb.
 6808f26e	Kockázatos; fontolja meg a megszakítást.
 6817ce15	UH: az appendix nem ábrázolódik. Éjjel nincs MR; a sebész hangsúlyozza a perforáció kockázatát. Közös döntés: alacsony dózisú CT.
+681fce83	A diagnosztikai referenciaszintek (DRL) az országos eloszlás #. percentilisei (ICRP #). Nem dóziskorlátok; azoknak az intézményeknek, amelyek tipikus dózisai meghaladják őket, optimalizálniuk kell.
+6823752e	Nincs rá szükség
+686bef8e	Kockázatkommunikáció
 687d1f08	Egy ápoló sürgős esetben acél oxigénpalackot akar bevinni a mágnesszobába (IV. zóna). Mit teszel?
+6888962e	A képkontrasztot és a teljes jelszintet
 68de0f88	Képletgyűjtemény — 
 69069946	Nyalábkeményedés: polienergiás vizsgálat kikapcsolt BHC-vel (cupping)
+69232305	Csökken
 69338848	Az első eset indítása  →
+693aa065	Az N_D,w Co-#-ban van megadva. A felhasználó minőségénél (pl. # MV, TPR₂₀,₁₀ ≈ #) a fékezőképesség-arányok és a perturbációs tényezők eltérnek, ezt korrigálja a k_Q.
+694d03af	A fény sok PMT-re oszlik szét, és jeleik súlypontja adja a helyet.
 69607fdf	EPID (MV-képalkotás)
 69762965	Has
+6982091c	A cső hozama
+699bd238	<b>T2-súlyozott:</b> hosszú TR (> # ms), hosszú TE (~#–# ms). A folyadék és az ödéma világos; a legtöbb kórfolyamat láthatóvá válik.
 69c54135	 h
 69d97846	Szöveti jel
+69d99419	A finom részleteket és éleket
 69fc5799	Cu-szűrő
 6a494fba	Áttekintés
 6a4f8e94	Diagnosztikai és terápiás energiákon a fotonok főként ötféleképpen hatnak kölcsön: koherens (Rayleigh-) szórás, fotoelektromos abszorpció, Compton-szórás, párkeltés és fotonukleáris reakciók. Hogy melyik dominál, az a foton energiájától és a közeg rendszámától függ.
 6a8f4d0e	Nem egészen. 
 6ab344fe	Effektív (fizikai + biológiai)
+6abfaaba	A mammográfia dózismennyisége az átlagos mirigydózis (MGD), standard emlőnél felvételenként ≈ #–# mGy. A tomoszintézis (DBT) korlátozott szögű tomográfia, amely csökkenti a szövetek egymásra vetülését.
 6ada0052	CT
 6ae55601	Áttekintés
+6b21c3b7	T = TR · N_fázis · NEX / ETL
 6b26a05c	Bőrfelszíni dózis
+6b26b7cb	A lakosság tagjaira
+6b447c93	Töltött részecskék: fékezőképesség és hatótávolság
+6b5a05de	A bomlástörvény
 6b7a6181	R = gyorsítási tényező: minden R-edik sort veszik fel → visszahajlás FOV/R-rel (aliasing). A párhuzamos képalkotás (SENSE/GRAPPA) a tekercsérzékenységekkel bontja ki.
 6b8da132	Dózisteljesítmény # cm-en
 6bb77736	Pontforrás
 6bbe4f23	Al-szűrő (hozzáadott)
 6bc09210	Nincs változás; ugyanannyi mAs
+6be1e44b	# s × # × # = # s ≈ # perc — ezért a turbó spinecho a klinikai standard.
 6be9432d	Felszíni dózis
 6bf0564a	Töltött részecskék (elektronok, protonok, α), amelyek Coulomb-kölcsönhatásokkal adják le energiájukat.
 6bf28b9c	Tudományosan megalapozatlan és ártalmas tanács.
 6c025c20	még nem szkennelt
 6c168d60	Eset befejezve
+6c339b71	A betegről szórt és a sugárfejből szivárgó sugárzás ellen
 6c3c9505	fotonenergia
 6c6870d7	Válassz
+6c70ec36	A SUV a daganat FDG-felvételét a betegtől függetlenül hasonlítja össze, de érzékeny a felvételi időre, a vércukorra, a rekonstrukcióra és a parciális térfogatra — ezért az EANM # ± # perc felvételi időt és < # mg/dL vércukrot ír elő.
 6c8fcda6	KEZDŐKNEK
 6cc46a6f	 perc olvasás
 6cc784fd	Egyszerre csak egy döntést hozol.
 6cec06d7	# ng/mL
+6d03cdad	#/T_eff = #/T_fiz + #/T_biol
 6d148508	Vizsgálat
+6d5614c7	Elektronikus kollimálás: az egymással ellentétes irányú fotonokat elkapó két detektor jelöli ki azt az egyenest, amelyen az annihiláció történt.
 6d8836d2	Lehetséges, de nem első vonalbeli; előbb ultrahang és MR.
 6d94e783	k-tér és a Fourier-transzformáció
 6dc54781	 nap
+6dcb0105	Hogyan változik a DAP-érték, ha a kamrát közelebb vagy távolabb helyezzük a csőtől?
+6e0a7f2e	Szkennergenerációk és spirális leképezés
 6e2eab59	Helyes expozíció: hozd egy mellkasfelvétel eltérési indexét (DI) a −#…# tartományba
 6e67bd16	Referencia / analitikus
 6e8c7b25	Fotonenergia
+6e8ef574	Az SNR a voxeltérfogattal és √(N_fázis · N_frekv · NEX)-szel arányos. A síkbeli felbontás megduplázása (a voxel negyede) sok SNR-be kerül; a párhuzamos képalkotás (SENSE/GRAPPA) gyorsítja a felvételt az SNR rovására.
+6ea1bcc5	<b>A felbontás korlátai:</b> a pozitron hatótávolsága (átlag F-# ≈ # mm, Ga-# ≈ # mm), a nem kollinearitás és a kristályméret; a klinikai PET-felbontás ≈ #–# mm.
 6eb5b73c	Betegkarton
+6ecb14dc	A fal # %-ot enged át
 6ef0f4ce	FLAIR: nyomd el a liquort, miközben a lézió világos marad
+6f2e642a	Egyenérték- és effektív dózis
+6f3ba7bf	Az mA és az idő csak az elektronok, így a fotonok számát határozza meg; az energiaeloszlást a kVp és a szűrés szabja meg.
 6f441d09	Mi keletkezik, amikor az FDG-ből származó pozitron annihilálódik, és hogyan észleli ezt a PET?
 6f7079de	Teleterápia, Gamma-kés
+6f78682d	DAP = K · A   (távolságfüggetlen)
+6fa2096f	A PMT-jelek súlyozott átlagával (Anger-logika)
 6fb2dc0f	 vetület, 
+6fca1b0f	A TMR-nél a forrás–pont távolság rögzített, ezért nincs benne négyzetes távolságtörvény-hatás
+6fe34f38	A protonok hatótávolságuk végén párkeltést szenvednek
+6ff5a02f	<b>Szoptatás:</b> FDG-nél és a legtöbb Tc-#m-készítménynél nem kell megszakítani, vagy csak néhány órára; I-# esetén a szoptatást abba kell hagyni.
 70491c5e	Utolsó menstruáció: # hete (rendszertelen)
 705dbc6f	Nincs fogamzásgátlás
 70689f04	Szkennelési hossz
@@ -586,6 +925,8 @@
 709e0d80	Ólomtartály
 70c9432b	Gyengítés, felezőréteg és nyalábkeményedés
 70e6ad0e	Radioaktív magok
+7125219e	Rezonancia és RF-impulzus
+71a8aa21	σ ~ #/√mAs; az ablak szűkítése csak láthatóbbá teszi a zajt.
 71c67fc5	fiú
 720bb6d5	Izocentrum
 72103ea7	Gyermek mellkas: rács nélkül, kiegészítő Cu-szűrés, magas kVp / alacsony mAs, szoros kollimálás, rövid expozíció (mozgás).
@@ -593,42 +934,63 @@
 72133fde	#. Kontraszt
 721471f0	ELÚCIÓ
 72467d86	Álló natív hasi felvétel
+724dce60	Elektronok
 729ea19a	+ Árnyékolás elhelyezése
 72a6030d	Az exponenciális törvény csak keskenynyalábos geometriában érvényes, ahol a szórt fotonok nem érik el a detektort. Széles nyalábnál a szórt fotonok is hozzájárulnak, és az áteresztés B·e^(−μx) lesz, B ≥ # build-up tényezővel. Ha az árnyékolás számításakor B-t elhanyagoljuk, alulméretezzük az árnyékolást.
 72b715d3	Hasan: „Hogyan érnek el valamit, ami ilyen mélyen van?”
+72c5fc11	Gray (Gy)
 72daab8b	Ín / szalag
 72f6d05f	A k-tér közepe hordozza a képkontrasztot, a perifériája a finom részleteket (éleket).
 72f991f9	Lineáris gyengítési együttható μ
 72fb1a0a	Spektrum
 72fc2e5a	Kihagyva: 
+730dd2e0	<b>RF (B₁):</b> szövetmelegedés, amelyet a SAR (W/kg) korlátoz: normál üzemmódban egész test ≤ # W/kg, fej ≤ # W/kg (IEC ###). Vezetőképes kábelek és hurkok égési sérülést okozhatnak.
 732be2f9	Képvezérlés (IGRT)
 7342c4c8	Kontrasztanyagot adok; eGFR ≥ # és akut vesekárosodás hiányában a metformint nem kell leállítani
 73715b63	Kapcsolódó klinikai eset  →
 738f6b5a	Egy #°-os impulzus az xy-síkba billenti M-et. A spinek legyezőszerűen szétterülnek, mert eltérő sebességgel precesszálnak (T2*). Egy #°-os impulzus átfordítja őket, és echó keletkezik.
 7393264d	Összes téma felfedezése
+739d2c89	Mi a protonok fő dozimetriai előnye a fotonokkal szemben?
 73a87380	Elmélet és képletek
 73bf80aa	A K-él feletti fotonok K-elektronokat tudnak kilökni, ezért a fotoelektromos elnyelés ugrásszerűen megnő. Ezért erősítik a jódkontrasztot az alacsony kV-os CT-protokollok.
 73d792b6	Vizsgálj kevés vetülettel (≤ #): figyeld a csíkos műtermékeket
 73e93954	Ultrahang; ha nem egyértelmű, kontrasztanyag nélküli MR
 74148df9	A kriogéntől jön; ártalmatlan
+74fd5f82	A súlyozás megválasztása TR-rel és TE-vel
+754a8c40	A véletlen hibák elkenik a dózist a frakciók során (kiátlagolódnak), a szisztematikus hiba viszont az egész eloszlást eltolja a céltérfogatról.
+755393eb	A CTDIvol nem a betegdózis
 7564d845	Igen, veszélyes; ha lehet, kerüljük el.
 75793978	Mehmet hasa # × # cm (átlagos felnőtt ≈ # × #). Vízre μ(# keV) ≈ # cm⁻¹. Mennyivel csökkenti # cm többletszövet a detektorig jutó fotonokat?
 758e615c	Számolás… (#×# pixeles sugárkövetés)
+759b11e4	Ḣ = Γ · A / d²        Ḣ_árnyékolt = Ḣ · B,   B ≈ #^(−x/HVL)
+75a71666	F-# FDG
 75a97a00	Új vizsga
 75afa3bb	Vakbélgyulladásban csekély diagnosztikai érték; felesleges dózis.
 75d4759c	Bal alhasi fájdalom, láz
+75d5140c	A sejtpusztítás fő célpontja a DNS. Kis LET-ű sugárzásnál a károsodás mintegy kétharmada közvetett: a víz radiolíziséből származó OH·-gyökök támadják meg a DNS-t. Az egyszálú töréseket a sejt könnyen kijavítja; a kettősszál-törések (DSB) a fő letális elváltozások.
 760d8617	Ólomtartóban lévő vákuumos fiola szívja át a sóoldatot és a Tc-#m-et az oszlopon. A Mo-# áttörésnek < # kBq Mo / MBq Tc alatt kell maradnia.
+7620b894	Egyéb doziméterek
 763fa74b	Mindkettő foton, és energiatartományaik átfedik egymást (a # keV-es γ (Tc-#m) kisebb energiájú, mint egy # kVp-s cső röntgensugárzása). Csak az eredet különbözik.
 7647a3ac	Megfelelt — olvasd el figyelmesen a visszajelzést.
+765479aa	Mi ellen tervezik a szekunder védőfalat?
 765e2544	IV. zóna szabálya
+7686236b	Minden TVL #-es tényezőt ad: #³ = #, ez kb. # HVL.
+76a60042	Terhességben az MR előnyös, mert nem használ ionizáló sugárzást, de a gadolínium átjut a méhlepényen, ezért csak feltétlenül szükséges esetben adják. eGFR < # esetén a gadolínium a nefrogén szisztémás fibrózis (NSF) kockázata miatt óvatosságot igényel.
 76dd194b	Szív átlag < # Gy
+7719e496	<b>Elektronbefogás és izomer átmenet:</b> a Tc-#m metastabil állapot, amely # keV-es γ-t bocsát ki — ideális képalkotó energia kevés részecskesugárzással.
 77384e8c	Félrevezető. Az LNT-modell nagyon kicsi, de nem nulla kockázatot feltételez; őszintén és megnyugtatóan fogalmazz.
 774a6613	Egy x vastagságon áthaladó keskeny, monoenergiás fotonnyaláb kölcsönhatási valószínűsége egységnyi úton állandó. Az eredmény exponenciális csökkenés:
 777502bf	A bőrjelek nem mutatják a belső mozgást; nagy a céltérfogat elvétésének kockázata.
+777ecec1	# % / # mm
+7791bab3	≈ # mSv
+77e56096	Miért szűrik a visszavetítést?
 77eb0235	Pontszám
+77f31cee	<b>Effektív dózis:</b> DAP × konverziós együttható — pl. PA mellkas ≈ # mSv, ágyéki gerinc ≈ # mSv.
 78197beb	ESAK # µGy > DRL: csökkentsd a dózist (magasabb kVp + Cu-szűrő, vedd ki a rácsot, csökkentsd a mAs-t).
 7835c649	Az elektronok a K, L, M… héjakon helyezkednek el. A belső héjak kötési energiája meredeken nő Z-vel: a volfrám K-héja # keV, a jódé # keV, a víz oxigénjéé pedig csak # keV.
 785a8151	Pitch
+78a45025	Sievert (Sv)
+78b30f07	Determinisztikus és sztochasztikus hatások
 78cd4207	Eluátumfiola
 792a98a9	• <b>Nyalábkeményedés:</b> az alacsony energiák nyelődnek el először; hosszú utak mentén csökken az effektív μ → „cupping” középen és sötét csíkok a sűrű csontok között. A vízkalibráció (BHC) megszünteti a cuppingot, a csontcsíkokat viszont nem.\n• <b>Fém:</b> szinte minden foton elnyelődik (photon starvation) → világos/sötét sugaras csíkok.\n• <b>Kevés vetület:</b> elégtelen szögmintavétel → csíkos (aliasing) műtermékek.\n• <b>Zaj:</b> σ ~ #/√(mAs); az alapvető dózis–zaj kompromisszum.
 793c090c	Alacsony dózisú CT-protokoll
@@ -637,28 +999,45 @@
 79525074	Csak a közép
 79a399e0	Dózis
 79ae5968	Idő sebessége (felezési idő / # s)
+7a19375c	Hol a legnagyobb a ferromágneses tárgyra ható vonzóerő az MR-ben?
+7a3977c5	Teljes védelmet
+7a4568f0	Kis energián μ nagyon érzékeny a Z és a sűrűség különbségeire; a dózist és a kompressziót ehhez a kontraszthoz kell mérni.
+7a564ff8	A szórt fotonok felhalmozódnak a csúcsban
 7a696fee	Természetes háttérsugárzás-egyenérték
 7a9ee904	Koppints a padlóra → séta (billentyűzet: WASD). Figyeld a műszer dózisteljesítményét. Az idő, a távolság és az árnyékolás csökkenti a dózist.
+7aa5a762	A gradiensecho-szekvenciák nem használnak #°-os impulzust, ezért gyorsak, de T2*-súlyozottak (vérzés, meszesedés). Kis billentési szögekkel rövid TR érhető el, a jel az Ernst-szögnél maximális: cos α_E = e^(−TR/T1). A gadolíniumos kontrasztanyagok paramágnesesek: rövidítik a T1-et, és a halmozó szövetet T1-súlyozott képen világossá teszik.
 7ab00d8b	Axiális dóziseloszlás
+7ad68a4e	<b>Havonta / évente:</b> PDD és profilok, az MLC pozicionálási pontossága, izocentrum, képalkotó rendszerek; éves referenciadozimetria (TRS-#).
 7b06fb7d	SE-jel a TE függvényében
 7b0ee643	Minimális dózis a lézióban (#–# cm)
+7b16b51b	Olyan hatás, amelynek valószínűsége a dózissal nő, és küszöb nélkülinek feltételezik (rák, örökletes hatások).
 7b3a2d83	Alfa-részecske
 7b4e65c1	Végbél EQD2 (α/β #)
 7b804b26	Fizikai hatások
+7bd77338	Független az aktivitástól
 7bdb6a90	vízszintes: detektor s  •  függőleges: szög θ (#→#°)
 7be2d594	Fókusz–képfelfogó távolság (SID)
+7bea5b23	A csőnek az asztal alatt kell lennie: a személyzet dózisának nagy része a beteg csőoldali visszaszórásából származik.
 7bef2f61	Dózistérkép (x–mélység): a maximumhoz viszonyított dózis, %
 7bf995f5	Mérőpont (koppintás)
 7c162dc9	Spektrum • Gyengítés • Szórás • Dózis
+7c312941	Az ágyúból kilépő elektronokat egy S-sávú mikrohullámmal (~# GHz) táplált hullámvezetőben MeV nagyságrendű energiára gyorsítják; egy eltérítő mágnes a céltárgyra irányítja őket. Foton üzemmódban egy nagy rendszámú céltárgy fékezési sugárzást kelt, és egy kiegyenlítő szűrő egyenletessé teszi a nyalábot; elektron üzemmódban a céltárgyat kihúzzák, és egy szórófólia kiszélesíti a keskeny elektronnyalábot.
 7c5092be	Az ionizáló sugárzás elég energiát hordoz (≥ # eV) ahhoz, hogy elektronokat szabadítson ki az atomokból. Az UV-tartomány felső része, a röntgen- és γ-sugárzás és minden gyors töltött részecske ionizáló; a rádióhullámok és a látható fény nem.
+7c547340	# keV-es γ-fotonok
 7c72fb1b	Ernst-szög (FÁ)
 7c7da947	Effektív dózis
 7c941c55	R8# (≈ terápiás mélység)
+7cae44a6	≈ # mGy
+7d0cb4a8	A brachyterápiában a forrást a daganatba vagy közvetlenül mellé helyezik. A dózis a távolsággal meredeken csökken (négyzetes távolságtörvény), így a céltérfogat nagy dózist kap, a környező szövetek pedig kímélve vannak. A HDR-kezelésben Ir-# forrás működik (T½ # nap, átlagosan ~# keV, ~# GBq) távvezérelt utántöltő készülékben; az állandó LDR-szemcsékben I-# (T½ # nap, #–# keV) vagy Pd-# található.
+7d17d3db	Helymeghatározás gradiensekkel
+7d1ab5c2	A PA irány több szórást okoz
 7d7615e3	Prosztatarák — külső besugárzás
 7d96597f	Kórelőzmény
 7d972bea	Édesanyja kíséri; első képalkotó vizsgálata
+7db298cb	Hol álljon a személyzet átvilágítás közben (vízszintes C-ív)?
 7dd6f549	Titán implantátum
 7de1562e	 év, 
+7dee6ced	A HVL nő (a nyaláb keményedik)
 7e0e48e1	cT2b N0 M0
 7e0faf28	A vonzás azonnali; súlyos sérülésekről és halálesetekről is beszámoltak.
 7e323ea2	Az áram és az adat kábel nélkül jut át, így a cső folyamatosan foroghat — ez teszi lehetővé a spirális vizsgálatot.
@@ -666,48 +1045,71 @@
 7e5ca532	Szemlencse
 7e64d602	A cső és a detektor a beteg körül forog. Minden θ szögre és s detektorhelyzetre a mért gyengítés μ(x,y) vonalintegrálja. Az összes vetület együttese a <b>szinogram</b>: egy pontszerű tárgy szinuszgörbét rajzol.
 7e6646b7	Has-CT nagy testméretű betegnél
+7e78e10c	(#/#)² = #/#; a szöveti gyengülést és szórást g(r) korrigálja, de a négyzetes távolságtörvény dominál.
 7e86bdae	Pontozás
 7e8c6db6	Felező- és tizedelőréteg
+7e958f84	A CT-zaj a kvantumstatisztikából ered. A HU szórása (σ) egy ROI-ban a mAs és a szeletvastagság négyzetgyökének reciprokával arányos. Minél vastagabb a beteg, annál inkább exponenciálisan csökken a detektorhoz érő fotonok száma, és annál gyorsabban nő a zaj.
 7ec52420	Radioligand-terápia (PSMA, DOTATATE)
+7f80d327	Az összes projekció szög–detektorpozíció térképe.
 7f8ed8ff	A héliumszivattyú halkan zümmög, de a kopogás a gradiensekből jön.
 7fa4aa8f	A lézió # cm-re van a bal szemtől
 7fa59d83	vízszintes: radiális s • függőleges: szög φ
 7fa5ff5c	Teljes
 7fb12b63	Detektorív
+7fbf730c	A két foton koincidenciája már kijelöli az esemény egyenesét (LOR)
+7fcbce60	K = Ψ · (μ_tr/ρ)        (Ψ: energiafluencia)
+7ff4afcd	Az effektív dózis a népességre átlagolt kockázati mennyiség. Eljárások összehasonlítására és a védelem optimalizálására szolgál, nem egyes betegek kockázatának kiszámítására; ahhoz szervdózisok kellenek.
+803de498	U a nyalábirányok eloszlását, T a tartózkodást fejezi ki; szekunder falaknál U = #.
+804ba45f	Hogyan kell változnia a fotonszámnak az SNR megduplázásához?
+8057daf6	A Gd³⁺ párosítatlan elektronjai gyorsítják a relaxációt, ezért a halmozás T1-súlyozott képen világos.
 8077377d	Heti portálfelvétel
 807b9275	Helyes: a vonzóerő ~ B·dB/dz, és a nyílás bejáratánál a legnagyobb. Ha kell, vidd ki a beteget ellátásra a III. zónába.
 80cc6fb4	A pozitron egy elektronnal két ellentétes irányú # keV-os fotonná annihilálódik. Ha két szemközti detektor néhány ns-on belül észleli őket, koincidencia (válaszvonal, LOR) kerül rögzítésre.
+80d30c6b	CTDIw = ⅓·CTDI_centrum + #/#·CTDI_periféria     CTDIvol = CTDIw / pitch     DLP = CTDIvol · L     E ≈ k · DLP
 80d6fd98	α/β késői reakciójú szövet
 80f76b66	Rákérdezek a terhességre, és β-hCG-tesztet kérek
 80fd59df	Részecske
 811c30cd	Vetületek száma (#°)
+817e06f4	Ellenőrzött terület
 8190561a	Jobb alhasi fájdalom, hányinger (# h)
+8193cecf	Spinecho-jel
 819c9d03	Mo-#/Tc-#m generátor
+81aa5ec6	<b>Mozgás:</b> csíkok és szellemképek; rövid forgási idővel és légzésvisszatartással csökkenthetők.
 81ad7d36	Hosszú fogó használata (a forrás # cm-re a testtől)
 81b60676	Elül
+81d7d87b	A betegben Compton-szóródást szenvedő fotonok véletlenszerű irányokból érik el a detektort, csökkentve a kontrasztot és növelve a zajt. Vastag testrészekben a szórt/primer arány elérheti a #–# értéket. A szórás csökkentésének módjai:
 8202e478	Árnyékolás
 8210c814	Axiális agyszelet
+8231915e	SPECT
 826d7453	Elektron
+82b88998	Egy monitor csak ~# szürkeárnyalatot tud megjeleníteni, ezért ablakot (W) és szintet (L) választanak: tipikusan W # / L # lágy szövethez, W # / L −# tüdőhöz és W # / L # csonthoz.
 82ce6c55	Porc
 82e2dbbd	Régió és vetület
 82e733b7	<b>A szórás</b> csökkenti a kontrasztot: a szórt/primer arány a mezőmérettel és a betegvastagsággal nő. A rács a primer sugárzás ~#%-át és a szórt ~#%-át engedi át. A kollimáció a szórást és a dózist is csökkenti.
 82fa204f	A széles mező növeli a szórt sugárzást és a DAP-ot; a valódi védelem a szűk mező.
+82fdbac3	A spektrum
 832d529e	Térd-MR és MR-biztonság
 832f8681	Tüdő
 835889e9	Vese
 836bc242	A #–# MV-os VMAT sok irányból elegendő dózist ad a mély céltérfogatnak; a bőr kímélt, a neutronok elhanyagolhatók.
 83754be6	Legjobb eredményed: 
+8385b274	Dozimetria és sugárbiológia
 83d4e55a	# kV nagy testű betegnél fotonhiányos csíkokat és túlzott zajt okoz.
 84737e5d	Mért értékek
+84cf07c1	Egyáltalán nincs kockázat
 85124f40	Zaj # HU: diagnosztikus.
 8516948a	Képletek
 851ad665	Gantryszög
+851e9f59	A kis frakciók kímélik a későn reagáló szövetet, mert a β-tag csökken. Ha viszont a daganat α/β-ja kisebb, mint a késői szöveté (prosztata), a hipofrakcionálás a daganatra gyakorolt hatásnak kedvez — ezért voltak sikeresek a CHHiP (# Gy/#) és a PACE-B (# Gy/#) vizsgálatok.
 852fc0ce	Zeynep: „Előre lefejtem a tejet. A férjem cumisüvegből megetetheti.”
 8567c350	Értékelés megnyitása
 85e4b82f	OK
+8616bbc4	Az utolsó kép megtartása, a kollimálás és a detektor betegközelbe helyezése csökkenti a dózist.
 86260ec0	Így játszd az esetmódot
+863c496a	A prosztata hipoxiás
 8647f589	DI # → alulexponálás: kvantumzaj, nem diagnosztikus.
 869cfa26	EQD2 késői szövet
+86aa8c33	A HVL csökken
 86c813a5	Beütések
 86e1dbb8	Két # keV-os foton egymással ~#°-ban, két detektor észleli néhány ns-os koincidenciaablakon belül → válaszvonal (LOR)
 87025a9c	Nukleáris medicina: F-# FDG PET/CT, stádiumbesorolás (Dr. Er)
@@ -717,164 +1119,268 @@
 8762cac3	Protonenergia
 876b129d	Lépés 
 8786af42	✓ Kiváló
+87dbef57	<b>Repair (javítás):</b> az ép szövet a frakciók között kijavítja a szubletális károsodást (≥ # h különbséggel).
+87dc07cb	A bőrdózisuk nulla
 87e69378	Szórt
+87ff7f51	<b>Reoxigenáció:</b> a hipoxiás daganatsejtek a frakciók között oxigénhez jutnak.
 882ac676	A csecsemő dózisa
+88444e3c	Koincidencia-detektálás
 88674cd6	#) Válassz bal oldalt egy témát; a témák az alapoktól a klinikáig haladnak. #) Olvasd el a leckét; ne ugord át a LÉNYEG dobozokat és a kidolgozott példákat. #) Mozgasd az ábrák csúszkáit, hogy lásd, mit mondanak a képletek. #) Töltsd ki a lecke végi kvízt: ha minden helyes, a lecke ★ jelet kap. #) A „Próbáld ki a laborban” és a „Kapcsolódó klinikai eset” segítségével alkalmazd a tanultakat.
 886d0cbf	Az RF-impulzusok okozzák a zajt; nincs szükség óvintézkedésre
 888cc345	# m-en (árnyékolva)
+88905e3e	p = ln(I₀/I) = ∫μ dl: egy mérés a pálya menti teljes gyengítést adja, ezért a szelet visszaállításához sok szög kell.
+889fa24c	Hogyan állítják elő az F-#-et?
+88faff94	A build-up tényező csökken
+8904ba00	Kumulált aktivitás Ã
+891d411a	A lineáris energiaátadás (LET) az egységnyi úton leadott energia. A fotonok és az elektronok alacsony LET-űek (~#–# keV/µm); az α-részecskék és a lassú nehézionok nagy LET-űek (~# keV/µm), és sűrű, nehezen javítható DNS-károsodást okoznak — ezért # az α sugárzási súlytényezője.
 89235979	Ha az anyamag (Mo-#) tovább él, mint a leánymag (Tc-#m), A₂/A₁ egy állandóhoz tart: tranziens egyensúly. Ha az anyamag sokkal hosszabb életű (pl. Sr-#/Y-#), szekuláris egyensúly alakul ki: A₂ = A₁.
+89261fb7	Hogyan határozzák meg az esemény helyét a gammakamerában?
+892a4e53	Generátor (tranziens egyensúly)
 892ef903	Egyetlen # keV-os foton
+89598673	Mivel SNR ~ √N, a kétszeres SNR-hez #× annyi foton kell — és #× annyi dózis.
+896dd872	Determinisztikus hatás
 897fe13f	Kontrasztanyag és vese
 89d558f4	A szövethez közeli többcsatornás vevőtekercs növeli a jel-zaj viszonyt, és lehetővé teszi a párhuzamos képalkotást.
 89f4c462	Szakadás/meniszkusz CNR #: a szakadás nem látszik — hosszú TR (PD/T2) kell.
 8a2fa41a	Aktivitás, idő és felvétel
 8a355b34	PA, álló, SID # cm
 8a69358c	idő 
+8a794070	A gradienstekercsek a hellyel lineárisan változó kis teret adnak hozzá, így a Larmor-frekvencia helyfüggővé válik:
+8a79948a	Személyi dozimetria és sugárvédelmi ellenőrzés
 8aa94879	Az irányelvek (ICRP #, NAÜ) FDG esetén nem írják elő a szoptatás megszakítását; néhány órára a szoros kontaktus korlátozása és lefejt tej használata ajánlott.
+8ae221d1	Egy fal mögötti pont heti dózisa nem haladhatja meg a P tervezési célértéket: ellenőrzött területen # mSv/hét (# mSv/év), nem ellenőrzött területen # mSv/hét (# mSv/év). A szükséges transzmisszió a W munkaterhelésből, az U kihasználtsági tényezőből, a T tartózkodási tényezőből és a d távolságból adódik:
 8b0d147c	Csontkontraszt (# cm csont # cm szövetben)
 8b0eb3c2	Valódi
+8b2fcd4a	# cm-en kevésbé melegszik a cső
 8b5a89a7	Mi hol dominál?
 8b68a871	Lehetséges terhesség és vakbélgyulladás
+8bde112c	Inverziós visszatérés és zsírelnyomás
 8c032c1a	Tanulságok
 8c5db0a7	<b>Fotoeffektus:</b> a foton teljesen elnyelődik, és egy belső héjú elektron kilökődik. A valószínűség nagyjából Z³/E³ szerint változik.
 8c7d3087	Pontszám: 
+8c83f65c	<b>PTV:</b> CTV/ITV + beállítási biztonsági zóna; az előírás a PTV-re vonatkozik.
 8c880991	Minden válaszhoz magyarázat és visszajelzés tartozik.
 8ca7a950	GM-számláló vagy ionizációs kamra, amely µSv/h-ban mutatja a dózisteljesítményt; a forró laborban szennyezettség-ellenőrzésre használják.
 8cde5d5c	Kollimátor + kiegészítő szűrés
+8d1ed6ee	A távolsággal nő
 8d46a34c	vastagság (cm)
 8d815095	A fotonok kölcsönhatása az anyaggal
 8d8cee46	Távolságnégyzet-törvény
+8db1a663	Nő az eredő mágnesezettség, így az SNR is
 8dbd5185	Idő # s — a beteg mozdulatlan tud maradni.
 8de41236	Pacemaker
 8e5380f5	Emir tud állni és együttműködik. Melyik technikát választod?
 8e925209	Radon-transzformáció • FBP • Hounsfield • Műtermékek
 8ea57a5e	R9# (mélység a betegben)
+8f11c218	η ≈ #×#⁻⁹ · Z · V   (W, # kV: ≈ # %)
 8f1b876c	Legjobb eredményed
 8f30fea5	Magasság / testtömeg
+8f7ca05e	A fékezőképesség nagyjából #/v² szerint nő, így a lassuló részecske egyre több energiát ad le
 8fb29e12	Válassz bal oldalt egy témát és egy leckét. Próbáld ki az ábrák csúszkáit, és minden lecke végén teszteld magad.
 8fd05dbc	Pajzsmirigyrák és hyperthyreosis kezelése
+8fd304c9	CTDIw = #/#·CTDI_centrum + #/#·CTDI_periféria        CTDIvol = CTDIw / pitch
+8fd58c41	# MV-os lineáris gyorsító primer fala: W = # Gy/hét (# m-en), U = #, T = # (iroda), P = # mSv/hét = #×#⁻⁵ Sv (nem ellenőrzött terület), d = # m az izocentrumtól. B = #×#⁻⁵ × # / (# × # × #) ≈ #×#⁻⁶ → n = # TVL. Betonra TVL₁ = # cm, TVL_e = # cm (NCRP #): x ≈ # + # × # ≈ # cm beton.
 8fed86d7	Rendben, ha gyors
 8ff1e887	Idő sebessége
 9017c010	+ Nyaláb hozzáadása
+9018cfae	Hogyan függ a véletlen koincidenciák rátája az aktivitástól?
+901f2a3e	A fólia az elektronokat fotonokká alakítja
+902aac5f	M = SID/SOD és U_g ~ OID/SOD: kis OID és nagy SID mellett a szív közel valódi méretben és élesen látszik.
 90571e3f	 kvízkérdés
+905ee9cb	Kerma és elnyelt dózis
 907a4bcf	Betegdózis (effektív)
+907fefb6	CTDIvol
+908240bf	SUV = C_szövet [kBq/mL] / (A_beadott [kBq] / testtömeg [g])
+90c0a335	Kollimátor
 90d642b7	Daganat α/β ≈ # Gy, késői bőr- / porchatások α/β ≈ # Gy. Mi illik egy #-éves beteghez, akinek nehéz naponta bejárnia?
 90da7a12	Röntgen
+90dd40c0	Nagyobb mezőben több szórt foton éri el a centrális tengelyt, ami növeli a PDD-t, főleg a mélyben.
 90e8ad1a	Szövet
 91078d77	Csőspektrum, szűrés, felezőréteg, szórás, detektor és betegdózis.
 91258979	Radiogyógyszer
+915b2438	A rács javítja a kontrasztot — de mit növel még?
 91882d73	CSDA-hatótáv (Bethe / NIST)
+9192b5dc	A # keV-es fotonok nem hatolnak át az ólmon
+91a42068	Az elektronoktól a fotonokig
 91a7732a	A gyorsan kapcsolt gradiensáramokra B₀-ban Lorentz-erő hat; a zaj meghaladhatja a # dB-t → füldugó / fejhallgató kötelező
 91b76332	Megnyugtató, de pontatlan: a sztochasztikus kockázat parányi, nem nulla.
+9238d6ff	A sugárveszélyes munkakörben dolgozókra
 926d87c3	A szisztematikus beállítási hibát kiszűri, a napi szervmozgást nem → nagyobb margók és végbéldózis.
 928ef299	nő
+9293a3fa	<b>Parciális térfogat:</b> vastag szeletekben a különböző szövetek egy voxelen belül átlagolódnak.
 92fe3fad	Csak oktatási tartalom — nem klinikai döntésekhez.
 9340f08a	Bomlási állandó λ
+9364ced4	A pozitron a szövetben ~# mm-t tesz meg, és egy elektronnal két közel ellentétes irányú # keV-es fotonná annihilálódik. Ha a gyűrűdetektorok (LYSO, BGO) mindkettőt néhány nanoszekundumos koincidenciaablakon belül észlelik, az esemény a köztük húzódó válaszvonalon (LOR) van. Nincs szükség kollimátorra, így az érzékenység sokkal nagyobb, mint a gammakameráé.
+93672c16	Egy szögnél az összes detektorérték egy projekciót alkot; szög és pozíció szerint #°+legyezőszög tartományban elrendezve adják a szinogramot. A szelet minden pontja szinuszgörbét ír le a szinogramban.
+936f0729	M₀ ~ B₀, és az SNR nagyjából B₀-val nő, a SAR viszont ~B₀² szerint nő, és a T1-ek megnyúlnak.
+93755f1f	A liquor (szabad folyadék) jelét
 93798b62	Generátor
 93926697	Antropomorf fantom
+93c69625	Csőáram × idő; lineárisan meghatározza a fotonok számát (és a dózist).
 93fd33cf	Mx (jel)
 94397cd5	Potenciális kettőződési idő Tpot
 9441540c	DLP = CTDIvol × hossz; a teljes besugárzást írja le, nem a szervdózist.
+947997c0	Mennyi a munkavállalók éves szemlencsedózis-korlátja (ICRP #)?
 948fe972	kV röntgenforrás
 94a38054	A döntésed
+94ab30dc	<b>Sugárzásmérők:</b> ionizációs kamra a dózisteljesítményhez; GM- vagy „pancake” szonda a szennyezettséghez.
 94cc8d3b	Csecsemő dózisa ≈ 
 94f37251	Maga a CTDIvol
 951e2e51	ÉRTÉKELÉS MEGTEKINTÉSE  →
 95a8c428	Mo-# (T½ # h) → # % → Tc-#m (T½ # h). A Mo-# alumínium-oxid oszlopon kötődik meg; bomlásával Tc-#m halmozódik fel, amelyet sóoldattal „eluálnak”.
+95ac4fdd	A „# %-os szabály”: a kVp # %-os növelése nagyjából megduplázza a detektor expozícióját, így a mAs megfelezhető. A betegdózis többnyire csökken, de a kontraszt is.
 95bce1b7	Levegő
 95be3cc5	Legjobb 
 95d6d65a	Laborrendszer (precesszió mutatása)
+95f2bf9e	A legtöbb anyag (γ,n) küszöbe #–# MeV körül van, ezért a #–# MV-os nyalábok érezhető neutronszennyezést tartalmaznak.
 95f4d5de	Mező és szemvédelem
+95f8091a	Sugárvédelmi alapelvek és dóziskorlátok, idő–távolság–árnyékolás, helyiségárnyékolás tervezése, személyi dozimetria, terhesség, gyermekek és kockázatkommunikáció.
+962e3a8d	Az α/β-arány (Gy) az a dózis, amelynél a két tag egyenlő: ≈ # Gy a korán reagáló szöveteknél és a legtöbb daganatnál, ≈ # Gy a későn reagáló szöveteknél (gerincvelő, végbél, bőrfibrózis). A prosztata- (~# Gy) és az emlőrák (~# Gy) α/β-ja alacsony.
 963b7c8f	Szia! Fáj a gép? Anya kint várhat?
+963c7428	#–#-szor
 966d8f4b	Emir mellkasa ≈ # cm vastag (felnőtt ≈ # cm). Állítsd be a kVp-t, a mAs-t, a szűrőt, a rácsot és a mezőt, majd nyomd meg: EXPONÁLÁS. Cél: DI −#…# és ESAK ≤ # µGy.
+969a2726	A dózis a Bragg-csúcs után meredeken esik; a belépő dózis nem nulla, de kisebb, mint fotonoknál.
 96c251ec	Fourier-szelet tétel: egy vetület #D Fourier-transzformáltja a kép #D Fourier-transzformáltjának egy metszete. Ezért a vetületeket először a |f| rámpával szűrik, majd visszavetítik. A szűretlen visszavetítés #/r elmosódást ad.
 97080889	A beteg átmérője
 97197ddf	Egy hétig kerüljön minden érintkezést
 971c410e	Radioaktív bomlás, Mo-#/Tc-#m generátor, PET-koincidenciák és MLEM.
 9741e45e	Egyáltalán nincs kockázat, nulla sugárzás.
 97563b2a	Leárnyékolja a gammasugárzást, amíg a fiolát tárolják vagy szállítják; néhány mm ólom elég a # keV-os Tc-#m-fotonokhoz.
+97667826	A párhuzamos állapotban lévő többlet parányi (~# ppm # T-n), de egy voxelben lévő protonok óriási száma mérhető eredő mágnesezettséget (M₀) ad, amely B₀-val nő — ezért adnak a nagy terek jobb jel-zaj viszonyt.
+9773e002	# keV-es γ, T½ # h; a legszélesebb körben használt radionuklid.
+978d448a	Belső dozimetria és betegbiztonság
 979c2167	Felszíni dózis (bőrkímélés)
 97fc3c0a	Te vagy a kórház orvosfizikusa. Minden beteg egy eset: olvasd el a kartont, hozd meg a döntéseidet, és nézd meg a valódi fizikai modellekkel számolt eredményeket. Minden lépés után megtudod, miért volt helyes vagy helytelen.
 981c2b72	kV detektor
 98333fde	Beton
 9837047f	Lézió + ~# cm margó (≈ # cm-es ólomkivágás); a szem a mezőn kívül, szükség esetén belső szemvédő
+98532465	GRE:  S = PD·sinα·(# − E₁)/(# − cosα·E₁)·e^(−TE/T2*)      Ernst-szög: cos α_E = e^(−TR/T1)
 98582d5e	Közvetve ionizáló
 9867b7d1	A dózisteljesítmény a távolság négyzetével csökken, Ḣ = Γ·A/d². A padló színei ezt mutatják; a fehér vonal # µSv/h-t jelöl.
+986c335e	Összehasonlításképpen: a természetes háttérsugárzás világátlaga ≈ # mSv/év (UNSCEAR). Egy PA mellkasröntgen ≈ # mSv (~# nap), egy has-CT ≈ # mSv (~# év), egy Isztambul–New York repülőút ≈ # mSv.
+9888d039	<b>Mozgás és áramlás:</b> szellemképek fázisirányban.
 9895bce3	EQD2 daganat
 98b07aa5	Nem — a maximális elektronenergia (# keV) nem tudja ionizálni a K-héjat
 98f224a5	EXPONÁLÁS
 9920e564	Tervpontszám
+992370e6	α-bomlás
 993014d9	Testtömeg
 9945210a	Algoritmus
 994bbd58	Szabály: R ≈ #·E^#
 995324ac	Idő 
 995c9ab4	#. Dozimetria
 9970e954	PET: koincidenciák és rekonstrukció
+9973e834	Ökölszabályok elektronokra
 997b38dc	Testmérethez igazított protokoll
 99a15c5e	Effektív dózis (kb.)
+99a61a5f	Átvilágítás és mammográfia
 99a7a50a	TOVÁBB  →
 99f7bee7	Csúszógyűrű
 99fa0dc1	Beütésszám-elégségesség A·t / (#·kg)
 9a125d51	A fűtött katódból kilépő elektronokat a kVp egy forgó volfrámanódra gyorsítja. Energiájuknak csak ~# %-a válik röntgensugárzássá (fékezési + karakterisztikus); a többi hő.
 9a23c97b	FDG PET/CT szoptató anyánál
 9a2b880f	Betegvastagság / SSD
+9a548d26	pitch = #/# = #; azonos mAs mellett a CTDIvol #/# része a pitch = # esetén mért értéknek.
 9a73db9b	Nyelv
+9a83f5a9	Százalékos mélydózis
+9ab3d4c5	# µSv/h
 9b012adc	Távolság a forrástól
+9b173448	„Ez a mellkasröntgen kb. # mSv — ennyi sugárzást kapunk a természetből kb. # nap alatt. A tüdőgyulladás helyes felismerésének haszna sokkal nagyobb ennél a nagyon kis kockázatnál.”
+9b1a53e6	≈ # %
+9b243684	Meg kell négyszereződnie
+9c46f193	Minden furat egy kúpból fogad fotonokat, amelynek alapja a távolsággal nő, ami rontja a felbontást — ezért a detektort a beteg közelébe helyezik.
 9c4aa55c	Röntgencső
 9c506f53	Szelet helye
 9c528492	Folyékony héliummal ~# K-re hűtött NbTi tekercsek. A B₀ (# / # T) mindig be van kapcsolva: a ferromágneses tárgyak lövedékké válnak.
 9c70fc8a	Fókuszált vékony ólomlemezek nyelik el a betegben szóródott fotonokat. A kontraszt javul, de ugyanakkora detektordózishoz nagyobb mAs kell (Bucky-tényező #–#).
 9c8081f1	Labor megnyitása
 9cabb538	Idő • Távolság • Árnyékolás
+9cb890cd	A spinecho-jel T1- és T2-tagot is tartalmaz:
+9ce536e5	Egy # mSv-es CT-nél a névleges többletrákkockázat ≈ # Sv × # / Sv ≈ # %, azaz nagyjából # a #-hoz — kicsi a ~# %-os élethosszig tartó alap rákincidenciához képest, de így is indokolást igényel.
 9cf82695	Eredmények
 9d145291	Fotoeffektus
+9d21a288	A rács a primer nyaláb egy részét is elnyeli, ezért azonos detektorjelhez a mAs-t #–#-szorosára kell növelni.
 9d2b5423	A berendezés kimenetét írja le, a beteg méretét figyelmen kívül hagyja.
 9d3d585c	Az összes nyaláb modalitása
+9d49828f	Maguk az elektronok a kezelő nyaláb; a fólia a keskeny nyalábot széles, egyenletes mezővé teríti szét
+9d598f66	Az oxigénfokozási arány röntgensugárzásra ~#–#; nagy LET-ű sugárzásnál #-hez közelít.
 9d6f6466	A szűrő elsősorban a kis energiájú fotonokat távolítja el (<b>nyalábkeményedés</b>), amelyek csak a bőrdózist növelnék. Több szűrés növeli az átlagenergiát és a felezőréteget, és csökkenti a hozamot.
 9d70bd7a	DI = #·log₁₀(EI / EI_target): # ≈ # %-kal több, −# ≈ # %-kal kevesebb, # ≈ #× detektordózis.
+9de25720	U kihasználtsági tényező
+9de4bb08	Az emlőszövetek (zsír, fibroglanduláris szövet, daganat) gyengítése nagyon kevéssé különbözik, ezért alacsony energiákat használnak, ahol a fotoeffektus dominál: #–# kVp Mo/Mo, Mo/Rh, W/Rh vagy W/Ag anód/szűrő párossal. A kompresszió csökkenti a vastagságot, a szórást, a mozgást és a dózist. A mikrokalcifikációk nagyon kis fókuszfoltot igényelnek (#–# mm).
 9e134627	Klinikai esetek — # beteg vár
 9e1d18ea	#. Sugárbiológia
+9e2b6eb5	PTV
 9e452222	Melyik közvetve ionizáló?
 9e75940c	Aktivitás
 9e7b7a87	Tumor EQD2 = n·d·(d + #)/(# + #) = # Gy — a szükségesnél magasabb.
+9e851bcc	A sugárterápia fizikája
 9e8abbb2	A dolgozó műszere az adott helyen a környezeti dózisegyenérték-teljesítményt (H*(#)) mutatja; felhalmozott dózis = dózisteljesítmény × idő.
 9e995ba1	Frakcionálás (LQ-modell)
+9eb1083f	A vezérlőteremben
 9ebe06d9	Reggeli # órája
+9f012d98	Csökken a SAR
 9f24f2f7	A kontrasztanyagok ezt a fizikát használják ki: a jód K-éle # keV-nél, a gadolíniumé # keV-nél van. Az elnyelés ugrásszerűen megnő, ha a foton energiája épp a K-él fölött van.
+9f323307	Mérési idő T = TR × N_fázis × NEX / ETL
 9f3f7105	Rekonstrukció folyamatban…
 9faeab39	Az impulzusmegmaradás két fotont követel.
 9fc55136	Jel a TE függvényében (T2-lecsengés)
+9fc5a477	A sejt nagyrészt vízből áll; a radiolízis OH·-gyökei okozzák a károsodás mintegy kétharmadát, az oxigén pedig véglegessé teszi.
+9fed9d91	Az alak változatlan; a fotonok száma minden energián megduplázódik
 9ffc9a24	Mérj HU-t: koppints a tüdőre (< −#), a zsírra (−#…−#) és a csontra (> #)
 a049bc94	T1 / T2 / PD kontraszt
+a049c691	A kép nagyítódik
+a07e0be8	Tc-#m MDP
+a0899a7e	A mAs megnégyszerezésével
+a0a42eb1	Sztochasztikus hatás
+a0afe4ef	CTDIw = #/#·CTDI_centrum + #/#·CTDI_periféria     CTDIvol = CTDIw / pitch
 a0cf38d2	Megfelelő felvételi idő: standard tumor/háttér arány (összehasonlítható SUV-ok).
 a12d8b93	Atomok, atommagok és sugárzás
 a13c66b3	Effektív dózis ≈ # × 
+a147ccfe	Mit nyom el egy FLAIR-szekvencia?
 a14e7f7e	Jódos kontrasztanyag (szív/aorta)
+a15a9e57	Napi minőségellenőrzés: homogenitás (flood) és energiacsúcs-beállítás; hetente felbontás/linearitás.
 a15fa5b0	Mintavétel
+a1691857	A Bethe-képlet #/v² tagja: ahogy a sebesség csökken, nő az egységnyi útra eső energiaveszteség, és ez éles csúcsot hoz létre a hatótávolság végén.
 a1793be6	Csont / levegő
 a17f6a53	# véletlenszerű kérdés az összes témából — jó felkészülés mesterszakos felvételire és vizsgákra.
 a1be3d2c	Laterális (LAT)
 a1d821ab	#. Műtermékek
+a2059fd4	A statikus térinhomogenitások okozta defázisolódást (a T2*-hatást)
 a219bf8b	Váróterem
 a22bd65a	protonok
 a267e784	Effektív dózis ≈ # × # = # mSv (ICRP #).
 a26d32ed	Mz visszatérése (TI)
+a27c2818	Nem változik
 a28c2366	A hullámvezetőben MeV-re gyorsított elektronokat egy céltárgyra (fotonok) vagy szórófólián át (elektronok) térítik el. Itt található a kiegyenlítő szűrő és a monitorkamrák (MU) is.
+a2b24ff7	Fogamzóképes korú nőknél először rákérdeznek a terhességre, ha a medence az elsődleges nyalábban van vagy radionuklidot adnak, szükség esetén β-hCG-teszttel. A diagnosztikai vizsgálatokból eredő magzati dózis többnyire < # mGy; ~# mGy alatt determinisztikus hatás nem várható, és a terhesség megszakítása orvosilag nem indokolható (ICRP #). A gyermekkori daganat többletkockázata ≈ # % (# mGy-enként; alapkockázat ≈ #–# %).
+a2b54d61	A nyers MR-adatok térbeli frekvencia-reprezentációja; a kép ennek Fourier-transzformáltja.
 a2c330b1	Nézd meg, hogy egy elektronnyaláb R5# értéke követi az E/# szabályt
 a2eb2f51	Radioaktív bomlás (Monte Carlo)
 a2ed22c4	effektív átmérő D_eff (cm)
 a30f0337	Elektron-PDD: a felszíni dózis az energiával nő (# MeV ≈ # %, # MeV ≈ # %); a bólus növeli a felszíni dózist és rövidíti a hatótávolságot.
+a331c4a6	R9# ≈ E/# → E ≈ # × # ≈ # MeV; # MeV fölöslegesen mélyre juttatna dózist.
+a340d8fe	Értékének #/#-ére csökken
+a370731d	A CT alapjai: projekciók és szinogram
+a3729e56	Projekciók és szinogram, szűrt visszavetítés és iteratív rekonstrukció, Hounsfield-egységek, képminőség és műtermékek, CTDI/DLP/SSDE.
 a37bf952	Kiváló — igazi orvosfizikus!
 a408a7ff	Fogamzóképes korú nők, akiknél a medence a nyalábban van: először ki kell zárni a terhességet (szükség esetén β-hCG).
 a431924a	Forrás felvétele
+a45ef663	Kerma
 a475164f	Ólom
 a4843b38	Csont (# cm) # % — fölöslegesen magas: osteoradionecrosis kockázata. Válassz kisebb energiát.
+a49d211b	A determinisztikus hatásoknak (szöveti reakcióknak) küszöbük van, súlyosságuk a dózissal nő. Példák: átmeneti bőrerythema ~# Gy, átmeneti szőrvesztés ~# Gy, lencsehomály/szürkehályog ~# Gy (ICRP #). Ezért hosszú, átvilágítással vezérelt beavatkozásoknál figyelik a bőrdózist.
 a4a2847a	Rövid TR + rövid TE → T1-súlyozott; hosszú TR + hosszú TE → T2-súlyozott; hosszú TR + rövid TE → protonsűrűség.
 a4be5f34	Izotóp
 a4eeda8f	Lézió
+a50bb8ca	Az elektrondózis egy bizonyos mélységen túl gyorsan esik, ami felszíni céltérfogatokhoz ideális. Gyors szabályok (E MeV-ben, mélység cm-ben): R9# ≈ E/# (kezelési mélység), R8# ≈ E/#, gyakorlati hatótávolság Rp ≈ E/#. A felszíni dózis magas (#–# %), és az energiával nő; a bólus tovább növeli, és lerövidíti a hatótávolságot a betegben.
 a50be870	Betegasztal
 a51067fd	Bomlás
+a5206542	# h ≈ # felezési idő (T½ = # h): # × (#/#)² = # MBq.
+a56385b1	Fajlagos elnyelési ráta: milyen gyorsan alakul a RF-energia hővé a szövetben (W/kg).
 a5916fb6	Eset befejezve — 
+a59db3b2	Radioaktív bomlás, radionuklid-előállítás és generátorok, gammakamera és SPECT, PET, belső dozimetria és betegbiztonság.
+a5a30ba8	Az oxigén „rögzíti” a szabadgyökös károsodást, ezért a hipoxiás sejtek #–#-szor ellenállóbbak (oxigénfokozási arány, OER). A daganatok hipoxiás magja ezért terápiás probléma.
 a5a57f6f	A képalkotásban a kontraszt nagyrészt a fotoeffektusból ered, mert a Z³-függés élesen elválasztja a csontot (Ca, Z = #) a lágyszövettől (effektív Z ≈ #). A Compton-szórás a szórt sugárzás fő forrása, ami rontja a kontrasztot.
 a5d46b38	DLP (# cm-es vizsgálat)
 a5ee64bb	Átlagolások (NEX)
@@ -884,44 +1390,74 @@ a60a634d	Csecsemődózis ≈ # µSv (fordított négyzetes törvény: a dóziste
 a6310194	Tanácsadás
 a650d3f5	INTERAKTÍV ÁBRA
 a66f47bd	Ólomvastagság
+a675b402	<b>End-to-end tesztek:</b> antropomorf fantommal ellenőrzik a teljes láncot a CT-szimulációtól a besugárzásig.
+a6b773b5	Mit olt ki a spinecho?
 a6e53476	RF testtekercs
 a6f33ef9	Helyes: számszerű összehasonlítás (természetes háttér ≈ # mSv/év ≈ # µSv/nap), az indokoltsággal és az ALARA-val együtt elmagyarázva.
 a704e2e8	A Klein–Nishina-hatáskeresztmetszet határozza meg a Compton-szórási szöget és a visszalökött elektron energiáját. A Monte Carlo-szimuláció minden fotont és elektront követ; a dózis σ ~ #/√N statisztikus bizonytalansággal konvergál.
 a72ca2ae	Adj hozzá biológiai felezési időt, és nézd meg az effektív felezési időt (I-#)
 a77fb204	Ha egy belső héjról eltávolítanak egy elektront, egy külső elektron tölti be a helyét, és a különbség karakterisztikus röntgensugárzásként vagy Auger-elektronként távozik. A karakterisztikus energiák elemre jellemzők; a röntgencsőben a volfrám Kα-vonala ≈ # keV.
 a7ae7cae	# MeV
+a7b12571	Hasi vizsgálat: CTDIvol # mGy, # cm hosszon. DLP = # mGy·cm, E ≈ # × # ≈ # mSv — nagyjából # évnyi természetes háttérsugárzás.
+a7fc4636	Ha egy vízfantom közepe sötétebbnek látszik a szélénél, mi az oka?
+a81646ff	Az energiaablak (# keV ± # %, Tc-#m esetén) kiszűri a szórt fotonok többségét.
 a85562cb	A terhesség kizárása elmaradt: a magzatot észrevétlenül sugárterhelés érhette.
+a85680c5	#/# (# %)
 a861d965	Rekonstrukció
 a86b43b2	Bowtie-szűrő + kollimátor
+a8721f49	A mezőn kívüli szervdózisok eleve elenyészők; a mezőbe tett árnyékoló rontja a képet, és az expozíció-automatika emiatt növeli a dózist.
 a87f9edd	Minden vonal egy koincidencia (LOR): zöld = valódi, sárga = szórt, piros = véletlen. Gyűjts elég beütést, majd „Rekonstrukció”.
 a8b4a774	SSDE — az effektív átmérőre korrigált CTDIvol
+a8ca95fa	≤ # %
+a8efac85	<b>Optimálás (ALARA):</b> a dózisokat az észszerűen elérhető legalacsonyabb szinten tartják; betegeknél ez a dózis csökkentését jelenti a diagnosztikai minőség megőrzésével (ennek eszközei a DRL-ek).
 a93ad5ad	zaj σ (HU)
+a949da20	A cső hatásfoka
 a97badd0	Futtasd az első vizsgálatot, és nézd, ahogy megtelik a szinogram
 a97d3fea	Effektív (monoenergiás) energia
 a9887e52	Tanulási központ
 a99ef883	Számolás…
+a9ec004a	pitch = asztalelmozdulás fordulatonként ÷ teljes kollimáció
 a9f0a4e6	Pont
 a9f3146e	Víz / csont / ólom
+aa119389	ESAK
+aa1209da	Nagyjából mekkora egy # mGy·cm DLP-jű mellkas-CT effektív dózisa?
 aa28ed13	Sejttenyészet (#D)
 aa2ce59e	Dózis-térfogat hisztogram (DVH)
+aa36db58	≈ # MV
 aa430d6d	Nem indokolt: gyermek mellkas-CT ≈ #–# mSv, szemben a PA-felvétel ≈ # mSv-jével. Sérti az indokoltság elvét (ICRP #).
 aa4446a7	Szűrt (belépés)
+aa7069a5	A szupravezető mágnest nem lehet egyszerűen „kikapcsolni”. A quench kiengedi a héliumot, költséges, és csökkentheti a terem oxigéntartalmát; csak életveszélyben alkalmazzák (pl. valaki a mágneshez szorult). Szívmegállásnál a beteget újraélesztésre a III. zónába viszik ki.
 aa7120ec	# órára leállítom a metformint, aztán vizsgálok
 aaaa64f1	Csőterhelés
+aad07647	Mozgás
 aaede69c	ACR Appropriateness Criteria és ACOG: először ultrahang, majd gadolínium nélküli MR — ionizáló sugárzás nélkül.
 aaee7048	Vizsgálati idő (# fázis, ETL #)
+ab06bf6d	A zsír (T1 ≈ # ms) STIR inverziós ideje # T-n: TI ≈ # × # ≈ # ms; a gyakorlatban #–# ms-ot használnak, mert a TR véges.
 ab14bcac	Komputertomográfia
 ab25d4ea	Visszaszórási tényező BSF ≈ #. A DAP (Gy·cm²) független a távolságtól, és együtthatókkal váltható át effektív dózisra: mellkas PA ≈ #, has ≈ #, medence ≈ #, koponya ≈ # mSv/(Gy·cm²). Tipikus mellkas PA: ESAK ~#–# mGy, E ~# mSv.
+ab344af2	<b>Valódi, szórt és véletlen koincidenciák:</b> a véletlenek az aktivitás négyzetével nőnek (késleltetett ablakkal korrigálják); a szórást modellezéssel korrigálják.
 ab834a11	Biológiai felezési idő (# = nincs)
 ab8ca2c5	Vízfantom
+aba2f3f7	A pulzáló átvilágítás és az alacsony képfrekvencia (pl. # kép/s) arányosan csökkenti a dózist.
+abb049f7	Elektronnyalábok
+abc084d1	Mi történik nagyjából, ha egy fej-nyak kezelés egy héttel meghosszabbodik?
+abcdcf7a	Milyen RBE-értéket használnak a klinikai protonterápiában?
 abdee8d2	Az MV-os fotonok a vízben főként Compton-szórással hatnak kölcsön; az energiát a szekunder elektronok több cm-en adják le. Ezért a dózis a felszínen kicsi, és dmax-ig nő (<b>felépülés</b>; bőrkímélés). Ezután a gyengítés és a távolságnégyzet-törvény miatt csökken.
 abe195be	Válts tüdőablakra egy mellkasi szeleten
 abe68d6f	Légzésszám
+abfef648	<b>Radiokróm film (EBT3/EBT4):</b> nagy térbeli felbontású #D dóziseloszlás, IMRT betegspecifikus QA-ra.
+ac46edc7	A van Herk-képletben miért nagyobb a szisztematikus hiba (Σ) együtthatója, mint a véletlen hibáé (σ)?
 ac5b89c3	Frakciónkénti dózis
 ac720a66	Keskeny és széles nyaláb: build-up
 ac737796	A kilépő kezelőnyalábot képezi le (portálkép); a mezőalak és a leadott dózis ellenőrzésére szolgál.
+ac7d67eb	Bizonytalanságok
+ac92d741	Hogyan ellenőrzik egy ólomkötényt viselő munkavállaló szemlencsedózisát?
 aca79e3e	Lépések: 
 aced2b71	Frakcionálás (idős beteg)
+acf4af3c	Melyik szövet súlytényezője #?
+acf8c2eb	Miért húzzák ki elektron üzemmódban a céltárgyat, és miért használnak szórófóliát?
+ad7cb1fd	A = λ·N     # Bq = # bomlás/s     # mCi = # MBq
+ad863383	A radioaktív beteg egy ideig maga is forrás: a dózisteljesítmény # m-en Γ·A/d² szerint alakul. A terápiás betegeket (pl. I-#) a nemzeti előírások dózisteljesítmény- vagy aktivitáskorlátai alapján bocsátják el, írásos útmutatással a gyermekekkel és várandósokkal való szoros érintkezés korlátozására.
 ada7afdb	nincs
 ada880a8	Az elmélet hamarosan érkezik.
 adbf56a0	Az energiája: a γ-sugárzás mindig nagyobb energiájú
@@ -930,16 +1466,31 @@ ae20a6a3	A fékezőképesség #/β² szerint nő, ahogy a proton lassul; az ener
 ae27b827	Klinikai eset mód
 ae6bb2bb	max. 
 ae888d5f	Az elektronok # %-os izodózisa a mélyben szűkül: a kivágás legyen ~# cm-rel nagyobb a léziónál.
+aeb91213	ICRU-térfogatok
+aebe6d8f	A szivárgási sugárzás a munkaterhelés ~# %-ára korlátozott; a szórás a szögtől és a mezőmérettől függ.
 aef94af7	Helyes. 
 af010c63	Csont (borda/medence)
+af366776	Várandós betegnél, ha a méh a primer nyalábban van, a magzati dózis ≈ SSDE; ez jóval # mGy alatt van, ahol nem várhatók determinisztikus hatások (ICRP #).
+afbed5fb	Mekkora a pitch # mm kollimáció és fordulatonként # mm asztalelmozdulás esetén?
 afe72516	Az éles dózismaximum egy nehéz töltött részecske hatótávolságának végén.
 afe8043f	idő (óra)
+aff91e2c	A sejttúlélést a lineáris-kvadratikus (LQ) modell írja le a legjobban. Az α-tag egyetlen nyom okozta letális károsodást jelent, a β-tag két külön nyom károsodásainak kölcsönhatását.
+b0411b94	#-szor
 b081abb7	izomer átmenet (IT)
+b08d33bd	A #D konformális terápia néhány rögzített, MLC-vel formált mezőt használ. Az IMRT minden mezőt kis szegmensekre bont az intenzitás modulálásához, az inverz tervezés pedig egy célfüggvényt optimalizál (céldózisok és OAR-korlátok). A VMAT a gantry forgása közben folyamatosan változtatja az MLC-t, a dózisteljesítményt és a gantry sebességét, így néhány perc alatt IMRT-minőséget ad.
 b0adb207	Miért nagyobb egy polienergiás nyaláb második felezőrétege az elsőnél?
 b0c23fb1	Aktivitások (tranziens egyensúly)
+b0ca3b9d	Hány tizedelőréteg (TVL) árnyékolás csökkenti a dózisteljesítményt az #-ed részére?
+b0d829f3	≈ # cm
 b0db6938	 nap
+b0e35e18	Csak béta-sugárzás elleni védelmet
+b0e55336	<b>Gyengítéskorrekció:</b> a két foton együtt a teljes testvastagságon áthalad; a CT-ből # keV-es μ-térképet készítenek.
+b0e5e70b	A SPECT a CT-hez hasonlóan szeleteket rekonstruál a beteg körül forgó kamerával felvett projekciókból (általában OSEM). A gyengítéskorrekció a SPECT/CT CT-jét használja.
 b0f260dc	Tüdőgyulladás gyanújánál nem ez az első választás; az oldalfelvétel nagyobb dózist igényel, és önmagában nem elegendő.
 b11e7606	A szűrőlap mely pontjai igényelnek TOVÁBBI TEENDŐT az MR előtt? (jelöld az összes megfelelőt)
+b17551b5	Nagyjából hányszor ellenállóbbak a hipoxiás sejtek a jól oxigenizáltaknál (kis LET)?
+b18eabf1	A Bragg–Gray-üregelmélet szerint a közegbeli dózis egyenlő az üregbeli dózis és a közeg/gáz tömegfékezőképesség-arány szorzatával. A gyakorlatban az IAEA TRS-# vagy az AAPM TG-# protokollt használják:
+b1a99313	A repopuláció miatt ≈ # Gy EQD2 hatásosság vész el
 b1b83851	mélység vízben (cm)
 b1c222ab	EQD2 = n·d·(d + α/β)/(# + α/β). A kis α/β-jú daganatok (prosztata ≈ #) profitálnak a hipofrakcionálásból.
 b1c8c38e	Sáv: egy dolgozó napi része (# mSv/év ÷ # nap = # µSv).
@@ -949,33 +1500,55 @@ b232d1f0	Lézió lefedettsége: minimum # % — teljes.
 b2697ad8	A röntgen- és a γ-sugárzás ugyanolyan fotonokból áll; csak az eredetük különbözik. A röntgensugárzás elektronoktól származik (fékezési sugárzás vagy héjátmenetek), a γ-sugárzás az atommagból (radioaktív bomlás).
 b2972ae3	Fej
 b2aad11c	Vizsgálati paraméterek
+b31c403d	<b>Geiger–Müller-számláló:</b> nagyon érzékeny számláló szennyezés felkutatására; energiáról nem ad információt. Dózisteljesítmény mérésére ionizációs kamrás műszer a jobb.
+b32962b7	A történeti mennyiség, a besugárzási dózis (C/kg) csak a levegőbeli ionizációt méri. Egy ionpár létrehozása levegőben átlagosan W/e = # J/C energiába kerül, így K_levegő = X · #.
 b33eb976	Modell: párhuzamos nyalábú geometria (átrendezett legyezőnyaláb-adatok), energiaintegráló detektor, a szórás elhanyagolva.
 b34b3fcd	Szünet / Indítás
+b357382c	Műtermékek
+b3615a21	Egy #°-os impulzus után egy T1 idő elteltével M₀ mekkora hányadát nyeri vissza a longitudinális mágnesezettség?
 b3755394	A fotoeffektus valószínűsége igen meredeken nő a rendszámmal és meredeken csökken az energiával — ezért növeli az alacsony kVp a csontkontrasztot.
 b38452f0	Jelölő (TR vagy TE)
+b391a968	Egy második doziméterrel gallérmagasságban, a kötényen kívül
+b397b1d8	Bőr
 b3af5cc8	#. ALARA és korlátok
+b3c141a0	MR-biztonság
 b3f9f066	Nagyon fáj… és nem tudom, nem vagyok-e terhes.
+b43b8664	S = exp(−α·D − β·D²)        n frakcióban:  S = exp[−n(α·d + β·d²)]
+b45d336f	Mennyi marad # MBq Tc-#m-ből # óra múlva?
 b48eaaae	#. k-tér
+b4b43e70	Az alagút bejáratánál, ahol a tér térbeli gradiense a legnagyobb
+b4cffd96	<b>Kémiai eltolódás:</b> világos/sötét sáv zsír-víz határokon frekvenciairányban.
 b4d90f43	Betegdózis
+b50e98d5	Három alapelv (ICRP #)
 b528da3e	Átlátszatlan
 b5377fa4	Acél
+b53e3b71	A frakcionálási sémák összehasonlítására a biológiailag effektív dózist (BED) és a # Gy-es frakciókban kifejezett ekvivalens dózist (EQD2) használjuk:
 b54b4085	Menj közelebb a tartályhoz (< # m).
 b54d1bc5	Fedezd fel a laborokat
 b58894f8	A forgó rendszerben (x', y') a Larmor-frekvenciával együtt forgunk: csak a frekvenciaeltérések (Δω) látszanak.
 b589c5ea	Mezőszélesség (izocentrum)
+b5bc01ee	Ott a fékezési sugárzás dominál
+b5df3592	Hogy kíméljék a csövet
 b5f6bbb8	cél 
+b6289cee	Szekvenciák és kontraszt
+b63830af	A kamra polaritását
 b6b8c8bf	Larmor-precesszió, Bloch-egyenletek, T1/T2, spin-echo, k-tér.
+b6db5e97	Mi a tipikus gamma-kritérium az IMRT betegspecifikus QA-hoz?
 b6e00083	Szív
 b6e56670	Felező- és tizedelőréteg
 b6fab935	PD-súlyozott
+b70423e7	Mayneord-féle F tényező
 b72c1283	#. Fotonnyalábok és mélydózis
 b7312de4	Levegő −#, víz #, zsír ≈ −#, lágyrész #…#, csont #…# HU. Mivel a szem csak ~#–# szürkeárnyalatot különít el, a képeket ablakon (szélesség W, közép L) át jelenítik meg: tüdő W1#/L−#, lágyrész W4#/L4#, csont W2#/L4#, agy W8#/L3#.
+b7362550	Ismétlési idő (gerjesztések között) / echoidő (gerjesztés és jel között).
 b77556fd	A foton energiája arányos a frekvenciájával: E = h·ν. Hasznos ökölszabály: E[keV] ≈ # / λ[nm]. A rádióhullámok (MR), a látható fény és a röntgen-/γ-sugárzás ugyanaz a jelenség különböző energiákon.
 b7d0e925	A beeső foton energiája
 b7fdc96d	Az utolsó elúció óta
 b8095719	EANM: A·t ~ testtömeg. Hosszabb vizsgálat kisebb aktivitást és dózist tesz lehetővé.
+b80f1610	A PET csak szórt fotonokat használ
 b846a137	Válaszd ki a szelet helyét, és nyomd meg a SCAN gombot. Koppints a képre a HU méréséhez.
 b85a81d5	Frakcionálási séma
+b8624b08	A labirintus miatt a szórt fotonok többször visszaverődnek, mielőtt elérnék az ajtót. # MV felett az ajtóban bóros polietilén és ólom is van a neutronok és a befogási gammasugárzás ellen. A telepítés után sugárvédelmi felmérés kötelező.
 b8628c9b	Szivacsos csont
 b86f8853	KIDOLGOZOTT PÉLDA
 b8757751	Igen; a külső besugárzástól nem lesz radioaktív — a gép kikapcsolása után semmi sem marad
@@ -987,32 +1560,66 @@ b8e79c59	Vízre μ/ρ (# keV) = # cm²/g, tehát μ = # cm⁻¹. HVL = #/# = # c
 b8ebb4eb	A Tc-#m maximumának ideje
 b8f48602	Állandók
 b8ff3ac7	Mező #×# cm: illeszkedik a tüdőhöz.
+b90ddbf5	Az ólom nem engedi át az MV-os fotonokat
 b92e17d6	Rács használva: egy ~# cm-es gyermekmellkas kevés szórt sugárzást kelt; a rács (Bucky-faktor #–#) fölöslegesen növeli a dózist.
 b95e783d	Menj közelebb a forráshoz (< # m).
 b999f041	# cm-es bazálsejtes karcinóma a bal arcon (biopsziával igazolt)
 b9a92b6b	Dózis ≈ # µSv: körülbelül # napnyi természetes háttérsugárzás. A tüdőgyulladás diagnózisának haszna messze meghaladja a kockázatot.
+b9bc8c97	Doziméterek és kalibrálás
 ba151840	Nagyjából hogyan változik a fotoeffektus valószínűsége?
+ba1a8e96	Ḣ ~ #/d²: # × (#/#)² = # µSv/h.
 ba1de520	Larmor-frekvencia f = γ̄·B₀ (# MHz/T). SAR ~ B₀²: ~#× RF-melegedés # T-n.
+ba32dc5a	<b>PD-súlyozott:</b> hosszú TR, rövid TE. A protonsűrűség különbségeit mutatja; mozgásszervi képalkotásban használják (meniszkuszok).
+ba35bb9c	Milyen energia felett válik jelentőssé a fotoneutron-keltés?
 ba44e340	SSDE 
+ba5ac16c	A protonok meredek disztális dózisesése előny, a hatótávolság bizonytalansága azonban kockázat. A CT HU-értékek fékezőképességre való átszámításának hibái és az anatómiai változások miatt jellemzően „# % + # mm” hatótávolság-ráhagyást alkalmaznak, és a nyalábokat úgy rendezik el, hogy ne irányuljanak közvetlenül kritikus szervre.
 ba66cab6	Elfogadott zaj nagy testméretű betegnél: ≤ # HU a máj-ROI-ban (≈ # HU egy átlagos felnőttnél). Válaszd ki a kV-t és a mAs-t, majd SZKENNELÉS. Tartsd az SSDE-t # mGy alatt.
 bade5b16	A gantryval másodpercenként #–# fordulatot tesz, és minden szögből legyezőnyalábot küld át a betegen.
+bb1b430e	# % / # mm, a pontok ≥ # %-ának megfelelésével
+bb4c1849	Ionizációs kamra (TRS-#)
 bb5bd1d0	Átlagos / effektív energia
 bb62355a	Lézió lefedettsége: minimum # % — a mély szél # % alatt van: túl kicsi az energia.
 bb757050	eluálás
+bb961b50	Felmelegedés révén
 bbabaa0a	A szükségesnél hosszabb vizsgálat: vakbélgyulladásnál elég a csípőtaréjtól a szimfízisig.
+bbadf5f8	Az eltérési index (DI) megmutatja, mennyire tér el az EI a célértéktől: DI = # a célértéken, # ≈ # %-kal több, # = kétszeres, −# ≈ # %-kal kevesebb. A szokásos elfogadási tartomány −# és # között van.
+bc1b6d45	A nagy frakciók kímélik a végbelet
 bc38932a	Referencia-dozimetria (IAEA TRS-#) és PDD-/profilmérés: ionizációs kamrát mozgatnak a vízben. Itt minden nyom egy Monte Carlóval követett részecske.
 bc506327	Zeynep: „Csendben pihennem kell az injekció után?”
 bc566d93	Magzati dózis ≈ SSDE = 
 bc5d4211	Összes leadása
+bc7b5e89	A # feletti pitch gyorsabb leképezést és kisebb dózist jelent, a réseket interpoláció tölti ki; a # alatti pitch átfedést és nagyobb dózist jelent.
+bc8245d8	Korrigálja a nyalábkeményedést
+bccb7e5d	A kollimátor: érzékenység kontra felbontás
+bcdac932	Nagyítás
+bcdc6b6f	<b>Aliasing (visszahajlás):</b> a FOV-n kívüli szövet fázisirányban visszahajlik.
+bd1d615b	≈ # Gy
+bd328853	DNS-károsodás
 bd77abf8	Sürgősségi sebészet: akut vakbélgyulladás? Kontrasztos has-kismedence CT (Dr. Şahin)
 bd7bba09	jel
+bd8ee7fc	≈ # perc
 bd9533e5	Hodgkin-limfóma — stádiumbesorolás
+bd963d7a	Melyik elektronenergia fed le egy daganatot # cm mélységig a # %-os izodózissal (bólus nélkül)?
+bd9c904d	Idő, távolság és árnyékolás
+bdaf69c4	Átvilágítás
+be1fdde1	Ólomkötény elhelyezése a mezőben
+be4c8b99	Negyedére csökken
+be515cc5	A céltérfogat mögött szinte nem adnak le dózist (nincs kilépő dózis)
+be58929f	Gradiensecho és kontrasztanyagok
 be5b1f2d	A beteg kérdése
+be5c7cfc	Röntgenképalkotás
 be65f185	A vas-oxid pigmentek felmelegedhetnek: tájékoztasd a beteget, szükség esetén hideg borogatás. Nem ellenjavallat.
+be76f7c6	A lineáris gyorsító
+be78efa4	A GM-számláló egyenként számolja az eseményeket, és gyorsan megtalálja a gyenge szennyezést; dózismérésre a kalibrált ionizációs kamra pontosabb.
+beb99ac5	<b>Dóziskorlátozás:</b> a korlátok a munkavállalókra és a lakosságra vonatkoznak — a betegekre nem, mert a haszon az övék.
 bf06df89	Elektronenergia
 bf300ab6	szűrt
 bf62a8bf	A sárga nyíl az M eredő mágnesezettség. Egy RF-impulzus kibillenti B₀-ból; hosszirányban T1-gyel tér vissza, keresztirányban T2-vel cseng le. A színes nyilak különböző frekvenciájú izokromaták (T2*).
+bf689b25	Bomlástörvény
+bf6a994f	A fotonok nem téríthetők el lencsével, ezért a képet ólomkollimátor alkotja, amely csak egy adott irányból érkező fotonokat enged át — csak ~# % jut át. Párhuzamos furatú kollimátornál a felbontás a forrás távolságával romlik, ezért a detektort a lehető legközelebb viszik a beteghez. A hosszabb, szűkebb furatok javítják a felbontást és csökkentik az érzékenységet.
 bf6d791a	Széles nyalábban szórt fotonok is elérik a detektort; ezt a B ≥ # felépülési tényező veszi figyelembe. Itt B ≈ # + k·μx szerepel.
+bf6f2da2	Mennyi ideig tart egy hagyományos spinecho TR = # ms, # sor és NEX = # mellett?
+bf7ae11a	≤ #–# %
 bfaba695	Relatív aktivitáskoncentráció (a kép maximumához)
 bfb0dfa4	Nincs allergia; a kreatinin normális
 bfce608a	Beteg / fantom
@@ -1028,26 +1635,39 @@ c09eec06	Az MLEM iteratív módszer, amely közvetlenül modellezi a Poisson-sta
 c0aad756	Részecskenyomok mutatása
 c0f5bb27	A forgástengely. Fontos, hogy a beteg ide legyen központosítva: a decentrálás hatástalanítja a bowtie-szűrőt, és növeli a zajt és a dózist.
 c124dd95	Minden sejt S(d) = exp(−αd − βd²) valószínűséggel éli túl a frakciót. Az alacsony α/β-jú szövetek érzékenyebbek a frakciónkénti dózisra.
+c131e9c7	A μ értékét egyetlen pontban
 c1329b8d	Elif: „Kérem, a babám miatt a lehető legkisebb dózist használják.”
 c14f1584	Teljes vizsgálat (# ágypozíció)
 c1811e60	A napi IGRT #–# mm szervmozgást korrigál, és ~# mm-es PTV-margót tesz lehetővé (van Herk: M = #Σ + #σ).
+c1b213e5	Egy # MV-os fotonnyaláb elektronjai
 c1d1684b	Nyalábok
+c27c4e12	A cső oldalán
 c285174a	mélység a betegben (cm)
+c296a83d	Szórt sugárzás és rácsok
 c2dcb4a3	Sokkal tovább várni felesleges: az F-# szinte teljesen elbomlott, a szoptatás pedig fölöslegesen sérül.
 c2e4e241	izomer átmenet
+c2e97a22	Miért EI?
 c2f67ba3	# mm Al + # mm Cu
+c2fe5429	<b>Redisztribúció:</b> a sejtek érzékeny ciklusfázisokba lépnek (G2/M).
 c341622f	A baba dózisa főleg az anya testéből jövő # keV-es fotonokból származik (külső sugárterhelés); nagyon kevés FDG jut a tejbe. Mikor folytatható a szoros kontaktus (ölben tartás, szoptatás ~# cm-ről)? Játékcél: csecsemődózis ≤ # µSv.
+c3593ab4	<b>FFF (kiegyenlítő szűrő nélkül):</b> #–#-szorosára növeli a dózisteljesítményt, így rövid sztereotaxiás kezeléseket tesz lehetővé.
 c35ec4c3	Anteroposterior (AP)
 c3a14e9a	víz μen/ρ
+c3e46e55	A cső csúcsfeszültsége; meghatározza a maximális fotonenergiát és a nyaláb áthatolóképességét.
 c3e47672	Spinecho
 c3ff1e50	A katódból kilépő elektronokat a csőfeszültség (kVp) egy volfrámanódra gyorsítja. Az energia ~#%-a hővé, ~#%-a röntgensugárzássá alakul. A magok terében lassuló elektronok folytonos spektrumú <b>fékezési sugárzást</b> bocsátanak ki E_max = kVp-ig.
 c4547490	Spinfizika
+c481cc03	<b>Frekvenciakódolás:</b> kiolvasás közben, így minden oszlop más frekvencián sugároz.
 c487c009	Ablak W(f): Ram-Lak (éles, zajos), Shepp-Logan (sinc), Koszinusz, Hann (sima, kis zaj). Élesség ↔ zaj kompromisszum.
 c4a7b302	Nyomszínek: sárga = foton, kék = elektron, bíbor = pozitron, narancs = proton, zöld = magkölcsönhatás.
+c4b3c7a6	PDD(d) = # · D(d) / D(d_max)   (rögzített SSD)
+c4cbd544	Három tér, három kockázat
 c4ef192a	rács nélkül, 
+c52f63a4	A forráserősséget a levegőkerma-erősséggel, S_K-val adják meg (U = µGy·m²/h); Λ a dózisteljesítmény-állandó, g(r) a radiális dózisfüggvény, F(r,θ) az anizotrópiafüggvény. Egy Ir-# forrás naponta ~# %-ot veszít, ezért a kezelési időket automatikusan meghosszabbítják, és a forrást nagyjából # havonta cserélik.
 c558bcea	Foglalkozás: hegesztő / csiszoló (# év)
 c5748eb4	MR-biztonsági szűrés
 c57b585f	A konzol CTDIvol-t mutat. Melyik mennyiség tükrözi legjobban ennek a nagy testű betegnek a dózisát?
+c58f8d26	Az aktivitás négyzetével arányos
 c59c3c01	Ayşe: „Mi ez a kocsonyás valami? Az arcomra teszik?”
 c5d4754f	# mg/dL
 c5e874f2	A gonádvédők rutinszerű használata már nem ajánlott; a legjobb védelem a kollimálás.
@@ -1057,26 +1677,50 @@ c6a141c6	Mélydózis a centrális tengelyen
 c6b800d4	#. Spin és precesszió
 c6c23301	Helyes. (Egy állandó I-# szemcse-implantátumnál rövid ideig korlátozni kellene a szoros kontaktust.)
 c6c4ee23	Tumorkontroll-valószínűség
+c6d283b2	ITV
 c6d6b1b5	Ez csak ~# cm-re (egy felezőrétegre) igaz.
 c6d8a5ee	 (fej)
+c6e71781	# MBq Cs-# esetén (Γ ≈ # µGy·m²/(MBq·h)) a levegőkerma-teljesítmény # m-en ≈ # × # ≈ # µGy/h, azaz H*(#) ≈ # µSv/h. # m-en a negyedére csökken (≈ # µSv/h), # m-en a kilencedére. Az ólom ≈ # cm-es felezőrétegével számolva (Cs-# esetén) # cm ólom (≈ # HVL) további ~#-szoros csökkenést okoz.
+c6f4f9c3	Brachyterápia
+c70bdae0	GTV
 c7801b3c	KÖVETKEZŐ LECKE
 c7e4693e	Modellmegjegyzés: a szórás egyszerűsített, a mezőtől és a vastagságtól függő kernelt használ; a detektor DQE-jét és a fókuszfolt életlenségét elhanyagoljuk.
 c81dd039	Gerincvelő Dmax < # Gy
 c8423429	Csecsemőknél és ágyhoz kötött betegeknél megfelelő, de a szívárnyék nagyobb, és az elöl fekvő szervek több dózist kapnak.
+c8588751	Besugárzástervezés: térfogatok, IMRT/VMAT és DVH
+c86f5711	A spektrum két részből áll: folytonos fékezési sugárzásból #-tól a kVp-ig (Kramers: I(E) ~ Z(E_max − E)), valamint karakterisztikus vonalakból — volfrámnál Kα ≈ # keV és Kβ ≈ # keV, ezek csak akkor jelennek meg, ha kVp > #.
+c8814047	Az effektív dózis közvetlenül nem mérhető, ezért műveleti mennyiségeket használnak: a környezeti dózisegyenértéket H*(#) a területi monitorozásra, valamint Hp(#)-t (egésztest) és Hp(#)-t (bőr, kéz) a személyi dozimetriára.
 c8828318	Távolságnégyzet-törvény: rögzíts mérési értékeket ~# m, ~# m és ~# m távolságban
+c8e11800	Mit kell tenni MR előtt egy hegesztőnél?
 c8f76d70	A dózis messze a fejlődési rendellenességek ~# mGy-es küszöbe alatt van; a gyermekkori daganat többletkockázata nagyon kicsi (≈ # % / # mGy). Nincs orvosi ok a terhesség megszakítására.
 c901ddc3	Ízületi folyadék
 c91a26b5	A prosztata napról napra elmozdul a hólyag és a végbél teltségével. Hogyan ellenőrzöd az egyes frakciókat?
+c91ce3d7	Minőségbiztosítás
 c9248cc8	Árnyékolás és kollimálás
 c926cd17	Víz / liquor / vizelet
+c93c2d38	A valódi T2-relaxációt
 c944c820	A Compton-szórás ezen az energián megszűnik
 c964528c	A detektornál (közép)
+c990d8eb	Gyakori műtermékek
+c997bac9	Orvosi sugárterhelésnél a haszon a betegé, ezért az indokoltság és az optimálás (DRL) érvényes, korlát azonban nincs.
+c9cd7e94	A modern CT harmadik generációs: a cső és az ívelt detektor együtt forog (~#–# s fordulatonként). A csúszógyűrűk folyamatos forgást tesznek lehetővé, így az asztal mozgása közben spirálisan történik a leképezés. A többszeletes detektorok (#–# sor) fordulatonként #–# cm-t fednek le.
 c9db273f	Válassz nyelvet
+c9fe7760	Protonok mágneses térben
 ca1a3109	Miért látszik a jódkontraszt a legjobban olyan spektrummal, amelynek maximuma # keV közelében van?
+ca2fbdf7	A fotoeffektus Z³-előnye MV-on eltűnik; a tömegegységre jutó gyengítés szinte független az anyagtól, ezért ólmot/acélt csak ott tesznek be, ahol kevés a hely.
 ca42e28e	Hozz döntéseket Emir gyermekkori mellkasröntgen-esetében, nézd meg az eredményt, és ismerd meg minden lépés okát. A technikai laborok megvárnak, amíg készen állsz.
+ca83a24e	<b>DAP (KAP):</b> kerma × terület Gy·cm²-ben. Nem függ a csőtől mért távolságtól (a terület d²-tel nő, a kerma #/d² szerint csökken), és a teljes átadott energiát tükrözi.
+ca900d67	<b>Reaktor:</b> neutronbefogás (n,γ) vagy hasadás; a Mo-# (a Tc-#m anyaeleme) és az I-# főként az U-# hasadásából származik.
 caa249cb	k-tér (log |S(kx, ky)|)
 cae55017	Foton
 cae6e1b1	Nyolc téma az orvosi fizika alapjaitól a klinikáig. Minden leckében van magyarázat, képlet, kidolgozott példa, valódi fizikai modelleken alapuló interaktív ábra és egy rövid kvíz. A végén átléphetsz a megfelelő laborba és klinikai esetbe.
+cb0b7009	Hogy a fotoeffektus révén felerősítsék az emlőszövetek közti kis gyengítéskülönbségeket
+cb2d5fcc	A filmes korszakban a túldózis megfeketítette a képet, és azonnal feltűnt. A digitális rendszerek automatikusan ablakolnak, így még egy túlexponált kép is „szépnek” látszik: a dózis lopakodó növekedésének (dose creep) veszélye. Ezért az IEC ## definiálja az expozíciós indexet (EI), amely arányos a detektornál mért levegőkermával: EI = # × K (µGy).
+cb37627d	Szövet-maximum arány: a d mélységbeli dózis osztva a d_max-beli dózissal ugyanabban a pontban (rögzített SAD).
+cb52d7bc	Az elektronok egy fűtött volfrámszálból (katód) termikus emisszióval lépnek ki, és a kVp gyorsítja őket az anód felé. Energiájuknak csak ~# %-a lesz röntgensugárzás; a többi hő, ezért forog az anód, és nagy a hőkapacitása.
+cb6a7d48	Σ = # mm szisztematikus és σ = # mm véletlen szórás mellett a PTV-zóna # × # + # × # = # mm. Ha a napi IGRT Σ-t # mm-re csökkenti, a zóna # + # = # mm lesz.
+cb70c670	<b>Betegspecifikus QA:</b> az IMRT/VMAT-tervet fantomban mérik, és gamma-analízissel hasonlítják össze (pl. # %/# mm, ≥ # % megfelelés; TG-#).
+cb8ff794	A négyzetes távolságtörvény pontforrásokra érvényes, a forrás méreténél nagyobb távolságokban. Egészen közelről (pl. ha kézben tartunk egy forrást) a dózis rendkívül gyorsan nő: mindig csipeszt használjunk — # cm-es távolság # cm helyett körülbelül a #-adára csökkenti a kézdózist.
 cb988a96	# óra után (# MBq-ből)
 cbad3f92	A pozitron ~# mm szöveten belül annihilálódik; csak a # keV-os fotonok jutnak ki.
 cbd54f80	Anyag
@@ -1084,80 +1728,139 @@ cbd7b457	Gyors képletek
 cc25a532	Nyak
 cc4c7f13	Lecke 
 cc4da60f	Véletlen koincidenciák
+cc673698	Eltérési index
 cca2c192	Teljes szűrés = # mm Al (saját) + kiegészítő. Előírás: ≥ # mm Al (># kVp).
 ccdfbfa0	Lakosság
+cd2f8f64	A cső felépítése
+cd3156fd	Klinikailag a protondózisokat Gy(RBE)-ben írják elő, # állandó RBE-vel, bár a csúcs disztális végén, ahol a LET nő, az RBE meghaladhatja a #-et.
 cd38aa8b	Várakozás szoros érintkezés előtt
+cd487f09	A betegdózist (a Bucky-faktorral)
 cd4c6563	Vezérlőpult
+cd617903	<b>Fotonhiány:</b> nagy testű betegeknél, főleg a váll és a medence magasságában, oldalirányban túl kevés foton érkezik, és vízszintes csíkok keletkeznek.
 cd86acc3	Bezárás
 cd9bfde6	A gantry burkolatának átlátszó megjelenítése
 cdd62ae0	Ív (VMAT-szerű)
+cddf6a03	A hőmérsékletet és a nyomást
 cde4341b	Szög: #° = elülső (AP), #° = a beteg bal oldala, #° = hátulsó (PA), #° = jobb.
 ce0454c7	A kis gömbök a parciális térfogathatás miatt kisebb mért aktivitást mutatnak (RC < #).
 ce3486fb	vízszintes: x (−#…# cm) • függőleges: mélység #→# cm
 ce483eb5	Vastagság
 ce6b3dac	R8# disztális (MC)
 ce715e71	A CsI:Tl szcintillátor a röntgensugárzást fénnyé, az a-Si fotodiódamátrix a fényt töltéssé alakítja. Az expozíciós index (EI) a detektorra jutó dózist mutatja.
+cf1199b5	Az elektronok könnyűek, ezért nagy szögben szóródnak és cikcakkos pályán haladnak. Nagy rendszámú közegben a fékezési sugárzás (sugárzásos veszteség) is számít — így kelt a röntgencső röntgensugárzást. Ökölszabály: az elektronok hatótávolsága vízben ≈ E/# cm (E MeV-ben).
 cf377b43	Próbavizsga
+cf5b8c68	√#-szeresére kell nőnie
 cf781cab	Az anya ólomkötényt kér Emirre. Mit teszel?
 cfc2c2f6	A szűrés (Al, Cu) előre eltávolítja azokat az alacsony energiájú fotonokat, amelyeket a beteg úgyis elnyelne és sosem érnék el a képet — ez csökkenti a bőrdózist. A CT „cupping” műterméke is a nyalábkeményedésből ered.
 d020ae28	Ólommal árnyékolt alumínium-oxid oszlopban a Mo-# (T½ # h) Tc-#m-mé (T½ # h) bomlik. Az oszlopon átvezetett sóoldat csak a Tc-#m-pertechnetátot mossa ki (elúció).
+d0527b5f	Miért betonnal és nem ólommal árnyékolják az MV-os kezelőhelyiségeket?
+d0591deb	Melyik csoportra nincs dóziskorlát?
 d070218a	Mélység
+d0a19740	A sugárterápiás hibák szisztematikusak, és sok beteget érinthetnek, ezért a független MU-ellenőrzés, a terv két személy általi jóváhagyása és az eseményjelentési kultúra az orvosfizikus alapvető feladatai közé tartozik.
 d0a43715	A szupravezető mágnest nem lehet csak úgy kikapcsolni; a quench kiengedi a héliumot, drága és veszélyes — csak életveszélyben.
+d0de0de1	<b>α:</b> nagyon nagy LET-ű He-# atommag, hatótávolsága < # mm (Ra-#).
 d0fd90b6	Automatikus expozíció változáskor
+d1098233	η ≈ #×#⁻⁹ · Z · V    (volfrám Z = #, V = # kV → η ≈ # %)
 d1998663	Igen, de csak a Kβ-vonal jelenik meg
 d1af3044	Az amalgám- és kompozit tömések biztonságosak; legfeljebb műterméket okoznak.
 d1b7ec5b	Tumor EQD2 = n·d·(d + #)/(# + #) = # Gy — aluldozírozott, biokémiai kiújulás kockázata.
+d1b834b9	Az α-részecske kétszeresen töltött (z² = #) és lassú, LET-je ~# keV/µm, szemben a fotonok által mozgásba hozott elektronok ~# keV/µm-ével.
 d21058ed	Koppints a padlóra az árnyékolás elhelyezéséhez.
+d21b004d	A lyukakkal ellátott ólomlemez, amely csak egy adott irányból érkező fotonokat enged a gammakamera kristályára.
+d2223509	A CTDIvol a dózis egy # cm-es PMMA-hengerben. Egy vékony beteg (vagy gyermek) azonos CTDIvol mellett jóval nagyobb dózist kap, egy nagy testű beteg kisebbet. Az AAPM Report # az effektív átmérőn alapuló átváltási tényezőt ad: a méretspecifikus dózisbecslést (SSDE).
+d229ed94	Közvetlenül, a fotonok eltörik a DNS-t
 d22ff1b4	A Cu-szűrő eltávolítja a kis energiájú fotonokat: azonos DI mellett jóval kisebb bőrdózis.
 d252b05e	Válassz beteget a váróteremben, olvasd el a kartont, és indítsd el az esetet. Minden lépésben döntesz: megválaszolsz egy kérdést, beállítod a készülék paramétereit vagy képet készítesz. A fizikai motor kiszámolja az eredményt; a MEGERŐSÍTÉS gombbal pontot és magyarázatot kapsz.
+d258834e	Az átlagos energia nő
+d27f15a1	T tartózkodási tényező
+d28ab5fa	V2# ≤ #–# % és ≤ #–# Gy átlagos tüdődózis mellett a tünetes pneumonitis kockázata # % alatt marad.
 d28e3e42	Pontozás: diagnosztikai minőség / kezelési hatékonyság, betegdózis (ALARA), biztonság és kommunikáció. A ★★★ feltétele ≥ # %.
 d2ab41fb	várt 
+d2c2e72f	Közvetlenül kiolvasva, melyik kollimátorfuraton haladt át
 d2c74831	Első lépés
 d2db263e	A β⁺-bomlásból származó pozitron néhány mm-en belül annihilálódik egy elektronnal (pozitron-hatótáv → felbontásvesztés), és két csaknem ellentétes irányú # keV-os foton keletkezik (±#°). Ha a gyűrű két kristálya az időablakon (~# ns) belül jelez, koincidencia és válaszvonal (LOR) rögzül.
+d3302805	Miért PA irányban, # cm SID-del készül a mellkasfelvétel?
+d3457fda	LET
+d348b1f3	Spin és Larmor-frekvencia, relaxáció (T1, T2, T2*), szekvenciák és kontraszt, térbeli kódolás és k-tér, MR-biztonság.
 d350ad22	Zsírszövet
+d37c1018	LQ-túlélés
+d39e2fda	<b>Szuszceptibilitás:</b> jelvesztés és torzulás fém közelében és levegő-szövet határfelületeken (főleg GRE és EPI).
 d4066030	Exponenciális gyengítés
+d424ea14	A lineáris gyorsító, mélydózis és MU-számítás, besugárzástervezés (térfogatok, IMRT/VMAT, DVH), protonterápia, brachyterápia és minőségbiztosítás.
+d45a18d7	Melyik radionuklidnál kell teljesen abbahagyni a szoptatást?
 d4601b55	• <b>Gyengítés:</b> annak valószínűsége, hogy mindkét foton kijut, exp(−∫μ dl) a LOR mentén — független a kibocsátás helyétől! Ezért a PET gyengítéskorrekcióját közvetlenül a CT-ből végzik.\n• <b>Szórás:</b> a Compton-szórt fotonok hibás LOR-okat hoznak létre; az energiaablak (#–# keV) ezek egy részét kiszűri.\n• <b>Véletlenek:</b> két egymáshoz nem tartozó foton esik ugyanabba az ablakba; gyakoriság ~ aktivitás².\n• <b>NEC</b> = T²/(T+S+R): a képminőség mértéke.
 d46b8bd4	Lépések
+d48da20f	Küszöbdózissal rendelkező szöveti reakció, amelynek súlyossága a dózissal nő (bőrpír, szürkehályog).
 d4ab7bf3	Ártalmatlannak tűnik, de bekerülhet a mezőbe → ismételt felvétel és az automatika miatti dózisnövekedés. Jobb az anya aggodalmát magyarázattal oldani.
 d4beda32	Szórtsugár-rács
 d4c68488	térfogat %
+d4dfd01b	Az ionizációs kamra olyan kondenzátor, amely összegyűjti a sugárzás által egy gázban keltett töltést. A referenciadozimetria aranystandardja. A hengeres Farmer-típusú kamrát (# cm³) megavoltos fotonokhoz, a síkpárhuzamos kamrákat elektronokhoz használják.
 d4ffd893	Csont / víz arány (kontraszt)
 d51a0c7d	frakcionált, α/β = #
 d54bb772	Velőödéma
+d581622c	A sugárzás biológiai hatásai
 d584bb20	Bal tüdő
+d58f1655	Zónák és szűrés
+d5abe21a	MU (monitoregység)
+d5b12f90	Dóziskorlátok
 d5c4ed9d	prosztata
 d5cc8e12	Gyermeksürgősségi: mellkasfelvétel PA — tüdőgyulladás? (Dr. Aydın)
+d5dea1d4	Egy # MeV-es proton: R ≈ # × #^# ≈ # × # ≈ # cm. A NIST PSTAR # cm-es CSDA-hatótávolságot ad, tehát a szabály jó becslés.
 d5f8859c	Kvíz ebből a témából
 d618a937	Nyaláb és kalibráció
 d63556b0	Víz
 d64fa515	ólommal
+d67796d1	Tervezési céltérfogat: a CTV plusz biztonsági zóna a beállítási és mozgási bizonytalanságokra.
 d68f0065	Lecke megnyitása: 
+d6a01349	Képminőség és műtermékek
+d70f2e87	Ciklotronban, a ¹⁸O(p,n)¹⁸F reakcióval
 d720c7e2	Panasz és kérés
+d752ff03	Az elnyelt dózis egysége, # J/kg.
 d77aac98	#. A röntgensugárzás keletkezése
 d77bb8f6	Nyisd meg az esetet
 d7b6610e	A # MeV-es elektronok csak ≈ # cm-ig jutnak (Rp ≈ E/#): nem érik el a prosztatát.
+d7d34b45	Leukémia
 d7fcdf81	Általános sebészet: divertikulitisz / tályog? Kontrasztos has-CT (Dr. Tunç)
+d88a6749	Mindegy
 d908d184	Dózismennyiség
 d9370cf8	Inverzió (#°)
 d9556410	Expozíciós paraméterek
+d969abbf	D(cél) = Σ_forrás Ã(forrás) · S(cél ← forrás)        Ã = ∫ A(t) dt ≈ # · A₀ · T_eff
+d96b25e8	Még nem alakult ki a töltöttrészecske-egyensúly
 d9b3e49e	Vér / szív
+d9cd3b9c	Az LQ-modell, a BED és az EQD2
+d9d9a2cc	A mAs megduplázásával
+d9fc4c9b	Dózis-térfogat hisztogram: egy struktúra azon hányada, amely legalább egy adott dózist kap.
 da35274d	A lézió # cm-es. Milyen kivágást és szemvédelmet választasz?
 da435822	Múltkor egy örökkévalóságig tartott… Beférek egyáltalán a gépbe?
 da880d68	Forrás a kézben! Gyorsan vidd az ólomtartályhoz.
 dad956f3	A Tc-#m maximuma t_max = ln(λTc/λMo)/(λTc − λMo) ≈ # órával az elúció után van. Egyensúlyban A_Tc/A_Mo → #·λTc/(λTc − λMo) ≈ #.
+db1f3609	D(cél) = Ã(forrás) · S(cél ← forrás)
+db876443	Az egyenérték- és az effektív dózis egysége; a sztochasztikus kockázatot fejezi ki.
 db90e18f	csont
 dba8b336	Megmutatjuk a legjobb első lépést.
 dbb638ff	SPECT-képalkotás (csont, szívizom-perfúzió)
 dbbc21b7	Fizika: miért nő a zaj?
+dbdf67b5	Felére csökken
 dbf4470f	Pontszám 
 dc0b6beb	Irodalom
 dc411606	Bloch-egyenletek • precesszió • spinecho
 dcc0d7a5	még nem futott
+dcc2469a	Ivarszervvédő
 dce06e30	MR gadolíniummal
+dcf29cd8	mAs
 dd2558f8	# kg / # cm
+dd49d94d	Melyik determinisztikus hatás?
+dd7b54c8	A kötény alatti doziméter nem reprezentálja a szemet; # mSv/év lencsekorlát mellett ez a mérés fontos az intervenciós személyzet számára.
+dd9f3f2a	Hogyan felezhető a zaj?
 ddd13aac	Idő # s — túl hosszú, mozgási műtermékek valószínűek; rövidítsd a TR-t vagy növeld a turbófaktort.
 de128bc0	Akusztikus zaj
+de7ed956	Protonterápia és a Bragg-csúcs
+de969bfd	A térfogatba belépő és onnan kilépő töltött részecskék energiája kiegyenlítődik; ekkor D = K_col.
 deb145c5	Ólomkötényt adok, és azonnal vizsgálok
+deb1fdd9	<b>Ólomkötény:</b> #–# mm ólomegyenérték; a diagnosztikai fotonok #–# %-át elnyeli, de a # keV-es PET-fotonok ellen szinte hatástalan.
+ded09878	Mit javasol a QUANTEC a tüdő V2#-ra?
+dee5f315	Sugárvédelmi alapelvek és dóziskorlátok
 deea998c	TR (ismétlési idő)
 deeed36b	Képminőség
 df0c22b3	Mágneses rezonancia
@@ -1169,39 +1872,60 @@ df7177fa	LÉNYEG
 df76eace	aktivitás A(t)
 df926a69	Zaj (máj ROI, SD)
 dfe4e404	Idő
+dffe9654	Orbitafelvétel vagy CT a szemben lévő fém kizárására
 e026c507	szórt foton E′
 e03ac455	HVL = ln2/μ = #/# ≈ # cm.
+e06240a9	Melyiknek a legnagyobb a LET-je?
+e073c123	Az a dózis, amelynél az LQ-modell lineáris és négyzetes tagja egyenlő; a frakcionálással szembeni érzékenység mértéke.
 e0a49aab	Vizsga indítása  →
 e0bbd3df	A párkeltés küszöbe
 e0ccc31f	Főmenü
 e0e1e90f	 nap természetes háttér)
+e0f63b6b	A μ integrálját a sugár mentén
 e0fe199e	A sugárvédelem három alapelve (ICRP #)
 e15b5d80	Sejttúlélési görbe (LQ)
 e1940a73	Tipp: a háttérben bármikor rákattinthatsz egy készülékre; a kezdéshez erre nincs szükség.
 e19d9fd0	férfi
 e232e2c1	Gyakorlati hatótáv Rp (ref.)
 e2433a82	Magzati dózis ≈ SSDE (a méh a mezőben). A CTDIvol fantomdózis, ezért a beteg méretére korrigálni kell.
+e2671f77	Koincidencia
+e2c75b33	Ha állandó mAs mellett a pitch #-ről #-re nő, hogyan változik a CTDIvol?
 e2d84590	Frakciók száma n
 e2e5fdc7	PTV (GTV + # mm) átlag = # Gy / # frakció (# Gy)
 e3232976	Beütésszám-elégségesség # — túl kevés beütés: zajos kép, kis nyirokcsomók elsikkadhatnak.
+e327fb76	Az iteratív rekonstrukció (ASIR, SAFIRE, modellalapú) megbecsül egy képet, összeveti a mért projekciókkal és javítja; a zajstatisztikát is modellezheti — így azonos minőség mellett #–# % dóziscsökkentést tesz lehetővé, néha „műanyagszerű” textúra árán.
+e32a5d63	A százalékos mélydózis (PDD) a centrális tengelyen mért dózis mélység szerinti változása rögzített SSD mellett. A PDD nő az energiával, a mezőmérettel (több szórás) és az SSD-vel (gyengébb négyzetes távolságtörvény-hatás — a Mayneord-féle F-tényező).
+e33558b2	Hounsfield-egység
 e3726bce	Másnap reggel: # h éhgyomor, vércukor # mg/dL.
+e3d17916	A szöveti inhomogenitás (tüdő, csont, légterek) befolyásolja a dózisszámítást: a kis sűrűségű tüdő növeli a dózist a mélyben, és kiszélesíti a félárnyékot. A modern algoritmusok (AAA, Acuros, Monte Carlo) ezt figyelembe veszik.
 e3f06eaf	szórási szög θ (°)
 e41d8109	mélység (cm)
+e43cb2ca	Generátor eluálásával
 e43e04b0	Röntgencső (generátor)
+e46edbca	<b>Naponta:</b> a dózisleadás állandósága ±# %, lézerek, biztonsági reteszek, a fény- és sugármező egybeesése (AAPM TG-#).
+e47dd3eb	T1: longitudinális visszatérés
+e486e4c2	<b>TLD (LiF:Mg,Ti):</b> melegítéskor fény formájában adja le a tárolt energiát; közel szövetekvivalens, személyi és in vivo dozimetriára használják.
 e4ab1899	Ablakszélesség (W)
 e4c140b2	A bomlás véletlenszerű: nem jósolható meg, mikor bomlik el egy adott mag, de sok mag követi az exponenciális törvényt. Az aktivitás mértékegysége a becquerel (# Bq = # bomlás/s); a régi egység a curie (# Ci = #·#¹⁰ Bq).
+e4c224ea	# Gy # frakcióban (# Gy): a daganatra (α/β = #) EQD2 = #·(##)/(##) = # Gy; a késői szövetre (α/β = #) EQD2 = #·(##)/(##) = # Gy. A nagyobb frakciók jobban „büntetik” a későn reagáló szövetet.
+e4dc2f18	A középen áthaladó sugarak hosszabb utat tesznek meg és jobban keményednek, így az effektív μ csökken, és a közép sötétebbnek látszik (kisebb HU).
 e4e5be6e	Elif sírva kérdezi: „Ártott a babámnak?” Becsült magzati dózis ≈ # mGy.
+e4fe3008	Messze a determinisztikus küszöb alatt; nagyon kicsi többletkockázat; nincs ok a megszakításra
+e4fec5f8	Betegdózis-mennyiségek
 e4ff8488	Ablakközép (L)
 e53403f8	vegyes
 e549237e	Prosztata α/β ≈ # Gy, végbél (késői hatások) α/β ≈ # Gy. Cél: tumor EQD2 #–# Gy, elülső végbélfal (feltételezve, hogy # %-ot kap) EQD2 ≤ # Gy.
 e56e73a9	Pofák + MLC
+e5d8d1ac	#/#
 e5dcf84a	Felhalmozott dózis
 e5e8cc94	Csúcs / belépési arány
 e5f27121	Inverziós visszatérés
 e5f6fa50	Térerő
 e621da6d	Compton-él T_max
 e636070c	Részleges Fourier # %
+e6393de5	Alulexponálás; a kép zajos lehet
 e670f9a4	Becsült magzati dózis
+e6737e82	Maga hoz létre jelet
 e6862f05	szűretlen
 e70efde8	A beteg elforgatása
 e73b4300	Kiegészítő Al-szűrő
@@ -1209,16 +1933,28 @@ e74c644a	Modulok
 e75dfe28	Váróterem — válassz beteget
 e78631fd	Ablak
 e7883571	#. Besugárzástervezés
+e790f279	Mélydózis és MU-számítás
+e7a94ca1	Rövidíti a környező protonok T1-ét
+e7baa8c0	Műveleti mennyiségek
+e7fcf842	Mely paraméterek adnak T2-súlyozott spinechót?
 e8145ea3	 % a kVp-ből)
+e833649b	Teljes kezelési idő és szünetek
 e8511c37	Előbeállítások
+e86c6807	Nő (nagyobb a szórás hozzájárulása)
+e8afa1cb	Belső sugárterhelésnél a dózis a forrásszervben bekövetkező bomlások teljes száma (kumulált aktivitás Ã) szorozva az S értékkel, amely a célszervbe jutó energiát adja meg:
 e8f9a7ba	← Egyszerű kezdőlap
+e90246db	<b>Gradiensek (dB/dt):</b> perifériás idegstimuláció és erős zaj (> # dB); # dB(A) felett hallásvédelem kötelező.
 e934bbc7	Teljes kezelési idő
+e9427778	≈ # HU
 e9cef8c2	Az elektronoknak véges hatótávolságuk van: ideálisak felszíni daganatokhoz. Ökölszabályok: R5# ≈ E₀/# cm, Rp ≈ #·E₀ cm, terápiás mélység R8# ≈ E/# cm. A mélyben látható kis farok fékezési sugárzásból eredő fotonoktól származik.
 e9eeaebf	nincs ionizáló sugárzás
 e9f3813b	Csecsemő dózisa (# % szoros kontaktus)
+ea2e74ca	Rekonstrukció és Hounsfield-egységek
 ea3ff3b9	Az esetek kizárólag oktatási célúak, nem klinikai döntésekhez készültek.
 ea445006	NEMA képminőség-fantom
+ea48645c	Geometriai életlenség
 ea617450	Vakbélgyulladás gyanúja terhes betegnél. Mi legyen az első?
+ea778ea7	Nem változik: a terület d²-tel, a kerma #/d²-tel skálázódik
 eab8f509	Szűrés: emeld a felezőréteget # mm Al fölé
 eac26593	Effektív dózis (# cm)
 ead12e43	A Compton-szórás kinematikája
@@ -1227,26 +1963,39 @@ eaeaaa7b	Tudd meg, miért
 eaf105c7	Kiemelés
 eaf5e11d	Ha μ = # cm⁻¹, mekkora a felezőréteg?
 eaff7e77	eGFR # mL/perc/# m², metformint szed. Mit teszel a jódos kontrasztanyaggal?
+eb1ada30	A ferromágneses szilánk # T-n is elmozdulhat és vakságot okozhat, ezért előbb ki kell zárni.
 eb1b05b8	Neutron
 eb267579	 (AC nélkül)
+eb2a1095	Semmi — a teljes dózis ugyanaz
 eb2ba7e2	Mezőmagasság
+eb4d158b	Tárgykontraszt
 eb5ba0e3	#. Szűrt visszavetítés (FBP)
+eb6d0b86	# cm
 eb6d0c3f	A beteg előkészítése
 ebb00912	nincs szükség árnyékolásra
 ebee5570	Emir: „Vissza kell tartanom a levegőt? Rendben, tartom!”
 ec3c5945	Tipp: a felső sáv „Elmélet” oldala sorolja fel a fő képleteket.
 ec3ea500	Modellmegjegyzések: az MC sűrített történetet használ (Highland-féle többszörös szórás); a tervezés #D, és elhanyagolja az oldalirányú szórást.
+ec51e118	A szűrő eltávolítja a kis energiájú fotonokat, így nő az átlagos energia és ezzel a HVL is.
 ec88aab2	Teljesítve
+ecc43793	Mértékegysége a becquerel (# Bq = # bomlás/s); a régi egység a curie (# Ci = # GBq). A diagnosztikai aktivitások MBq, a terápiásak GBq nagyságrendűek.
 ece35ca8	Próbáld ki a laborban  →
 ece838e8	vizsgálat
 ed03c7fc	≈ Részben helyes
+ed23a0d1	Dúsított H₂¹⁸O céltárgyat bombáznak protonokkal, ezt követi az FDG-szintézis.
 ed465190	Cél: a meniszkuszszakadás és a csontvelőödéma ábrázolása. Spin-echo: S = PD·(# − e^(−TR/T1))·e^(−TE/T2). Válaszd ki a TR-t, a TE-t, a zsírelnyomást és a B₀-t, majd nyomd meg: SZEKVENCIA INDÍTÁSA.
 eda30c59	Feladat teljesítve: 
 edbd8b07	Súlyozás
 eddfea6b	Több száz csatorna × sok sor kerámia szcintillátor. Szögenként egy vetületet mér; ezek együtt alkotják a szinogramot.
 edf0d031	Kvíz alaphelyzetbe
+edf5ddd0	<b>Statikus tér (B₀):</b> a ferromágneses tárgyak lövedékké válnak. A vonzóerő B·dB/dz-vel arányos, és az alagút bejáratánál a legnagyobb. A szupravezető mágnes mindig bekapcsolt állapotban van. Egyes implantátumok (régebbi pacemakerek, aneurizmaklipek) ellenjavallatot jelentenek.
+ee010b9e	PET
+ee14e5d2	Lineárisan arányos az aktivitással
+ee1fc13a	<b>Diódák és MOSFET-ek:</b> kicsik és érzékenyek, in vivo és kis mezős mérésekre; energia- és szögfüggést mutatnak.
 ee5e0890	Szorosan a tüdőre kollimálok; nincs gonádvédő, és elmagyarázom az anyának, miért
 ee69cbe6	Elif sírva kérdezi: „Ártott ez a babámnak?” Becsült magzati dózis ≈ 
+ee7232f8	R = #τ·S₁·S₂: mindkét egyedi beütésszám nő az aktivitással, így a véletlenek A² szerint nőnek — ez az egyik oka annak, hogy a túl nagy aktivitás nem javítja a képet.
+ee792940	A TMR független a mezőmérettől
 ee88a3cc	Egésztest-vizsgálatnál a beteget asztalpozíciókon léptetik át; az axiális látómező #–# cm, hosszú axiális rendszereknél #–# m.
 ee940d80	Világos = nagy gyengítés (csont, fém). Radiológiai konvenció szerint jelenik meg: a beteg jobb oldala balra. Az ablak automatikusan áll be.
 ef57cd07	Vércukor
@@ -1256,9 +2005,17 @@ efce91bf	Mért T½ (MC)
 efd604d5	Testhőmérséklet
 efd9baf3	Tc/Mo arány (tranziens egyensúly)
 f02abde8	Nyalábkeményedés
+f03867ac	A nagyítás (M) és a geometriai életlenség (U_g) a tárgy–detektor távolsággal (OID) nő. Ezért a mellkasfelvétel PA irányban (szív a detektor közelében), # cm SID-del készül. A kis fókuszfolt (f) élesebb képet ad, de korlátozza a cső hőterhelhetőségét.
 f0565afa	Frakcionált (rögzített d)
+f056bd95	Az NCRP # és # szerinti módszer
+f07687d2	IEC ###: normál üzemmódban # W/kg, első szintű üzemmódban # W/kg (orvosi felügyelet mellett).
+f0b3d9d9	Expozíciós index és betegdózis
 f0c79167	Hátul
+f0d40ccc	Egy #°-os inverzió után az a szövet, amelyet éppen akkor gerjesztünk, amikor Mz-je átmegy a nullán, nem ad jelet: TI_null = T1·ln2. A STIR (TI ≈ #–# ms, # T-n) a zsírt nullázza, a FLAIR (TI ≈ #–# ms) a liquort. A kémiai zsírszaturáció a zsír és a víz közti # ppm-es frekvenciaeltolódást használja ki (≈ # Hz, # T-n).
+f0dca9d4	<b>Légrés:</b> a beteg és a detektor közötti távolság miatt a szórás egy része elkerüli a detektort, a nagyítás árán.
+f0ff89cc	Gyűrűműtermék
 f10c7001	A sebessége: a γ-sugárzás gyorsabb a fénynél
+f1897daf	A lineáris-kvadratikus modell
 f1d69164	Felezőréteg (HVL)
 f1e3d43f	A gadolínium átjut a méhlepényen; terhességben csak akkor, ha nélkülözhetetlen. Vakbélgyulladáshoz elég a kontrasztanyag nélküli MR.
 f1e5a8a5	Ha a kVp meghaladja a W K-héjának kötési energiáját (# keV), <b>karakterisztikus</b> vonalak jelennek meg: Kα ≈ #–# keV, Kβ ≈ #–# keV. Intenzitás ~ (U − #)^#, U = kVp / E_K.
@@ -1267,51 +2024,89 @@ f215c98f	DI # → túlexponálás (DI # ≈ # %, # ≈ #× dózis).
 f2586cb3	Mező (a detektornál)
 f25c8ffb	Természetes háttér (világátlag)
 f28c5bf6	Leckék • interaktív ábrák • kvízek
+f2b302fd	Hogyan változik a PDD adott mélységben, ha a mező nő?
+f2dea7ee	A PTV az a geometriai fogalom, amely biztosítja, hogy a CTV a beállítási és mozgási bizonytalanságok ellenére megkapja az előírt dózist.
 f2e56345	Állítsd az ólomvastagságot a Cs-# felezőrétegére (≈ # cm), és figyeld a feleződést
+f2f04328	<b>OAR / PRV:</b> veszélyeztetett szerv és tervezési biztonsági zónája (pl. gerincvelő + # mm).
 f2f0b95b	várakozás (óra)
+f323dc10	A megfelelő doziméter kiválasztása azt jelenti, hogy tudjuk, mit mérünk: ionizációs kamra a referenciadózishoz, film vagy detektormátrix az eloszláshoz, OSL/TLD a személyi dózishoz, GM-számláló a szennyezéshez.
+f351af88	TMR
 f38b9efa	#. Vetületek és a Radon-transzformáció
 f3952697	visszalökött elektron T
 f3987859	A csőhozam nagyjából kVp²-tel és lineárisan a mAs-sel nő: #%-kal több kVp nagyjából megduplázza a detektorjelet (#%-os szabály).
 f3b48ff1	Megállítod: a szupravezető mágnes mindig be van kapcsolva, a ferromágneses tárgyak lövedékké válnak; csak MR-biztonságos eszköz
+f3d4e34a	A területeket a várható dózis szerint ellenőrzött vagy felügyelt területnek minősítik, megjelölik, és korlátozzák a belépést. Egy elveszett forrás, egy váratlanul magas doziméterérték vagy rossz beteg, illetve rossz testtájék besugárzása rendkívüli esemény: rögzítik, kivizsgálják a kiváltó okát, és ha előírás, jelentik a hatóságnak (Törökországban az NDK-nak).
 f3f36daf	Olyan energiájú sugárzás (≥ # eV), amely elektronokat tud kiszakítani az atomokból.
 f425bff1	  → várható echó ideje: 
+f43d0d9d	A kötény alatti doziméterrel
+f43d5d4c	Gyorsan prolifáló daganatoknál (fej-nyak) a repopuláció beindul, ha a kezelés ~# napnál tovább tart, és ez naponta nagyjából ~# Gy EQD2-be kerül. A nem tervezett szüneteket ezért kompenzálni kell (pl. egy pluszfrakció hétvégén vagy napi kétszeri frakció).
 f48a9bb6	Monte Carlo mélydózis, Bragg-csúcs, besugárzástervezés, DVH, sugárbiológia.
+f49bd7cf	Az ablak szűkítésével
+f4a0a51b	Az automatikus csőáram-moduláció (AEC) minden szögben és z-pozícióban a beteg vastagságához igazítja a mA-t, a zajt célszinten tartja és optimalizálja a dózist.
 f4a277c4	Tervezés
 f4a9c097	Szűrő
+f4eb467e	A detektor (képfelfogó) oldalán
+f50a6eee	A PDD rögzített SSD-nél van definiálva, így a mélyebb pontok távolabb vannak a forrástól; a TMR az izocentrikus kezeléshez illik.
+f565bd92	Gyorsult repopulációnál naponta ~# Gy vész el: # nap × # ≈ # Gy. Ezért kompenzálják a szüneteket.
+f5b86b6b	Minőségellenőrzés: az eluátumban a Mo-# áttörés nem haladhatja meg a # kBq Mo-#/MBq Tc-#m értéket; ezt olyan ólomtartállyal ellenőrzik, amely megállítja a Tc # keV-es fotonjait, de átengedi a Mo # keV-es fotonjait. Ellenőrzik az alumíniumion-tartalmat és a radiokémiai tisztaságot is.
 f5c1b5b5	Mezőméret (a felszínen)
+f5e265e2	Hogyan hat a HVL-re az erősebb szűrés?
 f5e305fa	Mező #×# cm: a mellkas ≈ #×# cm; szűkítsd a mezőt (DAP és szórás).
 f5efdcd1	# mg/L
+f5fce81d	Helyiségárnyékolás tervezése
 f60d1c54	T2-súlyozott kép: a liquor világosabb, mint a fehérállomány
+f62997ab	Hogyan hat a gadolíniumos kontrasztanyag?
+f63ab85a	Az Anger-kamera
+f6466836	Az anyag sűrűsége nő
 f67cc940	Bomlási mód
 f6862a0b	Árnyékolás transzmissziója (felépüléssel)
 f6d42ce8	Bragg-csúcs mélysége
 f6f22637	Irányítás
 f71b5abf	Biológiailag effektív dózis
 f728f992	átlagos felnőtt (# cm)
+f72b2c12	Mi a leghatékonyabb védelmi intézkedés gyermek mellkasröntgenénél?
+f73eed5b	Az orvosi sugárterhelésnek kitett betegekre
+f77fcacc	A víz # HU, a levegő −# HU; zsír ≈ −#, tüdő ≈ −#…−#, lágy szövet #…#, csont #…# HU. Mivel μ energiafüggő (főleg csontnál és jódnál), a HU-értékek a kVp-vel változnak.
+f7b242ee	# Gy
 f7c4fef9	„Köszönöm, nagyon figyelmes volt!”
+f7e06859	Mit határoz meg a k-tér közepe?
 f80ba400	Így használd ezt a részt
 f810e311	Végbél EQD2 (α/β #) = # Gy — elfogadható.
+f82c600a	Egyenértékdózis
+f830e238	A K·A szorzat független a távolságtól, ezért a DAP mérhető a cső kollimátorára szerelt kamrával.
 f8486832	Csak a k-tér közepét használd: a kontraszt megmarad, a részletek elvesznek
 f84b8da5	Külső besugárzásnál téves és szorongást keltő.
+f862b10b	A térbeli felbontást
 f8c4150d	# MeV e⁻
 f8d6f331	Az eredete: a röntgensugárzás elektronoktól, a γ az atommagból származik
 f900a313	Drága, marad heg az arcomon? És kérem, a szememnek ne essen baja.
+f92bb98e	Hogyan keletkezik a DNS-károsodás nagy része kis LET-ű sugárzásnál?
+f93ff2ec	Ugyanaz a fizikai dózis különböző sugárfajtáknál eltérő biológiai hatást kelt. Az egyenértékdózis H_T = Σ w_R D_T,R. Sugárzási súlytényezők (ICRP #): fotonokra és elektronokra #, protonokra #, α-ra #, neutronokra az energiától függően #–#.
 fa033cd5	Küldetés: a forrás visszahozása
+fa42bc08	A magzati dózis becslése az orvosfizikus feladata: CT-nél a magzati dózis ≈ SSDE, ha a méh a mezőben van.
 fa73ce08	Jó munka — néhány ponton még javíthatsz.
 faa8e755	FLAIR: TI = T1·ln2 választása kioltja a liquort (≈ # ms # T-n). STIR: rövid TI elnyomja a zsírt (≈ #–# ms).
 fad26615	Larmor-frekvenciás B₁-impulzusokat ad (~# MHz # T-n), amelyek kibillentik M-et. A szövetmelegedés (SAR) innen ered.
 fae02622	Orbitafelvételek: NINCS fém idegentest. A vizsgálat folytatódik.
+faf2ae6e	Miben különbözik a TMR a PDD-től?
 faff56b8	Eltelt idő
 fb079007	Frakciónkénti dózis d
+fb1c3fc2	A beton sűrűbb az ólomnál
+fb4411db	A szeletvastagságot
 fb5419ac	Aluldozírozott szélek → kiújulás veszélye; nagyon kis mezőkben az R9# ráadásul sekélyebb lesz.
 fb77122a	Az első eset indítása
 fb8da0b7	Vakbélgyulladás terhességben: UH → kontrasztanyag nélküli MR → szükség esetén alacsony dózisú CT.
 fb990b3e	★★★ ≥ # %, ★★ ≥ # %, ★ ≥ # %. A legjobb eredményed mentésre kerül; játszd újra, hogy javíts rajta.
 fba0b4a2	Koszinusz
 fbb64dbd	Csőfeszültség
+fbb96484	A Larmor-frekvenciájú RF-impulzus kibillenti M-et B₀ irányából (egy #°-os impulzus a transzverzális síkba fekteti). A forgó transzverzális mágnesezettség áramot indukál a vevőtekercsben — ez a szabad indukciós lecsengés (FID). A rezonanciafeltétel miatt az MR csak a kiválasztott magot és helyet gerjeszti.
+fbc6d057	Az alternatívák (UH, MR) az elsők; ha CT szükséges, alacsony dózisú protokollt és korlátozott vizsgálati hosszt alkalmaznak.
+fc01ae34	Urán hasadásával reaktorban
+fc44dba7	Rendszerfelbontás ≈ #–# mm (# cm-en); belső felbontás ≈ #–# mm.
 fc6adbf7	Belépő felszíni légkerma (ESAK)
 fc7e5fc3	Beütésszám-elégségesség # — a szükségesnél több aktivitás; a többletdózis nem ad diagnosztikai értéket.
 fc82911d	relatív
+fca25fac	Protonok és a Bragg-csúcs
 fcdeb802	túlexponált
 fcff6168	Medence
 fd4e03b8	Idő ágypozíciónként
@@ -1322,11 +2117,16 @@ fd9045b9	#–# kV jobban áthatol a nagy testű betegeken: ugyanakkora zajhoz ke
 fddaa9d0	Konformitási index (Paddick)
 fe0012eb	Elavult tanács; eGFR ≥ # mellett felesleges, és késlelteti a diagnózist.
 fe2bb7a7	Ólomkötényt tekerek a medence köré
+fe67e3af	A k együtthatók (mSv per mGy·cm) felnőttekre: fej #, nyak #, mellkas #, has és medence #.
 feb29647	Polienergiás nyaláb (valószerű)
 feb7cede	Magas vérnyomás (beállított)
 febab6f7	IGRT: kezelés előtt kV-felvétel vagy kúpnyalábos CT (CBCT) készül, és a beteg helyzetét milliméterre pontosan korrigálják.
 fec9a6c7	Napi kV-képalkotás / CBCT az arany markerekre illesztve
+fed90ed4	A negatív DI azt jelenti, hogy a detektordózis a célérték alatt van (−# ≈ # %-kal kevesebb), és a kvantumzaj ronthatja a diagnózist.
 ff1483ac	Pacemaker (titán)
+ff3f9ab4	<b>Rács:</b> ólomlamellák nyelik el a szórt sugárzást (rácsarány #:#–#:#), a dózis rovására — Bucky-faktor #–#. #–# cm-nél vékonyabb testrészeknél és gyermekeknél a rács általában szükségtelen.
 ff559aca	Can: „Jó, hogy fejhallgatót adtak. Jönnek a zajok!”
+ff801f8c	Szürkehályog
 ff97f266	Átlagos fotonenergia
+ffe8e8a6	Gy(RBE) = # × fizikai dózis; nem tévesztendő össze az ICRP sugárvédelmi sugárzási súlytényezőjével, w_R = #.
 ffedd789	# hónapos csecsemőt szoptat

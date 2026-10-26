@@ -27,9 +27,8 @@ Türkçe · English · Deutsch · Français · Español · Português · Italian
 Magyar · Svenska · Dansk · Norsk · Suomi · Ελληνικά · Русский · Українська · Azərbaycanca · Bahasa Indonesia ·
 Tiếng Việt · العربية · فارسی · हिन्दी · বাংলা · ไทย · 简体中文 · 日本語 · 한국어
 
-The interface, labs and clinical cases are available in all 30 languages (right-to-left layout for Arabic and Persian,
-complex-script shaping for Hindi, Bengali and Thai). Lesson texts of the Learning Centre are written in Turkish and
-English; translations into the other languages are in progress and fall back to English until then.
+The interface, labs, clinical cases and all 36 lessons of the Learning Centre are available in all 30 languages
+(right-to-left layout for Arabic and Persian, complex-script shaping for Hindi, Bengali and Thai).
 Translations other than Turkish and English are machine-assisted — corrections are welcome (see *Translations* below).
 
 ![Japanese, Arabic, Russian and Hindi](docs/images/languages.png)
@@ -119,7 +118,9 @@ Every UI string is written in code as `T("Türkçe", "English")`. `Bridge/i18n_e
 into `Assets/Resources/Lang/_keys.txt` (numbers are masked as `#`), and each language file maps a hash of that key to
 its translation, so translations survive code changes. To fix or add a translation, write `N|text` lines
 (N = line in `_keys.txt`) and merge them with `python Bridge/i18n.py merge <code> <file>`; the tool checks that
-placeholders, tags and line breaks are kept. `python Bridge/i18n.py status` shows coverage. After changing
+placeholders, tags and line breaks are kept. Lesson equations are language-neutral unless they contain words; then
+they are written as `$ denklem || equation` and translated like any other line. `python Bridge/i18n.py status` shows
+coverage. After changing
 translations, run `python Bridge/i18n_fonts.py --subset` and **MedPhys → Fonts** so the fonts contain every character.
 Pull requests that improve translations are very welcome.
 

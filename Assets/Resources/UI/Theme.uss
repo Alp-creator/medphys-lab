@@ -150,7 +150,7 @@
 .mp-learn { font-size: 16px; color: var(--text); white-space: normal; margin-bottom: 10px; }
 .mp-learn-h { font-size: 18px; -unity-font-style: bold; color: var(--amber); margin-top: 10px; margin-bottom: 4px; }
 .mp-eq {
-    font-size: 17px; color: rgb(170, 230, 255); white-space: normal;
+    font-size: 17px; color: rgb(170, 230, 255); white-space: pre-wrap;   /* keep the gaps between formulas */
     background-color: rgba(54, 197, 240, 0.08); border-radius: 6px; padding: 6px 10px 6px 10px; margin-bottom: 6px;
     -unity-text-align: middle-center;
 }

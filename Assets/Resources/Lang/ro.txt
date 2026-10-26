@@ -1,34 +1,47 @@
 002e566d	Cazuri clinice
 005ef20f	Stare
 006f11ff	Nodul pulmonar (tumoră)
+007cc916	<b>Selecția secțiunii:</b> un gradient în timpul pulsului RF, astfel încât un puls cu bandă îngustă excită o singură secțiune.
+00af857c	Doza medie definită într-un fantom din PMMA de # sau # cm — nu doza pacientului.
+00cb23fb	<b>Justificarea:</b> orice practică ce implică radiații trebuie să aducă mai mult bine decât rău; în medicină aceasta se judecă pentru fiecare examinare.
 00e896c1	Măsoară dmax și PDD1# pentru fotoni de # MV (≥ # # istorii)
 00e97d3d	Nu există niciun risc.
 01446da3	Sânge cu contrast
+01703bea	<b>Colimarea:</b> micșorează volumul iradiat, reducând atât împrăștierea, cât și doza — cel mai important pas.
 01b10287	Ficat
 022ebff6	  — citește explicațiile și încearcă din nou.
 02307551	Cele trei principii ale radioprotecției: justificare, optimizare (ALARA: cât de jos se poate obține în mod rezonabil) și limite de doză. Lucrător: # mSv/an (medie pe # ani, max. # într-un an), populație: # mSv/an, cristalin: # mSv/an.
+023478eb	Spinul, frecvența Larmor și magnetizarea
 0282b42b	Fără grilă: alegerea corectă pentru un torace pediatric subțire.
 02875262	Tensiune arterială
 028cc680	Deschid un câmp larg și pun plumb pe tiroidă
+02943f2b	# Sv
 02daa186	Ecou de gradient
 02ff0734	ore
 03410798	Începe cu lecția #  →
+03a5ffee	<b>Barieră primară:</b> un perete pe care fasciculul îl poate lovi direct (U < #).
 03aded2d	Proton
+03bd2a69	# %
 03d9f12f	CONFIRMĂ
+03ee7f99	Produsul doză-arie
+04031976	O tumoră măsoară # kBq/mL; un pacient de # kg a primit # MBq (corectat pentru dezintegrare). SUV = # / (# # / # #) = # / # = #.
 04215fff	Capul de tratament
 04665812	Energie medie (intrare / detector)
 04b21fef	Doar periferia
 04c33449	Atomi inițiali N₀
+04d7b85a	Este suficient să i se lipească ochiul cu bandă
 05446544	Radiație ionizantă
 054ed6b1	#. Protonii și vârful Bragg
 0551e426	Magnet supraconductor
 05735a1f	În timpul examinării se aud bătăi puternice. Cauză și precauție?
 05747e6b	Recomandările actuale (AAPM #, BIR/IPEM #): colimarea este cea mai eficientă protecție. Doza gonadală din afara câmpului este deja foarte mică; un protector care alunecă în câmp ascunde anatomia și face ca expunerea automată să crească doza.
 05883f18	Debitul dozei H*(#)
+05a40e0d	Semnalul mușchiului
 05aeb14d	Doză inutilă la ochi și la pielea sănătoasă a feței.
 05b19ab8	Sfaturi de studiu
 05b21be8	EQD2 tumoral = n·d·(d + #)/(# + #) = # Gy — interval curativ.
 05f6dc9a	Câmpul principal B₀
+0682d944	HDV și constrângeri
 069d81b7	 canale
 06ba43bc	Fiecare sferă e un nucleu. La fiecare pas de timp se dezintegrează cu probabilitatea p = # − e^(−λΔt) și emite o linie de foton; cu puține nuclee N(t) fluctuează statistic.
 06df51de	Activitatea injectată
@@ -39,64 +52,97 @@
 07ef138f	RULEAZĂ SECVENȚA
 0827bee2	Limite de doză (ICRP #)
 086c6bbb	Culori: izodoze #%·#%·#%·#%·#%. Contururi: verde PTV, galben măduvă, roșu inimă, roz plămâni.
+08b1f023	<b>Lucrătoare însărcinată:</b> după declararea sarcinii, doza la făt nu ar trebui să depășească ~# mSv pentru restul sarcinii.
 08c92619	Copiii sunt de #–#× mai radiosensibili decât adulții și au o speranță de viață lungă → ALARA contează și mai mult.
 09138ded	Nu vreau operație. Cum e tratamentul ăsta cu radiații, doare?
+094a7633	Dezintegrarea β⁻
 096813ae	Zgomot (σ, regiune uniformă)
+096b4d6f	Film radiocromic
 098d1ad9	Radioembolizare hepatică (SIRT)
+09aa91b9	Fasciculul primar
 09c4871c	Care este interacțiunea dominantă a unui foton de # MeV în țesutul moale?
+09e38d90	Mutația ereditară
 09f71920	Frecvența Larmor
 09feeabb	Compară vârful Bragg al protonilor de # MeV cu parcursul CSDA din NIST
+0a2d132a	Cine este monitorizat și cum?
+0a2d70d0	Retroproiecție filtrată: proiecțiile sunt filtrate cu un filtru rampă și retroproiectate.
+0a43bb10	BED = # × (# + #/#) = # Gy. Cu α/β = # ar fi # Gy.
 0a496fc5	Doza fetală ≈ SSDE (uterul complet în câmp). Limita de zgomot diagnostic ≈ # HU (protocol de apendicită cu doză mică). Alege kV, mAs, pitch și lungimea scanării, apoi apasă SCANEAZĂ.
 0a52c35c	Ponderat T1
 0aa78268	Hipofracționare: α/β-ul prostatei este mai mic decât al rectului, deci fracțiile mari favorizează tumora (CHHiP #/#, PACE-B #/#), iar pacientul se deplasează mai rar.
+0ac75168	Dacă debitul dozei este # µSv/h la # m, cât este la # m?
 0ac8a560	Resetează
 0acf4d25	Text mai mare
+0b2830b9	SUV
+0b2a90c5	MIRD
+0b3d4df2	Copiii
 0b4677ab	EANM: glucoză < # mmol/L (≈ # mg/dL). Hiperglicemia concurează cu FDG și scade captarea tumorală.
 0b4d8f40	fracție supraviețuitoare
 0b81ff1c	Osul maxilar ≈ # cm sub leziune
 0b8b3199	Constrângeri de doză (QUANTEC / RTOG)
 0bbe8b9f	Monte Carlo în timp real: fiecare urmă este o particulă. Mai multe istorii = mai puțin zgomot statistic (σ ~ #/√N).
+0be48cca	As Low As Reasonably Achievable — menținerea dozelor cât de mici este rezonabil posibil, ținând cont de factorii economici și sociali.
+0c088256	ICRP # a găsit un prag pentru cataractă de ~# Gy și a redus limita de la # la # mSv/an — de aceea ochelarii cu plumb sunt importanți în cardiologia intervențională.
+0c13aa12	Ce face filtrul rampă în FBP?
 0c1c4f42	Radioterapie oncologică: EBRT curativă, prostată ± vezicule seminale (Dr. Kılıç)
 0c2610e2	CNR ruptură/menisc #: ruptură evidentă (lichid luminos, menisc întunecat pe PD/T2).
 0c433245	Raport tumoră/fond scăzut → risc de erori de stadializare.
 0c903e49	Obloanele de plumb limitează câmpul: mai puțină doză pentru pacient și mai puțină împrăștiere. Filtrarea Al/Cu elimină fotonii de energie joasă, întărește fasciculul și scade doza la piele.
 0ccd4680	Raport sferă / fond
+0cd9d0ad	De ce se folosește kVp mic în mamografie?
 0ce92428	CTDIw: fantomă de corp de # cm (cap de # cm); E = DLP × k (torace #, abdomen #, cap # mSv/mGy·cm).
 0d78d08a	Construiește un SOBP lat de # cm
+0d816b59	TMR este definit doar pentru electroni
 0db9cc3e	Puls
 0dec8195	Aplică #° – τ – #° și formează un ecou de spin
 0e1a0a7b	doză unică, α/β = # (precoce / tumoră)
 0e32111a	Fascicul
 0e629e6c	Reprogramare: post ≥ #–# h, glicemia trebuie să fie < # mg/dL
+0efb8aba	Care este frecvența Larmor a protonului la # T?
 0f01dfcb	Următoarea oră de eluție
 0f6a0301	Aplicator #×# cm, fără decupaj
+0ff0ece3	Forța variază cu B·dB/dz; în centru B este maxim, dar dB/dz ≈ #, în timp ce la intrare produsul atinge maximul.
 0ff4383c	Lucrătoare însărcinată (făt)
 10225e52	Os cortical
+10446e37	Durificarea fasciculului (cupping)
+105d6ef1	Semnalele achiziționate umplu spațiul k, iar imaginea este transformata lui Fourier #D. Centrul spațiului k poartă contrastul și semnalul global; periferia, detaliile fine și marginile. Într-un spin-echo se achiziționează o linie la fiecare TR.
 10bddc32	Un fragment feromagnetic intraocular se poate mișca în B₀ și poate provoca orbire → întâi radiografii de orbite (sau CT).
 10bee102	Indice de deviație (DI)
+10ea12d4	Plămânul, colonul, stomacul, sânul, măduva roșie și restul au #; tiroida #; pielea #.
 10f562e1	Administrez insulină rapidă și injectez imediat
 10f6a1bd	Modelul liniar-pătratic • BED
+11021e45	Mamografia
 113249ae	Fă un plan cu fotoni care respectă toate constrângerile de doză
 114fa830	Colimatorul multilamelar (lamele de #–# mm) conformează câmpul la tumoră și se mișcă în timpul iradierii în IMRT și VMAT.
 116e6f62	Hologramă
 11a18b82	Elimină tot
 11a4e77a	Calitate diagnostică / terapeutică
+11a6d3ed	α/β al prostatei (~# Gy) este mai mic decât al țesutului tardiv din jur (rect ~# Gy)
+11be0e65	Cataracta are prag (ICRP #: ~# Gy) și severitatea ei crește cu doza; cancerele și efectele ereditare sunt stocastice.
+120a6115	Pacientul, familia și personalul
+120fdb1f	Brahiterapie (TG-#, punctuală)
+122b6e24	TR = # ms, # linii de fază, NEX = #: un spin-echo convențional durează # × # = # s ≈ # min; un turbo spin-echo cu ETL = # durează #/# = # s.
 124f5fe7	Contrast substanță albă / cenușie (la marcaj)
+1264df05	Sarcina, copiii și comunicarea riscului
 129b582e	DI # → expunere corectă.
 132d55ba	fotoni relativi
 134c264b	Artefact metalic: scanează o secțiune de bazin cu proteza de șold
 135a8cc7	 h după
 136685c9	EQD2 tumoră (α/β #) = # Gy, piele tardiv (α/β #) = # Gy. Echilibru bun între control și rezultatul estetic.
 1370333f	Lățimea câmpului
+138168c1	Ce doză echivalentă dau # Gy de radiație α?
 138fb3e1	Corect: I/I₀ = e^(−μx). Deoarece σ ~ #/√N, zgomotul crește ≈ √# ≈ #× la aceiași mAs.
 13ad4851	β-hCG POZITIV: însărcinată de aproximativ # săptămâni.
 13bea53e	# markeri fiduciali din aur implantați
 13f06473	Șterge citirile
+1425444e	# MV, câmp de #×# cm², # cGy în izocentru la # cm adâncime. Calibrare: # cGy/UM la d_max în izocentru. TMR(# cm) ≈ #, S_c = S_p = #, ISF = #. UM = # / (# × #) ≈ # UM.
 1451f91f	real 
 14d5133a	ACR (#) și ESUR #: metforminul continuă la RFGe ≥ #; contrastul i.v. este necesar pentru a detecta un abces.
 14e77c03	Resetează progresul
 151c3f35	Inel de detectori (LYSO + SiPM)
 1527c7a5	Explorează fizica medicală în pași mici, cu calcule reale.
+154a1ae4	Care este principalul avantaj al unui câmp mai înalt (# T)?
+158c91bf	≈ # MBq
 15b23cec	 puncte
 15c3229f	α/β tumoră
 15cf43c6	Panoul plat opus sursei kV; colectează sute de proiecții pentru CBCT în timp ce gantry-ul se rotește.
@@ -107,64 +153,115 @@
 16280e6a	Debitul dozei de la pacient ~ A/d²; F-# T½ = # min. Amânarea contactului apropiat cu câteva ore reduce mult doza sugarului.
 1640e3a4	distanță (m)
 164b6930	Înregistrează citirea
+167d88c8	≈ # MHz
 16b19be2	Efectul kVp: expune la ≤# kVp și la ≥# kVp; compară contrastul osos
 16d4a955	Radioterapie
+16f6a6d1	SAR
 17098140	Adenocarcinom de prostată, risc intermediar (Gleason ##, PSA #)
 1716fced	Doza fetală ≈ SSDE = # mGy (CTDIvol # × f #).
 1725def4	Liniile K necesită ca electronul incident să depășească energia de legătură a stratului K, deci liniile K ale wolframului apar doar peste # kVp.
 17278db5	Energie
+174431ff	La energiile din diagnostic (domină efectul fotoelectric) plumbul este foarte eficient: #–# mm Pb opresc #–# % din fotoni la # kVp. La energiile MV (domină efectul Compton) atenuarea urmează densitatea electronică, de aceea buncărele de tratament folosesc beton gros și ieftin. Neutronii necesită materiale hidrogenate (polietilenă, beton cu bor).
+176d6111	Ce mod de dezintegrare stă la baza PET?
 17a150b4	Da — liniile caracteristice nu depind de kVp
 17a890d2	Nuclee rămase N(t)
 17c2afe2	În țesutul moale efectul fotoelectric domină sub aproximativ # keV, Compton între # keV și ~# MeV, iar peste aceasta producerea de perechi. În materialele cu Z mare, cum este plumbul, domeniul fotoelectric se extinde până la aproximativ # keV — de aceea plumbul este un bun ecran.
 17cd8fa8	 lecții • 
+17e23d13	Eritemul tranzitoriu începe la ~# Gy doză la piele; în intervențiile lungi doza maximă la piele trebuie monitorizată și înregistrată.
+17f14029	Crește B₀
+17f5c6dc	De ce este avantajoasă hipofracționarea în cancerul de prostată?
+17fda0a4	Camera de ionizare
 1808f4a6	În țesutul moale Compton domină de la aproximativ # keV până la # MeV. Producerea de perechi nu poate avea loc deloc sub pragul de # MeV.
 18279c08	Vârf Bragg extins (SOBP)
 18284597	<b>Indicele de expunere</b> EI = # × K_detector [µGy] (IEC ##). Indicele de deviație DI = #·log₁₀(EI / EI_țintă); |DI| ≤ # este adecvat. DI = # înseamnă dublul dozei necesare.
 182fdbbe	EANM (suprapunerea patului > # %): A·t ≥ # MBq·min·kg⁻¹ × greutate. Mai puțină activitate + timp mai lung dă aceeași imagine la doză mai mică. Se recomandă un timp de captare de # ± # min.
 18674089	<b>Împrăștiere coerentă:</b> fotonul își schimbă direcția fără să piardă energie; o contribuție mică la energii joase.
+188a8059	LET și efect biologic
+189d2fc2	De unde provin?
 18d0a565	CT toracic
 1904dc9d	Recomandarea EANM
 19201036	Timp–distanță–ecranare, legea inversului pătratului, harta debitului de doză, misiuni.
 193ee1fd	Vârf Bragg extins (SOBP, # cm)
+195d68ba	Cameră de ionizare Farmer
+197560c4	Magnetizarea transversală descrește pe măsură ce spinii interacționează și își pierd coerența de fază — relaxarea spin-spin, T2. În practică, neomogenitățile câmpului accelerează defazarea, astfel încât descreșterea observată este T2* < T2. Un puls de refocalizare de #° (spin-echo) anulează neomogenitățile statice și recuperează adevăratul T2.
+19a0d56e	Echilibrul particulelor încărcate (CPE)
+19a49e9f	IGRT
 19b5eb24	Regulă practică: R9# ≈ E/# cm, R5# ≈ E/# cm, Rp ≈ E/# cm. Electronii se opresc la o adâncime bine definită — ideali pentru tumori superficiale.
 19c23656	 h de așteptare
+1a0c0de0	# mSv
 1a36a166	Progres
+1a3806f2	Care este BED pentru # Gy × # = # Gy într-un țesut cu α/β = # Gy?
+1a8231be	Doza absorbită
+1aa52b11	Pozitronul se anihilează cu un electron în doi fotoni opuși de # keV, pe care PET îi detectează în coincidență.
 1ace7035	Detector cu panou plat
+1ad4cee2	Nivel de referință în diagnostic: percentila a #-a a distribuției naționale. Un instrument de optimizare, nu o limită.
 1b01a1c6	Un atom este format dintr-un nucleu cu Z protoni și N neutroni, înconjurat de Z electroni. Numărul de masă este A = Z + N. Nucleele cu același Z, dar N diferit sunt izotopi, de exemplu ¹²C și ¹⁴C.
 1b06e46e	Colectează ≥ # # coincidențe și reconstruiește cu MLEM
 1b12fad7	Diabet de tip # (metformin)
+1b3d5f37	O particulă încărcată suferă nenumărate mici interacțiuni coulombiene cu electronii mediului și pierde continuu energie. Energia pierdută pe unitatea de drum este puterea de oprire S = −dE/dx (MeV/cm), exprimată și ca putere de oprire masică S/ρ (MeV·cm²/g).
+1b97c482	După un puls RF, magnetizarea longitudinală se recuperează pe măsură ce spinii cedează energie mediului (rețelei) — relaxarea spin-rețea, T1. Grăsimea are un T1 scurt (~# ms la # T), lichidele unul lung (LCR ~# ms); T1 se lungește când B₀ crește.
+1b9905a7	Codificarea spațială și spațiul k
 1bbe9bf8	Mehmet: „Brațele deasupra capului? Bine.”
 1be9e2d9	Stratul de semiatenuare (SVJ) este grosimea care înjumătățește intensitatea: SVJ = ln2/μ. Stratul de deciatenuare este SVZ = ln1#/μ ≈ # SVJ. n straturi SVJ reduc intensitatea de #ⁿ ori.
+1c0f8606	Pentru a înjumătăți zgomotul, mAs (și doza) trebuie cvadruplate. Alternativ, trecerea de la secțiuni de # mm la # mm înjumătățește de asemenea zgomotul, cu prețul rezoluției pe z.
+1c3ba3dc	Pacienta însărcinată
+1c4e4f9c	Putere de oprire
+1c7776da	Erorile aleatorii nu contează deloc
 1c872a31	da (> # MV)
 1ca87565	Marcajele pe piele și laserele sunt suficiente
 1cb740a3	<b>Legea inversului pătratului:</b> intensitate ~ #/d². Trecerea de la SID # la # cm cere ~#× mAs pentru aceeași doză la detector, dar doza la piele crește mai puțin și mărirea scade.
 1cc0e3d5	Mama întreabă: „Poate această radiografie să-i facă rău fiului meu?” Doza efectivă a lui Emir ≈ 
+1d38faf9	Aerul mai cald înseamnă mai puțin gaz în cameră și o citire mai mică. Referința TRS-# este # °C și # kPa. La # °C și # kPa, k_TP = (##)/(##) × #/# ≈ # × # ≈ #. Fără această corecție doza ar fi citită cu # % mai mică.
 1d4b8ac2	Injectez imediat
+1d6a995e	O eroare sistematică deplasează la fel fiecare fracțiune și mută doza permanent
 1d6b9aba	În organogeneză (săptămânile #–#) pragul determinist este ~#–# mGy; investigațiile diagnostice sunt mult sub acesta.
 1d8a20dd	Abdomenul lui Mehmet are 
 1dd9a37f	Timp de captare nestandard: SUV-urile nu sunt comparabile cu examinările anterioare/ulterioare.
+1ddd0e0d	La o radiografie toracică plămânii primesc # mGy, iar sânii # mGy (restul neglijabil). E ≈ #·# + #·# = # mSv ≈ # mSv — aproximativ # zile de fond natural.
+1e466356	Protonii depun cea mai mare parte a dozei în vârful Bragg și aproape nimic dincolo de el, în timp ce fotonii depun și o doză de ieșire considerabilă în spatele țintei. Protonoterapia reduce așadar mult doza integrală, mai ales la copii și pentru tumorile din apropierea organelor critice (ochi, baza craniului, coloană).
+1e4f76b7	Anularea prin inversie
 1e6a827e	Găsește frecvența Larmor a protonului la # T (≈ # MHz)
+1e788d30	O gama-cameră este formată din colimator, un cristal mare de NaI(Tl), tuburi fotomultiplicatoare (PMT) și electronică de poziție/energie. Un foton absorbit în cristal produce o scânteie de lumină; media ponderată a semnalelor PMT dă poziția evenimentului (logica Anger), iar suma lor energia.
 1e836d59	Descreștere T2
+1e96362a	Protonii se deplasează aproape în linie dreaptă. Își cedează cea mai mare parte a dozei în ultimii milimetri ai parcursului, după care doza scade aproape la zero. Parcursul este fixat precis de energie (regula Bragg–Kleeman R ≈ #·E^#). Protonii individuali se opresc la adâncimi ușor diferite (dispersia parcursului), deci vârful are câțiva mm lățime.
+1e9e1a29	Principiul focarului liniar: anodul înclinat împrăștie căldura pe o suprafață mare, păstrând mic focarul efectiv văzut de la detector. Din cauza efectului călcâi, partea anodică a fasciculului este puțin mai slabă.
+1ef452c8	S_col ~ (z² / v²) · ln(# m_e v² / I)        (I: energia medie de excitare; ≈ # eV pentru apă)
 1f05f68e	Parametrii țesuturilor
 1f12087d	Doză ≈ 
+1f2ecf71	Zgomot
 1f4ea376	Activitatea inițială de Mo-#
 1f6b3b4a	Os (# cm) # % — protejat.
+1f956563	Tehnici de planificare
+1fe5d236	Tubul de raze X și spectrul, formarea imaginii, contrast și zgomot, radiația împrăștiată și grilele, detectoarele, EI/DI, doza pacientului; fluoroscopia și mamografia.
+2009a0a3	Ce oferă un șorț de plumb unui tehnician care pregătește un trasor PET?
+200b57d8	CT măsoară profilul de atenuare al unei secțiuni din toate direcțiile, cu un tub care se rotește în jurul pacientului și o rețea de detectoare opusă. Fiecare element detector vede integrala lui μ de-a lungul razei sale:
 20170133	Plombe dentare
 2056fe0a	Co-# are un PDD scăzut și o penumbră largă; nu se folosește în RT curativă modernă a prostatei.
 20c4a5a9	Vizualizarea pielii
 20c53222	Alege orice subiect. Dacă ești nou, încearcă mai întâi scurtul caz introductiv.
 20caf1bb	Eluează generatorul la #–# h după eluția anterioară (randament maxim)
+20daffb6	Dacă μ al unui țesut este cu # % mai mare decât al apei, care este valoarea HU (μ_aer ≈ #)?
+20e5e537	<b>Guler tiroidian și ochelari cu plumb:</b> în fluoroscopie și procedurile intervenționale.
+20e99949	Mărimi dozimetrice
 210acf6e	Hasan: „Câte zile va trebui să vin? Vin de la sat.”
+2128d576	Lângă suprafață intră mai puțini electroni decât ies; doza crește de-a lungul parcursului electronilor (d_max) până se apropie de kerma.
 218447b4	Grăsime
+21ce1114	Sarcina ar trebui întreruptă
 21db31eb	TR/TE scurte → T1; TR lung, TE scurt → DP; TR/TE lungi → ponderare T2.
 21f331e9	Artroscopie de umăr în #: ancore din titan
+221c38d0	Țesutul cu α/β mic este mai sensibil la fracțiuni mari. Deoarece α/β al tumorii este sub cel al rectului, se poate obține o doză biologică tumorală mai mare la aceeași toxicitate tardivă.
+22392fc6	Generatorul Mo-#/Tc-#m
 224a7dd2	Nu există o asemenea restricție la radioterapia externă; se poate aplica surselor de brahiterapie.
 229566cb	Hasan: „Îmi pot îmbrățișa nepoții după tratament? Voi fi radioactiv?”
 22a06b53	ALARA: imagine toracică cu ESAK < # mGy și DI ≥ −#
+22a87b76	<b>Generator:</b> un părinte cu viață lungă produce un descendent cu viață scurtă: Mo-#/Tc-#m, Ge-#/Ga-#.
+22d2c2ce	Este suficient un aparat cu câmp mai mic (# T)
 22fd0749	IGRT zilnic corectează mișcarea organelor, reducând marginile și doza rectală.
 2357d727	Fizica fasciculului
 23f641a4	• Verifică unitățile din fiecare formulă (cm⁻¹, Gy, Sv, MBq). • Rezolvă singur întâi exemplele, apoi verifică. • După examenul de exersare, recapitulează lecțiile întrebărilor greșite. • La interviuri apar cel mai des: principiile ICRP, SAV, legea inversului pătratului, LQ/EQD2, CTDIvol/SSDE, T1/T2, PDD și vârful Bragg.
+240febd8	I-#
 24176da5	Generator Mo-# / Tc-#m
+243eddb1	Geometria
 2448ca2f	plumb
 2456b993	Contrast
 2523a664	Mergi la sursă (< # m), ridic-o și du-o la containerul de plumb.
@@ -172,128 +269,214 @@
 252a0fa6	neecranat
 253898c0	Suficiența numărărilor # — calitate a imaginii la nivel EANM.
 25517e15	Vârful Bragg
+255b2c81	Reduce zgomotul
+256cadab	R ≈ #·E^#   (apă, R în cm, E în MeV)
 2576aae7	Greutate / înălțime
+258734b7	<b>Durificarea fasciculului:</b> cupping (centru întunecat) și dungi întunecate între oase dense; calibrarea pe apă corectează cupping-ul.
 25941612	Doza în os (# cm)
+25a52545	Pentru I-#, T_fiz = # zile; fie T_bio tiroidian = # zile. T_ef = (# × #)/(# + #) = # zile — întotdeauna mai scurt decât cel mai mic dintre cele două.
 25b31f5d	Randamentul tubului (# m)
 25c2fc03	Nu s-au găsit întrebări.
 25e14a19	Curent × timp
 25edd5e3	referințe pentru puterea de oprire și parcursul protonilor și electronilor
+25f0ba98	ICRP # dă w_R = # pentru α: H = # × # Gy = # Sv.
+260c9112	#
+26abae68	HU = # × (# μ_w − μ_w)/μ_w = # × # = # — tipic pentru țesutul moale.
 26f973b0	Corecție de atenuare (AC)
 26fbd2ec	Ce deosebește razele X de razele γ?
+271d6d1e	<b>Barieră secundară:</b> împotriva radiației împrăștiate de pacient și a scăpărilor din cap (~# % din sarcina de lucru); U = #.
 2731d14d	ÎNCEPE CAZUL  →
 2749a496	Doza efectivă a pacientului
+274a6a69	TR / TE
+27b867bb	BED și EQD2
 27c35a89	 (pierdere T2: e^(−TE/T2))
 280f0096	Începe cu primul tău caz
+285171e9	I-# trece în lapte și se concentrează în tiroida sugarului; la activități terapeutice alăptarea acelui copil se oprește.
 287f6fa8	Fracții livrate
 2885d27b	Grilă antidifuzie (#:#)
 28a6f0c2	Grafic
+28b66559	Pulsul de #° inversează ordinea fazelor, astfel încât neomogenitățile statice se refocalizează la TE; interacțiunile spin-spin aleatorii (T2) nu pot fi anulate.
 28ce8c15	Detectorii măsoară chiar pozitronul
 290489df	Probabilitatea de interacție pe unitatea de drum (cm⁻¹); μ/ρ este coeficientul masic de atenuare (cm²/g).
 296d75eb	Radiobiologie
+299d31a2	SUV = C_țesut / (A_injectată / greutatea corporală)
 29aac115	doză unică, α/β = # (tardiv)
 29e178a3	Discuția cu familia
 29e32f3e	Recepție
 2a17c8fd	Zgomot hepatic # HU: un abces cu contrast scăzut se poate pierde în zgomot.
 2a72143f	Necesar pentru < # µSv/h la pupitru
+2ab5c9fc	<b>Ciclotron:</b> bombardare cu protoni; F-# se produce din apă îmbogățită prin ¹⁸O(p,n)¹⁸F. Cu T½ = # min, este distribuit din ciclotroane regionale.
 2ab93b6c	Obiectiv: ≥ # % doză peste tot de la piele până la # cm; ≤ # % la os, la # cm. Alege energia și grosimea bolusului.
+2aca6a7c	La aproximativ cât timp după o eluție atinge maximul activitatea Tc-#m într-un generator?
 2ad83ea8	SCANEAZĂ
+2aecbbea	Frecvențele spațiale joase se află în centru: fără centru imaginea își pierde contrastul, fără periferie devine neclară.
 2afcdfa8	CNR ruptură / menisc
+2b02aa61	Crește de #×
+2b030ee3	În PET, detecția a doi fotoni de # keV în detectoare opuse în câteva ns.
 2b05bc17	Fiecare atom se dezintegrează la fiecare pas de timp cu probabilitatea p = # − e^(−λΔt). Cu puțini atomi curba fluctuează statistic.
 2b45b1f2	Iterații MLEM
+2b6a8342	Care instrument este cel mai potrivit pentru a căuta contaminarea într-o încăpere?
 2b8ee748	Schema aleasă
 2bab58c8	Siguranța RM: chestionar, radiografii de orbite (lucrători cu metal), regulile zonei IV, protecția auzului.
 2bbeecb2	Pacienți reali, decizii reale: radiografie toracică pediatrică, CT în sarcină, un pacient corpolent, radioterapie de prostată, cancer de piele, PET și siguranța RM.
 2bd2dbd1	Proteză de șold din titan
+2bd612e8	Un TI lung (≈ #–# ms) anulează LCR, al cărui T1 este foarte lung, și scoate în evidență leziunile periventriculare.
 2be6e625	Brahiterapie HDR
 2bfaf1fc	încă neexpus
 2c30aab8	Doza totală / timp
+2c32813e	# W/kg
+2c32a937	SSDE (AAPM #)
+2c5508a5	<b>Ocupațional:</b> doza efectivă # mSv/an (medie pe # ani, cel mult # mSv într-un singur an); cristalin # mSv/an (ICRP #); piele și extremități # mSv/an.
+2c58f0bf	CTDI este integrala profilului de doză al unei rotații, măsurată cu o cameră creion de # mm în fantome PMMA (cap # cm, corp # cm). CTDIw ponderat combină centrul și periferia; CTDIvol ține cont de pitch și este afișat pe consolă.
+2c7551a1	De ce PET nu are nevoie de colimator?
 2c89960f	EQD2 tumoră (α/β #) = # Gy, piele tardiv (α/β #) = # Gy. O singură fracție mare riscă necroză tardivă și leziuni ale cartilajului.
+2caf8732	Cum schimbă dublarea curentului tubului (mA) spectrul?
 2cafb291	Cazuri clinice — 
 2cb28fc5	Componente
 2ceef116	Oprești magnetul, apoi o lași să intre
+2cf118a7	HU = # · (μ − μ_apă) / (μ_apă − μ_aer)
 2d0ea9f2	Doză totală
+2d38e091	M_PTV = #·Σ + #·σ    (Σ, σ: DS ale erorilor sistematice și aleatorii)
 2d435572	Creează frică inutilă și întârzie diagnosticul; o investigație justificată nu trebuie blocată.
+2d59f0fd	Durificarea fasciculului: pe măsură ce energia medie crește, μ scade, deci a doua înjumătățire cere un strat mai gros.
 2d877b6c	Secțiune
+2d8fb0b2	Pentru a elimina complet împrăștierea
 2d93483f	Poți bifa mai multe opțiuni.
 2dcee2fc	după eluție (h)
 2e160bcd	Stadiu
+2e2c2d5d	f = # × # ≈ # MHz.
+2e4d104d	Formarea imaginii: contrast, radiație împrăștiată și grile
+2e5665a5	Frecvența de precesie a protonilor în jurul lui B₀; # MHz la # T.
+2e5bf3b5	Semnalul grăsimii
+2e62f99c	În HDR, cum se modifică doza la # cm în loc de # cm de sursă (doar inversul pătratului)?
 2e6390f7	Gata. 
 2e83162e	Proiectarea secvenței
 2eafe887	Rată
+2ebc2a84	Familia CTDI
 2ebd290f	Încărcarea tubului (pitch #)
 2ecb2727	Un kV mic crește contrastul iodului, dar produce lipsă de fotoni la pacienții voluminoși.
+2ed4bd8c	Pentru efectele stocastice (cancer, efecte ereditare), radioprotecția presupune modelul liniar fără prag (LNT): probabilitatea este proporțională cu doza, iar severitatea nu depinde de ea. Coeficientul nominal de risc de cancer al ICRP # este ≈ # % per Sv pentru întreaga populație.
+2ee5a97a	Doza efectivă E = Σ w_T H_T exprimă printr-un singur număr riscul stocastic al unei expuneri neuniforme. Factori de ponderare tisulară (ICRP #): măduva roșie, colonul, plămânul, stomacul, sânul și „restul” #; gonadele #; vezica, esofagul, ficatul și tiroida #; suprafața osoasă, creierul, glandele salivare și pielea #. Suma lor este #.
 2f0820de	Scanez fără contrast
+2f1696b0	<b>Metal:</b> dungi luminoase/întunecate în stea din lipsă de fotoni și durificare; ajută algoritmii MAR și un kV mai mare.
+2f2650d9	Metoda MIRD
 2f44ed8c	Reîncepe
+2f538647	<b>β⁺:</b> proton → neutron + pozitron + neutrin (F-#, Ga-#); pozitronul se anihilează în # × # keV fotoni — baza PET.
 2f828120	Sfere calde de diferite mărimi și o inserție pulmonară într-un cilindru cu apă: cu ea se testează coeficienții de recuperare, efectul de volum parțial și corecția de atenuare.
+2f9059d6	La # kV, ce fracțiune din energie devine aproximativ raze X într-un anod de wolfram?
+2faee7d1	Timpul de scanare
+2fb366b1	Grilă
 2fc8666a	CNR edem / măduvă
+2fdacb63	FBP
+2ffbb13c	TR # ms, TE # ms
 3000eed2	timp (zile)
+30477590	<b>mAs mai mare:</b> forma spectrului nu se schimbă; numărul de fotoni și doza cresc liniar.
 304ff7fb	Niciunul
+309e5265	De ce protoni?
 30b6e97d	Energia electronilor și bolusul
+30b7dd3d	Un TR lung elimină efectul T1, un TE lung scoate în evidență diferențele de T2.
 30fa92b1	Imagine reconstruită
+31417a84	Care este limita SAR pentru tot corpul în modul de funcționare normal?
 3152bf83	Metastaze osoase (terapie alfa)
 31b9a47d	Recuperare T1
+31bbbc99	Imagistica prin rezonanță magnetică
+31d8fb21	<b>Ponderare T1:</b> TR scurt (~#–# ms), TE scurt (~#–# ms). Grăsimea este hiperintensă, iar lichidul hipointens; se folosește pentru anatomie și priza de contrast.
 31e91d5f	Subțire la mijloc și gros la margini, reduce doza la marginile subțiri ale pacientului și egalizează semnalul detectorului. Colimatorul stabilește grosimea secțiunii.
+31fd861c	Fotonii nu interacționează acolo
 327a15b7	Producerea de fotoneutroni începe peste ~# MV; cu VMAT, #–# MV sunt suficienți pentru ținte profunde.
+328c47ab	Cei # R ai radioterapiei
 32abb5ec	Particule neîncărcate (fotoni, neutroni) care pun mai întâi în mișcare particule încărcate.
 32d80beb	compoziții de țesuturi, mărimi dozimetrice, factori de ponderare
 33449df1	#. Atenuare și filtrare
 3377af3e	Corect: F = I·L × B. Zgomotul crește cu B₀ (mai puternic la # T); IEC ### cere protecția auzului.
+339ae232	Valori tipice (# T): substanța albă T1 ≈ # ms, T2 ≈ # ms; substanța cenușie T1 ≈ # ms, T2 ≈ # ms; LCR T1 ≈ # ms, T2 ≈ # ms; grăsime T1 ≈ # ms, T2 ≈ # ms. Cele mai multe patologii (edem, tumoră) adaugă apă și lungesc atât T1, cât și T2.
 33c3fd73	Medicină nucleară
 33d5539e	Există o trimitere, scanez imediat
 33d5b2f2	Mușchi
+33ddebe6	Materiale de ecranare
 34049cb1	Tumoră
 340a8d84	Se deplasează cu viteză constantă la o scanare elicoidală. Pitch = avansul mesei pe rotație / lățimea totală a fasciculului; pitch > # reduce doza.
 340d8b25	Retroîmprăștiere E′(#°)
+342904de	<b>Codificarea în fază:</b> un gradient scurt de intensitate diferită la fiecare TR, care separă rândurile prin fază.
+34350203	Un nucleu instabil are o probabilitate constantă de dezintegrare pe unitatea de timp (λ). Activitatea A = λN este rata dezintegrărilor și scade exponențial:
 347ac991	Primul SVJ elimină fotonii moi, deci fasciculul rămas este mai dur
 34895938	Podea: debitul dozei H*(#), µSv/h (scală log) • linia albă = # µSv/h
 34a0fb80	Particulele încărcate (electroni, protoni, α) suferă interacțiuni coulombiene continue de-a lungul traiectoriei și sunt direct ionizante. Fotonii și neutronii nu au sarcină: mai întâi pun în mișcare o particulă încărcată (foton → electron, neutron → proton de recul), iar acea particulă cedează doza.
 34a3d9ed	Dezvoltator
 34aaa379	 min
+34da35d5	≈ # MeV
 34dd8fb9	#. Ecuațiile Bloch și relaxarea
+34e79c54	Mo-# (T½ # h) este legat pe o coloană de alumină; ~# % din dezintegrările sale duc la Tc-#m. Soluția salină trecută prin coloană (eluție) dizolvă doar pertehnetatul (TcO₄⁻). Deoarece părintele trăiește mai mult — dar nu cu mult — decât descendentul, se instalează echilibrul tranzitoriu: activitatea Tc-#m atinge maximul la ~# h după o eluție.
+34ec1b57	CTDIvol = CTDIw / pitch. Multe scanere folosesc „mAs efectiv” (mAs/pitch), caz în care CTDIvol rămâne constant.
+350bcbe4	Doză = debitul dozei × timp          Ḣ(d) = Γ · A / d²          Ḣ_ecranat = Ḣ₀ · B · e^(−μx)
 3510b740	Insulina împinge FDG în mușchi și grăsime; după aceea se așteaptă ≥ # h.
 35143fb3	TE (timp de ecou)
+35370a12	ICRP #: sub # mGy întreruperea sarcinii nu este justificată medical. Riscul stocastic este foarte mic, dar nu zero, așa că comunicarea trebuie să fie onestă și calmă.
+35a72ef2	CTDIw / CTDIvol
 35afca3b	Anulează
+35db04cd	DRL
 35dd3154	Atomi și nuclee, tipuri de radiații și modul în care fotonii și particulele încărcate interacționează cu materia — fundamentul întregii fizici medicale.
 35dfee4a	Structura atomului
+35ece971	<b>β⁻:</b> neutron → proton + electron + antineutrin (I-#, Lu-#, Y-#); electronii cu parcurs scurt sunt folosiți în terapie.
 35fca6f7	Istorii
 36014d05	Spațiul k
 360983be	Corecția întăririi fasciculului cu apă (BHC)
 36315a9f	Os cortical / sânge cu contrast
 363200c3	Gata: 
 36375dc7	Resetezi tot progresul?
+364873b6	Raportul α/β
 365bad67	Nivel 
 368f3298	 întrebări
 36c94f4b	Fără diabet
 36cc1e6f	Coboară debitul dozei la pupitrul de comandă (marcajul verde) sub # µSv/h
+375f3043	În practică, procedurile diagnostice folosesc doza efectivă pe unitatea de activitate din ICRP #, de ex. F-# FDG ≈ # mSv/MBq și scintigrafia osoasă cu Tc-#m (MDP) ≈ # mSv/MBq.
 3769e565	#. Doză
+37c8362e	Tiroida
+37cc2d08	Trei instrumente
 3809b45a	Ecou de spin! t = 
 381fcf9b	Zgomot (ROI vezică, DS)
 38362f62	Sarcinile finalizate, stelele cazurilor și progresul lecțiilor vor fi șterse. Acțiunea nu poate fi anulată.
+38576bba	Care este motivul fizic fundamental al vârfului Bragg?
+385a8606	Rezoluția spațială se degradează
 38652f80	Timp de captare
+38660fa2	Clasificarea zonelor și incidente
+38b44594	Măsurând timpul de zbor
 38ec0bda	Doza efectivă (# mSv/MBq)
 38f2a757	Activitate specifică (pur)
 38f6bec6	Secțiune axială (UH)
 38f9308a	Craniu
+392650d1	Fotonii depun doza în doi pași: mai întâi transferă energie particulelor încărcate (kerma = energia cinetică eliberată pe unitatea de masă), apoi aceste particule o depun în mediu (doza absorbită). Kerma se contabilizează acolo unde are loc interacțiunea, doza acolo unde ajung electronii.
 39547f25	Nefiltrat
 396c9c92	Plămân V2# < # %
+3970bb49	Moduri de dezintegrare
 398977ad	Canale de detector
 399e986d	Sarcini
+39e59875	HDV
+39e88871	La un colimator cu găuri paralele, ce se întâmplă când sursa se îndepărtează de detector?
 3a6a3b1d	Rămase / dezintegrate
 3ad53794	AP
+3b078b13	SAR ~ B₀² · α² · (impulsuri / s)
 3b1cbe1c	Activitate în corp după examinare
 3b272149	✗ Greșit
 3b2ac288	Edemul măduvei osoase în măduva grasă devine vizibil doar cu supresia grăsimii (sau STIR).
+3b324767	Z / E
 3b6eb64c	Peretele rectal anterior vine în contact cu prostata
 3b7e32aa	Raport intrare / vârf
 3b8987c9	  — lecție stăpânită!
 3ba1a0c6	Fiecare SVJ înjumătățește intensitatea: (#/#)³ = #/#.
+3c04e9f8	Cu EI_T = #, o imagine cu EI # are DI = #·log₁₀(#) = #: dublul dozei la detector. Chiar dacă imaginea arată bine, data viitoare mAs trebuie înjumătățit.
 3c21cd4d	Prescripție
 3c2dfe59	Ascunsă
 3c4cfbae	Titanul nu este feromagnetic (sigur / condiționat RM); nu e nevoie de nicio măsură.
+3c96d414	O particulă α de # MeV
 3c988cc0	Energie medie
+3d2156fc	Rampa (|f|) amplifică frecvențele înalte pentru a anula exact neclaritatea, ceea ce crește și zgomotul; kernelurile ferestruite stabilesc echilibrul.
 3d27f064	<b>Producere de perechi:</b> în câmpul unui nucleu, fotonul devine o pereche electron–pozitron; pragul este # MeV, iar probabilitatea crește aproximativ ca Z².
+3d44f458	Contor Geiger–Müller
 3d6b9f1f	Tumoră pulmonară
+3d767dfb	Diferența dintre calitatea fasciculului utilizatorului și calitatea de calibrare (Co-#)
 3dbec6d5	Indice de expunere (EI)
+3dd00737	Proiectare conform NCRP #/#
 3e04a9b3	Lungimea de undă a unui foton X de # keV: λ ≈ # / # = # nm — aproximativ o zecime din diametrul unui atom (~# nm).
 3e0553f6	Torace
 3e233fe3	Viața medie τ = #/λ
@@ -302,11 +485,13 @@
 3e3a239c	Modalitate imagistică
 3e5c100c	Ortopedie: RMN genunchi drept — ruptură de menisc? contuzie osoasă? (Dr. Polat)
 3e6fed3c	Sfera Bloch (sistem rotitor)
+3e77062b	Nucleul de hidrogen (protonul) se comportă ca un magnet minuscul. Într-un câmp puternic B₀, protonii se aliniază paralel sau antiparalel și precesează în jurul câmpului cu frecvența Larmor:
 3ea76ce8	BED tumoră
 3f01de3a	Cinci interacțiuni
 3f6fbd86	Eșantionarea spațiului k
 3f99f636	Zgomot # HU: nediagnostic — ar fi nevoie de o repetare, care crește doza totală.
 3fa74db5	Spectrul fotonilor (țintă + filtru de aplatizare)
+3fdc4de2	Indirect, prin radicalii OH· din radioliza apei
 3fddf4f8	Excelent! Stăpânești materia.
 3fe8604c	Tatuaj
 3feef465	− Elimină
@@ -314,56 +499,99 @@
 40253cf6	μ este coeficientul liniar de atenuare (cm⁻¹), suma celor patru termeni de interacție. μ/ρ (cm²/g) nu depinde de densitate, de aceea este tabelat (NIST XCOM).
 40361aca	Număr de fracții
 4036e7f4	Această aplicație predă temele de bază ale fizicii medicale prin simulări #D interactive. Toate calculele se bazează pe modele fizice reale și date de referință, dar NU este destinată uzului clinic.
+4037c6dd	Încăperea este ocupată # % din timp
+40470c54	Foarte puțin — plumbul subțire este insuficient pentru fotonii de # keV
 4068c7dd	Micul dejun acum # ore, glicemie # mg/dL. Ce faci?
+407381a7	Radioterapia ghidată imagistic: verificarea poziției pacientului cu kV/CBCT înaintea fiecărei fracțiuni.
 4078f8e8	Bobinele din jurul tunelului fac câmpul să varieze liniar cu poziția (mT/m): selecția secțiunii, codarea în frecvență și în fază. Comutarea rapidă produce zgomotul.
 41086ad1	mAs pentru același σ (față de # cm)
 411cbb0d	Doar stați departe de femeile însărcinate
 414eb5b3	Rezumat
+4157224d	Dezintegrarea β⁺ (pozitron)
+41b45f05	<b>kVp mai mare:</b> energia maximă și cea medie cresc, iar fasciculul pătrunde mai bine; debitul crește aproximativ cu kVp²; contrastul scade.
 41d150aa	Gantry
 41e0bccc	fotoni
 421ed9be	La energiile de diagnostic domină două interacțiuni: <b>efectul fotoelectric</b> (~ Z³/E³, sursa contrastului) și <b>împrăștierea Compton</b> (~ densitatea electronică, sursa împrăștierii). Simularea folosește tabelele NIST μ/ρ(E) pentru fiecare material.
+422525cf	BED / EQD2
 422af40c	Mouse: tragere cu stânga = orbitare, cu dreapta = deplasare, rotiță = zoom. Atingere: un deget = orbitare, două degete = zoom/deplasare.
+423010bd	Relaxarea T1
 42347061	Curentul tubului × timp
 424c4852	#. Formarea imaginii
 426e4933	Claustrofobie
 42720baf	Os
 427f78a4	Reguli rapide (energie nominală): R9# ≈ E/#, R8# ≈ E/#, R5# ≈ E/#, Rp ≈ E/# (cm).
+42a1f7ce	Trebuie să se dubleze
+42b7c6d8	Gama-camera și SPECT
+42e381ed	Fluoroscopia oferă imagini în timp real (intensificator de imagine sau detector plan). Controlul automat al luminozității (ABC) crește kVp și mA când pacientul este mai gros. Doza totală este debit de doză × timp, iar în intervențiile lungi doza la piele poate depăși pragurile deterministe: eritem tranzitoriu ~# Gy, epilare ~# Gy, leziune gravă > #–# Gy.
+42f504d1	EBR-ul lor este #
+432ffd97	La MV domină efectul Compton, atenuarea depinde de densitatea electronică, iar betonul gros este ieftin și face parte din structură
+435cb733	Zgomotul și detectoarele
 439ee205	Compară efectul corecției de atenuare în centrul imaginii
 43b2aeba	Schimbă parametrii → imaginea și doza se recalculează (urmărire de raze polienergetică + date NIST).
 43b5e592	Radionuclid
+43bcbe39	Valorile T1 se scurtează
 43cb67fd	Energia de legătură a stratului K al wolframului este # keV. Un tub care funcționează la # kVp produce liniile K caracteristice ale wolframului?
 43d93074	EQD2 tumoră (α/β #) = # Gy, piele tardiv (α/β #) = # Gy. Subdozat: risc mare de recidivă.
 446ceec2	în kerma în aer
+449d5209	f(# cm) = # × e^(−#) ≈ #, deci SSDE ≈ # × # ≈ # mGy. De aceea protocoalele pediatrice trebuie optimizate separat.
+44b565e7	≈ # minut
 44fb5dc7	Sursă asigurată! Doza în timpul misiunii: 
 4531ef7f	Atenuarea depinde exponențial de grosime.
 4581c4fb	#. Dezintegrarea radioactivă
 45901efd	Bobine de gradient
 4602d9ec	atinge imaginea
 46143215	Locul unde se întâlnesc axele de rotație ale gantry-ului, colimatorului și mesei (±# mm). Distanța sursă–axă (SAD) este # cm.
+4642dfa0	Proiecție
 467b083e	Bolus
 46ac079e	Se scanează…
+46d4c952	O integrală de linie
+46db0052	<b>Inele:</b> un element de detector defect sau decalibrat.
 46e87af2	 % gata
+4719156f	Tubul de raze X și spectrul
 472bd5d7	Un kV mic crește contrastul iodului (marginea K # keV); o alegere bună la o pacientă slabă.
+4731830d	<b>Ocupare:</b> birouri T = #, coridoare T ≈ #/#, săli de așteptare T ≈ #/# (sugestii NCRP).
 475a075b	Sinogramă  p(θ, s)
 477692bf	Medicină nucl.
+477c08b3	# MBq FDG: E ≈ # × # = # mSv; partea CT a unui PET/CT poate adăuga încă #–# mSv.
+47900c2b	Scala Hounsfield
+47932082	<b>Sarcina:</b> trebuie verificată dinainte; radioiodul poate distruge tiroida fetală (din săptămânile #–#).
+47955da0	Ce înseamnă un factor de utilizare U = #?
+47ae1b91	t_max = ln(λ_Tc/λ_Mo)/(λ_Tc − λ_Mo) ≈ # h, de aceea spitalele eluează de obicei o dată pe zi.
+47f7e1bf	<b>Neutroni:</b> peste ~# MV, reacțiile (γ,n) produc fotoneutroni; ușa și labirintul sunt proiectate pentru ei.
 47f9a72c	Febră (# °C) și tuse de # zile
+47fcd7a2	Scade cu distanța
+48240919	Fracțiunea de timp în care fasciculul primar este îndreptat spre o anumită barieră.
+482ee3dd	Kerma, doza absorbită, doza echivalentă și efectivă; dozimetre; cum acționează radiația asupra celulelor, modelul LQ, BED și EQD2.
+483d1dab	E² / Z
+4876b3ed	Fracțiunea de timp în care persoana cea mai expusă se află într-o zonă.
+488a432b	Doza în CT: CTDI, DLP și SSDE
+48b92494	Electronii care nu lovesc o țintă sunt folosiți direct; fasciculul îngust din ghidul de undă este împrăștiat de o folie subțire cu Z mare într-un câmp clinic.
 48bee2b3	Sosește o cerere de CT. Ultima menstruație a lui Elif a fost acum # săptămâni. Ce faci înaintea oricărei examinări cu radiații ionizante?
 48cabbff	# câmpuri
+48eb3008	Modurile de mărire (FOV mai mic) cresc debitul de doză.
 48f82113	excretate 
 49059469	O să dureze puțin? Mâine trebuie să mă întorc la muncă — șlefuiesc în atelier.
 491836e3	eroare 
 499a20d5	AP, culcat, SID # cm
 49cf1cfd	Frecvența Larmor f₀ = γ̄·B₀
 49e1196b	Ruptură de menisc
+4a5fde88	Conform formulei Bethe, puterea de oprire prin coliziuni variază aproximativ ca z²/v²: cu cât particula încetinește, cu atât pierde mai repede energie. Aceasta este originea vârfului Bragg al particulelor grele.
+4a6030a5	Grila este montată invers
+4a610ce1	SAR ~ B₀² · (unghi de basculare)² · (impulsuri RF / s)
 4a690915	Bobină de recepție
 4ac37c75	Împrăștiere Compton
 4b058728	Setări
 4b20e113	Medicină nucleară / PET
+4b26d668	Fotonii respectă statistica Poisson: zgomotul este √N pentru N fotoni și SNR ~ √N, deci dublarea SNR costă de patru ori doza. Detectoarele digitale folosesc conversie indirectă (scintilator CsI + fotodiodă a-Si) sau directă (a-Se). Eficiența detectorului se exprimă prin DQE = SNR²_out / SNR²_in.
+4b66e013	Lucrătorii expuși poartă dozimetre individuale (OSL/TLD): Hp(#) pentru doza la întregul corp, Hp(#) pentru piele, dozimetre inel pentru mâini. Cu șorț de plumb, dozimetrul se poartă de obicei dedesubt, pe trunchi; pentru doza la cristalin se recomandă un al doilea la nivelul gulerului, peste șorț.
 4b6a214c	Sursă de calibrare, brahiterapie (istoric)
 4b7042c7	RFGe # mL/min/# m²
 4b81b768	SNR (centru)
+4b88091d	E ≈ # × # = # mSv (ICRP #).
+4baca147	Un singur vârf are o lățime de doar câțiva mm. Pentru a acoperi o țintă, vârfuri de energii diferite sunt ponderate și însumate într-un vârf Bragg lărgit (SOBP). Sistemele moderne „pictează” ținta strat cu strat și spot cu spot prin scanare cu fascicul îngust (PBS), ceea ce permite protonoterapia cu intensitate modulată (IMPT).
 4be56c9f	Întrebarea 
 4bf1fc72	Saturarea grăsimii (FS)
+4bf8421e	<b>Camerele monitor:</b> măsoară continuu debitul (UM) și simetria fasciculului; sunt duble și independente.
 4c3b45ab	• Doza absorbită D (Gy = J/kg)\n• Doza echivalentă H_T = w_R · D_T (Sv); w_R = # pentru fotoni și electroni, # pentru alfa, # pentru protoni\n• Doza efectivă E = Σ w_T · H_T (Sv); factorii de ponderare tisulară din ICRP #\n• Aparatele de măsură arată echivalentul de doză ambiental H*(#) (≈ # × kerma în aer pentru Cs-#).
 4c498c6f	Îmi alăptez fetița. Investigația asta îi poate face rău?
 4c4a1ccb	Fotoneutroni
@@ -371,37 +599,51 @@
 4c94eaa4	Bine. Recapitulează lecțiile subiectelor la care ai greșit.
 4c96524b	Redu doza la măduva spinării cu un plan cu protoni
 4cf38cb8	Energia citită
+4d1863f4	<b>Repopulare:</b> tumora proliferează în timpul tratamentului; prelungirea timpului total reduce controlul tumoral.
 4d1aa535	Subiecte
+4d3dd3bd	Controlul tumoral se îmbunătățește
 4d5f9cf2	an
 4daa2b83	Radioprotecție
 4dd7913c	Obține imaginea stimulatorului cardiac pe o radiografie toracică
 4de2c891	Plămânii, osul, țesuturile moi și inima sunt modelate cu coeficienți de atenuare NIST; pentru fiecare pixel al detectorului se urmărește o rază polienergetică.
 4df6b638	Citiri
 4e0d4ec8	Un ecran are grosimea de # SVJ. Care este transmisia în fascicul îngust?
+4e2183c3	HDV-ul cumulativ arată ce procent dintr-o structură primește cel puțin doza D. Pentru ținte se folosește D9# (doza care acoperă # % din volum); pentru OAR, Vx (procentul care primește x Gy), Dmax și Dmedie. Exemple QUANTEC: plămân V2# ≤ #–# % și doză medie ≤ #–# Gy (pneumonită < # %); măduva spinării Dmax ≤ # Gy (fracțiuni de # Gy); rect V7# < # %; parotidă doză medie < # Gy.
+4e3cc928	Activitatea din organism scade atât prin dezintegrare fizică, cât și prin eliminare biologică:
 4e6c5d36	Simulare
 4e7651ae	Direct CT cu contrast
+4e7782c3	Z³ / E³
 4e8632ff	Direct ionizantă
 4ea60106	#. Mărimi dozimetrice
 4ebc9931	EQD2 tumoră (α/β #)
 4eed3c07	subexpusă / cu zgomot
 4ef63472	doză relativă
+4f01c549	E ≈ # × # = # mSv.
 4f56491a	Măsoară timpul de înjumătățire al Tc-#m prin Monte Carlo cu o precizie de # %
 4f5e1d34	#. Trei principii: timp, distanță, ecranare
 4f8bf6fa	Sudor / polizare: posibil metal intraocular
+4f92129e	Numărul total de dezintegrări într-un organ (integrala în timp a activității).
 4fca6bb4	Fără boli cronice, vaccinat complet
 4fd01b06	Energia fasciculului
+4fdd3825	M_Q este citirea corectată pentru temperatură-presiune, polaritate, recombinare și electrometru; N_D,w,Q0 este factorul de calibrare în doză în apă de la laboratorul de etalonare (în Co-#), iar k_Q corectează calitatea fasciculului.
+5009dc40	Dezintegrarea radioactivă
 5009de05	Debitul dozei la # m
 5009fb9e	Compară BED tumorală pentru SBRT (#×# Gy) și convențional (#×# Gy)
+5021c2fa	Ce reprezintă o valoare de proiecție p?
 504443a0	Expunere
 5060769e	lat
 506f8881	rect
+507364c6	<b>Populație:</b> # mSv/an; cristalin # mSv/an; piele # mSv/an.
 50793575	Glosar
 50b3cd30	Radiografie digitală (detector CsI)
+50b6db4e	Radiația împrăștiată la detector
 50f75e70	CNR edem/măduvă #: măduva grasă maschează edemul — folosește saturarea grăsimii (FS).
 51301586	ATENȚIE
+51327597	ACR definește patru zone: I publică, II de triaj, III cu acces controlat, IV camera magnetului. Fiecare pacient și membru al personalului completează un chestionar scris înainte de a intra în zona III; lucrătorii în metal cu posibil metal intraocular fac mai întâi radiografii de orbite sau CT. Implanturile sunt etichetate MR Safe, MR Conditional sau MR Unsafe, iar condițiile lor se respectă.
 514a1189	TR (pentru graficul SE)
 515cc083	Ponderat T2
 5169f3c5	Transfer liniar de energie: energia cedată de o particulă încărcată pe unitatea de drum (keV/µm).
+517390af	Inima se află aproape de detector, ceea ce reduce mărirea și neclaritatea geometrică
 51880252	Distribuția dozei (planul x–z)
 51b48ac4	Ecran plasat. Schimbă grosimea și materialul în panoul din stânga.
 51d5b7b0	EQD2 tumoră (α/β #) = # Gy, piele tardiv (α/β #) = # Gy. Acceptabil: mai puține vizite, dar risc mai mare de efecte tardive (atrofie, telangiectazii).
@@ -410,85 +652,132 @@
 51f7e789	doză totală (Gy)
 51fa3930	Gata. Verifică rezultatele; schimbă setările și rulează din nou dacă e nevoie.
 523e597b	Substanță albă
+524bb01f	Tehnicile izocentrice (SAD) folosesc TMR, o curbă de doză în profunzime fără efectul inversului pătratului, la distanță sursă–punct fixă. Factorii de output țin cont de împrăștierea din colimator (S_c) și din fantom (S_p) în funcție de dimensiunea câmpului.
 524fb8d1	Apasă ELUEAZĂ pentru a extrage Tc-#m. Pentru randament maxim așteaptă ≈ # h după eluția anterioară.
+52784cfd	Doar neutronii
 52af1039	În câmpurile de electroni izodoza de # % se îngustează cu adâncimea; e nevoie de o margine de ~#–# cm. Factorii de output trebuie măsurați pentru câmpuri mici (TG-#).
 537cf34e	Randamentul ultimei eluții
 539143ed	TCP pentru această schemă (N₀ = #⁹)
 5394c2c1	Produsul doză-arie (DAP)
 53a02dda	α/β ≈ # Gy (tumoră, cu răspuns precoce) și ≈ # Gy (țesut normal cu răspuns tardiv, de ex. măduva spinării). Dozele mici pe fracție protejează țesuturile tardive; dozele mari pe fracție, ca în SBRT, dau o BED tumorală foarte mare, dar cer o țintire precisă. TCP = exp(−N₀·S).
+53db2663	Sensibilitatea scade la zero
 53f501c6	Activitatea la începutul scanării
 542674c2	Fantomă
+542cb793	PDD și factorii care o influențează
 543dd434	Producere de perechi
 543f87d4	Coloană
 548c82d8	Magnetizare
 5490dc6c	 săptămâni
 54ba96a0	Timp de înjumătățire efectiv
 54ebaaec	Diametru efectiv → SSDE
+54f725f4	DLP și doza efectivă
 550bfe9e	impuls
 55231493	Creier
 55437eb0	Incidență și poziționare
 554740bc	Schimbă unghiurile și ponderile fasciculelor: acoperă ținta și protejează măduva, inima și plămânii.
+554b47d8	Întinderea fiecărei proiecții înapoi peste secțiune pe direcția ei (retroproiecție simplă) produce o neclaritate #/r. Pentru corectare, proiecțiile sunt mai întâi filtrate cu o rampă (|f|); retroproiecția filtrată (FBP) combină cei doi pași. Deoarece rampa amplifică și zgomotul, ea este ferestruită (Shepp–Logan, Hann…): un kernel dur înseamnă rezoluție mare și zgomot mare.
 5566f444	Aplică
 556bb28a	Pune în container
 556d6936	Odată sursa înăuntru, câțiva cm de plumb reduc debitul dozei de sute de ori (fiecare SAV îl înjumătățește, fiecare SZV îl împarte la zece).
 5586c1bb	Poziția mesei (z)
+55953a46	Kerma în aer la suprafața de intrare, inclusiv retroîmprăștierea.
 55af7f60	Poate sta în picioare, cooperant
 55b7844c	Ionizare directă și indirectă
+55c3d9ec	Consola arată CTDIvol # mGy. Care este aproximativ SSDE pentru un copil cu diametrul efectiv de # cm?
 55c427dd	Coeficient de recuperare (cea mai mare / cea mai mică sferă)
+55e29d05	Împotriva expunerii externe există trei instrumente: scurtarea timpului (doză = debitul dozei × timp), mărirea distanței (de la o sursă punctiformă debitul dozei scade ca #/d²) și interpunerea unui ecran (fiecare SVJ înjumătățește doza).
 55f81dfb	Fizica PET
 56a82532	Radiografie
 56aaa165	Cancer de piele pe obraz — terapie cu electroni
 56e6dfdf	Container de plumb
+571ea1cc	Transmisia ecranului
 57270c3f	Livrează # fracție
+573a4142	Supraexpunere; pacientul a primit doză inutilă
 57426dc2	Radiometru
+57a7b53c	Care este doza efectivă aproximativă pentru # MBq FDG?
+57fd150b	Ținta accelerează electronii
 580581bf	Doză unică, α/β=
+581bf5b5	Retroîmprăștierea este maximă pe partea tubului, unde fasciculul intră în pacient; partea detectorului este mai sigură.
+58247ddd	Principalele avantaje ale fotonilor de megavoltaj sunt penetrarea mare și cruțarea pielii: doza este mică la suprafață și atinge maximul la d_max (# MV: # cm, # MV: # cm).
 58390f45	Tatuaj pe brațul stâng (#)
 584aaa85	Spectrul electromagnetic
 584ba3f5	clonogeni: 
 5865c9d9	Fascicul selectat: 
 5865ea2d	ICRP # și ACOG: fără efecte deterministe sub # mGy; întreruperea nu este recomandată sub # mGy. Comunică riscul cu cifre și calm.
+5869cede	Producerea radionuclizilor și generatorul
 5876c756	Pacienți în așteptare
 5878a2bf	Doză în profunzime
 58820d8d	Cel mai bun răspuns: 
+588c2a16	În echilibrul particulelor încărcate (CPE), cu pierdere neglijabilă prin radiație de frânare, doza absorbită este egală cu kerma de coliziune: D = K_col. În regiunea de build-up de lângă suprafață nu există CPE — de aici protejarea pielii la fasciculele de megavoltaj.
+588ce9ad	#/T_ef = #/T_fizic + #/T_biologic
 589a5df5	Mișcarea pacientului (erori de fază)
 58c52672	 a
 58e096de	Despre
+58ead5a3	De ce D ≠ K_col în regiunea de build-up?
 590ca79a	Imagine
+5947fcd5	Marginea PTV (van Herk)
 5951ffab	Lucrător (efectivă)
 59c7842a	Acoperirea leziunii: minim # % — suprafața pielii e subdozată: bolusul aduce doza electronilor până la suprafață.
 59c80f5b	Radiografie toracică pediatrică
+59d56146	≈ # ore
 5a09a50e	Parcursul protonilor (Bragg–Kleeman)
+5a252151	Care este pragul aproximativ al eritemului cutanat în fluoroscopie?
 5a296842	Planuri predefinite
+5a46ef7e	<b>Timpul de zbor (TOF):</b> diferența timpilor de sosire (~#–# ps) localizează evenimentul pe LOR la câțiva cm și reduce zgomotul.
 5a53afe8	Prostata se află la ≈ # cm adâncime din față și la ≈ # cm din lateral. Compară dozele în profunzime (PDD) și alege o energie pentru VMAT.
 5a54e20e	Rezultat: 
+5a5f631a	≈ # kHz
+5a87b1d6	<b>Personalul:</b> ecrane pentru seringi, distanța și timpul mai degrabă decât șorțurile plumbate, și dozimetre de deget (Hp(#)).
 5aaf54e6	#. Fascicule de electroni
 5ab00023	CNR edem/măduvă #: contuzie osoasă vizibilă.
 5af0fb47	Doza în profunzime Monte Carlo • vârful Bragg
 5b6df32a	Întrebarea următoare  →
+5b71adcb	Colimarea strânsă (cu tehnică de doză mică, fără grilă)
 5b765e84	La CT abdominal uterul este în fasciculul primar; șorțul nu poate proteja și degradează imaginea.
 5bac8b63	Unghi de basculare α personalizat
 5c1604f3	Pacientul următor: 
 5c1cca76	• <b>Timp:</b> doza este proporțională cu timpul petrecut lângă sursă.\n• <b>Distanță:</b> pentru o sursă punctiformă debitul dozei scade ca #/d²: dublarea distanței reduce doza la un sfert. De aceea cleștii sunt atât de eficienți.\n• <b>Ecranare:</b> materialele dense cu Z mare (plumb) atenuează cel mai bine fotonii. Un SAV înjumătățește, un SZV reduce debitul dozei la o zecime.
+5c5faa98	Contrastul imaginii provine din diferența de atenuare dintre traiectoriile vecine. Osul diferă mult de țesutul moale la energie joasă (domină efectul fotoelectric) și puțin la energie înaltă (domină Compton) — de aici #–# kVp în mamografie și #–# kVp în radiografia toracică.
 5c60f76f	leziune
 5c6467e1	Arată harta de doză (x–z)
+5c74eff9	În TRS-#, ce corectează k_Q?
+5cab77e9	Pacienții și familiile lor se tem adesea de radiații. O explicație bună este numerică, dar ușor de înțeles, face comparația cu fondul natural, subliniază beneficiul examinării și evită exagerări precum „risc zero” sau „foarte periculos”.
+5cadc7e1	Doză = debitul dozei × timp
 5cae40c9	Nucleele de hidrogen (protonii) au moment magnetic. În câmpul B₀ un mic exces se aliniază cu câmpul și creează o magnetizare netă M₀ (M₀ ~ B₀). Spinii precesează în jurul lui B₀ cu frecvența Larmor.
 5ce2e06a	Corect. În PA inima este aproape de detector → mărire mai mică; un SID lung reduce mărirea geometrică și neclaritatea. Organele anterioare (sân, tiroidă) primesc și ele mai puțină doză în PA.
+5cefb1d7	O grilă din lamele de plumb care absoarbe fotonii împrăștiați.
 5d155c86	Vezi rezultatul  →
 5d27c72a	Tc-#m la eluție
+5d34e900	Mz = M₀(# − e^(−#)) ≈ # M₀; # % este ceea ce rămâne din magnetizarea transversală după un T2.
+5d4d8ed3	η ≈ #×#⁻⁹ × # × #⁵ ≈ #; restul de # % este căldură, deci gestionarea termică a tubului este critică.
 5d74c24a	Planificarea tratamentului • HDV
+5d9e42a8	σ ~ # / √(mAs · grosimea secțiunii)
 5dc26de3	Cum să studiezi
 5ddb2028	Bazele fizicii radiațiilor
 5de75a0b	Plămânul drept
 5dea53d0	Radioterapie oncologică: terapie cu electroni, BCC obraz stâng; adâncime ecografică # cm (Dr. Öz)
 5deb5e94	Refuză operația (sub anticoagulante)
+5dfaa4f1	AAPM TG-# recomandă # %/# mm cu ≥ # % ca nivel de toleranță/acțiune.
 5e0275a6	#. Generatorul și echilibrul tranzitoriu
+5e380c3b	<b>Colimarea:</b> fălcile și un colimator multilamelar (MLC, lamele de #–# mm) conformează câmpul la țintă și fac posibile IMRT/VMAT.
 5e4baa18	Vizualizare
 5e840e69	Fracție supraviețuitoare S
 5e8aae31	Măduvă
 5e8f4863	RF nu se aude; zgomotul vine de la gradienți și poate afecta auzul.
+5e8fb6de	Erorile sistematice sunt întotdeauna mai mari
 5ed62a66	Sânge + contrast iodat
+5ed90f63	Liniile caracteristice dispar
+5ee0c02a	Intervalul HU afișat (W) și centrul său (L).
+5f2b803e	În fluoroscopie, cea mai mare parte a dozei personalului provine din radiația împrăștiată de pacient. Folosiți șorț plumbat, guler tiroidian, ochelari plumbați și ecran suspendat de tavan, și păstrați distanța (legea inversului pătratului).
 5f38ef7b	Filtru Cu adăugat
+5f3d9216	ALARA
+5f48df71	Calculul UM (SAD)
 5f594fad	Reconstrucție
+5f842ccc	kVp
+5fbbbe70	Debitul acceleratorului măsurat de camerele sale monitor, calibrat de ex. la # cGy/UM în condiții de referință.
+5fcb368b	<b>ESAK:</b> kerma în aer la suprafața de intrare, inclusiv retroîmprăștierea (BSF ≈ #–#); folosită pentru efectele deterministe și comparațiile cu DRL.
+5fef495e	Fereastră / nivel
+60139e9e	Pe ce volum se prescrie doza?
 6032454b	Împrăștierea Compton
 6053526e	Pentru FDG: glicemie < # mg/dL și post ≥ #–# h; timp de captare # ± # min.
 605c9960	Zgomot cuantic
@@ -497,85 +786,135 @@
 6174d861	CTDIvol este doza într-o fantomă PMMA de # cm, nu doza pacientului. AAPM #/#: SSDE = f(D_eff)·CTDIvol; la pacienții voluminoși f < #.
 61814715	Matrice (rezoluție)
 61999a6b	Lungime de scanare limitată (creasta iliacă–simfiză): DLP mai mic.
+61b09960	La # keV, SVJ al plumbului este ~# mm, așa că # mm Pb opresc doar ~# % din fotoni. În PET contează distanța, timpul, ecranele pentru seringi și blocurile în L.
 61e2a3f8	Sursă
+61e37e95	<b>Filtrarea:</b> elimină energiile joase, crește SAV și scade doza la piele. Reglementările cer o filtrare totală de cel puțin # mm Al peste # kVp.
 61f84dec	Doza se calculează cu corecție de heterogenitate prin lungimea de drum echivalentă (adâncime radiologică = Σ ρₑ·Δl): un fascicul prin plămân este atenuat mai puțin. Calitatea planului se apreciază pe HDV: PTV D9# ≥ # %, măduvă Dmax < # Gy, plămân V2# < # %, doza pulmonară medie < # Gy, inimă medie < # Gy (QUANTEC).
+61fa4b9a	Brahiterapia și asigurarea calității
+620629d0	pitch = (avansul mesei pe rotație) / (colimarea totală a fasciculului)
+620ac3ff	<b>GTV:</b> tumora vizibilă. <b>CTV:</b> GTV + extensia microscopică. <b>ITV:</b> CTV + mișcarea internă (de ex. respirația).
 6246a72c	Resetează (M || B₀)
 6283a899	 min/poziție, captare 
 6292946b	Lățime de modulare
 62b33346	Referință μ(apă)
+62bd3c83	Regulă: parcurs ≈ E/# cm, deci aproximativ # cm pentru # MeV. De aceea electronii se folosesc pentru tumorile superficiale.
 62dc212b	Drum liber mediu #/μ
 6337b9a5	Un impuls RF (B₁ la frecvența Larmor) înclină M cu unghiul α. Apoi:\n• <b>T1 (spin–rețea)</b>: Mz se recuperează: Mz(t) = M₀ + (Mz(#) − M₀)·e^(−t/T1)\n• <b>T2 (spin–spin)</b>: magnetizarea transversală se defazează: Mxy(t) = Mxy(#)·e^(−t/T2)\n• <b>T2*</b>: neomogenitatea câmpului adaugă defazare (#/T2* = #/T2 + γΔB) — un impuls de #° inversează această parte: <b>ecoul de spin</b>.
+63717795	Elimină neclaritatea #/r a retroproiecției simple
 638a3d27	Grilă antidifuzie (Bucky)
+638c594d	T2 și T2*: descreșterea transversală
+63914fc5	Care este aproximativ parcursul practic al unui fascicul de electroni de # MeV în apă?
 63e33069	Adâncime distală
 63e87165	Vârstă / sex
+63f9d666	O zonă cu reguli speciale și personal instruit, în care altfel limitele de doză ar putea fi depășite.
 64053f4c	Sinogramă, retroproiecție filtrată, unități Hounsfield, artefacte.
 64ab923e	transmisie în fascicul îngust
+64af52b9	<b>Radiosensibilitate:</b> sensibilitatea intrinsecă a fiecărui țesut și tip celular.
 64cec188	Secvență
+64fa4ca8	După un CT diagnostic se estimează o doză fetală de # mGy. Care este consilierea corectă?
 650b51c9	CTDIvol este o doză în fantomă; folosește SSDE = f(D_eff)·CTDIvol pentru doza specifică pacientului (AAPM #/#).
 65297d00	 (incl. repopulare)
 652cb5da	Mai e nevoie de studiu — lecțiile de mai jos te vor ajuta.
 656c2bdf	Piele / mâini
+658d1478	Fasciculul primar este îndreptat spre acea barieră # % din timp
 65b3c1bb	Substanță cenușie
+660035ea	Exact în centrul tunelului
 660f2bd2	Geometrie și detector
 662c7590	Menisc
 6644745a	Diametru efectiv / f
 66597e63	Aleatorii
 66c80500	coeficienți de atenuare și de absorbție a energiei fotonilor (# materiale)
 66f00e9c	Corect: sarcina trebuie exclusă la orice femeie de vârstă fertilă când bazinul este în fascicul (ICRP #, AIEA SSG-#).
+66fe8adc	Relaxarea: T1, T2 și T2*
 6705e1b1	Lecții pas cu pas de la atom la radioterapie, figuri interactive, exemple rezolvate, teste și un examen de exersare.
 672a70aa	Arată SOBP (analitic)
 6750e405	Doza efectivă = DAP × coeficient de conversie (după regiune). Fond natural ≈ # mSv/an.
 675d82e1	Sinogramă
 6779effc	Eluat
+67af0b2f	<b>OSL (Al₂O₃:C):</b> citit prin stimulare optică și poate fi recitit; majoritatea dozimetrelor individuale sunt de acest tip.
 67b8f497	BED țesut tardiv
+67e47d97	Care este problema cea mai probabilă a unei imagini cu DI = −#?
 67ebc3e7	#. Unități Hounsfield și fereastră
 67fabac5	EQD2 rectal (α/β #) = # Gy — risc de toxicitate rectală tardivă (sângerare, proctită).
+6805c1cb	Copiii sunt de #–# ori mai radiosensibili decât adulții și au o viață lungă înainte. Se aplică protocoale adaptate dimensiunii corpului („Image Gently”): mAs mic, fără grilă, filtrare suplimentară cu Cu, colimare strânsă; la CT doza trebuie apreciată prin SSDE. Protecțiile gonadale nu mai sunt recomandate de rutină (AAPM #); colimarea este mai eficientă.
 6808f26e	Este riscant; ar trebui să luați în considerare întreruperea.
 6817ce15	Ecografie: apendicele nu se vizualizează. Noaptea nu există RMN; chirurgul subliniază riscul de perforație. Decizie comună: CT cu doză mică.
+681fce83	Nivelurile de referință în diagnostic (DRL) sunt percentila a #-a a distribuției naționale (ICRP #). Nu sunt limite de doză; centrele ale căror doze tipice le depășesc trebuie să optimizeze.
+6823752e	Nu este necesar
+686bef8e	Comunicarea riscului
 687d1f08	O asistentă vrea să aducă o butelie de oxigen din oțel în camera magnetului (zona IV) într-o urgență. Ce faci?
+6888962e	Contrastul imaginii și nivelul global al semnalului
 68de0f88	Fișă de formule — 
 69069946	Întărirea fasciculului: scanare polienergetică cu BHC oprit (cupping)
+69232305	Scade
 69338848	Începe primul caz  →
+693aa065	N_D,w este dat în Co-#. La calitatea utilizatorului (de ex. # MV, TPR₂₀,₁₀ ≈ #) rapoartele puterilor de oprire și factorii de perturbare diferă, iar k_Q corectează acest lucru.
+694d03af	Lumina se distribuie pe multe PMT, iar centroidul semnalelor lor dă poziția.
 69607fdf	EPID (imagistică MV)
 69762965	Abdomen
+6982091c	Debitul tubului
+699bd238	<b>Ponderare T2:</b> TR lung (> # ms), TE lung (~#–# ms). Lichidele și edemul sunt hiperintense; se vede majoritatea patologiilor.
 69c54135	 h
 69d97846	Semnalul țesutului
+69d99419	Detaliile fine și marginile
 69fc5799	Filtru Cu
 6a494fba	Prezentare generală
 6a4f8e94	La energiile de diagnostic și de terapie, fotonii interacționează în principal în cinci moduri: împrăștiere coerentă (Rayleigh), absorbție fotoelectrică, împrăștiere Compton, producere de perechi și reacții fotonucleare. Care domină depinde de energia fotonului și de numărul atomic al mediului.
 6a8f4d0e	Nu chiar. 
 6ab344fe	Efectiv (fizic + biologic)
+6abfaaba	Mărimea dozimetrică în mamografie este doza glandulară medie (MGD), ≈ #–# mGy pe incidență pentru un sân standard. Tomosinteza (DBT) este o tomografie cu unghi limitat care reduce suprapunerea țesuturilor.
 6ada0052	CT
 6ae55601	Recapitulare
+6b21c3b7	T = TR · N_fază · NEX / ETL
 6b26a05c	Doză la suprafața pielii
+6b26b7cb	Membrii populației
+6b447c93	Particule încărcate: putere de oprire și parcurs
+6b5a05de	Legea dezintegrării
 6b7a6181	R = factor de accelerare: se achiziționează fiecare a R-a linie → suprapunere cu FOV/R (aliasing). Imagistica paralelă (SENSE/GRAPPA) o desface cu ajutorul sensibilităților bobinelor.
 6b8da132	Debitul dozei la # cm
 6bb77736	Sursă punctiformă
 6bbe4f23	Filtru Al (adăugat)
 6bc09210	Nicio schimbare; aceiași mAs
+6be1e44b	# s × # × # = # s ≈ # min — de aceea turbo spin-echo este standardul clinic.
 6be9432d	Doza la suprafață
 6bf0564a	Particule încărcate (electroni, protoni, α) care cedează energie prin interacțiuni coulombiene.
 6bf28b9c	Sfat fără bază științifică și dăunător.
 6c025c20	încă nescanat
 6c168d60	Caz încheiat
+6c339b71	Radiația împrăștiată de pacient și scăpările din cap
 6c3c9505	energia fotonului
 6c6870d7	Fă o alegere
+6c70ec36	SUV compară captarea FDG a unei tumori independent de pacient, dar este sensibil la timpul de captare, glicemie, reconstrucție și volumul parțial — de aici recomandările EANM de # ± # min timp de captare și glicemie < # mg/dL.
 6c8fcda6	PENTRU ÎNCEPĂTORI
 6cc46a6f	 min de citit
 6cc784fd	Iei o singură decizie odată.
 6cec06d7	# ng/mL
+6d03cdad	#/T_ef = #/T_fiz + #/T_biol
 6d148508	Scanează
+6d5614c7	Colimare electronică: cei doi detectori care captează fotonii emiși în sensuri opuse definesc linia pe care a avut loc anihilarea.
 6d8836d2	Posibil, dar nu de primă intenție; ecografia și IRM-ul trebuie să fie primele.
 6d94e783	Spațiul k și transformata Fourier
 6dc54781	 z
+6dcb0105	Cum se schimbă citirea DAP dacă camera este plasată mai aproape sau mai departe de tub?
+6e0a7f2e	Generații de scanere și scanarea elicoidală
 6e2eab59	Expunere corectă: adu indicele de deviație (DI) al unei imagini toracice în intervalul −#…#
 6e67bd16	Referință / analitic
 6e8c7b25	Energia fotonului
+6e8ef574	SNR variază cu volumul voxelului și cu √(N_fază · N_frecv · NEX). Dublarea rezoluției în plan (un sfert din voxel) costă mult SNR; imagistica paralelă (SENSE/GRAPPA) accelerează achiziția cu prețul SNR.
+6ea1bcc5	<b>Limitele rezoluției:</b> parcursul pozitronului (mediu F-# ≈ # mm, Ga-# ≈ # mm), necolinearitatea și dimensiunea cristalului; rezoluția clinică PET este ≈ #–# mm.
 6eb5b73c	Fișa pacientului
+6ecb14dc	Bariera transmite # %
 6ef0f4ce	FLAIR: suprimă LCR-ul în timp ce leziunea rămâne luminoasă
+6f2e642a	Doza echivalentă și efectivă
+6f3ba7bf	mA și timpul stabilesc doar numărul de electroni și deci de fotoni; distribuția energetică este stabilită de kVp și filtrare.
 6f441d09	Ce se produce când pozitronul din FDG se anihilează și cum îl detectează PET?
 6f7079de	Teleterapie, Gamma Knife
+6f78682d	DAP = K · A   (independent de distanță)
+6fa2096f	Prin media ponderată a semnalelor PMT (logica Anger)
 6fb2dc0f	 proiecții, 
+6fca1b0f	În TMR distanța sursă–punct este fixă, deci nu conține efectul inversului pătratului
+6fe34f38	Protonii suferă producere de perechi la capătul parcursului
+6ff5a02f	<b>Alăptarea:</b> pentru FDG și majoritatea agenților cu Tc-#m nu este necesară întreruperea sau doar câteva ore; în cazul I-#, alăptarea trebuie oprită.
 70491c5e	Ultima menstruație: acum # săptămâni (neregulată)
 705dbc6f	Fără contracepție
 70689f04	Lungimea scanării
@@ -586,6 +925,8 @@
 709e0d80	Container de plumb
 70c9432b	Atenuare, SVJ și durificarea fasciculului
 70e6ad0e	Nuclee radioactive
+7125219e	Rezonanța și pulsul RF
+71a8aa21	σ ~ #/√mAs; îngustarea ferestrei doar face zgomotul mai vizibil.
 71c67fc5	băiat
 720bb6d5	Izocentru
 72103ea7	Torace pediatric: fără grilă, filtru de Cu suplimentar, kVp mare / mAs mic, colimare strânsă, expunere scurtă (mișcare).
@@ -593,42 +934,63 @@
 72133fde	#. Contrast
 721471f0	ELUEAZĂ
 72467d86	Radiografie abdominală în ortostatism
+724dce60	Electroni
 729ea19a	+ Plasează ecranul
 72a6030d	Legea exponențială este valabilă doar în geometria de fascicul îngust, în care fotonii împrăștiați nu ajung la detector. Într-un fascicul larg contribuie și fotonii împrăștiați, iar transmisia devine B·e^(−μx), cu factorul de acumulare B ≥ #. Ignorarea lui B în calculele de ecranare duce la o ecranare subdimensionată.
 72b715d3	Hasan: „Cum ajungeți la ceva atât de adânc?”
+72c5fc11	Gray (Gy)
 72daab8b	Tendon / ligament
 72f6d05f	Centrul spațiului k poartă contrastul imaginii; periferia poartă detaliile fine (marginile).
 72f991f9	Coeficientul liniar de atenuare μ
 72fb1a0a	Spectru
 72fc2e5a	Omis: 
+730dd2e0	<b>RF (B₁):</b> încălzirea țesuturilor, limitată de SAR (W/kg): corp întreg ≤ # W/kg și cap ≤ # W/kg în modul normal (IEC ###). Cablurile conductoare și buclele pot provoca arsuri.
 732be2f9	Ghidare imagistică (IGRT)
 7342c4c8	Administrez contrast; cu RFGe ≥ # și fără injurie renală acută, metforminul nu se oprește
 73715b63	Caz clinic asociat  →
 738f6b5a	Un impuls de #° înclină M în planul xy. Spinii se răsfiră deoarece precesează cu viteze diferite (T2*). Un impuls de #° îi răstoarnă și se formează un ecou.
 7393264d	Explorează toate subiectele
+739d2c89	Care este principalul avantaj dozimetric al protonilor față de fotoni?
 73a87380	Teorie și formule
 73bf80aa	Fotonii chiar deasupra muchiei K pot expulza electroni K, deci absorbția fotoelectrică crește brusc. De aceea protocoalele CT cu kV scăzut accentuează contrastul cu iod.
 73d792b6	Scanează cu puține proiecții (≤ #): vezi artefactele în dungi
 73e93954	Ecografie; IRM fără contrast dacă nu este concludentă
 74148df9	Vine de la criogen; inofensiv
+74fd5f82	Alegerea ponderării cu TR și TE
+754a8c40	Erorile aleatorii estompează doza de-a lungul fracțiunilor (se compensează în medie), în timp ce o eroare sistematică deplasează întreaga distribuție în afara țintei.
+755393eb	CTDIvol nu este doza pacientului
 7564d845	Da, este periculos; să-l evităm dacă se poate.
 75793978	Abdomenul lui Mehmet măsoară # × # cm (adult mediu ≈ # × #). Pentru apă μ(# keV) ≈ # cm⁻¹. Cu cât reduc # cm de țesut în plus fotonii care ajung la detector?
 758e615c	Se calculează… (urmărire de raze #×# pixeli)
+759b11e4	Ḣ = Γ · A / d²        Ḣ_ecranat = Ḣ · B,   B ≈ #^(−x/SVJ)
+75a71666	F-# FDG
 75a97a00	Examen nou
 75afa3bb	Valoare diagnostică mică pentru apendicită; doză inutilă.
 75d4759c	Durere în fosa iliacă stângă, febră
+75d5140c	ADN-ul este ținta principală a morții celulare. La radiațiile cu LET mic, aproximativ două treimi din leziuni sunt indirecte: radicalii OH· rezultați din radioliza apei atacă ADN-ul. Rupturile monocatenare se repară ușor; rupturile dublu catenare (DSB) sunt principala leziune letală.
 760d8617	Un flacon vidat într-un recipient de plumb aspiră serul și Tc-#m prin coloană. Străpungerea Mo-# trebuie să rămână < # kBq Mo per MBq Tc.
+7620b894	Alte dozimetre
 763fa74b	Ambele sunt fotoni, iar domeniile lor de energie se suprapun (γ de # keV al Tc-#m este mai puțin energic decât razele X ale unui tub de # kVp). Diferă doar originea.
 7647a3ac	Promovat — citește cu atenție feedbackul.
+765479aa	Împotriva a ce este proiectată o barieră secundară?
 765e2544	Regula zonei IV
+7686236b	Fiecare SVZ aduce un factor #: #³ = #, adică aproximativ # SVJ.
+76a60042	În sarcină se preferă RMN pentru că nu folosește radiații ionizante, dar gadoliniul traversează placenta și se administrează doar când este indispensabil. La pacienții cu eGFR < #, gadoliniul necesită prudență din cauza riscului de fibroză sistemică nefrogenă (NSF).
 76dd194b	Inimă medie < # Gy
+7719e496	<b>Captura electronică și tranziția izomerică:</b> Tc-#m este o stare metastabilă care emite un γ de # keV — o energie ideală pentru imagistică, cu emisie redusă de particule.
 77384e8c	Înșelător. Modelul LNT presupune un risc foarte mic, dar nenul; folosește un limbaj onest și liniștitor.
 774a6613	Un fascicul îngust de fotoni monoenergetici care străbate o grosime x are o probabilitate de interacție constantă pe unitatea de drum. Rezultatul este o scădere exponențială:
 777502bf	Marcajele pe piele nu arată mișcarea internă; risc mare de a rata ținta.
+777ecec1	# % / # mm
+7791bab3	≈ # mSv
+77e56096	De ce se filtrează retroproiecția?
 77eb0235	Scor
+77f31cee	<b>Doza efectivă:</b> DAP × coeficient de conversie — de ex. torace PA ≈ # mSv, coloană lombară ≈ # mSv.
 78197beb	ESAK # µGy > DRL: redu doza (kVp mai mare + filtru Cu, scoate grila, scade mAs).
 7835c649	Electronii ocupă straturile K, L, M… Energiile de legătură ale straturilor interioare cresc abrupt cu Z: stratul K al wolframului este la # keV, al iodului la # keV, iar al oxigenului din apă doar la # keV.
 785a8151	Pitch
+78a45025	Sievert (Sv)
+78b30f07	Efecte deterministe și stocastice
 78cd4207	Flacon de eluat
 792a98a9	• <b>Întărirea fasciculului:</b> energiile joase sunt absorbite primele; pe trasee lungi μ efectiv scade → „cupping” în centru și dungi întunecate între oase dense. Calibrarea cu apă (BHC) corectează cuppingul, dar nu și dungile osoase.\n• <b>Metal:</b> aproape toți fotonii sunt absorbiți (photon starvation) → dungi radiale luminoase/întunecate.\n• <b>Puține proiecții:</b> eșantionare unghiulară insuficientă → artefacte în dungi (aliasing).\n• <b>Zgomot:</b> σ ~ #/√(mAs); compromisul fundamental doză–zgomot.
 793c090c	Protocol CT cu doză mică
@@ -637,28 +999,45 @@
 79525074	Doar centrul
 79a399e0	Doză
 79ae5968	Viteza timpului (timpi de înjumătățire / # s)
+7a19375c	Unde este cea mai mare atracția asupra unui obiect feromagnetic în RMN?
+7a3977c5	Protecție completă
+7a4568f0	La energie joasă μ este foarte sensibil la diferențele de Z și densitate; doza și compresia se echilibrează față de acest contrast.
+7a564ff8	Fotonii împrăștiați se acumulează în vârf
 7a696fee	Echivalent fond natural
 7a9ee904	Atinge podeaua → mergi (tastatură: WASD). Urmărește debitul dozei pe aparat. Timpul, distanța și ecranarea reduc doza.
+7aa5a762	Secvențele ecou de gradient nu folosesc pulsul de #°, deci sunt rapide, dar ponderate T2* (hemoragie, calcificări). Unghiurile mici de basculare permit TR scurt, cu semnal maxim la unghiul Ernst: cos α_E = e^(−TR/T1). Agenții pe bază de gadoliniu sunt paramagnetici: scurtează T1 și fac țesutul care captează să apară luminos pe imaginile T1.
 7ab00d8b	Distribuția axială a dozei
+7ad68a4e	<b>Lunar / anual:</b> PDD și profile, precizia poziționării MLC, izocentrul, sistemele de imagistică; dozimetria de referință anuală (TRS-#).
 7b06fb7d	Semnal SE în funcție de TE
 7b0ee643	Doza minimă în leziune (#–# cm)
+7b16b51b	Un efect a cărui probabilitate crește cu doza, presupus fără prag (cancer, efecte ereditare).
 7b3a2d83	Particulă alfa
 7b4e65c1	EQD2 rect (α/β #)
 7b804b26	Efecte fizice
+7bd77338	Independent de activitate
 7bdb6a90	orizontal: detector s  •  vertical: unghi θ (#→#°)
 7be2d594	Distanța sursă–imagine (SID)
+7bea5b23	Tubul trebuie să fie sub masă: personalul primește cea mai mare parte a dozei din retroîmprăștierea pacientului pe partea tubului.
 7bef2f61	Hartă de doză (x–adâncime): doza relativă la maxim, %
 7bf995f5	Sondă (atinge)
 7c162dc9	Spectru • Atenuare • Împrăștiere • Doză
+7c312941	Electronii emiși de tun sunt accelerați până la energii de ordinul MeV într-un ghid de undă alimentat cu microunde în banda S (~# GHz); un magnet de deviere îi dirijează spre țintă. În modul fotoni, o țintă cu Z mare produce radiație de frânare, iar un filtru de aplatizare uniformizează fasciculul; în modul electroni ținta este retrasă, iar o folie de împrăștiere lărgește fasciculul îngust de electroni.
 7c5092be	Radiația ionizantă are suficientă energie (≥ # eV) pentru a elibera electroni din atomi. Partea superioară a domeniului UV, razele X și γ și toate particulele încărcate rapide sunt ionizante; undele radio și lumina vizibilă nu.
+7c547340	Fotoni γ de # keV
 7c72fb1b	Unghiul Ernst (SA)
 7c7da947	Doza efectivă
 7c941c55	R8# (≈ adâncime terapeutică)
+7cae44a6	≈ # mGy
+7d0cb4a8	În brahiterapie sursa este plasată în tumoră sau lângă ea. Doza scade abrupt cu distanța (inversul pătratului), ceea ce dă o doză mare la țintă și cruță țesutul din jur. HDR folosește Ir-# (T½ # zile, energie medie ~# keV, ~# GBq) într-un aparat de încărcare la distanță; semințele LDR permanente folosesc I-# (T½ # zile, #–# keV) sau Pd-#.
+7d17d3db	Poziția din gradienți
+7d1ab5c2	Incidența PA produce mai multă împrăștiere
 7d7615e3	Cancer de prostată — radioterapie externă
 7d96597f	Antecedente
 7d972bea	Însoțit de mama sa; prima investigație imagistică
+7db298cb	Unde trebuie să stea personalul în timpul fluoroscopiei (braț C orizontal)?
 7dd6f549	Implant din titan
 7de1562e	 ani, 
+7dee6ced	SAV crește (fasciculul se durifică)
 7e0e48e1	cT2b N0 M0
 7e0faf28	Atracția este instantanee; s-au raportat răniri grave și decese.
 7e323ea2	Energia și datele trec fără cabluri, așa că tubul se poate roti continuu, ceea ce face posibilă scanarea elicoidală.
@@ -666,48 +1045,71 @@
 7e5ca532	Cristalin
 7e64d602	Tubul și detectorul se rotesc în jurul pacientului. Pentru fiecare unghi θ și poziție de detector s, atenuarea măsurată este o integrală de linie a lui μ(x,y). Mulțimea tuturor proiecțiilor este <b>sinograma</b>: un obiect punctiform desenează o sinusoidă.
 7e6646b7	CT abdominal la un pacient corpolent
+7e78e10c	(#/#)² = #/#; atenuarea și împrăștierea în țesut sunt corectate prin g(r), dar inversul pătratului domină.
 7e86bdae	Punctaj
 7e8c6db6	SVJ și SVZ
+7e958f84	Zgomotul în CT provine din statistica cuantică. Abaterea standard (σ) a HU într-un ROI variază invers cu rădăcina pătrată a mAs și a grosimii secțiunii. Cu cât pacientul e mai gros, cu atât fotonii care ajung la detector scad exponențial și zgomotul crește rapid.
 7ec52420	Terapie cu radioliganzi (PSMA, DOTATATE)
+7f80d327	Harta unghi–poziție pe detector a tuturor proiecțiilor.
 7f8ed8ff	Pompa de heliu bâzâie încet, dar bătăile vin de la gradienți.
 7fa4aa8f	Leziune la # cm de ochiul stâng
 7fa59d83	orizontal: radial s • vertical: unghi φ
 7fa5ff5c	Complet
 7fb12b63	Arc de detectori
+7fbf730c	Coincidența celor doi fotoni definește deja linia evenimentului (LOR)
+7fcbce60	K = Ψ · (μ_tr/ρ)        (Ψ: fluența energetică)
+7ff4afcd	Doza efectivă este o mărime de risc mediată pe populație. Ea servește la compararea procedurilor și la optimizarea protecției, nu la calculul riscului unui anumit pacient; pentru asta sunt necesare dozele la organe.
+803de498	U reprezintă distribuția direcțiilor fasciculului, iar T ocuparea; pentru barierele secundare se folosește U = #.
+804ba45f	Cum trebuie să se schimbe numărul de fotoni pentru a dubla SNR?
+8057daf6	Electronii nepereche ai Gd³⁺ accelerează relaxarea, astfel încât priza de contrast apare luminoasă pe imaginile T1.
 8077377d	Imagine portal săptămânală
 807b9275	Corect: forța de atracție ~ B·dB/dz și este maximă lângă intrarea tunelului. La nevoie, scoate pacientul în zona III pentru îngrijire.
 80cc6fb4	Un pozitron se anihilează cu un electron în doi fotoni opuși de # keV. Dacă doi detectori opuși îi prind în câteva ns, se înregistrează o coincidență (linie de răspuns, LOR).
+80d30c6b	CTDIw = ⅓·CTDI_centru + #/#·CTDI_periferie     CTDIvol = CTDIw / pitch     DLP = CTDIvol · L     E ≈ k · DLP
 80d6fd98	α/β țesut cu răspuns tardiv
 80f76b66	Întreb despre sarcină și cer un test β-hCG
 80fd59df	Particulă
 811c30cd	Număr de proiecții (#°)
+817e06f4	Zonă controlată
 8190561a	Durere în fosa iliacă dreaptă, greață (# h)
+8193cecf	Semnalul spin-echo
 819c9d03	Generator Mo-#/Tc-#m
+81aa5ec6	<b>Mișcare:</b> dungi și imagini fantomă, reduse prin timpi scurți de rotație și apnee.
 81ad7d36	Folosește clești lungi (sursa la # cm de corp)
 81b60676	Ant
+81d7d87b	Fotonii împrăștiați Compton în pacient ajung la detector din direcții aleatorii, reducând contrastul și adăugând zgomot. În regiunile groase, raportul radiație împrăștiată/primară poate ajunge la #–#. Modalități de reducere a împrăștierii:
 8202e478	Ecranare
 8210c814	Secțiune axială a creierului
+8231915e	SPECT
 826d7453	Electron
+82b88998	Un monitor poate afișa doar ~# niveluri de gri, așa că se aleg fereastra (W) și nivelul (L): valori tipice W # / L # pentru țesut moale, W # / L −# pentru plămân și W # / L # pentru os.
 82ce6c55	Cartilaj
 82e2dbbd	Regiune și incidență
 82e733b7	<b>Împrăștierea</b> reduce contrastul: raportul împrăștiat/primar crește cu dimensiunea câmpului și grosimea pacientului. O grilă transmite ~#% din radiația primară și ~#% din cea împrăștiată. Colimarea reduce atât împrăștierea, cât și doza.
 82fa204f	Un câmp larg crește radiația difuzată și DAP-ul; adevărata protecție este un câmp îngust.
+82fdbac3	Spectrul
 832d529e	RMN de genunchi și siguranța RMN
 832f8681	Plămân
 835889e9	Rinichi
 836bc242	#–# MV VMAT livrează suficientă doză țintei profunde din multe unghiuri; pielea este protejată, iar neutronii sunt neglijabili.
 83754be6	Cel mai bun al tău: 
+8385b274	Dozimetrie și radiobiologie
 83d4e55a	# kV la un pacient voluminos produce dungi din lipsă de fotoni și zgomot excesiv.
 84737e5d	Citiri
+84cf07c1	Nu există niciun risc
 85124f40	Zgomot # HU: diagnostic.
 8516948a	Formule
 851ad665	Unghiul gantry
+851e9f59	Fracțiunile mici cruță țesutul cu răspuns tardiv, deoarece termenul β scade. Dar dacă α/β al tumorii este mai mic decât al țesutului tardiv (prostata), hipofracționarea favorizează efectul asupra tumorii — motivul pentru care studiile CHHiP (# Gy/#) și PACE-B (# Gy/#) au reușit.
 852fc0ce	Zeynep: „Mi-am muls laptele dinainte. Soțul meu îi poate da biberonul.”
 8567c350	Deschide analiza
 85e4b82f	OK
+8616bbc4	Păstrarea ultimei imagini, colimarea și apropierea detectorului de pacient reduc doza.
 86260ec0	Cum se joacă modul cazuri
+863c496a	Prostata este hipoxică
 8647f589	DI # → subexpunere: zgomot cuantic, nediagnostic.
 869cfa26	EQD2 țesut tardiv
+86aa8c33	SAV scade
 86c813a5	Numărători
 86e1dbb8	Doi fotoni de # keV la ~#° unul de altul, detectați de doi detectori într-o fereastră de coincidență de câteva ns → linie de răspuns (LOR)
 87025a9c	Medicină nucleară: PET/CT cu F-# FDG, stadializare (Dr. Er)
@@ -717,164 +1119,268 @@
 8762cac3	Energia protonilor
 876b129d	Pasul 
 8786af42	✓ Excelent
+87dbef57	<b>Reparare:</b> țesutul sănătos repară leziunile subletale între fracțiuni (interval ≥ # h).
+87dc07cb	Doza lor la piele este zero
 87e69378	Împrăștiate
+87ff7f51	<b>Reoxigenare:</b> celulele tumorale hipoxice se oxigenează între fracțiuni.
 882ac676	Doza la sugar
+88444e3c	Detecția în coincidență
 88674cd6	#) Alege un subiect în stânga; subiectele sunt ordonate de la baze la clinică. #) Citește lecția; nu sări peste casetele IDEE-CHEIE și exemplele rezolvate. #) Mișcă cursoarele figurilor ca să vezi ce spun formulele. #) Fă testul de la finalul lecției: toate corecte marchează lecția cu ★. #) Folosește „Încearcă în laborator” și „Caz clinic asociat” pentru a aplica ce ai învățat.
 886d0cbf	Impulsurile RF fac zgomotul; nu e nevoie de precauții
 888cc345	La # m (ecranat)
+88905e3e	p = ln(I₀/I) = ∫μ dl: o singură măsurătoare dă atenuarea totală pe traiect, deci sunt necesare multe unghiuri pentru a reconstrui secțiunea.
+889fa24c	Cum se produce F-#?
+88faff94	Factorul de acumulare scade
+8904ba00	Activitate cumulată Ã
+891d411a	Transferul liniar de energie (LET) este energia cedată pe unitatea de drum. Fotonii și electronii au LET mic (~#–# keV/µm); particulele α și ionii grei lenți au LET mare (~# keV/µm) și lasă leziuni ADN dense, greu de reparat — de aici factorul de ponderare al radiației de # pentru α.
 89235979	Când părintele (Mo-#) trăiește mai mult decât fiica (Tc-#m), A₂/A₁ tinde spre o constantă: echilibru tranzitoriu. Dacă părintele trăiește mult mai mult (de ex. Sr-#/Y-#), apare echilibrul secular: A₂ = A₁.
+89261fb7	Cum se determină poziția evenimentului într-o gama-cameră?
+892a4e53	Generator (echilibru tranzitoriu)
 892ef903	Un singur foton de # keV
+89598673	Deoarece SNR ~ √N, dublarea SNR cere de #× mai mulți fotoni — și de #× mai multă doză.
+896dd872	Efect determinist
 897fe13f	Contrast și rinichi
 89d558f4	O bobină de recepție multicanal aproape de țesut crește SNR și permite imagistica paralelă.
 89f4c462	CNR ruptură/menisc #: ruptura nu se vede — e nevoie de un TR lung (PD/T2).
 8a2fa41a	Activitate, timp și captare
 8a355b34	PA, în picioare, SID # cm
 8a69358c	timp 
+8a794070	Bobinele de gradient adaugă un câmp mic care variază liniar cu poziția, făcând frecvența Larmor dependentă de poziție:
+8a79948a	Dozimetrie individuală și monitorizare
 8aa94879	Ghidurile (ICRP #, AIEA) nu cer întreruperea alăptării pentru FDG; se recomandă limitarea contactului apropiat câteva ore și folosirea laptelui muls.
+8ae221d1	Doza săptămânală într-un punct din spatele unei bariere nu trebuie să depășească obiectivul de proiectare P: # mSv/săptămână (# mSv/an) pentru zonele controlate și # mSv/săptămână (# mSv/an) pentru zonele necontrolate. Transmisia necesară rezultă din sarcina de lucru W, factorul de utilizare U, ocuparea T și distanța d:
 8b0d147c	Contrast osos (# cm în # cm de țesut)
 8b0eb3c2	Adevărate
+8b2fcd4a	Tubul se încălzește mai puțin la # cm
 8b5a89a7	Ce domină și unde?
 8b68a871	Posibilă sarcină și apendicită
+8bde112c	Inversia-recuperare și suprimarea grăsimii
 8c032c1a	Puncte de învățare
 8c5db0a7	<b>Efect fotoelectric:</b> fotonul este absorbit complet și este expulzat un electron de pe un strat interior. Probabilitatea variază aproximativ ca Z³/E³.
 8c7d3087	Scor: 
+8c83f65c	<b>PTV:</b> CTV/ITV + marja de poziționare; prescripția se face pe PTV.
 8c880991	Fiecare răspuns vine cu o explicație și feedback.
 8ca7a950	Un contor Geiger-Müller sau o cameră de ionizare care arată debitul dozei în µSv/h; folosit la controlul contaminării în laboratorul cald.
 8cde5d5c	Colimator + filtrare adăugată
+8d1ed6ee	Crește cu distanța
 8d46a34c	grosime (cm)
 8d815095	Interacțiunile fotonilor cu materia
 8d8cee46	Legea inversului pătratului
+8db1a663	Magnetizarea netă, deci și SNR, crește
 8dbd5185	Timp # s — pacientul poate sta nemișcat.
 8de41236	Stimulator cardiac
 8e5380f5	Emir poate sta în picioare și cooperează. Ce tehnică alegi?
 8e925209	Transformata Radon • FBP • Hounsfield • Artefacte
 8ea57a5e	R9# (adâncime în pacient)
+8f11c218	η ≈ #×#⁻⁹ · Z · V   (W, # kV: ≈ # %)
 8f1b876c	Cel mai bun al tău
 8f30fea5	Înălțime / greutate
+8f7ca05e	Puterea de oprire crește aproximativ ca #/v², deci particula care încetinește cedează tot mai multă energie
 8fb29e12	Alege un subiect și o lecție în stânga. Joacă-te cu cursoarele figurilor și testează-te la finalul fiecărei lecții.
 8fd05dbc	Tratamentul cancerului tiroidian și al hipertiroidiei
+8fd304c9	CTDIw = #/#·CTDI_centru + #/#·CTDI_periferie        CTDIvol = CTDIw / pitch
+8fd58c41	Barieră primară pentru un accelerator de # MV: W = # Gy/săptămână (la # m), U = #, T = # (birou), P = # mSv/săptămână = #×#⁻⁵ Sv (zonă necontrolată), d = # m de la izocentru. B = #×#⁻⁵ × # / (# × # × #) ≈ #×#⁻⁶ → n = # SVZ. Pentru beton SVZ₁ = # cm, SVZ_e = # cm (NCRP #): x ≈ # + # × # ≈ # cm de beton.
 8fed86d7	E în regulă dacă e rapidă
 8ff1e887	Viteza timpului
 9017c010	+ Adaugă fascicul
+9018cfae	Cum variază rata coincidențelor aleatorii cu activitatea?
+901f2a3e	Folia transformă electronii în fotoni
+902aac5f	M = SID/SOD și U_g ~ OID/SOD: cu OID mic și SID mare, inima apare aproape la dimensiunea reală și clară.
 90571e3f	 întrebări de test
+905ee9cb	Kerma și doza absorbită
 907a4bcf	Doza pacientului (efectivă)
+907fefb6	CTDIvol
+908240bf	SUV = C_țesut [kBq/mL] / (A_injectată [kBq] / greutate [g])
+90c0a335	Colimator
 90d642b7	α/β tumoră ≈ # Gy, efecte tardive pe piele / cartilaj α/β ≈ # Gy. Ce i se potrivește unei paciente de # ani căreia îi este greu să vină zilnic?
 90da7a12	Radiografie
+90dd40c0	Într-un câmp mai mare, mai mulți fotoni împrăștiați ajung pe axul central, crescând PDD, mai ales în profunzime.
 90e8ad1a	Țesut
 91078d77	Spectrul tubului, filtrare, SVJ, împrăștiere, detector și doza pacientului.
 91258979	Radiofarmaceutic
+915b2438	Grila îmbunătățește contrastul — dar ce altceva mai crește?
 91882d73	Parcurs CSDA (Bethe / NIST)
+9192b5dc	Fotonii de # keV nu pot trece prin plumb
+91a42068	De la electroni la fotoni
 91a7732a	Curenții de gradient comutați rapid suferă forțe Lorentz în B₀; zgomotul poate depăși # dB → dopuri / căști obligatorii
 91b76332	Liniștitor, dar inexact: riscul stocastic este foarte mic, nu zero.
+9238d6ff	Lucrătorii expuși profesional
 926d87c3	Prinde eroarea sistematică de poziționare, dar nu și mișcarea zilnică a organului → margini și doză rectală mai mari.
 928ef299	femeie
+9293a3fa	<b>Volum parțial:</b> în secțiunile groase, țesuturi diferite sunt mediate în același voxel.
 92fe3fad	Conținut doar educativ — nu pentru decizii clinice.
 9340f08a	Constanta de dezintegrare λ
+9364ced4	Pozitronul parcurge ~# mm în țesut și se anihilează cu un electron în doi fotoni de # keV aproape opuși. Dacă detectoarele inelare (LYSO, BGO) îi captează pe amândoi într-o fereastră de coincidență de câteva nanosecunde, evenimentul se află pe linia de răspuns (LOR) dintre ele. Nu este nevoie de colimator, deci sensibilitatea este mult mai mare decât a unei gama-camere.
+93672c16	Toate valorile detectoarelor la un unghi formează o proiecție; ordonate după unghi și poziție pe #°+unghiul evantaiului, formează sinograma. Fiecare punct al secțiunii descrie o sinusoidă în sinogramă.
+936f0729	M₀ ~ B₀ și SNR crește aproximativ cu B₀, dar SAR crește ca ~B₀², iar T1 se lungesc.
+93755f1f	Semnalul LCR (lichid liber)
 93798b62	Generator
 93926697	Fantomă antropomorfă
+93c69625	Curentul tubului × timpul; stabilește liniar numărul de fotoni (și doza).
 93fd33cf	Mx (semnal)
 94397cd5	Timp potențial de dublare Tpot
 9441540c	DLP = CTDIvol × lungime; descrie iradierea totală, nu doza la organe.
+947997c0	Care este limita anuală de doză la cristalin pentru lucrători (ICRP #)?
 948fe972	Sursă de raze X kV
 94a38054	Decizia ta
+94ab30dc	<b>Radiometre:</b> cameră de ionizare pentru debitul dozei; sondă GM sau de tip „pancake” pentru contaminare.
 94cc8d3b	Doza sugarului ≈ 
 94f37251	CTDIvol în sine
 951e2e51	VEZI ANALIZA  →
 95a8c428	Mo-# (T½ # h) → # % → Tc-#m (T½ # h). Mo-# este reținut pe o coloană de alumină; Tc-#m se acumulează prin dezintegrarea lui și este „eluat” cu ser fiziologic.
+95ac4fdd	„Regula de # %”: creșterea kVp cu # % dublează aproximativ expunerea la detector, deci mAs poate fi înjumătățit. Doza pacientului scade de obicei, dar și contrastul.
 95bce1b7	Aer
 95be3cc5	Cel mai bun 
 95d6d65a	Sistemul laboratorului (arată precesia)
+95f2bf9e	Pragurile (γ,n) ale majorității materialelor sunt în jur de #–# MeV, așa că fasciculele de #–# MV au o contaminare neutronică observabilă.
 95f4d5de	Câmp și protecția ochiului
+95f8091a	Principiile protecției și limitele de doză, timp–distanță–ecranare, proiectarea ecranării încăperilor, dozimetria individuală, sarcina, copiii și comunicarea riscului.
+962e3a8d	Raportul α/β (Gy) este doza la care cei doi termeni sunt egali: ≈ # Gy pentru țesuturile cu răspuns precoce și majoritatea tumorilor, ≈ # Gy pentru țesuturile cu răspuns tardiv (măduva spinării, rect, fibroza cutanată). Cancerele de prostată (~# Gy) și de sân (~# Gy) au α/β mic.
 963b7c8f	Bună! Aparatul doare? Mama poate aștepta afară?
+963c7428	De #–# ori
 966d8f4b	Toracele lui Emir are ≈ # cm grosime (adult ≈ # cm). Setează kVp, mAs, filtrul, grila și câmpul, apoi apasă EXPUNE. Obiectiv: DI −#…# și ESAK ≤ # µGy.
+969a2726	Doza scade abrupt după vârful Bragg; doza de intrare nu este zero, dar este mai mică decât la fotoni.
 96c251ec	Teorema secțiunii Fourier: transformata Fourier #D a unei proiecții este o secțiune prin transformata Fourier #D a imaginii. De aceea proiecțiile se filtrează întâi cu rampa |f| și apoi se retroproiectează. Retroproiecția nefiltrată produce o estompare #/r.
 97080889	Diametrul pacientului
 97197ddf	Evitați orice contact timp de o săptămână
 971c410e	Dezintegrare radioactivă, generator Mo-#/Tc-#m, coincidențe PET și MLEM.
 9741e45e	Nu există niciun risc, zero radiație.
 97563b2a	Ecranează radiația gamma cât timp flaconul e depozitat sau transportat; câțiva mm de plumb ajung pentru fotonii de # keV ai Tc-#m.
+97667826	Excesul în starea paralelă este infim (~# ppm la # T), dar numărul uriaș de protoni dintr-un voxel dă o magnetizare netă M₀ măsurabilă, care crește cu B₀ — motivul pentru care câmpurile înalte dau un raport semnal/zgomot mai bun.
+9773e002	γ de # keV, T½ # h; radionuclidul cel mai utilizat.
+978d448a	Dozimetria internă și siguranța pacientului
 979c2167	Doză la suprafață (protejarea pielii)
 97fc3c0a	Ești fizicianul medical al spitalului. Fiecare pacient este un caz: citește fișa, ia deciziile și vezi rezultatele calculate cu modele fizice reale. După fiecare pas afli de ce a fost corect sau greșit.
 981c2b72	Detector kV
 98333fde	Beton
 9837047f	Leziune + margine de ~# cm (decupaj din plumb ≈ # cm); ochiul în afara câmpului, protector ocular intern dacă e nevoie
+98532465	GRE:  S = PD·sinα·(# − E₁)/(# − cosα·E₁)·e^(−TE/T2*)      unghiul Ernst: cos α_E = e^(−TR/T1)
 98582d5e	Indirect ionizantă
 9867b7d1	Debitul dozei scade cu pătratul distanței, Ḣ = Γ·A/d². Culorile podelei arată acest debit; linia albă marchează # µSv/h.
+986c335e	Pentru comparație: fondul natural mediu mondial este ≈ # mSv/an (UNSCEAR). O radiografie toracică PA ≈ # mSv (~# zile), un CT abdominal ≈ # mSv (~# ani), un zbor Istanbul–New York ≈ # mSv.
+9888d039	<b>Mișcare și flux:</b> imagini fantomă pe direcția de fază.
 9895bce3	EQD2 tumoră
 98b07aa5	Nu — energia maximă a electronilor (# keV) nu poate ioniza stratul K
 98f224a5	EXPUNE
 9920e564	Scorul planului
+992370e6	Dezintegrarea α
 993014d9	Greutate
 9945210a	Algoritm
 994bbd58	Regulă: R ≈ #·E^#
 995324ac	Timp 
 995c9ab4	#. Dozimetrie
 9970e954	PET: coincidențe și reconstrucție
+9973e834	Reguli pentru electroni
 997b38dc	Protocol adaptat dimensiunii
 99a15c5e	Doză efectivă (aprox.)
+99a61a5f	Fluoroscopia și mamografia
 99a7a50a	CONTINUĂ  →
 99f7bee7	Inel colector
 99fa0dc1	Suficiența numărărilor A·t / (#·kg)
 9a125d51	Electronii din catodul încălzit sunt accelerați de kVp spre un anod rotativ de wolfram. Doar ~# % din energia lor devine raze X (frânare + caracteristică); restul este căldură.
 9a23c97b	PET/CT cu FDG la o mamă care alăptează
 9a2b880f	Grosimea pacientului / SSD
+9a548d26	pitch = #/# = #; la același mAs, CTDIvol este #/# din valoarea la pitch #.
 9a73db9b	Limbă
+9a83f5a9	Doza procentuală în profunzime
+9ab3d4c5	# µSv/h
 9b012adc	Distanța până la sursă
+9b173448	„Această radiografie toracică dă aproximativ # mSv — radiația pe care o primim din natură în aproximativ # zile. Beneficiul diagnosticării corecte a pneumoniei este mult mai mare decât acest risc foarte mic.”
+9b1a53e6	≈ # %
+9b243684	Trebuie să crească de patru ori
+9c46f193	Fiecare gaură acceptă fotoni dintr-un con a cărui amprentă crește cu distanța, degradând rezoluția — de aceea detectorul se așază aproape de pacient.
 9c4aa55c	Tub de raze X
 9c506f53	Nivelul secțiunii
 9c528492	Înfășurări din NbTi răcite cu heliu lichid la ~# K. B₀ (# / # T) este mereu activ: obiectele feromagnetice devin proiectile.
 9c70fc8a	Benzi subțiri de plumb focalizate absorb fotonii împrăștiați în pacient. Contrastul se îmbunătățește, dar mAs trebuie să crească pentru aceeași doză la detector (factor Bucky #–#).
 9c8081f1	Deschide laboratorul
 9cabb538	Timp • Distanță • Ecranare
+9cb890cd	Semnalul spin-echo conține atât termeni T1, cât și T2:
+9ce536e5	Pentru un CT de # mSv, riscul nominal suplimentar de cancer este ≈ # Sv × # / Sv ≈ # %, adică aproximativ # la # — mic față de incidența de bază a cancerului pe parcursul vieții de ~# %, dar tot necesită justificare.
 9cf82695	Rezultate
 9d145291	Efect fotoelectric
+9d21a288	Grila absoarbe și o parte din fasciculul primar, așa că mAs trebuie să crească de #–#× pentru același semnal la detector.
 9d2b5423	Descrie randamentul scanerului și ignoră dimensiunea pacientului.
 9d3d585c	Modalitatea tuturor fasciculelor
+9d49828f	Electronii înșiși sunt fasciculul de tratament; folia lărgește fasciculul îngust într-un câmp larg și uniform
+9d598f66	Raportul de amplificare prin oxigen pentru razele X este ~#–#; pentru radiațiile cu LET mare se apropie de #.
 9d6f6466	Un filtru elimină preferențial fotonii de energie joasă (<b>întărirea fasciculului</b>) care ar adăuga doar doză la piele. Mai multă filtrare crește energia medie și SAV și scade randamentul.
 9d70bd7a	DI = #·log₁₀(EI / EI_target): # ≈ cu # % mai mult, −# ≈ cu # % mai puțin, # ≈ #× doza la detector.
+9de25720	Factor de utilizare U
+9de4bb08	Țesuturile sânului (grăsime, țesut fibroglandular, tumoră) diferă foarte puțin ca atenuare, de aceea se folosesc energii joase, la care domină efectul fotoelectric: #–# kVp cu anod/filtru Mo/Mo, Mo/Rh, W/Rh sau W/Ag. Compresia reduce grosimea, împrăștierea, mișcarea și doza. Microcalcificările necesită un focar foarte mic (#–# mm).
 9e134627	Cazuri clinice — # pacienți așteaptă
 9e1d18ea	#. Radiobiologie
+9e2b6eb5	PTV
 9e452222	Care dintre acestea este indirect ionizantă?
 9e75940c	Activitate
 9e7b7a87	EQD2 tumoral = n·d·(d + #)/(# + #) = # Gy — mai mare decât e nevoie.
+9e851bcc	Fizica radioterapiei
 9e8abbb2	Aparatul lucrătorului citește debitul echivalentului de doză ambiental H*(#) acolo unde se află; doza acumulată = debit × timp.
 9e995ba1	Fracționare (modelul LQ)
+9eb1083f	În camera de comandă
 9ebe06d9	Mic-dejun acum # ore
+9f012d98	SAR scade
 9f24f2f7	Substanțele de contrast exploatează această fizică: muchia K a iodului este la # keV, iar a gadoliniului la # keV. Absorbția crește brusc când energia fotonului este chiar deasupra muchiei K.
+9f323307	Timp de achiziție T = TR × N_fază × NEX / ETL
 9f3f7105	Se reconstruiește…
 9faeab39	Conservarea impulsului cere doi fotoni.
 9fc55136	Semnal în funcție de TE (descreștere T2)
+9fc5a477	Celula este formată în mare parte din apă; radicalii OH· din radioliză produc aproximativ două treimi din leziuni, iar oxigenul le face permanente.
+9fed9d91	Forma rămâne aceeași; numărul de fotoni se dublează la fiecare energie
 9ffc9a24	Măsoară UH: atinge plămânul (< −#), grăsimea (−#…−#) și osul (> #)
 a049bc94	Contrast T1 / T2 / DP
+a049c691	Imaginea este mărită
+a07e0be8	Tc-#m MDP
+a0899a7e	Cvadruplând mAs
+a0a42eb1	Efect stocastic
+a0afe4ef	CTDIw = #/#·CTDI_centru + #/#·CTDI_periferie     CTDIvol = CTDIw / pitch
 a0cf38d2	Timp de captare adecvat: raport tumoră/fond standard (SUV comparabile).
 a12d8b93	Atomi, nuclee și radiații
 a13c66b3	Doza efectivă ≈ # × 
+a147ccfe	Ce suprimă o secvență FLAIR?
 a14e7f7e	Contrast iodat (inimă/aortă)
+a15a9e57	CC zilnic: uniformitate (flood) și reglarea vârfului de energie; săptămânal rezoluție/liniaritate.
 a15fa5b0	Eșantionare
+a1691857	Termenul #/v² din formula Bethe: când viteza scade, pierderea de energie pe unitatea de drum crește, producând un vârf ascuțit la capătul parcursului.
 a1793be6	Os / aer
 a17f6a53	# întrebări aleatorii din toate subiectele — o pregătire bună pentru interviurile de master și examene.
 a1be3d2c	Lateral (LAT)
 a1d821ab	#. Artefacte
+a2059fd4	Defazarea produsă de neomogenitățile statice ale câmpului (efectul T2*)
 a219bf8b	Sala de așteptare
 a22bd65a	protoni
 a267e784	Doza efectivă ≈ # × # = # mSv (ICRP #).
 a26d32ed	Recuperarea Mz (TI)
+a27c2818	Nu se schimbă
 a28c2366	Electronii accelerați la MeV în ghidul de undă sunt deviați spre o țintă (fotoni) sau printr-o folie de împrăștiere (electroni). Tot aici se află filtrul de aplatizare și camerele monitor (UM).
+a2b24ff7	La femeile de vârstă fertilă se întreabă mai întâi despre o posibilă sarcină dacă pelvisul se află în fasciculul primar sau se va administra un radionuclid, cu test β-hCG la nevoie. Dozele fetale din examinările diagnostice sunt de obicei < # mGy; sub ~# mGy nu se așteaptă efecte deterministe, iar întreruperea sarcinii nu poate fi justificată medical (ICRP #). Riscul suplimentar de cancer în copilărie este ≈ # % la # mGy (risc de bază ≈ #–# %).
+a2b54d61	Reprezentarea în frecvențe spațiale a datelor brute RMN; imaginea este transformata ei Fourier.
 a2c330b1	Verifică faptul că R5# al unui fascicul de electroni urmează regula E/#
 a2eb2f51	Dezintegrare radioactivă (Monte Carlo)
 a2ed22c4	diametru efectiv D_eff (cm)
 a30f0337	PDD electroni: doza la suprafață crește cu energia (# MeV ≈ # %, # MeV ≈ # %); bolusul crește doza la suprafață și scurtează parcursul.
+a331c4a6	R9# ≈ E/# → E ≈ # × # ≈ # MeV; # MeV ar depune doză inutil de profund.
+a340d8fe	Scade la #/# din valoare
+a370731d	Principiile CT: proiecții și sinogramă
+a3729e56	Proiecții și sinogramă, retroproiecție filtrată și reconstrucție iterativă, unități Hounsfield, calitatea imaginii și artefacte, CTDI/DLP/SSDE.
 a37bf952	Excelent — un adevărat fizician medical!
 a408a7ff	Femei de vârstă fertilă cu bazinul în fascicul: mai întâi se exclude sarcina (β-hCG dacă e nevoie).
 a431924a	Ridică sursa
+a45ef663	Kerma
 a475164f	Plumb
 a4843b38	Os (# cm) # % — inutil de mare: risc de osteoradionecroză. Alege o energie mai mică.
+a49d211b	Efectele deterministe (reacțiile tisulare) au prag, iar severitatea lor crește cu doza. Exemple: eritem cutanat tranzitoriu ~# Gy, epilare temporară ~# Gy, opacifiere a cristalinului/cataractă ~# Gy (ICRP #). De aceea doza la piele este monitorizată în procedurile lungi ghidate fluoroscopic.
 a4a2847a	TR scurt + TE scurt → ponderat T1; TR lung + TE lung → ponderat T2; TR lung + TE scurt → densitate de protoni.
 a4be5f34	Izotop
 a4eeda8f	Leziune
+a50bb8ca	Doza electronilor scade rapid dincolo de o anumită adâncime, ideal pentru ținte superficiale. Reguli rapide (E în MeV, adâncime în cm): R9# ≈ E/# (adâncimea de tratament), R8# ≈ E/#, parcurs practic Rp ≈ E/#. Doza la suprafață este mare (#–# %) și crește cu energia; bolusul o mărește și mai mult și scurtează parcursul în pacient.
 a50be870	Masa pacientului
 a51067fd	Dezintegrare
+a5206542	# h ≈ # timpi de înjumătățire (T½ = # h): # × (#/#)² = # MBq.
+a56385b1	Rata specifică de absorbție: cât de repede energia RF este transformată în căldură în țesut (W/kg).
 a5916fb6	Caz încheiat — 
+a59db3b2	Dezintegrarea radioactivă, producerea radionuclizilor și generatoarele, gama-camera și SPECT, PET, dozimetria internă și siguranța pacientului.
+a5a30ba8	Oxigenul „fixează” leziunile produse de radicalii liberi, așa că celulele hipoxice sunt de #–# ori mai rezistente (raportul de amplificare prin oxigen, OER). De aceea, miezul hipoxic al tumorilor este o problemă terapeutică.
 a5a57f6f	În imagistică, contrastul provine în mare parte din efectul fotoelectric, deoarece dependența de Z³ separă puternic osul (Ca, Z = #) de țesutul moale (Z efectiv ≈ #). Compton este principala sursă de radiație împrăștiată, care reduce contrastul.
 a5d46b38	DLP (scanare de # cm)
 a5ee64bb	Mediere (NEX)
@@ -884,44 +1390,74 @@ a60a634d	Doza sugarului ≈ # µSv (legea inversului pătratului: debitul de doz
 a6310194	Consiliere
 a650d3f5	FIGURĂ INTERACTIVĂ
 a66f47bd	Grosimea plumbului
+a675b402	<b>Teste end-to-end:</b> verifică întregul lanț, de la simularea CT la iradiere, cu un fantom antropomorf.
+a6b773b5	Ce anulează un spin-echo?
 a6e53476	Bobină RF de corp
 a6f33ef9	Corect: o comparație numerică (fondul natural ≈ # mSv/an ≈ # µSv/zi), împreună cu justificarea și ALARA.
 a704e2e8	Secțiunea eficace Klein–Nishina stabilește unghiul de împrăștiere Compton și energia electronului de recul. Simularea Monte Carlo urmărește fiecare foton și electron; doza converge cu o incertitudine statistică σ ~ #/√N.
 a72ca2ae	Adaugă un timp de înjumătățire biologic și vezi timpul de înjumătățire efectiv (I-#)
 a77fb204	Când un electron de pe un strat interior este îndepărtat, un electron exterior ocupă locul liber, iar diferența este emisă ca radiație X caracteristică sau ca electron Auger. Energiile caracteristice sunt specifice elementului; linia Kα a wolframului dintr-un tub de raze X este la ≈ # keV.
 a7ae7cae	# MeV
+a7b12571	Examinare abdominală: CTDIvol # mGy pe # cm. DLP = # mGy·cm, E ≈ # × # ≈ # mSv — circa # ani de fond natural.
+a7fc4636	Dacă centrul unui fantom cu apă pare mai întunecat decât marginea, care este cauza?
+a81646ff	Fereastra de energie (# keV ± # % pentru Tc-#m) respinge majoritatea fotonilor împrăștiați.
 a85562cb	Screeningul pentru sarcină a fost omis: fătul ar fi putut fi iradiat fără să se știe.
+a85680c5	#/# (# %)
 a861d965	Reconstruiește
 a86b43b2	Filtru bowtie + colimator
+a8721f49	Dozele la organele din afara câmpului sunt deja foarte mici; un ecran în câmp degradează imaginea și face ca expunerea automată să crească doza.
 a87f9edd	Fiecare linie este o coincidență (LOR): verde = adevărată, galben = împrăștiată, roșu = aleatorie. Strânge suficiente numărători, apoi „Reconstruiește”.
 a8b4a774	SSDE — CTDIvol corectat pentru diametrul efectiv
+a8ca95fa	≤ # %
+a8efac85	<b>Optimizarea (ALARA):</b> dozele se mențin cât de mici este rezonabil posibil; pentru pacienți, aceasta înseamnă reducerea dozei cu păstrarea calității diagnostice (DRL sunt un instrument).
 a93ad5ad	zgomot σ (HU)
+a949da20	Randamentul tubului
 a97badd0	Fă prima scanare și privește cum se umple sinograma
 a97d3fea	Energie efectivă (monoenergetică)
 a9887e52	Centrul de învățare
 a99ef883	Se calculează…
+a9ec004a	pitch = avansul mesei pe rotație ÷ colimarea totală
 a9f0a4e6	Puncte
 a9f3146e	Apă / os / plumb
+aa119389	ESAK
+aa1209da	Care este doza efectivă aproximativă a unui CT toracic cu DLP de # mGy·cm?
 aa28ed13	Cultură celulară (#D)
 aa2ce59e	Histograma doză-volum (HDV)
+aa36db58	≈ # MV
 aa430d6d	Nejustificat: CT toracic pediatric ≈ #–# mSv față de ≈ # mSv pentru o radiografie PA. Încalcă principiul justificării (ICRP #).
 aa4446a7	Filtrat (intrare)
+aa7069a5	Un magnet supraconductor nu poate fi pur și simplu „oprit”. Un quench eliberează heliul, este costisitor și poate reduce oxigenul din cameră; se face doar când viața e în pericol (de ex. cineva prins de magnet). În stop cardiac, pacientul este scos în zona III pentru resuscitare.
 aa7120ec	Opresc metforminul # h, apoi scanez
 aaaa64f1	Încărcarea tubului
+aad07647	Mișcarea
 aaede69c	ACR Appropriateness Criteria și ACOG: întâi ecografie, apoi IRM fără gadoliniu — fără radiații ionizante.
 aaee7048	Durata scanării (# fază, ETL #)
+ab06bf6d	Timpul de inversie STIR pentru grăsime (T1 ≈ # ms) la # T: TI ≈ # × # ≈ # ms; în practică se folosesc #–# ms, deoarece TR este finit.
 ab14bcac	Tomografie computerizată
 ab25d4ea	Factor de retroîmprăștiere BSF ≈ #. DAP (Gy·cm²) nu depinde de distanță și se convertește în doză efectivă cu coeficienți: torace PA ≈ #, abdomen ≈ #, bazin ≈ #, craniu ≈ # mSv/(Gy·cm²). Torace PA tipic: ESAK ~#–# mGy, E ~# mSv.
+ab344af2	<b>Coincidențe adevărate, împrăștiate și aleatorii:</b> cele aleatorii cresc cu pătratul activității (corectate cu o fereastră întârziată); împrăștierea se corectează prin modelare.
 ab834a11	Timp de înjumătățire biologic (# = niciunul)
 ab8ca2c5	Fantomă cu apă
+aba2f3f7	Fluoroscopia pulsată și ratele mici de cadre (de ex. # fps) reduc proporțional doza.
+abb049f7	Fascicule de electroni
+abc084d1	Ce se întâmplă, aproximativ, dacă tratamentul unei tumori de cap și gât se prelungește cu o săptămână?
+abcdcf7a	Ce valoare a EBR se folosește în protonoterapia clinică?
 abdee8d2	Fotonii MV interacționează în apă mai ales prin împrăștiere Compton; energia este depusă de electronii secundari pe câțiva cm. De aceea doza este mică la suprafață și crește până la dmax (<b>build-up</b>; protejarea pielii). Apoi scade prin atenuare și legea inversului pătratului.
 abe195be	Treci la fereastra pulmonară pe o secțiune de torace
 abe68d6f	Frecvență respiratorie
+abfef648	<b>Film radiocromic (EBT3/EBT4):</b> distribuție de doză #D cu rezoluție spațială mare, folosită pentru controlul de calitate IMRT al pacientului.
+ac46edc7	În formula lui van Herk, de ce eroarea sistematică (Σ) are un coeficient mai mare decât eroarea aleatorie (σ)?
 ac5b89c3	Doză pe fracție
 ac720a66	Fascicul îngust și larg: factorul de acumulare
 ac737796	Face imaginea fasciculului de tratament la ieșire (imagine portal); folosit pentru verificarea formei câmpului și a dozei livrate.
+ac7d67eb	Incertitudini
+ac92d741	Cum se monitorizează doza la cristalin pentru un lucrător care poartă șorț de plumb?
 aca79e3e	Pași: 
 aced2b71	Fracționare (pacientă vârstnică)
+acf4af3c	Ce țesut are un factor de ponderare de #?
+acf8c2eb	De ce în modul electroni ținta este retrasă și se folosește o folie de împrăștiere?
+ad7cb1fd	A = λ·N     # Bq = # dezintegrare/s     # mCi = # MBq
+ad863383	Un pacient radioactiv este o vreme el însuși o sursă: debitul dozei la # m urmează Γ·A/d². Pacienții tratați (de ex. cu I-#) sunt externați după limite de debit al dozei sau de activitate stabilite de reglementările naționale, cu instrucțiuni scrise de limitare a contactului apropiat cu copiii și femeile însărcinate.
 ada7afdb	niciunul
 ada880a8	Teoria va apărea în curând.
 adbf56a0	Energia: razele γ sunt mereu mai energice
@@ -930,16 +1466,31 @@ ae20a6a3	Puterea de oprire crește ca #/β² pe măsură ce protonul încetineș
 ae27b827	Mod cazuri clinice
 ae6bb2bb	max. 
 ae888d5f	Izodoza de # % a electronilor se îngustează în profunzime: decupajul trebuie să fie cu ~# cm mai mare decât leziunea.
+aeb91213	Volume ICRU
+aebe6d8f	Scăpările sunt limitate la ~# % din sarcina de lucru; împrăștierea depinde de unghi și de dimensiunea câmpului.
 aef94af7	Corect. 
 af010c63	Os (coastă/bazin)
+af366776	La o pacientă însărcinată cu uterul în fasciculul primar, doza fetală ≈ SSDE; ea este mult sub # mGy, unde nu se așteaptă efecte deterministe (ICRP #).
+afbed5fb	Care este pitch-ul pentru o colimare de # mm și o avansare a mesei de # mm pe rotație?
 afe72516	Maximul ascuțit de doză de la capătul parcursului unei particule încărcate grele.
 afe8043f	timp (h)
+aff91e2c	Supraviețuirea celulară este descrisă cel mai bine de modelul liniar-pătratic (LQ). Termenul α reprezintă leziunile letale produse de o singură traiectorie, iar termenul β interacțiunea leziunilor din două traiectorii separate.
+b0411b94	De # ori
 b081abb7	tranziție izomerică (IT)
+b08d33bd	Radioterapia conformațională #D folosește câteva câmpuri fixe modelate cu MLC. IMRT împarte fiecare câmp în segmente mici pentru a modula intensitatea, iar planificarea inversă optimizează o funcție obiectiv (dozele la țintă și constrângerile pentru OAR). VMAT variază continuu MLC-ul, debitul dozei și viteza gantry-ului în timpul rotației, oferind calitate IMRT în câteva minute.
 b0adb207	De ce al doilea SVJ al unui fascicul polienergetic este mai mare decât primul?
 b0c23fb1	Activități (echilibru tranzitoriu)
+b0ca3b9d	Câte SVZ de ecranare reduc debitul dozei de # de ori?
+b0d829f3	≈ # cm
 b0db6938	 zile
+b0e35e18	Doar protecție împotriva radiației beta
+b0e55336	<b>Corecția de atenuare:</b> cei doi fotoni traversează împreună toată grosimea corpului; din CT se construiește o hartă μ la # keV.
+b0e5e70b	SPECT reconstruiește secțiuni, ca în CT, din proiecții achiziționate rotind camera în jurul pacientului (de obicei OSEM). Corecția de atenuare folosește CT-ul unui SPECT/CT.
 b0f260dc	Nu este prima alegere la suspiciune de pneumonie; incidența laterală necesită mai multă doză și singură nu ajunge.
 b11e7606	Care puncte din formularul de screening necesită ACȚIUNI SUPLIMENTARE înainte de RMN? (selectează toate variantele aplicabile)
+b17551b5	De câte ori sunt, aproximativ, celulele hipoxice mai rezistente decât cele bine oxigenate (LET mic)?
+b18eabf1	Conform teoriei cavității Bragg–Gray, doza în mediu este egală cu doza în cavitate înmulțită cu raportul puterilor de oprire masice mediu/gaz. În practică se folosește protocolul IAEA TRS-# sau AAPM TG-#:
+b1a99313	Se pierd ≈ # Gy EQD2 din eficacitate prin repopulare
 b1b83851	adâncime în apă (cm)
 b1c222ab	EQD2 = n·d·(d + α/β)/(# + α/β). Tumorile cu α/β mic (prostată ≈ #) beneficiază de hipofracționare.
 b1c8c38e	Bara: cota zilnică a unui lucrător (# mSv/an ÷ # zile = # µSv).
@@ -949,33 +1500,55 @@ b232d1f0	Acoperirea leziunii: minim # % — completă.
 b2697ad8	Razele X și γ sunt același tip de fotoni; diferă doar prin origine. Razele X provin de la electroni (frânare sau tranziții între straturi), razele γ din nucleu (dezintegrare radioactivă).
 b2972ae3	Cap
 b2aad11c	Parametri de scanare
+b31c403d	<b>Contor Geiger–Müller:</b> contor foarte sensibil pentru căutarea contaminării; nu oferă informații despre energie. Pentru măsurarea debitului de doză este preferabil un monitor cu cameră de ionizare.
+b32962b7	Mărimea istorică expunere (C/kg) măsoară doar ionizarea în aer. Crearea unei perechi de ioni în aer costă în medie W/e = # J/C, deci K_aer = X · #.
 b33eb976	Model: geometrie cu fascicul paralel (date în evantai reordonate), detector care integrează energia, împrăștiere neglijată.
 b34b3fcd	Pauză / Pornește
+b357382c	Artefacte
+b3615a21	Ce fracție din M₀ a recuperat magnetizarea longitudinală la un T1 după un puls de #°?
 b3755394	Probabilitatea fotoelectrică crește foarte abrupt cu numărul atomic și scade abrupt cu energia — de aceea un kVp scăzut crește contrastul osos.
 b38452f0	Marcaj (TR sau TE)
+b391a968	Cu un al doilea dozimetru la nivelul gulerului, în afara șorțului
+b397b1d8	Pielea
 b3af5cc8	#. ALARA și limite
+b3c141a0	Siguranța RMN
 b3f9f066	Mă doare foarte tare… și nu știu dacă aș putea fi însărcinată.
+b43b8664	S = exp(−α·D − β·D²)        în n fracțiuni:  S = exp[−n(α·d + β·d²)]
+b45d336f	Cât mai rămâne din # MBq de Tc-#m după # ore?
 b48eaaae	#. Spațiul k
+b4b43e70	Lângă intrarea în tunel, unde gradientul spațial al câmpului este cel mai mare
+b4cffd96	<b>Deplasarea chimică:</b> o bandă luminoasă/întunecată la interfețele grăsime-apă pe direcția de frecvență.
 b4d90f43	Doza pacientului
+b50e98d5	Trei principii fundamentale (ICRP #)
 b528da3e	Opacă
 b5377fa4	Oțel
+b53e3b71	Pentru a compara schemele de fracționare folosim doza biologic efectivă (BED) și doza echivalentă în fracțiuni de # Gy (EQD2):
 b54b4085	Apropie-te de container (< # m).
 b54d1bc5	Explorează laboratoarele
 b58894f8	În sistemul rotitor (x', y') ne rotim cu frecvența Larmor: rămân vizibile doar abaterile de frecvență (Δω).
 b589c5ea	Lățimea câmpului (izocentru)
+b5bc01ee	Acolo domină radiația de frânare
+b5df3592	Pentru a proteja tubul
 b5f6bbb8	țintă 
+b6289cee	Secvențe și contrast
+b63830af	Polaritatea camerei
 b6b8c8bf	Precesie Larmor, ecuațiile Bloch, T1/T2, ecou de spin, spațiul k.
+b6db5e97	Care este un criteriu gamma tipic pentru QA-ul pacienților IMRT?
 b6e00083	Inimă
 b6e56670	Stratul de semiatenuare și de deciatenuare
 b6fab935	Ponderat DP
+b70423e7	Factorul F Mayneord
 b72c1283	#. Fascicule de fotoni și doza în profunzime
 b7312de4	Aer −#, apă #, grăsime ≈ −#, țesuturi moi #…#, os #…# UH. Pentru că ochiul distinge doar ~#–# niveluri de gri, imaginile se afișează printr-o fereastră (lățime W, nivel L): plămân W1#/L−#, țesuturi moi W4#/L4#, os W2#/L4#, creier W8#/L3#.
+b7362550	Timp de repetiție (între excitații) / timp de ecou (între excitație și semnal).
 b77556fd	Energia unui foton este proporțională cu frecvența sa: E = h·ν. O scurtătură utilă este E[keV] ≈ # / λ[nm]. Undele radio (RMN), lumina vizibilă și razele X/γ sunt același fenomen la energii diferite.
 b7d0e925	Energia fotonului incident
 b7fdc96d	De la ultima eluție
 b8095719	EANM: A·t ~ greutate. O examinare mai lungă permite activitate și doză mai mici.
+b80f1610	PET folosește doar fotoni împrăștiați
 b846a137	Alege nivelul secțiunii și apasă SCAN. Atinge imaginea ca să măsori UH.
 b85a81d5	Schema de fracționare
+b8624b08	Un labirint face ca fotonii împrăștiați să ricoșeze de mai multe ori înainte de a ajunge la ușă. Peste # MV, ușa conține și polietilenă cu bor și plumb împotriva neutronilor și a radiației gama de captură. După instalare, o verificare radiometrică este obligatorie.
 b8628c9b	Os spongios
 b86f8853	EXEMPLU REZOLVAT
 b8757751	Da; radioterapia externă nu vă face radioactiv — nu rămâne nimic după oprirea aparatului
@@ -987,32 +1560,66 @@ b8e79c59	Pentru apă μ/ρ (# keV) = # cm²/g, deci μ = # cm⁻¹. SVJ = #/# = 
 b8ebb4eb	Momentul maximului de Tc-#m
 b8f48602	Constante
 b8ff3ac7	Câmp #×# cm: potrivit pentru plămâni.
+b90ddbf5	Plumbul nu lasă să treacă fotonii MV
 b92e17d6	Grilă folosită: un torace de copil de ~# cm produce puțină radiație împrăștiată; o grilă (factor Bucky #–#) crește doza inutil.
 b95e783d	Apropie-te de sursă (< # m).
 b999f041	Carcinom bazocelular de # cm pe obrazul stâng (confirmat prin biopsie)
 b9a92b6b	Doză ≈ # µSv: aproximativ # zile de fond natural. Beneficiul diagnosticării pneumoniei depășește cu mult riscul.
+b9bc8c97	Dozimetre și calibrare
 ba151840	Cum variază, aproximativ, probabilitatea fotoelectrică?
+ba1a8e96	Ḣ ~ #/d²: # × (#/#)² = # µSv/h.
 ba1de520	Frecvența Larmor f = γ̄·B₀ (# MHz/T). SAR ~ B₀²: ~#× încălzire RF la # T.
+ba32dc5a	<b>Ponderare DP:</b> TR lung, TE scurt. Arată diferențele de densitate protonică; folosită în imagistica musculo-scheletală (menisc).
+ba35bb9c	Peste ce energie devine importantă producția de fotoneutroni?
 ba44e340	SSDE 
+ba5ac16c	Căderea distală abruptă a protonilor este un avantaj, dar incertitudinea parcursului este un risc. Din cauza erorilor de conversie a UH din CT în putere de frânare și a modificărilor anatomice, se folosește o marjă de parcurs de obicei de „# % + # mm”, iar fasciculele sunt dispuse astfel încât să nu țintească direct un organ critic.
 ba66cab6	Zgomot acceptat la un pacient corpolent: ≤ # HU în ROI-ul hepatic (≈ # HU la un adult mediu). Alege kV și mAs, apoi SCANEAZĂ. Menține SSDE sub # mGy.
 bade5b16	Se rotește cu gantry-ul de #–# ori pe secundă și trimite un fascicul în evantai prin pacient din fiecare unghi.
+bb1b430e	# % / # mm cu ≥ # % puncte trecute
+bb4c1849	Cameră de ionizare (TRS-#)
 bb5bd1d0	Energie medie / efectivă
 bb62355a	Acoperirea leziunii: minim # % — marginea profundă e sub # %: energie prea mică.
 bb757050	eluează
+bb961b50	Prin încălzire
 bbabaa0a	Scanare mai lungă decât e nevoie: de la creasta iliacă la simfiză ajunge pentru apendicită.
+bbadf5f8	Indicele de deviație (DI) arată cât de departe este EI de țintă: DI = # la țintă, # ≈ # % peste, # = dublu, −# ≈ # % sub. Intervalul uzual de acceptare este de la −# la #.
+bc1b6d45	Fracțiunile mari cruță rectul
 bc38932a	Dozimetrie de referință (IAEA TRS-#) și măsurători PDD/profil: o cameră de ionizare este deplasată prin apă. Aici fiecare urmă este o particulă urmărită prin Monte Carlo.
 bc506327	Zeynep: „Trebuie să mă odihnesc liniștită după injecție?”
 bc566d93	Doza fetală ≈ SSDE = 
 bc5d4211	Livrează tot
+bc7b5e89	Pitch > # înseamnă scanare mai rapidă la doză mai mică, cu golurile completate prin interpolare; pitch < # înseamnă suprapunere și doză mai mare.
+bc8245d8	Corectează durificarea fasciculului
+bccb7e5d	Colimatorul: sensibilitate versus rezoluție
+bcdac932	Mărirea
+bcdc6b6f	<b>Aliasing (pliere):</b> țesutul din afara FOV se pliază pe direcția de fază.
+bd1d615b	≈ # Gy
+bd328853	Leziunile ADN
 bd77abf8	Chirurgie de urgență: apendicită acută? CT abdomino-pelvin cu contrast (Dr. Şahin)
 bd7bba09	semnal
+bd8ee7fc	≈ # minute
 bd9533e5	Limfom Hodgkin — stadializare
+bd963d7a	Ce energie a electronilor acoperă o tumoră până la # cm cu izodoza de # % (fără bolus)?
+bd9c904d	Timp, distanță și ecranare
+bdaf69c4	Fluoroscopia
+be1fdde1	Plasarea unui șorț de plumb în câmp
+be4c8b99	Scade de patru ori
+be515cc5	Nu depun aproape nicio doză dincolo de țintă (fără doză de ieșire)
+be58929f	Ecoul de gradient și substanțele de contrast
 be5b1f2d	Întrebarea pacientului
+be5c7cfc	Imagistica cu raze X
 be65f185	Pigmenții cu oxid de fier se pot încălzi: informează pacientul, comprese reci la nevoie. Nu este o contraindicație.
+be76f7c6	Acceleratorul liniar
+be78efa4	Un contor GM numără evenimentele individuale și găsește rapid contaminarea de nivel scăzut; pentru măsurarea dozei, o cameră de ionizare calibrată este mai exactă.
+beb99ac5	<b>Limitarea dozelor:</b> limitele se aplică lucrătorilor și populației — nu pacienților, deoarece beneficiul este al lor.
 bf06df89	Energia electronilor
 bf300ab6	filtrat
 bf62a8bf	Săgeata galbenă este magnetizarea netă M. Un impuls RF o înclină față de B₀; se recuperează longitudinal cu T1 și scade transversal cu T2. Săgețile colorate sunt izocromate cu frecvențe diferite (T2*).
+bf689b25	Legea dezintegrării
+bf6a994f	Fotonii nu pot fi refractați, așa că imaginea este formată de un colimator de plumb care lasă să treacă doar fotonii dintr-o anumită direcție — doar ~# % trec. La un colimator cu găuri paralele rezoluția se degradează cu distanța față de sursă, de aceea detectorul se așază cât mai aproape de pacient. Găurile mai lungi și mai înguste îmbunătățesc rezoluția și scad sensibilitatea.
 bf6d791a	În fasciculele largi și fotonii împrăștiați ajung la detector; factorul de acumulare B ≥ # ține cont de asta. Aici se folosește B ≈ # + k·μx.
+bf6f2da2	Cât durează un spin-echo convențional cu TR # ms, # linii și NEX #?
+bf7ae11a	≤ #–# %
 bfaba695	Concentrație relativă de activitate (față de maximul imaginii)
 bfb0dfa4	Fără alergii; creatinină normală
 bfce608a	Pacient / fantomă
@@ -1028,26 +1635,39 @@ c09eec06	MLEM este o metodă iterativă care modelează direct statistica Poisso
 c0aad756	Arată urmele particulelor
 c0f5bb27	Axa de rotație. Centrarea pacientului aici contează: descentrarea anulează filtrul bowtie și crește zgomotul și doza.
 c124dd95	Fiecare celulă supraviețuiește unei fracții cu probabilitatea S(d) = exp(−αd − βd²). Țesuturile cu α/β mic sunt mai sensibile la doza pe fracție.
+c131e9c7	μ într-un singur punct
 c1329b8d	Elif: „Vă rog, folosiți cea mai mică doză pentru copilul meu.”
 c14f1584	Scanare totală (# poziții)
 c1811e60	IGRT zilnic corectează #–# mm de mișcare a organului și permite margini PTV de ~# mm (van Herk: M = #Σ + #σ).
+c1b213e5	Electronii dintr-un fascicul de fotoni de # MV
 c1d1684b	Fascicule
+c27c4e12	Pe partea tubului
 c285174a	adâncime în pacient (cm)
+c296a83d	Radiația împrăștiată și grilele
 c2dcb4a3	A aștepta mult mai mult este inutil: F-# s-a dezintegrat aproape complet, iar alăptarea este întreruptă fără rost.
 c2e4e241	tranziție izomerică
+c2e97a22	De ce EI?
 c2f67ba3	# mm Al + # mm Cu
+c2fe5429	<b>Redistribuire:</b> celulele trec în faze sensibile ale ciclului (G2/M).
 c341622f	Doza bebelușului provine mai ales din fotonii de # keV din corpul mamei (expunere externă); foarte puțin FDG trece în lapte. Când poate fi reluat contactul apropiat (ținut în brațe, alăptare la ~# cm)? Obiectivul jocului: doza sugarului ≤ # µSv.
+c3593ab4	<b>FFF (fără filtru de aplatizare):</b> crește debitul dozei de #–# ori, permițând tratamente stereotactice scurte.
 c35ec4c3	Antero-posterior (AP)
 c3a14e9a	apă μen/ρ
+c3e46e55	Tensiunea de vârf a tubului; stabilește energia maximă a fotonilor și penetrarea fasciculului.
 c3e47672	Ecou de spin
 c3ff1e50	Electronii din catod sunt accelerați de tensiunea tubului (kVp) spre un anod de wolfram. ~#% din energie devine căldură, ~#% raze X. Electronii frânați în câmpul nucleelor emit <b>radiație de frânare</b> cu spectru continuu până la E_max = kVp.
 c4547490	Fizica spinului
+c481cc03	<b>Codificarea în frecvență:</b> în timpul citirii, astfel încât fiecare coloană emite la altă frecvență.
 c487c009	Fereastra W(f): Ram-Lak (clară, zgomotoasă), Shepp-Logan (sinc), Cosinus, Hann (netedă, zgomot mic). Compromis claritate ↔ zgomot.
 c4a7b302	Culorile urmelor: galben = foton, albastru = electron, magenta = pozitron, portocaliu = proton, verde = interacție nucleară.
+c4b3c7a6	PDD(d) = # · D(d) / D(d_max)   (SSD fix)
+c4cbd544	Trei câmpuri, trei riscuri
 c4ef192a	fără grilă, 
+c52f63a4	Intensitatea sursei se exprimă ca intensitate a kermei în aer S_K (U = µGy·m²/h); Λ este constanta debitului dozei, g(r) funcția radială a dozei, iar F(r,θ) funcția de anizotropie. O sursă de Ir-# pierde ~# % pe zi, de aceea timpii de tratament sunt prelungiți automat, iar sursa este înlocuită aproximativ la fiecare # luni.
 c558bcea	Ocupație: sudor / polizare (# ani)
 c5748eb4	Screening de siguranță RMN
 c57b585f	Consola arată CTDIvol. Ce mărime reprezintă cel mai bine doza acestui pacient voluminos?
+c58f8d26	Cu pătratul activității
 c59c3c01	Ayşe: „Ce e chestia asta ca o gelatină? Mi-o puneți pe față?”
 c5d4754f	# mg/dL
 c5e874f2	Protectoarele gonadale nu mai sunt recomandate de rutină; colimarea este cea mai bună protecție.
@@ -1057,26 +1677,50 @@ c6a141c6	Doza în profunzime pe axa centrală
 c6b800d4	#. Spin și precesie
 c6c23301	Corect. (Un implant permanent de surse I-# ar implica restricții de contact apropiat pe termen scurt.)
 c6c4ee23	Probabilitatea controlului tumoral
+c6d283b2	ITV
 c6d6b1b5	Asta este valabil doar pentru ~# cm (un SVI).
 c6d8a5ee	 (cap)
+c6e71781	Pentru # MBq Cs-# (Γ ≈ # µGy·m²/(MBq·h)), debitul kermei în aer la # m este ≈ # × # ≈ # µGy/h, adică H*(#) ≈ # µSv/h. La # m scade la un sfert (≈ # µSv/h), la # m la o nouime. Cu un SVJ al plumbului de ≈ # cm pentru Cs-#, # cm de plumb (≈ # SVJ) îl reduc încă de ~# ori.
+c6f4f9c3	Brahiterapia
+c70bdae0	GTV
 c7801b3c	LECȚIA URMĂTOARE
 c7e4693e	Notă despre model: împrăștierea folosește un nucleu simplificat dependent de câmp și grosime; DQE a detectorului și estomparea focarului sunt neglijate.
 c81dd039	Măduva spinării Dmax < # Gy
 c8423429	Potrivit pentru sugari și pacienți imobilizați la pat, dar umbra cardiacă este mărită, iar organele anterioare primesc mai multă doză.
+c8588751	Planificarea tratamentului: volume, IMRT/VMAT și HDV
+c86f5711	Spectrul are două părți: radiația de frânare continuă de la # până la kVp (Kramers: I(E) ~ Z(E_max − E)) și liniile caracteristice — pentru wolfram Kα ≈ # keV și Kβ ≈ # keV, care apar doar când kVp > #.
+c8814047	Doza efectivă nu se poate măsura direct, așa că se folosesc mărimi operaționale: echivalentul de doză ambientală H*(#) pentru monitorizarea zonelor și Hp(#) (întreg corpul) și Hp(#) (piele, mâini) pentru dozimetria individuală.
 c8828318	Legea inversului pătratului: înregistrează citiri la ~# m, ~# m și ~# m
+c8e11800	Ce trebuie făcut înainte de RMN la un sudor?
 c8f76d70	Doza este mult sub pragul de ~# mGy pentru malformații; riscul suplimentar de cancer în copilărie este foarte mic (≈ # % la # mGy). Nu există niciun motiv medical pentru întreruperea sarcinii.
 c901ddc3	Lichid articular
 c91a26b5	Prostata se mișcă de la o zi la alta odată cu umplerea vezicii și a rectului. Cum verifici fiecare fracție?
+c91ce3d7	Asigurarea calității
 c9248cc8	Ecranare și colimare
 c926cd17	Apă / LCR / urină
+c93c2d38	Adevărata relaxare T2
 c944c820	Împrăștierea Compton dispare la această energie
 c964528c	La detector (centru)
+c990d8eb	Artefacte frecvente
+c997bac9	În expunerea medicală beneficiul revine pacientului, deci se aplică justificarea și optimizarea (DRL), dar nicio limită.
+c9cd7e94	CT-ul modern este de generația a treia: tubul și detectorul curbat se rotesc împreună (~#–# s pe rotație). Inelele colectoare permit rotația continuă, astfel că scanarea elicoidală se face în timp ce masa se deplasează. Detectoarele multislice (#–# rânduri) acoperă #–# cm pe rotație.
 c9db273f	Alege o limbă
+c9fe7760	Protonii în câmp magnetic
 ca1a3109	De ce se vede cel mai bine contrastul cu iod la un spectru cu maximul în jur de # keV?
+ca2fbdf7	Avantajul Z³ al efectului fotoelectric dispare la MV; atenuarea pe unitatea de masă aproape nu depinde de material, astfel că plumbul/oțelul se adaugă doar unde lipsește spațiul.
 ca42e28e	Ia deciziile în cazul radiografiei toracice pediatrice a lui Emir, vezi rezultatul și află motivul fiecărui pas. Laboratoarele tehnice te așteaptă când ești gata.
+ca83a24e	<b>DAP (KAP):</b> kerma × arie în Gy·cm². Nu depinde de distanța față de tub (aria crește ca d², kerma scade ca #/d²) și reflectă energia totală transferată.
+ca900d67	<b>Reactor:</b> captură de neutroni (n,γ) sau fisiune; Mo-# (părintele Tc-#m) și I-# provin în mare parte din fisiunea U-#.
 caa249cb	Spațiul k (log |S(kx, ky)|)
 cae55017	Foton
 cae6e1b1	Opt subiecte de la bazele fizicii medicale până la clinică. Fiecare lecție are explicații, formule, exemple rezolvate, figuri interactive bazate pe modele fizice reale și un test scurt. La final poți trece la laboratorul și cazul clinic corespunzător.
+cb0b7009	Pentru a amplifica, prin efectul fotoelectric, micile diferențe de atenuare dintre țesuturile sânului
+cb2d5fcc	În era filmului, doza excesivă înnegrea imaginea și se observa imediat. Sistemele digitale ajustează automat fereastra, astfel încât chiar și o imagine supraexpusă arată „frumos”: riscul creșterii insidioase a dozelor (dose creep). De aceea IEC ## definește indicele de expunere (EI), proporțional cu kerma în aer la detector: EI = # × K (µGy).
+cb37627d	Raportul țesut-maxim: doza la adâncimea d împărțită la doza la d_max în același punct (SAD fixă).
+cb52d7bc	Electronii părăsesc un filament de wolfram încălzit (catod) prin emisie termoionică și sunt accelerați spre anod de kVp. Doar ~# % din energia lor devine raze X; restul este căldură, de aceea anodul se rotește și are o capacitate termică mare.
+cb6a7d48	Cu DS sistematică Σ = # mm și aleatorie σ = # mm, marja PTV este # × # + # × # = # mm. Dacă IGRT zilnic reduce Σ la # mm, marja devine # + # = # mm.
+cb70c670	<b>QA specific pacientului:</b> planul IMRT/VMAT este măsurat într-un fantom și comparat prin analiză gamma (de ex. # %/# mm, ≥ # % puncte trecute; TG-#).
+cb8ff794	Legea inversului pătratului este valabilă pentru surse punctiforme la distanțe mai mari decât dimensiunea sursei. De foarte aproape (de ex. ținând o sursă în mână) doza crește extrem de rapid: folosiți întotdeauna un clește — # cm în loc de # cm reduc doza la mâini de aproximativ # de ori.
 cb988a96	După # h (de la # MBq)
 cbad3f92	Pozitronul se anihilează în ~# mm de țesut; scapă doar fotonii de # keV.
 cbd54f80	Material
@@ -1084,80 +1728,139 @@ cbd7b457	Formule rapide
 cc25a532	Gât
 cc4c7f13	Lecția 
 cc4da60f	Coincidențe aleatorii
+cc673698	Indicele de deviație
 cca2c192	Filtrare totală = # mm Al (inerentă) + adăugată. Reglementare: ≥ # mm Al (># kVp).
 ccdfbfa0	Populație
+cd2f8f64	Construcția tubului
+cd3156fd	Clinic, dozele de protoni se prescriu în Gy(RBE) cu o EBR constantă de #, deși la capătul distal al vârfului, unde crește LET, EBR poate depăși #.
 cd38aa8b	Așteptare înainte de contact apropiat
+cd487f09	Doza pacientului (cu factorul Bucky)
 cd4c6563	Pupitru de comandă
+cd617903	<b>Lipsa de fotoni:</b> la pacienții mari, mai ales la nivelul umerilor și al bazinului, lateral ajung prea puțini fotoni și apar dungi orizontale.
 cd86acc3	Închide
 cd9bfde6	Arată carcasa gantry-ului transparentă
 cdd62ae0	Arc (tip VMAT)
+cddf6a03	Temperatura și presiunea
 cde4341b	Unghi: #° = anterior (AP), #° = stânga pacientului, #° = posterior (PA), #° = dreapta.
 ce0454c7	Sferele mici arată o activitate măsurată mai mică din cauza efectului de volum parțial (RC < #).
 ce3486fb	orizontal: x (−#…# cm) • vertical: adâncime #→# cm
 ce483eb5	Grosime
 ce6b3dac	R8# distal (MC)
 ce715e71	Un scintilator CsI:Tl transformă razele X în lumină, iar o matrice de fotodiode a-Si transformă lumina în sarcină. Indicele de expunere (EI) arată doza care ajunge la detector.
+cf1199b5	Electronii sunt ușori, așa că sunt deviați la unghiuri mari și urmează traiectorii în zigzag. În medii cu Z mare contează și radiația de frânare (pierderea radiativă) — astfel produce un tub raze X. Regulă aproximativă: parcursul electronilor în apă este ≈ E/# cm (E în MeV).
 cf377b43	Examen de exersare
+cf5b8c68	Trebuie să crească de √# ori
 cf781cab	Mama cere un șorț de plumb pentru Emir. Ce faci?
 cfc2c2f6	Filtrarea (Al, Cu) elimină dinainte fotonii de energie joasă pe care pacientul i-ar absorbi oricum și care nu ajung niciodată la imagine, ceea ce scade doza la piele. Și artefactul „cupping” din CT provine din durificarea fasciculului.
 d020ae28	Într-o coloană de alumină ecranată cu plumb, Mo-# (T½ # h) se dezintegrează în Tc-#m (T½ # h). Serul fiziologic trecut prin coloană spală doar pertehnetatul de Tc-#m (eluție).
+d0527b5f	De ce buncărele de tratament MV sunt ecranate cu beton și nu cu plumb?
+d0591deb	Care grup nu are limită de doză?
 d070218a	Adâncime
+d0a19740	Erorile în radioterapie sunt sistematice și pot afecta mulți pacienți, de aceea verificările independente ale UM, aprobarea planului de către două persoane și o cultură a raportării incidentelor sunt responsabilități esențiale ale fizicianului medical.
 d0a43715	Un magnet supraconductor nu poate fi oprit pur și simplu; un quench eliberează heliul, este costisitor și periculos — doar în situații cu risc vital.
+d0de0de1	<b>α:</b> un nucleu de He-# cu LET foarte mare și parcurs < # mm (Ra-#).
 d0fd90b6	Expunere automată la modificare
+d1098233	η ≈ #×#⁻⁹ · Z · V    (wolfram Z = #, V = # kV → η ≈ # %)
 d1998663	Da, dar apare doar linia Kβ
 d1af3044	Plombele din amalgam și compozit sunt sigure; pot produce doar artefacte.
 d1b7ec5b	EQD2 tumoral = n·d·(d + #)/(# + #) = # Gy — subdozat, risc de eșec biochimic.
+d1b834b9	Particula α are sarcină dublă (z² = #) și este lentă, cu un LET de ~# keV/µm, față de ~# keV/µm pentru electronii puși în mișcare de fotoni.
 d21058ed	Atinge podeaua pentru a plasa ecranul.
+d21b004d	Placa de plumb cu orificii care lasă să treacă spre cristalul gama-camerei doar fotonii dintr-o anumită direcție.
+d2223509	CTDIvol este doza într-un cilindru PMMA de # cm. Un pacient slab (sau un copil) primește mult mai multă doză la același CTDIvol, iar unul mare mai puțină. AAPM Report # oferă un factor de conversie bazat pe diametrul efectiv: estimarea dozei specifice dimensiunii (SSDE).
+d229ed94	Direct, prin fotoni care rup ADN-ul
 d22ff1b4	Filtrul de Cu elimină fotonii de energie joasă: doză la piele mult mai mică pentru același DI.
 d252b05e	Alege un pacient din sala de așteptare, citește fișa și începe cazul. La fiecare pas decizi: răspunzi la o întrebare, setezi parametrii aparatului sau produci o imagine. Motorul fizic calculează rezultatul; apasă CONFIRMĂ ca să primești puncte și o explicație.
+d258834e	Energia medie crește
+d27f15a1	Factor de ocupare T
+d28ab5fa	V2# ≤ #–# % și o doză pulmonară medie ≤ #–# Gy mențin riscul de pneumonită simptomatică sub # %.
 d28e3e42	Punctaj: calitate diagnostică / eficacitatea tratamentului, doza pacientului (ALARA), siguranță și comunicare. ★★★ necesită ≥ # %.
 d2ab41fb	așteptat 
+d2c2e72f	Citind direct prin ce gaură a colimatorului a trecut
 d2c74831	Primul pas
 d2db263e	Un pozitron din dezintegrarea β⁺ se anihilează cu un electron în câțiva mm (parcursul pozitronului → pierdere de rezoluție), producând doi fotoni de # keV aproape opuși (±#°). Dacă doi cristale ale inelului reacționează în fereastra de timp (~# ns), se înregistrează o coincidență și o linie de răspuns (LOR).
+d3302805	De ce radiografia toracică se face PA la # cm SID?
+d3457fda	LET
+d348b1f3	Spinul și frecvența Larmor, relaxarea (T1, T2, T2*), secvențe și contrast, codificarea spațială și spațiul k, siguranța în RMN.
 d350ad22	Țesut adipos
+d37c1018	Supraviețuire LQ
+d39e2fda	<b>Susceptibilitate:</b> pierdere de semnal și distorsiune la metale și la interfețele aer-țesut (mai ales GRE și EPI).
 d4066030	Atenuare exponențială
+d424ea14	Acceleratorul liniar, doza în profunzime și calculul UM, planificarea tratamentului (volume, IMRT/VMAT, HDV), protonoterapia, brahiterapia și asigurarea calității.
+d45a18d7	Pentru ce radionuclid alăptarea trebuie oprită complet?
 d4601b55	• <b>Atenuare:</b> probabilitatea ca ambii fotoni să scape este exp(−∫μ dl) de-a lungul LOR — independent de punctul de emisie! De aceea corecția de atenuare în PET se face direct din CT.\n• <b>Împrăștiere:</b> fotonii împrăștiați Compton creează LOR greșite; fereastra de energie (#–# keV) respinge o parte din ei.\n• <b>Aleatorii:</b> doi fotoni fără legătură cad în aceeași fereastră; rata ~ activitate².\n• <b>NEC</b> = T²/(T+S+R): o măsură a calității imaginii.
 d46b8bd4	Pași
+d48da20f	O reacție tisulară cu prag, a cărei severitate crește cu doza (eritem, cataractă).
 d4ab7bf3	Pare inofensiv, dar poate intra în câmp → repetarea expunerii și creșterea dozei de către expunerea automată. Mai bine răspunzi îngrijorării mamei cu o explicație.
 d4beda32	Grilă antidifuzantă
 d4c68488	volum %
+d4dfd01b	O cameră de ionizare este un condensator care colectează sarcina creată de radiație într-un gaz. Este standardul de aur al dozimetriei de referință. Camera cilindrică de tip Farmer (# cm³) se folosește pentru fotoni de megavoltaj, iar camerele plan-paralele pentru electroni.
 d4ffd893	Raport os / apă (contrast)
 d51a0c7d	fracționat, α/β = #
 d54bb772	Edem medular
+d581622c	Efectele biologice ale radiațiilor
 d584bb20	Plămânul stâng
+d58f1655	Zone și triaj
+d5abe21a	UM (unitate monitor)
+d5b12f90	Limite de doză
 d5c4ed9d	prostată
 d5cc8e12	Urgențe pediatrice: radiografie toracică PA — pneumonie? (Dr. Aydın)
+d5dea1d4	Un proton de # MeV: R ≈ # × #^# ≈ # × # ≈ # cm. NIST PSTAR dă un parcurs CSDA de # cm, deci regula este o estimare bună.
 d5f8859c	Test pe acest subiect
 d618a937	Fascicul și calibrare
 d63556b0	Apă
 d64fa515	cu plumb
+d67796d1	Volumul-țintă de planificare: CTV plus o margine pentru incertitudinile de poziționare și mișcare.
 d68f0065	Deschide lecția: 
+d6a01349	Calitatea imaginii și artefacte
+d70f2e87	Într-un ciclotron, prin reacția ¹⁸O(p,n)¹⁸F
 d720c7e2	Acuze și solicitare
+d752ff03	Unitatea dozei absorbite, # J/kg.
 d77aac98	#. Producerea razelor X
 d77bb8f6	Deschide cazul
 d7b6610e	Electronii de # MeV ajung doar la ≈ # cm (Rp ≈ E/#): nu pot atinge prostata.
+d7d34b45	Leucemia
 d7fcdf81	Chirurgie generală: diverticulită / abces? CT abdominal cu contrast (Dr. Tunç)
+d88a6749	Nu contează
 d908d184	Mărime dozimetrică
 d9370cf8	Inversie (#°)
 d9556410	Factori de expunere
+d969abbf	D(țintă) = Σ_sursă Ã(sursă) · S(țintă ← sursă)        Ã = ∫ A(t) dt ≈ # · A₀ · T_ef
+d96b25e8	Echilibrul particulelor încărcate nu s-a stabilit încă
 d9b3e49e	Sânge / inimă
+d9cd3b9c	Modelul LQ, BED și EQD2
+d9d9a2cc	Dublând mAs
+d9fc4c9b	Histograma doză-volum: fracția dintr-o structură care primește cel puțin o anumită doză.
 da35274d	Leziunea are # cm. Ce decupaj și ce protecție a ochiului alegi?
 da435822	Data trecută a durat o veșnicie… Oare încap în aparat?
 da880d68	Sursa în mână! Du-o repede la containerul de plumb.
 dad956f3	Tc-#m atinge maximul la t_max = ln(λTc/λMo)/(λTc − λMo) ≈ # h după eluție. La echilibru A_Tc/A_Mo → #·λTc/(λTc − λMo) ≈ #.
+db1f3609	D(țintă) = Ã(sursă) · S(țintă ← sursă)
+db876443	Unitatea dozei echivalente și efective; exprimă riscul stocastic.
 db90e18f	os
 dba8b336	Îți arătăm cel mai bun prim pas.
 dbb638ff	Imagistică SPECT (os, perfuzie miocardică)
 dbbc21b7	Fizică: de ce crește zgomotul?
+dbdf67b5	Se înjumătățește
 dbf4470f	Scor 
 dc0b6beb	Bibliografie
 dc411606	Ecuațiile Bloch • precesie • ecou de spin
 dcc0d7a5	încă nerulat
+dcc2469a	O protecție gonadală
 dce06e30	IRM cu gadoliniu
+dcf29cd8	mAs
 dd2558f8	# kg / # cm
+dd49d94d	Care este un efect determinist?
+dd7b54c8	Dozimetrul de sub șorț nu reprezintă ochiul; cu o limită pentru cristalin de # mSv/an, această măsurare contează pentru personalul intervențional.
+dd9f3f2a	Cum se poate înjumătăți zgomotul?
 ddd13aac	Timp # s — prea lung, artefacte de mișcare probabile; scurtează TR sau crește factorul turbo.
 de128bc0	Zgomot acustic
+de7ed956	Protonoterapia și vârful Bragg
+de969bfd	Energia particulelor încărcate care intră și ies dintr-un volum se echilibrează; atunci D = K_col.
 deb145c5	Dau un șorț de plumb și scanez imediat
+deb1fdd9	<b>Șorț de plumb:</b> #–# mm echivalent Pb; oprește #–# % din fotonii de diagnostic, dar este aproape inutil împotriva fotonilor PET de # keV.
+ded09878	Ce recomandă QUANTEC pentru V2# pulmonar?
+dee5f315	Principiile protecției și limitele de doză
 deea998c	TR (timp de repetiție)
 deeed36b	Calitatea imaginii
 df0c22b3	Rezonanță magnetică
@@ -1169,39 +1872,60 @@ df7177fa	IDEE-CHEIE
 df76eace	activitate A(t)
 df926a69	Zgomot (ROI ficat, DS)
 dfe4e404	Timp
+dffe9654	Radiografii de orbite sau CT pentru a exclude metalul intraocular
 e026c507	foton împrăștiat E′
 e03ac455	SVJ = ln2/μ = #/# ≈ # cm.
+e06240a9	Ce are cel mai mare LET?
+e073c123	Doza la care termenii liniar și pătratic ai modelului LQ sunt egali; o măsură a sensibilității la fracționare.
 e0a49aab	Începe examenul  →
 e0bbd3df	Pragul producerii de perechi
 e0ccc31f	Meniu principal
 e0e1e90f	 zile de fond natural)
+e0f63b6b	Integrala lui μ de-a lungul razei
 e0fe199e	Cele trei principii ale radioprotecției (ICRP #)
 e15b5d80	Curba de supraviețuire celulară (LQ)
 e1940a73	Sfat: poți da clic pe un aparat din fundal oricând; nu e necesar ca să începi.
 e19d9fd0	bărbat
 e232e2c1	Parcurs practic Rp (ref.)
 e2433a82	Doza fetală ≈ SSDE (uterul în câmp). CTDIvol este o doză în fantomă și trebuie corectată pentru dimensiunea pacientului.
+e2671f77	Coincidență
+e2c75b33	Dacă pitch-ul crește de la # la # la mAs constant, cum se schimbă CTDIvol?
 e2d84590	Numărul de fracții n
 e2e5fdc7	PTV (GTV + # mm) medie = # Gy / # fracții (# Gy)
 e3232976	Suficiența numărărilor # — prea puține numărări: imagine zgomotoasă, ganglionii mici pot fi ratați.
+e327fb76	Reconstrucția iterativă (ASIR, SAFIRE, bazată pe model) estimează o imagine, o compară cu proiecțiile măsurate și o corectează; poate modela statistica zgomotului — ceea ce permite o reducere a dozei de #–# % la aceeași calitate, cu prețul unei texturi uneori „plastice”.
+e32a5d63	Doza procentuală în profunzime (PDD) este variația dozei pe axul central cu adâncimea, la SSD fix. PDD crește cu energia, cu dimensiunea câmpului (mai multă împrăștiere) și cu SSD (efect mai slab al inversului pătratului — factorul F al lui Mayneord).
+e33558b2	Unitate Hounsfield
 e3726bce	A doua zi dimineață: # h de post, glicemie # mg/dL.
+e3d17916	Neomogenitatea țesuturilor (plămân, os, cavități aeriene) influențează calculul dozei: plămânul cu densitate mică crește doza în profunzime și lărgește penumbra. Algoritmii moderni (AAA, Acuros, Monte Carlo) țin cont de aceasta.
 e3f06eaf	unghi de împrăștiere θ (°)
 e41d8109	adâncime (cm)
+e43cb2ca	Prin eluarea unui generator
 e43e04b0	Tub de raze X (generator)
+e46edbca	<b>Zilnic:</b> constanța debitului ±# %, laseri, interblocări de siguranță, coincidența câmp luminos/câmp de radiație (AAPM TG-#).
+e47dd3eb	T1: recuperarea longitudinală
+e486e4c2	<b>TLD (LiF:Mg,Ti):</b> eliberează sub formă de lumină energia stocată când este încălzit; aproape echivalent țesutului, folosit în dozimetria individuală și in vivo.
 e4ab1899	Lățimea ferestrei (W)
 e4c140b2	Dezintegrarea este aleatorie: nu se poate prezice când se dezintegrează un nucleu anume, dar multe nuclee urmează legea exponențială. Activitatea se măsoară în becquereli (# Bq = # dezintegrare/s); vechea unitate este curie (# Ci = #·#¹⁰ Bq).
+e4c224ea	# Gy în # fracțiuni (# Gy): pentru tumoră (α/β = #) EQD2 = #·(##)/(##) = # Gy; pentru țesutul tardiv (α/β = #) EQD2 = #·(##)/(##) = # Gy. Fracțiunile mari „penalizează” mai mult țesutul cu răspuns tardiv.
+e4dc2f18	Razele prin centru străbat mai mult material și se durifică mai mult, astfel μ efectiv scade și centrul pare mai întunecat (HU mai mici).
 e4e5be6e	Elif întreabă plângând: „I-a făcut rău copilului meu?” Doza fetală estimată ≈ # mGy.
+e4fe3008	Mult sub pragul determinist; risc suplimentar foarte mic; niciun motiv de întrerupere a sarcinii
+e4fec5f8	Mărimi de doză pentru pacient
 e4ff8488	Nivelul ferestrei (L)
 e53403f8	mixt
 e549237e	Prostată α/β ≈ # Gy, rect (efecte tardive) α/β ≈ # Gy. Obiectiv: EQD2 tumoral #–# Gy, peretele rectal anterior (presupunând că primește # %) EQD2 ≤ # Gy.
 e56e73a9	Fălci + MLC
+e5d8d1ac	#/#
 e5dcf84a	Doză acumulată
 e5e8cc94	Raport vârf / intrare
 e5f27121	Inversie-recuperare
 e5f6fa50	Intensitatea câmpului
 e621da6d	Marginea Compton T_max
 e636070c	Fourier parțial # %
+e6393de5	Subexpunere; imaginea poate fi zgomotoasă
 e670f9a4	Doza fetală estimată
+e6737e82	Produce el însuși semnal
 e6862f05	nefiltrat
 e70efde8	Rotația pacientului
 e73b4300	Filtru Al adăugat
@@ -1209,16 +1933,28 @@ e74c644a	Module
 e75dfe28	Sala de așteptare — alege un pacient
 e78631fd	Fereastră
 e7883571	#. Planificarea tratamentului
+e790f279	Doza în profunzime și calculul UM
+e7a94ca1	Scurtează T1 al protonilor din jur
+e7baa8c0	Mărimi operaționale
+e7fcf842	Ce parametri dau un spin-echo ponderat T2?
 e8145ea3	 % din kVp)
+e833649b	Timpul total și întreruperile tratamentului
 e8511c37	Presetări
+e86c6807	Crește (contribuție mai mare a împrăștierii)
+e8afa1cb	În expunerea internă, doza este numărul total de dezintegrări din organul-sursă (activitatea cumulată Ã) înmulțit cu valoarea S, care dă energia ce ajunge la organul-țintă:
 e8f9a7ba	← Pagina principală simplă
+e90246db	<b>Gradienții (dB/dt):</b> stimularea nervilor periferici și zgomot puternic (> # dB); peste # dB(A) protecția auzului este obligatorie.
 e934bbc7	Durata totală
+e9427778	≈ # HU
 e9cef8c2	Electronii au un parcurs finit: ideali pentru tumorile superficiale. Reguli practice: R5# ≈ E₀/# cm, Rp ≈ #·E₀ cm, adâncime terapeutică R8# ≈ E/# cm. Coada mică din profunzime provine de la fotonii de frânare.
 e9eeaebf	fără radiații ionizante
 e9f3813b	Doza sugarului (# % contact apropiat)
+ea2e74ca	Reconstrucția și unitățile Hounsfield
 ea3ff3b9	Cazurile sunt doar educative, nu pentru decizii clinice.
 ea445006	Fantomă NEMA pentru calitatea imaginii
+ea48645c	Neclaritatea geometrică
 ea617450	Suspiciune de apendicită la o pacientă însărcinată. Ce trebuie să vină mai întâi?
+ea778ea7	Nu se schimbă: aria variază cu d², iar kerma cu #/d²
 eab8f509	Filtrare: ridică SAV peste # mm Al
 eac26593	Doza efectivă (# cm)
 ead12e43	Cinematica Compton
@@ -1227,26 +1963,39 @@ eaeaaa7b	Află de ce
 eaf105c7	Evidențiază
 eaf5e11d	Dacă μ = # cm⁻¹, cât este SVJ?
 eaff7e77	RFGe # mL/min/# m², sub metformin. Ce faci cu substanța de contrast iodată?
+eb1ada30	Un fragment feromagnetic se poate mișca și la # T și poate provoca orbire, deci trebuie exclus în prealabil.
 eb1b05b8	Neutron
 eb267579	 (fără AC)
+eb2a1095	Nimic — doza totală este aceeași
 eb2ba7e2	Înălțimea câmpului
+eb4d158b	Contrastul obiectului
 eb5ba0e3	#. Retroproiecție filtrată (FBP)
+eb6d0b86	# cm
 eb6d0c3f	Pregătirea pacientului
 ebb00912	nu e nevoie de ecranare
 ebee5570	Emir: „Trebuie să-mi țin respirația? Bine, o țin!”
 ec3c5945	Sfat: pagina „Teorie” din bara de sus listează formulele cheie.
 ec3ea500	Note despre model: MC folosește istoria condensată (împrăștiere multiplă Highland); planificarea este #D și neglijează împrăștierea laterală.
+ec51e118	Filtrul elimină fotonii de energie joasă, deci energia medie și, prin urmare, SAV cresc.
 ec88aab2	Finalizat
+ecc43793	Unitatea este becquerelul (# Bq = # dezintegrare/s); unitatea veche este curie (# Ci = # GBq). Activitățile diagnostice sunt de ordinul MBq, cele terapeutice de ordinul GBq.
 ece35ca8	Încearcă în laborator  →
 ece838e8	scanare
 ed03c7fc	≈ Parțial corect
+ed23a0d1	O țintă de apă îmbogățită H₂¹⁸O este bombardată cu protoni, urmată de sinteza FDG.
 ed465190	Obiectiv: arată ruptura de menisc și edemul medular osos. Ecou de spin: S = PD·(# − e^(−TR/T1))·e^(−TE/T2). Alege TR, TE, saturația grăsimii și B₀, apoi apasă RULEAZĂ SECVENȚA.
 eda30c59	Sarcină finalizată: 
 edbd8b07	Ponderare
 eddfea6b	Sute de canale × multe rânduri de scintilator ceramic. Măsoară o proiecție pe unghi; împreună formează sinograma.
 edf0d031	Resetează testul
+edf5ddd0	<b>Câmpul static (B₀):</b> obiectele feromagnetice devin proiectile. Atracția variază cu B·dB/dz și este maximă la intrarea în tunel. Un magnet supraconductor este mereu pornit. Unele implanturi (pacemakere mai vechi, clipuri de anevrism) sunt contraindicate.
+ee010b9e	PET
+ee14e5d2	Liniar cu activitatea
+ee1fc13a	<b>Diode și MOSFET-uri:</b> mici și sensibile, folosite in vivo și în câmpuri mici; prezintă dependență energetică și unghiulară.
 ee5e0890	Colimez strâns pe plămâni; fără protector gonadal, și îi explic mamei de ce
 ee69cbe6	Elif întreabă în lacrimi: „I-a făcut rău copilului meu?” Doza fetală estimată ≈ 
+ee7232f8	R = #τ·S₁·S₂: ambele rate de evenimente simple cresc cu activitatea, deci cele aleatorii cresc ca A² — un motiv pentru care activitatea excesivă nu îmbunătățește imaginea.
+ee792940	TMR nu depinde de dimensiunea câmpului
 ee88a3cc	Pentru o scanare a întregului corp pacientul trece prin poziții ale mesei; câmpul axial este de #–# cm, iar la sistemele cu câmp axial lung de #–# m.
 ee940d80	Luminos = atenuare mare (os, metal). Afișat în convenția radiologică: dreapta pacientului în stânga. Fereastra se setează automat.
 ef57cd07	Glicemie
@@ -1256,9 +2005,17 @@ efce91bf	T½ măsurat (MC)
 efd604d5	Temperatură
 efd9baf3	Raport Tc/Mo (echilibru tranzitoriu)
 f02abde8	Durificarea fasciculului
+f03867ac	Mărirea (M) și neclaritatea geometrică (U_g) cresc cu distanța obiect-detector (OID). De aceea radiografia toracică se face PA (inima aproape de detector) la # cm SID. Un focar mic (f) face imaginea mai clară, dar limitează încărcarea termică a tubului.
 f0565afa	Fracționat (d fix)
+f056bd95	Metoda NCRP # și #
+f07687d2	IEC ###: # W/kg în modul normal, # W/kg în modul controlat de prim nivel (sub supraveghere medicală).
+f0b3d9d9	Indicele de expunere și doza pacientului
 f0c79167	Post
+f0d40ccc	După o inversie de #°, un țesut excitat exact când Mz trece prin zero nu dă semnal: TI_null = T1·ln2. STIR (TI ≈ #–# ms la # T) anulează grăsimea, FLAIR (TI ≈ #–# ms) anulează LCR. Saturarea chimică a grăsimii folosește decalajul de frecvență de # ppm dintre grăsime și apă (≈ # Hz la # T).
+f0dca9d4	<b>Spațiul de aer:</b> o distanță între pacient și detector face ca o parte din radiația împrăștiată să rateze detectorul, cu prețul măririi.
+f0ff89cc	Un artefact inelar
 f10c7001	Viteza: razele γ se deplasează mai repede decât lumina
+f1897daf	Modelul liniar-pătratic
 f1d69164	Strat de semiatenuare (SAV)
 f1e3d43f	Gadoliniul traversează placenta; în sarcină doar dacă este indispensabil. IRM fără contrast este suficient pentru apendicită.
 f1e5a8a5	Când kVp depășește energia de legătură a stratului K al W (# keV), apar linii <b>caracteristice</b>: Kα ≈ #–# keV, Kβ ≈ #–# keV. Intensitate ~ (U − #)^#, U = kVp / E_K.
@@ -1267,51 +2024,89 @@ f215c98f	DI # → supraexpunere (DI # ≈ # %, # ≈ #× doza).
 f2586cb3	Câmp (la detector)
 f25c8ffb	Fond natural (medie mondială)
 f28c5bf6	Lecții • figuri interactive • teste
+f2b302fd	Cum se modifică PDD la o adâncime dată când câmpul crește?
+f2dea7ee	PTV este conceptul geometric care garantează că CTV primește doza prescrisă în ciuda incertitudinilor de poziționare și mișcare.
 f2e56345	Setează grosimea plumbului la SAV pentru Cs-# (≈ # cm) și vezi înjumătățirea
+f2f04328	<b>OAR / PRV:</b> organul la risc și marja sa de planificare (de ex. măduva spinării + # mm).
 f2f0b95b	așteptare (h)
+f323dc10	A alege dozimetrul potrivit înseamnă a ști ce măsori: camera de ionizare pentru doza de referință, filmul sau matricele pentru distribuții, OSL/TLD pentru doza individuală, contorul GM pentru contaminare.
+f351af88	TMR
 f38b9efa	#. Proiecții și transformata Radon
 f3952697	electron de recul T
 f3987859	Randamentul tubului crește aproximativ cu kVp² și liniar cu mAs: #% mai mult kVp dublează aproximativ semnalul detectorului (regula de #%).
 f3b48ff1	O oprești: magnetul supraconductor este mereu pornit, iar obiectele feromagnetice devin proiectile; doar echipament sigur RM
+f3d4e34a	Zonele se clasifică drept controlate sau supravegheate în funcție de doza așteptată, se semnalizează și au acces restricționat. O sursă pierdută, o citire neașteptat de mare a dozimetrului sau iradierea pacientului ori a locului greșit este un incident: se înregistrează, i se analizează cauza principală și, când este necesar, se raportează autorității de reglementare (în Turcia, NDK).
 f3f36daf	Radiație suficient de energică (≥ # eV) pentru a smulge electroni din atomi.
 f425bff1	  → ecou așteptat la: 
+f43d0d9d	Cu dozimetrul de sub șorț
+f43d5d4c	În tumorile cu proliferare rapidă (cap și gât), repopularea se declanșează dacă tratamentul durează mai mult de ~# zile, costând aproximativ ~# Gy EQD2 pe zi. De aceea întreruperile neplanificate trebuie compensate (de ex. o fracțiune suplimentară în weekend sau două fracțiuni pe zi).
 f48a9bb6	Doză în profunzime Monte Carlo, vârf Bragg, planificarea tratamentului, HDV, radiobiologie.
+f49bd7cf	Îngustând fereastra
+f4a0a51b	Modularea automată a curentului tubului (AEC) ajustează mA la fiecare unghi și poziție z după grosimea pacientului, menținând zgomotul la un nivel-țintă și optimizând doza.
 f4a277c4	Planificare
 f4a9c097	Filtru
+f4eb467e	Pe partea detectorului (receptorul de imagine)
+f50a6eee	PDD este definită la SSD fix, deci punctele mai adânci sunt mai departe de sursă; TMR se potrivește tratamentului izocentric.
+f565bd92	În repopularea accelerată se pierd ~# Gy pe zi: # zile × # ≈ # Gy. De aceea întreruperile se compensează.
+f5b86b6b	Controlul calității: străpungerea Mo-# în eluat nu trebuie să depășească # kBq Mo-# per MBq Tc-#m; se verifică cu un recipient de plumb care oprește cei # keV ai Tc, dar lasă să treacă fotonii de # keV ai Mo. Se verifică și conținutul de ioni de aluminiu și puritatea radiochimică.
 f5c1b5b5	Dimensiunea câmpului (la suprafață)
+f5e265e2	Cum influențează o filtrare mai mare SAV?
 f5e305fa	Câmp #×# cm: toracele are ≈ #×# cm; colimează mai strâns (DAP și împrăștiere).
 f5efdcd1	# mg/L
+f5fce81d	Proiectarea ecranării încăperilor
 f60d1c54	Imagine ponderată T2: LCR mai luminos decât substanța albă
+f62997ab	Cum acționează un agent de contrast pe bază de gadoliniu?
+f63ab85a	Camera Anger
+f6466836	Densitatea materialului crește
 f67cc940	Mod de dezintegrare
 f6862a0b	Transmisia ecranului (incl. build-up)
 f6d42ce8	Adâncimea vârfului Bragg
 f6f22637	Comenzi
 f71b5abf	Doza biologic efectivă
 f728f992	adult mediu (# cm)
+f72b2c12	Care este cea mai eficientă măsură de protecție la o radiografie toracică pediatrică?
+f73eed5b	Pacienții supuși expunerii medicale
+f77fcacc	Apa are # HU, iar aerul −# HU; grăsime ≈ −#, plămân ≈ −#…−#, țesut moale #…#, os #…# HU. Deoarece μ depinde de energie (mai ales pentru os și iod), valorile HU se schimbă cu kVp.
+f7b242ee	# Gy
 f7c4fef9	„Mulțumesc, ați fost foarte atent!”
+f7e06859	Ce determină centrul spațiului k?
 f80ba400	Cum folosești această secțiune
 f810e311	EQD2 rectal (α/β #) = # Gy — acceptabil.
+f82c600a	Doza echivalentă
+f830e238	Produsul K·A nu depinde de distanță, de aceea DAP poate fi măsurat cu o cameră pe colimatorul tubului.
 f8486832	Folosește doar centrul spațiului k: contrastul rămâne, detaliile se pierd
 f84b8da5	Greșit și generator de anxietate pentru radioterapia externă.
+f862b10b	Rezoluția spațială
 f8c4150d	# MeV e⁻
 f8d6f331	Originea: razele X provin de la electroni, razele γ din nucleu
 f900a313	Dragă, o să-mi rămână o cicatrice pe față? Și vă rog să nu-mi răniți ochiul.
+f92bb98e	Cum apar majoritatea leziunilor ADN la radiațiile cu LET mic?
+f93ff2ec	Aceeași doză fizică produce efecte biologice diferite pentru radiații diferite. Doza echivalentă este H_T = Σ w_R D_T,R. Factori de ponderare a radiației (ICRP #): # pentru fotoni și electroni, # pentru protoni, # pentru α și #–# pentru neutroni, în funcție de energie.
 fa033cd5	Misiune: recuperează sursa
+fa42bc08	Estimarea dozei fetale este sarcina fizicianului medical: la CT, doza fetală ≈ SSDE când uterul este în câmp.
 fa73ce08	Bună treabă — câteva puncte de îmbunătățit.
 faa8e755	FLAIR: alegerea TI = T1·ln2 anulează LCR (≈ # ms la # T). STIR: un TI scurt suprimă grăsimea (≈ #–# ms).
 fad26615	Emite impulsuri B₁ la frecvența Larmor (~# MHz la # T) care înclină M. Încălzirea țesuturilor (SAR) vine de aici.
 fae02622	Radiografii de orbite: NICIUN corp străin metalic. Examinarea continuă.
+faf2ae6e	Prin ce diferă TMR de PDD?
 faff56b8	Timp scurs
 fb079007	Doza pe fracție d
+fb1c3fc2	Betonul este mai dens decât plumbul
+fb4411db	Grosimea secțiunii
 fb5419ac	Margini subdozate → risc de recidivă; în câmpurile foarte mici R9# devine și mai superficial.
 fb77122a	Începe primul caz
 fb8da0b7	Apendicită în sarcină: eco → IRM fără contrast → CT cu doză mică dacă e nevoie.
 fb990b3e	★★★ ≥ # %, ★★ ≥ # %, ★ ≥ # %. Cel mai bun rezultat se salvează; joacă din nou ca să-l îmbunătățești.
 fba0b4a2	Cosinus
 fbb64dbd	Tensiunea tubului
+fbb96484	Un puls RF la frecvența Larmor înclină M față de B₀ (un puls de #° o culcă în planul transversal). Magnetizarea transversală care se rotește induce un curent în bobina de recepție — semnalul de inducție liberă (FID). Condiția de rezonanță permite RMN să excite doar nucleul și poziția alese.
+fbc6d057	Alternativele (ecografie, RMN) au prioritate; dacă este nevoie de CT, se folosesc un protocol cu doză mică și o lungime de scanare limitată.
+fc01ae34	Prin fisiunea uraniului într-un reactor
+fc44dba7	Rezoluția sistemului ≈ #–# mm (la # cm); rezoluția intrinsecă ≈ #–# mm.
 fc6adbf7	Kerma în aer la suprafața de intrare (ESAK)
 fc7e5fc3	Suficiența numărărilor # — mai multă activitate decât e nevoie; doza suplimentară nu aduce valoare diagnostică.
 fc82911d	relativ
+fca25fac	Protonii și vârful Bragg
 fcdeb802	supraexpus
 fcff6168	Pelvis
 fd4e03b8	Timp pe poziție de pat
@@ -1322,11 +2117,16 @@ fd9045b9	#–# kV pătrund mai bine la pacienții voluminoși: mai puțini mAs p
 fddaa9d0	Indice de conformitate (Paddick)
 fe0012eb	Sfat depășit; inutil la RFGe ≥ # și întârzie diagnosticul.
 fe2bb7a7	Înfășor bazinul cu un șorț de plumb
+fe67e3af	Coeficienții k (mSv per mGy·cm) pentru adulți sunt: cap #, gât #, torace #, abdomen și pelvis #.
 feb29647	Fascicul polienergetic (realist)
 feb7cede	Hipertensiune (controlată)
 febab6f7	IGRT: înainte de tratament se face o imagine kV sau un CT cu fascicul conic (CBCT), iar poziția pacientului se corectează la milimetru.
 fec9a6c7	Imagistică kV / CBCT zilnică, cu potrivire pe markerii din aur
+fed90ed4	Un DI negativ înseamnă că doza la detector este sub țintă (−# ≈ # % mai puțin), iar zgomotul cuantic poate afecta diagnosticul.
 ff1483ac	Stimulator cardiac (titan)
+ff3f9ab4	<b>Grila:</b> lamelele de plumb absorb radiația împrăștiată (raport de grilă #:#–#:#) cu prețul unei doze mai mari — factor Bucky #–#. De obicei grila nu este necesară pentru regiuni mai subțiri de #–# cm și la copii.
 ff559aca	Can: „Bine că mi-ați dat căști. Uite că vin zgomotele!”
+ff801f8c	Cataracta
 ff97f266	Energia medie a fotonilor
+ffe8e8a6	Gy(RBE) = # × doza fizică; a nu se confunda cu factorul de ponderare ICRP pentru radioprotecție w_R = #.
 ffedd789	Alăptează un copil de # luni

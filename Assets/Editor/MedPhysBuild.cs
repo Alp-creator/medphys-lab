@@ -21,7 +21,7 @@ public static class MedPhysBuild
         CreateMainScene();
         PlayerSettings.productName = "MedPhys Lab";
         PlayerSettings.companyName = "MedPhysLab";
-        PlayerSettings.bundleVersion = "1.0.0";
+        PlayerSettings.bundleVersion = "1.1.0";
         PlayerSettings.SetApplicationIdentifier(NamedBuildTarget.Android, "com.medphyslab.simulator");
         PlayerSettings.SetApplicationIdentifier(NamedBuildTarget.Standalone, "com.medphyslab.simulator");
         PlayerSettings.runInBackground = true;
@@ -40,7 +40,7 @@ public static class MedPhysBuild
         PlayerSettings.Android.targetArchitectures = AndroidArchitecture.ARM64;
         PlayerSettings.SetScriptingBackend(NamedBuildTarget.Android, ScriptingImplementation.IL2CPP);
         PlayerSettings.SetScriptingBackend(NamedBuildTarget.Standalone, ScriptingImplementation.Mono2x);
-        PlayerSettings.Android.bundleVersionCode = 1;
+        PlayerSettings.Android.bundleVersionCode = 2;
         // Unity 6.6 crashes while patching the Windows .exe icon, so the default icon is only set for Android builds
         PlayerSettings.SetIcons(NamedBuildTarget.Unknown, new Texture2D[0], IconKind.Any);
         AssetDatabase.SaveAssets();

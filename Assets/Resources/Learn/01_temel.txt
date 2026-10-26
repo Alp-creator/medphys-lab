@@ -5,7 +5,7 @@
 @formula Yarı ve onda bir değer kalınlığı || Half- and tenth-value layer :: HVL = ln2/μ    TVL = ln10/μ ≈ 3.32·HVL
 @formula Compton saçılması || Compton scattering :: E′ = E / [1 + (E/511 keV)(1 − cosθ)]
 @formula Çift oluşumu eşiği || Pair production threshold :: E ≥ 2·m₀c² = 1.022 MeV
-@formula Proton menzili (Bragg–Kleeman) || Proton range (Bragg–Kleeman) :: R ≈ 0.0022·E^1.77   (su, R cm, E MeV)
+@formula Proton menzili (Bragg–Kleeman) || Proton range (Bragg–Kleeman) :: R ≈ 0.0022·E^1.77   (su, R cm, E MeV) || R ≈ 0.0022·E^1.77   (water, R in cm, E in MeV)
 @term İyonlaştırıcı radyasyon || Ionising radiation :: Atomdan elektron koparabilecek enerjiye (≥ 10 eV) sahip radyasyon. || Radiation energetic enough (≥ 10 eV) to remove electrons from atoms.
 @term Doğrudan iyonlaştırıcı || Directly ionising :: Yüklü parçacıklar (elektron, proton, α); Coulomb etkileşimiyle enerji bırakır. || Charged particles (electrons, protons, α) that deposit energy through Coulomb interactions.
 @term Dolaylı iyonlaştırıcı || Indirectly ionising :: Yüksüz parçacıklar (foton, nötron); önce yüklü parçacık üretir. || Uncharged particles (photons, neutrons) that first set charged particles in motion.
@@ -108,7 +108,7 @@ Gerçek X-ışını demetleri çok enerjilidir. Düşük enerjili fotonlar ilk s
 ## Durdurma gücü || Stopping power
 Yüklü bir parçacık ortamdaki elektronlarla sayısız küçük Coulomb etkileşimi yapar ve enerjisini sürekli kaybeder. Birim yoldaki enerji kaybına durdurma gücü S = −dE/dx denir (MeV/cm). Kütle durdurma gücü S/ρ (MeV·cm²/g) olarak da verilir. || A charged particle makes countless small Coulomb interactions with the electrons of the medium and loses energy continuously. The energy lost per unit path is the stopping power S = −dE/dx (MeV/cm), also given as the mass stopping power S/ρ (MeV·cm²/g).
 Bethe formülüne göre çarpışma durdurma gücü yaklaşık z²/v² ile orantılıdır: parçacık yavaşladıkça enerji kaybı artar. Ağır parçacıklardaki Bragg pikinin nedeni budur. || According to the Bethe formula, the collision stopping power scales roughly as z²/v²: as the particle slows down it loses energy faster. This is the origin of the Bragg peak for heavy particles.
-$ S_col ~ (z² / v²) · ln(2 m_e v² / I)        (I: ortalama uyarılma enerjisi; su için ≈ 75 eV)
+$ S_col ~ (z² / v²) · ln(2 m_e v² / I)        (I: ortalama uyarılma enerjisi; su için ≈ 75 eV) || S_col ~ (z² / v²) · ln(2 m_e v² / I)        (I: mean excitation energy; ≈ 75 eV for water)
 ## Elektronlar || Electrons
 Elektronlar hafif olduğundan her çarpışmada büyük açılarla saçılır ve izleri zikzaklıdır. Yüksek Z'li ortamlarda frenleme ışınımı (radyatif kayıp) da önemlidir; röntgen tüpünde X-ışını böyle üretilir. Kabaca bir kural: suda elektron menzili ≈ E/2 cm'dir (E MeV cinsinden). || Electrons are light, so they scatter through large angles and follow zig-zag tracks. In high-Z media bremsstrahlung (radiative loss) also matters; this is how an X-ray tube produces X-rays. A rough rule: the electron range in water is ≈ E/2 cm (E in MeV).
 ## Protonlar ve Bragg piki || Protons and the Bragg peak

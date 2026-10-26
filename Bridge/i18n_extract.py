@@ -327,7 +327,12 @@ def from_learn():
                 f = [x.strip() for x in line.split("|")]
                 tr, en = (f[2], f[3]) if line.startswith("@topic ") else (f[1], f[2])
                 found.setdefault(en, (tr, tag)); continue
-            if line.startswith(("@sim", "@case", "%fig")) or line.startswith("$"): continue
+            if line.startswith(("@sim", "@case", "%fig")): continue
+            if line.startswith("$"):   # equations are language-neutral unless written as "$ tr || en"
+                if "||" in line:
+                    tr, en = pair(line[1:])
+                    if en: found.setdefault(en, (tr, tag))
+                continue
             for pre in ("@desc ", "@formula ", "@term ", "## ", "!!", "!", ">", "*", "?", "+ ", "- ", "="):
                 if line.startswith(pre):
                     line = line[len(pre):]; break

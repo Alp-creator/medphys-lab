@@ -1,34 +1,47 @@
 002e566d	Klinische Fälle
 005ef20f	Status
 006f11ff	Lungenrundherd (Tumor)
+007cc916	<b>Schichtselektion:</b> ein Gradient während des HF-Pulses, sodass ein schmalbandiger Puls nur eine Schicht anregt.
+00af857c	Die mittlere Dosis, definiert in einem PMMA-Phantom von # oder # cm — nicht die Dosis des Patienten.
+00cb23fb	<b>Rechtfertigung:</b> Jede Tätigkeit mit Strahlung muss mehr nützen als schaden; in der Medizin wird dies für jede einzelne Untersuchung beurteilt.
 00e896c1	Miss dmax und PDD1# von #-MV-Photonen (≥ # # Historien)
 00e97d3d	Es gibt überhaupt kein Risiko.
 01446da3	Kontrastiertes Blut
+01703bea	<b>Einblendung:</b> verkleinert das bestrahlte Volumen und senkt so Streustrahlung und Dosis — der wichtigste Schritt.
 01b10287	Leber
 022ebff6	  — lies die Erklärungen und versuche es erneut.
 02307551	Die drei Grundsätze des Strahlenschutzes: Rechtfertigung, Optimierung (ALARA: so niedrig wie vernünftigerweise erreichbar) und Dosisgrenzwerte. Beschäftigte: # mSv/Jahr (gemittelt über # Jahre, max. # in einem Jahr), Bevölkerung: # mSv/Jahr, Augenlinse: # mSv/Jahr.
+023478eb	Spin, Larmorfrequenz und Magnetisierung
 0282b42b	Kein Raster: richtige Wahl für einen schmalen Kinderthorax.
 02875262	Blutdruck
 028cc680	Großes Feld öffnen und Blei auf die Schilddrüse legen
+02943f2b	# Sv
 02daa186	Gradientenecho
 02ff0734	Stunden
 03410798	Mit Lektion # beginnen  →
+03a5ffee	<b>Primärbarriere:</b> eine Wand, die der Strahl direkt treffen kann (U < #).
 03aded2d	Proton
+03bd2a69	# %
 03d9f12f	BESTÄTIGEN
+03ee7f99	Dosisflächenprodukt
+04031976	Ein Tumor misst # kBq/mL; ein # kg schwerer Patient erhielt # MBq (zerfallskorrigiert). SUV = # / (# # / # #) = # / # = #.
 04215fff	Strahlerkopf
 04665812	Mittlere Energie (Eintritt / Detektor)
 04b21fef	Nur Peripherie
 04c33449	Anfangszahl der Atome N₀
+04d7b85a	Das Auge zuzukleben reicht aus
 05446544	Ionisierende Strahlung
 054ed6b1	#. Protonen und der Bragg-Peak
 0551e426	Supraleitender Magnet
 05735a1f	Während der Messung sind laute Klopfgeräusche zu hören. Ursache und Vorsichtsmaßnahme?
 05747e6b	Aktuelle Empfehlungen (AAPM #, BIR/IPEM #): Einblendung ist der wirksamste Schutz. Die Gonadendosis außerhalb des Feldes ist bereits winzig; ein Schutz, der ins Feld rutscht, verdeckt Anatomie und lässt die Belichtungsautomatik die Dosis erhöhen.
 05883f18	Dosisleistung H*(#)
+05a40e0d	Das Muskelsignal
 05aeb14d	Unnötige Dosis für das Auge und die gesunde Gesichtshaut.
 05b19ab8	Lerntipps
 05b21be8	Tumor-EQD2 = n·d·(d + #)/(# + #) = # Gy — kurativer Bereich.
 05f6dc9a	Hauptfeld B₀
+0682d944	DVH und Grenzwerte
 069d81b7	 Kanäle
 06ba43bc	Jede Kugel ist ein Kern. In jedem Zeitschritt zerfällt er mit der Wahrscheinlichkeit p = # − e^(−λΔt) und sendet eine Photonenlinie aus; bei wenigen Kernen schwankt N(t) statistisch.
 06df51de	Injizierte Aktivität
@@ -39,64 +52,97 @@
 07ef138f	SEQUENZ STARTEN
 0827bee2	Dosisgrenzwerte (ICRP #)
 086c6bbb	Farbe: #%·#%·#%·#%·#%-Isodosen. Konturen: grün PTV, gelb Rückenmark, rot Herz, rosa Lungen.
+08b1f023	<b>Schwangere Beschäftigte:</b> Nach Mitteilung der Schwangerschaft sollte die Dosis des ungeborenen Kindes für den Rest der Schwangerschaft ~# mSv nicht überschreiten.
 08c92619	Kinder sind #–#× strahlenempfindlicher als Erwachsene und haben eine lange Lebenserwartung → ALARA ist noch wichtiger.
 09138ded	Ich will keine Operation. Wie läuft diese Strahlenbehandlung ab, tut sie weh?
+094a7633	β⁻-Zerfall
 096813ae	Rauschen (σ, homogener Bereich)
+096b4d6f	Radiochromer Film
 098d1ad9	Radioembolisation der Leber (SIRT)
+09aa91b9	Gegen den Nutzstrahl
 09c4871c	Welche Wechselwirkung dominiert bei einem #-MeV-Photon in Weichgewebe?
+09e38d90	Vererbbare Mutation
 09f71920	Larmorfrequenz
 09feeabb	Vergleiche den Bragg-Peak von #-MeV-Protonen mit der NIST-CSDA-Reichweite
+0a2d132a	Wer wird überwacht, und wie?
+0a2d70d0	Gefilterte Rückprojektion: Die Projektionen werden mit einem Rampenfilter gefiltert und rückprojiziert.
+0a43bb10	BED = # × (# + #/#) = # Gy. Mit α/β = # wären es # Gy.
 0a496fc5	Fetale Dosis ≈ SSDE (Uterus vollständig im Feld). Diagnostische Rauschgrenze ≈ # HU (Niedrigdosis-Appendizitisprotokoll). Wähle kV, mAs, Pitch und Scanlänge und drücke dann SCANNEN.
 0a52c35c	T1-gewichtet
 0aa78268	Hypofraktionierung: Das α/β der Prostata ist niedriger als das des Rektums, daher begünstigen große Fraktionen den Tumor (CHHiP #/#, PACE-B #/#), und der Patient muss seltener kommen.
+0ac75168	Wenn die Dosisleistung # µSv/h in # m beträgt, wie hoch ist sie in # m?
 0ac8a560	Zurücksetzen
 0acf4d25	Größere Schrift
+0b2830b9	SUV
+0b2a90c5	MIRD
+0b3d4df2	Kinder
 0b4677ab	EANM: Glukose < # mmol/L (≈ # mg/dL). Hyperglykämie konkurriert mit FDG und senkt die Tumoraufnahme.
 0b4d8f40	Überlebensfraktion
 0b81ff1c	Oberkieferknochen ≈ # cm unter der Läsion
 0b8b3199	Dosisvorgaben (QUANTEC / RTOG)
 0bbe8b9f	Monte Carlo in Echtzeit: Jede Spur ist ein Teilchen. Mehr Historien = weniger statistisches Rauschen (σ ~ #/√N).
+0be48cca	As Low As Reasonably Achievable — Dosen so niedrig wie vernünftigerweise erreichbar halten, unter Berücksichtigung wirtschaftlicher und gesellschaftlicher Faktoren.
+0c088256	Die ICRP # fand eine Kataraktschwelle von ~# Gy und senkte den Grenzwert von # auf # mSv/Jahr — deshalb sind Bleibrillen in der interventionellen Kardiologie so wichtig.
+0c13aa12	Was bewirkt der Rampenfilter bei der FBP?
 0c1c4f42	Strahlentherapie: kurative EBRT, Prostata ± Samenblasen (Dr. Kılıç)
 0c2610e2	Riss/Meniskus-CNR #: Riss gut sichtbar (Flüssigkeit hell, Meniskus dunkel in PD/T2).
 0c433245	Niedriges Tumor-zu-Hintergrund-Verhältnis → Risiko von Staging-Fehlern.
 0c903e49	Bleilamellen begrenzen das Feld: weniger Patientendosis und Streuung. Al-/Cu-Filter entfernen niederenergetische Photonen, härten den Strahl auf und senken die Hautdosis.
 0ccd4680	Verhältnis Kugel / Hintergrund
+0cd9d0ad	Warum wird in der Mammographie eine niedrige kVp verwendet?
 0ce92428	CTDIw: # cm Körper- (# cm Kopf-)Phantom; E = DLP × k (Thorax #, Abdomen #, Kopf # mSv/mGy·cm).
 0d78d08a	Erzeuge einen # cm breiten SOBP
+0d816b59	Das TMR ist nur für Elektronen definiert
 0db9cc3e	Puls
 0dec8195	Wende #° – τ – #° an und erzeuge ein Spinecho
 0e1a0a7b	Einzeldosis, α/β = # (früh / Tumor)
 0e32111a	Strahl
 0e629e6c	Neuer Termin: ≥ #–# h nüchtern, Blutzucker muss < # mg/dL sein
+0efb8aba	Wie hoch ist die Larmorfrequenz von Protonen bei # T?
 0f01dfcb	Nächste Elutionszeit
 0f6a0301	#×# cm Tubus, keine Ausblendung
+0ff0ece3	Die Kraft skaliert mit B·dB/dz; in der Mitte ist B am größten, aber dB/dz ≈ #, während das Produkt an der Öffnung sein Maximum erreicht.
 0ff4383c	Schwangere Beschäftigte (Fötus)
 10225e52	Kortikaler Knochen
+10446e37	Strahlaufhärtung (Cupping)
+105d6ef1	Die aufgenommenen Signale füllen den k-Raum, und das Bild ist seine #D-Fourier-Transformierte. Das Zentrum des k-Raums trägt Kontrast und Gesamtsignal, die Peripherie feine Details und Kanten. Bei einem Spin-Echo wird pro TR eine Zeile aufgenommen.
 10bddc32	Ein ferromagnetischer Fremdkörper im Auge kann sich in B₀ bewegen und zur Erblindung führen → zuerst Orbita-Aufnahmen (oder CT).
 10bee102	Abweichungsindex (DI)
+10ea12d4	Lunge, Dickdarm, Magen, Brust, rotes Knochenmark und Restgewebe haben #; Schilddrüse #; Haut #.
 10f562e1	Schnell wirksames Insulin geben und sofort injizieren
 10f6a1bd	Linear-quadratisches Modell • BED
+11021e45	Mammographie
 113249ae	Erstelle einen Photonenplan, der alle Dosisvorgaben erfüllt
 114fa830	Der Multileaf-Kollimator (#–# mm Lamellen) formt das Feld nach dem Tumor und bewegt sich bei IMRT und VMAT während der Bestrahlung.
 116e6f62	Hologramm
 11a18b82	Alle entfernen
 11a4e77a	Diagnose- / Therapiequalität
+11a6d3ed	Das α/β der Prostata (~# Gy) ist niedriger als das des umgebenden spät reagierenden Gewebes (Rektum ~# Gy)
+11be0e65	Der Katarakt hat eine Schwelle (ICRP #: ~# Gy), und sein Schweregrad nimmt mit der Dosis zu; Krebs und vererbbare Effekte sind stochastisch.
+120a6115	Patient, Angehörige und Personal
+120fdb1f	Brachytherapie (TG-#, Punkt)
+122b6e24	TR = # ms, # Phasenzeilen, NEX = #: Ein konventionelles Spin-Echo dauert # × # = # s ≈ # min; ein Turbo-Spin-Echo mit ETL = # dauert #/# = # s.
 124f5fe7	Kontrast weiße / graue Substanz (am Marker)
+1264df05	Schwangerschaft, Kinder und Risikokommunikation
 129b582e	DI # → korrekte Belichtung.
 132d55ba	relative Photonenzahl
 134c264b	Metallartefakt: scanne eine Beckenschicht mit der Hüftprothese
 135a8cc7	 h danach
 136685c9	EQD2 Tumor (α/β #) = # Gy, späte Haut (α/β #) = # Gy. Gute Balance zwischen Tumorkontrolle und Kosmetik.
 1370333f	Feldbreite
+138168c1	Welche Äquivalentdosis ergibt # Gy α-Strahlung?
 138fb3e1	Richtig: I/I₀ = e^(−μx). Da σ ~ #/√N, steigt das Rauschen bei gleichen mAs um ≈ √# ≈ #×.
 13ad4851	β-hCG POSITIV: etwa # Wochen schwanger.
 13bea53e	# Gold-Marker implantiert
 13f06473	Messwerte löschen
+1425444e	# MV, #×# cm²-Feld, # cGy ins Isozentrum in # cm Tiefe. Kalibrierung: # cGy/MU bei d_max im Isozentrum. TMR(# cm) ≈ #, S_c = S_p = #, ISF = #. MU = # / (# × #) ≈ # MU.
 1451f91f	wahr 
 14d5133a	ACR (#) und ESUR #: Metformin wird bei eGFR ≥ # fortgesetzt; i. v. Kontrastmittel ist nötig, um einen Abszess zu erkennen.
 14e77c03	Fortschritt zurücksetzen
 151c3f35	Detektorring (LYSO + SiPM)
 1527c7a5	Entdecke die Medizinphysik in kleinen Schritten mit echten Berechnungen.
+154a1ae4	Was ist der Hauptvorteil eines höheren Feldes (# T)?
+158c91bf	≈ # MBq
 15b23cec	 Punkte
 15c3229f	α/β Tumor
 15cf43c6	Der Flachdetektor gegenüber der kV-Quelle; er nimmt während der Gantry-Rotation Hunderte Projektionen für das CBCT auf.
@@ -107,64 +153,115 @@
 16280e6a	Dosisleistung vom Patienten ~ A/d²; F-# T½ = # min. Engen Kontakt um einige Stunden zu verschieben, senkt die Säuglingsdosis stark.
 1640e3a4	Abstand (m)
 164b6930	Messwert speichern
+167d88c8	≈ # MHz
 16b19be2	kVp-Effekt: belichte mit ≤# kVp und ≥# kVp; vergleiche den Knochenkontrast
 16d4a955	Strahlentherapie
+16f6a6d1	SAR
 17098140	Prostata-Adenokarzinom, mittleres Risiko (Gleason ##, PSA #)
 1716fced	Fetale Dosis ≈ SSDE = # mGy (CTDIvol # × f #).
 1725def4	K-Linien erfordern, dass das einfallende Elektron die Bindungsenergie der K-Schale übersteigt; Wolfram-K-Linien treten daher erst oberhalb von # kVp auf.
 17278db5	Energie
+174431ff	Bei diagnostischen Energien (Photoeffekt dominiert) ist Blei sehr wirksam: #–# mm Pb halten #–# % der Photonen bei # kVp zurück. Bei MV-Energien (Compton-Effekt dominiert) folgt die Schwächung der Elektronendichte, daher verwendet man für Bestrahlungsräume billigen, dicken Beton. Neutronen erfordern wasserstoffhaltige Materialien (Polyethylen, borierter Beton).
+176d6111	Welche Zerfallsart ist die Grundlage der PET?
 17a150b4	Ja — charakteristische Linien hängen nicht von der kVp ab
 17a890d2	Verbleibende Kerne N(t)
 17c2afe2	In Weichgewebe dominiert der Photoeffekt unterhalb von etwa # keV, Compton zwischen # keV und ~# MeV und darüber die Paarbildung. In Materialien mit hohem Z wie Blei reicht der Bereich des Photoeffekts bis etwa # keV — deshalb ist Blei ein guter Abschirmstoff.
 17cd8fa8	 Lektionen • 
+17e23d13	Ein vorübergehendes Erythem beginnt bei ~# Gy Hautdosis; bei langen Interventionen muss die Spitzenhautdosis überwacht und dokumentiert werden.
+17f14029	Es erhöht B₀
+17f5c6dc	Warum ist die Hypofraktionierung beim Prostatakarzinom vorteilhaft?
+17fda0a4	Ionisationskammer
 1808f4a6	In Weichgewebe dominiert Compton von etwa # keV bis # MeV. Paarbildung ist unterhalb ihrer Schwelle von # MeV überhaupt nicht möglich.
 18279c08	Verbreiterter Bragg-Peak (SOBP)
 18284597	<b>Expositionsindex</b> EI = # × K_Detektor [µGy] (IEC ##). Abweichungsindex DI = #·log₁₀(EI / EI_Ziel); |DI| ≤ # ist angemessen. DI = # bedeutet die doppelte nötige Dosis.
 182fdbbe	EANM (Bettüberlappung > # %): A·t ≥ # MBq·min·kg⁻¹ × Gewicht. Weniger Aktivität + längere Zeit ergibt dasselbe Bild bei geringerer Dosis. Empfohlene Uptake-Zeit: # ± # min.
 18674089	<b>Kohärente Streuung:</b> Das Photon ändert seine Richtung, ohne Energie zu verlieren; ein kleiner Beitrag bei niedrigen Energien.
+188a8059	LET und biologische Wirkung
+189d2fc2	Woher kommen sie?
 18d0a565	Thorax-CT
 1904dc9d	EANM-Empfehlung
 19201036	Zeit–Abstand–Abschirmung, Abstandsquadratgesetz, Dosisleistungskarte, Missionen.
 193ee1fd	Verbreiterter Bragg-Peak (SOBP, # cm)
+195d68ba	Farmer-Ionisationskammer
+197560c4	Die Transversalmagnetisierung zerfällt, weil Spins wechselwirken und ihre Phasenkohärenz verlieren — Spin-Spin-Relaxation, T2. In der Praxis beschleunigen Feldinhomogenitäten die Dephasierung, sodass der beobachtete Zerfall T2* < T2 ist. Ein #°-Refokussierungspuls (Spin-Echo) hebt statische Inhomogenitäten auf und stellt das wahre T2 wieder her.
+19a0d56e	Sekundärelektronengleichgewicht (CPE)
+19a49e9f	IGRT
 19b5eb24	Faustregel: R9# ≈ E/# cm, R5# ≈ E/# cm, Rp ≈ E/# cm. Elektronen stoppen in einer scharf begrenzten Tiefe — ideal für oberflächliche Tumoren.
 19c23656	 h Wartezeit
+1a0c0de0	# mSv
 1a36a166	Fortschritt
+1a3806f2	Wie hoch ist die BED von # Gy × # = # Gy für ein Gewebe mit α/β = # Gy?
+1a8231be	Energiedosis
+1aa52b11	Das Positron annihiliert mit einem Elektron zu zwei entgegengesetzten #-keV-Photonen, die die PET in Koinzidenz nachweist.
 1ace7035	Flachdetektor
+1ad4cee2	Diagnostischer Referenzwert: die #. Perzentile der nationalen Verteilung. Ein Werkzeug zur Optimierung, kein Grenzwert.
 1b01a1c6	Ein Atom besteht aus einem Kern mit Z Protonen und N Neutronen, umgeben von Z Elektronen. Die Massenzahl ist A = Z + N. Kerne mit gleichem Z, aber verschiedenem N sind Isotope, etwa ¹²C und ¹⁴C.
 1b06e46e	Sammle ≥ # # Koinzidenzen und rekonstruiere mit MLEM
 1b12fad7	Typ-#-Diabetes (Metformin)
+1b3d5f37	Ein geladenes Teilchen erfährt unzählige kleine Coulomb-Wechselwirkungen mit den Elektronen des Mediums und verliert kontinuierlich Energie. Der Energieverlust pro Weglänge ist das Bremsvermögen S = −dE/dx (MeV/cm), auch als Massenbremsvermögen S/ρ (MeV·cm²/g) angegeben.
+1b97c482	Nach einem HF-Puls erholt sich die Längsmagnetisierung, indem die Spins Energie an ihre Umgebung (das Gitter) abgeben — Spin-Gitter-Relaxation, T1. Fett hat ein kurzes T1 (~# ms bei # T), Flüssigkeit ein langes (Liquor ~# ms); T1 wird mit steigendem B₀ länger.
+1b9905a7	Ortskodierung und k-Raum
 1bbe9bf8	Mehmet: „Arme über den Kopf? Okay.“
 1be9e2d9	Die Halbwertschichtdicke (HWS) ist die Dicke, die die Intensität halbiert: HWS = ln2/μ. Die Zehntelwertschichtdicke ist ZWS = ln1#/μ ≈ # HWS. n HWS verringern die Intensität um den Faktor #ⁿ.
+1c0f8606	Um das Rauschen zu halbieren, müssen mAs (und Dosis) vervierfacht werden. Alternativ halbiert auch ein Wechsel von # mm auf # mm Schichtdicke das Rauschen, auf Kosten der z-Auflösung.
+1c3ba3dc	Die schwangere Patientin
+1c4e4f9c	Bremsvermögen
+1c7776da	Zufällige Fehler spielen überhaupt keine Rolle
 1c872a31	ja (> # MV)
 1ca87565	Hautmarkierungen und Laser genügen
 1cb740a3	<b>Abstandsquadratgesetz:</b> Intensität ~ #/d². Von SID # auf # cm braucht man für dieselbe Detektordosis ~#× mAs, die Hautdosis steigt aber weniger und die Vergrößerung sinkt.
 1cc0e3d5	Die Mutter fragt: „Kann diese Röntgenaufnahme meinem Sohn schaden?“ Emirs effektive Dosis ≈ 
+1d38faf9	Wärmere Luft bedeutet weniger Gas in der Kammer und eine niedrigere Anzeige. Die TRS-#-Referenz ist # °C und # kPa. Bei # °C und # kPa gilt k_TP = (##)/(##) × #/# ≈ # × # ≈ #. Ohne diese Korrektur läge die Dosis um # % zu niedrig.
 1d4b8ac2	Sofort injizieren
+1d6a995e	Ein systematischer Fehler verschiebt jede Fraktion gleich und verlagert die Dosis dauerhaft
 1d6b9aba	Während der Organogenese (Wochen #–#) liegt die deterministische Schwelle bei ~#–# mGy; diagnostische Untersuchungen liegen weit darunter.
 1d8a20dd	Mehmets Abdomen ist 
 1dd9a37f	Uptake-Zeit nicht standardisiert: SUVs sind mit früheren/späteren Scans nicht vergleichbar.
+1ddd0e0d	Bei einer Thoraxaufnahme erhalten die Lungen # mGy und die Brüste # mGy (übrige vernachlässigbar). E ≈ #·# + #·# = # mSv ≈ # mSv — etwa # Tage natürlicher Hintergrundstrahlung.
+1e466356	Protonen geben den größten Teil ihrer Dosis im Bragg-Peak ab und dahinter fast nichts, während Photonen auch hinter dem Ziel eine erhebliche Austrittsdosis deponieren. Die Protonentherapie senkt daher die Integraldosis deutlich, besonders bei Kindern und bei Tumoren nahe kritischer Organe (Auge, Schädelbasis, Wirbelsäule).
+1e4f76b7	Inversions-Nulldurchgang
 1e6a827e	Bestimme die Larmorfrequenz von Protonen bei # T (≈ # MHz)
+1e788d30	Eine Gammakamera besteht aus Kollimator, großem NaI(Tl)-Kristall, Photomultipliern (PMTs) und Orts-/Energieelektronik. Ein im Kristall absorbiertes Photon erzeugt einen Lichtblitz; der gewichtete Mittelwert der PMT-Signale ergibt den Ereignisort (Anger-Logik), ihre Summe die Energie.
 1e836d59	T2-Zerfall
+1e96362a	Protonen bewegen sich nahezu geradlinig. Den größten Teil ihrer Dosis geben sie in den letzten Millimetern ihrer Reichweite ab, danach fällt die Dosis fast auf null. Die Reichweite ist durch die Energie scharf festgelegt (Bragg–Kleeman-Regel R ≈ #·E^#). Einzelne Protonen stoppen in leicht unterschiedlicher Tiefe (Reichweitenstreuung), daher ist der Peak einige mm breit.
+1e9e1a29	Das Strichfokusprinzip: Die geneigte Anode verteilt die Wärme auf eine große Fläche, während der vom Detektor aus gesehene effektive Brennfleck klein bleibt. Wegen des Heel-Effekts ist die Anodenseite des Strahlenbündels etwas schwächer.
+1ef452c8	S_col ~ (z² / v²) · ln(# m_e v² / I)        (I: mittlere Anregungsenergie; ≈ # eV für Wasser)
 1f05f68e	Gewebeparameter
 1f12087d	Dosis ≈ 
+1f2ecf71	Rauschen
 1f4ea376	Anfangsaktivität Mo-#
 1f6b3b4a	Knochen (# cm) # % — geschont.
+1f956563	Planungstechniken
+1fe5d236	Röntgenröhre und Spektrum, Bildentstehung, Kontrast und Rauschen, Streustrahlung und Raster, Detektoren, EI/DI, Patientendosis; Durchleuchtung und Mammographie.
+2009a0a3	Was bietet eine Bleischürze einer MTR, die einen PET-Tracer vorbereitet?
+200b57d8	Die CT misst das Schwächungsprofil einer Schicht aus allen Richtungen, mit einer um den Patienten rotierenden Röhre und einem gegenüberliegenden Detektorarray. Jedes Detektorelement sieht das Integral von μ entlang seines Strahls:
 20170133	Zahnfüllungen
 2056fe0a	Co-# hat eine niedrige PDD und einen breiten Halbschatten; für die moderne kurative Prostata-RT nicht verwendet.
 20c4a5a9	Hautansicht
 20c53222	Wähle ein beliebiges Thema. Wenn du neu bist, probiere zuerst den kurzen Einstiegsfall.
 20caf1bb	Eluiere den Generator #–# h nach der letzten Elution (maximale Ausbeute)
+20daffb6	Wenn das μ eines Gewebes # % über dem von Wasser liegt, welchen HU-Wert hat es (μ_Luft ≈ #)?
+20e5e537	<b>Schilddrüsenschutz und Bleibrille:</b> bei Durchleuchtung und interventionellen Eingriffen.
+20e99949	Dosisgrößen
 210acf6e	Hasan: „An wie vielen Tagen muss ich kommen? Ich reise aus dem Dorf an.“
+2128d576	Nahe der Oberfläche treten weniger Elektronen ein als aus; die Dosis baut sich über die Elektronenreichweite (d_max) auf, bis sie sich der Kerma annähert.
 218447b4	Fett
+21ce1114	Die Schwangerschaft sollte abgebrochen werden
 21db31eb	Kurze TR/TE → T1; lange TR, kurze TE → PD; lange TR/TE → T2-Gewichtung.
 21f331e9	# Schulterarthroskopie: Titananker
+221c38d0	Gewebe mit niedrigem α/β reagiert empfindlicher auf große Fraktionen. Da das α/β des Tumors unter dem des Rektums liegt, ist bei gleicher Spättoxizität eine höhere biologische Tumordosis möglich.
+22392fc6	Der Mo-#/Tc-#m-Generator
 224a7dd2	Keine solche Einschränkung bei perkutaner Bestrahlung; das kann für Brachytherapie-Seeds gelten.
 229566cb	Hasan: „Darf ich nach der Behandlung meine Enkel umarmen? Bin ich dann radioaktiv?“
 22a06b53	ALARA: Thoraxbild mit ESAK < # mGy und DI ≥ −#
+22a87b76	<b>Generator:</b> Ein langlebiges Mutternuklid erzeugt ein kurzlebiges Tochternuklid: Mo-#/Tc-#m, Ge-#/Ga-#.
+22d2c2ce	Ein Gerät mit niedrigerem Feld (# T) reicht aus
 22fd0749	Tägliche IGRT korrigiert Organbewegungen und verkleinert Säume und Rektumdosis.
 2357d727	Strahlphysik
 23f641a4	• Prüfe in jeder Formel die Einheiten (cm⁻¹, Gy, Sv, MBq). • Löse Rechenbeispiele zuerst selbst und vergleiche dann. • Wiederhole nach der Übungsprüfung die Lektionen zu den falsch beantworteten Fragen. • Für Interviews: ICRP-Grundsätze, HWS, Abstandsquadratgesetz, LQ/EQD2, CTDIvol/SSDE, T1/T2, PDD und der Bragg-Peak kommen am häufigsten vor.
+240febd8	I-#
 24176da5	Mo-# / Tc-#m-Generator
+243eddb1	Geometrie
 2448ca2f	Blei
 2456b993	Kontrast
 2523a664	Geh zur Quelle (< # m), nimm sie auf und bring sie zum Bleibehälter.
@@ -172,128 +269,214 @@
 252a0fa6	ungeschirmt
 253898c0	Zählstatistik # — Bildqualität auf EANM-Niveau.
 25517e15	Bragg-Peak
+255b2c81	Er verringert das Rauschen
+256cadab	R ≈ #·E^#   (Wasser, R in cm, E in MeV)
 2576aae7	Gewicht / Größe
+258734b7	<b>Strahlaufhärtung:</b> Cupping (dunkle Mitte) und dunkle Streifen zwischen dichten Knochen; die Wasserkalibrierung korrigiert das Cupping.
 25941612	Knochendosis (# cm)
+25a52545	Für I-# ist T_phys = # Tage; die biologische Halbwertszeit der Schilddrüse sei # Tage. T_eff = (# × #)/(# + #) = # Tage — stets kürzer als die kleinere der beiden.
 25b31f5d	Röhrenleistung (# m)
 25c2fc03	Keine Fragen gefunden.
 25e14a19	Strom × Zeit
 25edd5e3	Referenzen zu Bremsvermögen und Reichweite von Protonen und Elektronen
+25f0ba98	ICRP # gibt für α w_R = # an: H = # × # Gy = # Sv.
+260c9112	#
+26abae68	HU = # × (# μ_w − μ_w)/μ_w = # × # = # — typisch für Weichgewebe.
 26f973b0	Schwächungskorrektur (AC)
 26fbd2ec	Was unterscheidet Röntgenstrahlung von γ-Strahlung?
+271d6d1e	<b>Sekundärbarriere:</b> gegen Patientenstreustrahlung und Durchlassstrahlung des Strahlerkopfs (~# % der Arbeitslast); U = #.
 2731d14d	FALL STARTEN  →
 2749a496	Effektive Dosis des Patienten
+274a6a69	TR / TE
+27b867bb	BED und EQD2
 27c35a89	 (T2-Verlust: e^(−TE/T2))
 280f0096	Beginne mit deinem ersten Fall
+285171e9	I-# geht in die Muttermilch über und reichert sich in der Schilddrüse des Säuglings an; bei Therapieaktivitäten wird das Stillen für dieses Kind beendet.
 287f6fa8	Applizierte Fraktionen
 2885d27b	Streustrahlenraster (#:#)
 28a6f0c2	Diagramm
+28b66559	Der #°-Puls kehrt die Phasenreihenfolge um, sodass statische Inhomogenitäten bei TE refokussieren; zufällige Spin-Spin-Wechselwirkungen (T2) lassen sich nicht rückgängig machen.
 28ce8c15	Die Detektoren messen das Positron selbst
 290489df	Wechselwirkungswahrscheinlichkeit pro Weglänge (cm⁻¹); μ/ρ ist der Massenschwächungskoeffizient (cm²/g).
 296d75eb	Strahlenbiologie
+299d31a2	SUV = C_Gewebe / (A_injiziert / Körpergewicht)
 29aac115	Einzeldosis, α/β = # (spät)
 29e178a3	Gespräch mit der Familie
 29e32f3e	Empfang
 2a17c8fd	Leberrauschen # HU: Ein kontrastarmer Abszess kann im Rauschen untergehen.
 2a72143f	Nötig für < # µSv/h am Platz
+2ab5c9fc	<b>Zyklotron:</b> Protonenbeschuss; F-# wird aus angereichertem Wasser über ¹⁸O(p,n)¹⁸F erzeugt. Mit T½ = # min wird es von regionalen Zyklotronen aus verteilt.
 2ab93b6c	Ziel: ≥ # % Dosis überall von der Haut bis # cm Tiefe; ≤ # % am Knochen in # cm. Wähle Energie und Bolusdicke.
+2aca6a7c	Etwa wie lange nach einer Elution erreicht die Tc-#m-Aktivität im Generator ihr Maximum?
 2ad83ea8	SCANNEN
+2aecbbea	Niedrige Ortsfrequenzen liegen im Zentrum: Ohne das Zentrum verliert das Bild Kontrast, ohne die Peripherie wird es unscharf.
 2afcdfa8	CNR Riss / Meniskus
+2b02aa61	Er steigt um das #-Fache
+2b030ee3	Bei der PET der Nachweis zweier #-keV-Photonen in gegenüberliegenden Detektoren innerhalb weniger ns.
 2b05bc17	Jedes Atom zerfällt in jedem Zeitschritt mit der Wahrscheinlichkeit p = # − e^(−λΔt). Bei wenigen Atomen schwankt die Kurve statistisch.
 2b45b1f2	MLEM-Iterationen
+2b6a8342	Welches Gerät eignet sich am besten, um einen Raum auf Kontamination abzusuchen?
 2b8ee748	Gewähltes Schema
 2bab58c8	MR-Sicherheit: Aufklärungsbogen, Orbita-Aufnahmen (Metallarbeiter), Zone-IV-Regeln, Gehörschutz.
 2bbeecb2	Echte Patienten, echte Entscheidungen: Thorax-Röntgen beim Kind, CT in der Schwangerschaft, ein großer Patient, Prostata-Bestrahlung, Hautkrebs, PET und MR-Sicherheit.
 2bd2dbd1	Hüftprothese aus Titan
+2bd612e8	Ein langes TI (≈ #–# ms) unterdrückt den Liquor mit seinem sehr langen T1 und macht periventrikuläre Läsionen sichtbar.
 2be6e625	HDR-Brachytherapie
 2bfaf1fc	noch nicht belichtet
 2c30aab8	Gesamtdosis / Zeit
+2c32813e	# W/kg
+2c32a937	SSDE (AAPM #)
+2c5508a5	<b>Beruflich:</b> effektive Dosis # mSv/Jahr (gemittelt über # Jahre, höchstens # mSv in einem einzelnen Jahr); Augenlinse # mSv/Jahr (ICRP #); Haut und Extremitäten # mSv/Jahr.
+2c58f0bf	Der CTDI ist das Integral des Dosisprofils einer Rotation, gemessen mit einer #-mm-Stabkammer in PMMA-Phantomen (Kopf # cm, Körper # cm). Der gewichtete CTDIw kombiniert Mitte und Peripherie; der CTDIvol berücksichtigt den Pitch und wird an der Konsole angezeigt.
+2c7551a1	Warum braucht die PET keinen Kollimator?
 2c89960f	EQD2 Tumor (α/β #) = # Gy, späte Haut (α/β #) = # Gy. Eine einzige große Fraktion birgt das Risiko später Nekrose und Knorpelschäden.
+2caf8732	Wie verändert eine Verdopplung des Röhrenstroms (mA) das Spektrum?
 2cafb291	Klinische Fälle — 
 2cb28fc5	Bauteile
 2ceef116	Den Magneten ausschalten und sie dann hereinlassen
+2cf118a7	HU = # · (μ − μ_Wasser) / (μ_Wasser − μ_Luft)
 2d0ea9f2	Gesamtdosis
+2d38e091	M_PTV = #·Σ + #·σ    (Σ, σ: SD des systematischen und des zufälligen Fehlers)
 2d435572	Schürt unnötige Angst und verzögert die Diagnose; eine gerechtfertigte Untersuchung sollte nicht verhindert werden.
+2d59f0fd	Strahlaufhärtung: Mit steigender mittlerer Energie sinkt μ, daher braucht die zweite Halbierung eine dickere Schicht.
 2d877b6c	Abschnitt
+2d8fb0b2	Um Streustrahlung vollständig zu beseitigen
 2d93483f	Du kannst mehrere Optionen ankreuzen.
 2dcee2fc	nach der Elution (h)
 2e160bcd	Stadium
+2e2c2d5d	f = # × # ≈ # MHz.
+2e4d104d	Bildentstehung: Kontrast, Streustrahlung und Raster
+2e5665a5	Die Präzessionsfrequenz der Protonen um B₀; # MHz bei # T.
+2e5bf3b5	Das Fettsignal
+2e62f99c	Wie ändert sich bei HDR die Dosis in # cm statt # cm Abstand von der Quelle (nur Abstandsquadrat)?
 2e6390f7	Fertig. 
 2e83162e	Sequenzdesign
 2eafe887	Rate
+2ebc2a84	Die CTDI-Familie
 2ebd290f	Röhrenlast (Pitch #)
 2ecb2727	Niedrige kV erhöhen den Jodkontrast, verursachen aber bei großen Patienten Photonenmangel.
+2ed4bd8c	Für stochastische Wirkungen (Krebs, vererbbare Effekte) geht der Strahlenschutz vom linearen Modell ohne Schwellenwert (LNT) aus: Die Wahrscheinlichkeit ist proportional zur Dosis, der Schweregrad hängt nicht von ihr ab. Der nominelle Risikokoeffizient für Krebs nach ICRP # beträgt für die Gesamtbevölkerung ≈ # % pro Sv.
+2ee5a97a	Die effektive Dosis E = Σ w_T H_T fasst das stochastische Risiko einer ungleichmäßigen Exposition in einer Zahl zusammen. Gewebewichtungsfaktoren (ICRP #): rotes Knochenmark, Dickdarm, Lunge, Magen, Brust und „Restgewebe“ #; Gonaden #; Blase, Speiseröhre, Leber und Schilddrüse #; Knochenoberfläche, Gehirn, Speicheldrüsen und Haut #. Ihre Summe ist #.
 2f0820de	Ohne Kontrastmittel scannen
+2f1696b0	<b>Metall:</b> sternförmige helle/dunkle Streifen durch Photonenmangel und Aufhärtung; MAR-Algorithmen und höhere kV helfen.
+2f2650d9	Die MIRD-Methode
 2f44ed8c	Neustart
+2f538647	<b>β⁺:</b> Proton → Neutron + Positron + Neutrino (F-#, Ga-#); das Positron annihiliert zu # × # keV Photonen — die Grundlage der PET.
 2f828120	Heiße Kugeln verschiedener Größen und ein Lungeneinsatz in einem wassergefüllten Zylinder: Damit werden Recovery-Koeffizienten, der Partialvolumeneffekt und die Schwächungskorrektur geprüft.
+2f9059d6	Welcher Anteil der Energie wird bei # kV in einer Wolframanode etwa zu Röntgenstrahlung?
+2faee7d1	Messzeit
+2fb366b1	Raster
 2fc8666a	CNR Ödem / Knochenmark
+2fdacb63	FBP
+2ffbb13c	TR # ms, TE # ms
 3000eed2	Zeit (Tage)
+30477590	<b>Höhere mAs:</b> Die Form des Spektrums bleibt gleich; Photonenzahl und Dosis steigen linear.
 304ff7fb	Keine
+309e5265	Warum Protonen?
 30b6e97d	Elektronenenergie und Bolus
+30b7dd3d	Ein langes TR beseitigt den T1-Effekt, ein langes TE bringt die T2-Unterschiede heraus.
 30fa92b1	Rekonstruiertes Bild
+31417a84	Wie hoch ist der Ganzkörper-SAR-Grenzwert im normalen Betriebsmodus?
 3152bf83	Knochenmetastasen (Alphatherapie)
 31b9a47d	T1-Erholung
+31bbbc99	Magnetresonanztomographie
+31d8fb21	<b>T1-gewichtet:</b> kurzes TR (~#–# ms), kurzes TE (~#–# ms). Fett ist hell, Flüssigkeit dunkel; für Anatomie und Kontrastmittelanreicherung.
 31e91d5f	In der Mitte dünn und an den Rändern dick: Er senkt die Dosis an den dünnen Rändern des Patienten und gleicht das Detektorsignal aus. Der Kollimator legt die Schichtbreite fest.
+31fd861c	Photonen wechselwirken dort nicht
 327a15b7	Die Photoneutronenproduktion beginnt oberhalb von ~# MV; mit VMAT genügen #–# MV für tiefe Ziele.
+328c47ab	Die # R der Strahlentherapie
 32abb5ec	Ungeladene Teilchen (Photonen, Neutronen), die zuerst geladene Teilchen in Bewegung setzen.
 32d80beb	Gewebezusammensetzungen, Dosisgrößen, Wichtungsfaktoren
 33449df1	#. Schwächung und Filterung
 3377af3e	Richtig: F = I·L × B. Der Lärm steigt mit B₀ (lauter bei # T); IEC ### schreibt Gehörschutz vor.
+339ae232	Typische Werte (# T): weiße Substanz T1 ≈ # ms, T2 ≈ # ms; graue Substanz T1 ≈ # ms, T2 ≈ # ms; Liquor T1 ≈ # ms, T2 ≈ # ms; Fett T1 ≈ # ms, T2 ≈ # ms. Die meisten Pathologien (Ödem, Tumor) bringen Wasser mit und verlängern T1 und T2.
 33c3fd73	Nuklearmedizin
 33d5539e	Es gibt eine Anforderung, sofort scannen
 33d5b2f2	Muskel
+33ddebe6	Abschirmmaterialien
 34049cb1	Tumor
 340a8d84	Bewegt sich beim Spiralscan mit konstanter Geschwindigkeit. Pitch = Tischvorschub pro Rotation / gesamte Strahlbreite; Pitch > # senkt die Dosis.
 340d8b25	Rückstreuung E′(#°)
+342904de	<b>Phasenkodierung:</b> ein kurzer Gradient unterschiedlicher Stärke in jedem TR, der die Zeilen über die Phase trennt.
+34350203	Ein instabiler Kern hat eine konstante Zerfallswahrscheinlichkeit pro Zeiteinheit (λ). Die Aktivität A = λN ist die Zerfallsrate und nimmt exponentiell ab:
 347ac991	Die erste HWS entfernt die weichen Photonen, der verbleibende Strahl ist also härter
 34895938	Boden: Dosisleistung H*(#), µSv/h (log. Skala) • weiße Linie = # µSv/h
 34a0fb80	Geladene Teilchen (Elektronen, Protonen, α) erfahren entlang ihres Weges ständig Coulomb-Wechselwirkungen und sind direkt ionisierend. Photonen und Neutronen sind ungeladen: Sie setzen zuerst ein geladenes Teilchen in Bewegung (Photon → Elektron, Neutron → Rückstoßproton), und dieses Teilchen gibt die Dosis ab.
 34a3d9ed	Entwickler
 34aaa379	 min
+34da35d5	≈ # MeV
 34dd8fb9	#. Bloch-Gleichungen und Relaxation
+34e79c54	Mo-# (T½ # h) ist an eine Aluminiumoxidsäule gebunden; ~# % seiner Zerfälle führen zu Tc-#m. Durch die Säule geleitete Kochsalzlösung (Elution) löst nur das Pertechnetat (TcO₄⁻). Da die Mutter länger — aber nicht viel länger — lebt als die Tochter, stellt sich ein transientes Gleichgewicht ein: Die Tc-#m-Aktivität erreicht ~# h nach einer Elution ihr Maximum.
+34ec1b57	CTDIvol = CTDIw / Pitch. Viele Scanner verwenden „effektive mAs“ (mAs/Pitch); dann bleibt der CTDIvol konstant.
+350bcbe4	Dosis = Dosisleistung × Zeit          Ḣ(d) = Γ · A / d²          Ḣ_abgeschirmt = Ḣ₀ · B · e^(−μx)
 3510b740	Insulin treibt FDG in Muskel und Fett; danach ≥ # h warten.
 35143fb3	TE (Echozeit)
+35370a12	ICRP #: Unter # mGy ist ein Abbruch medizinisch nicht gerechtfertigt. Das stochastische Risiko ist sehr klein, aber nicht null, daher sollte die Kommunikation ehrlich und ruhig sein.
+35a72ef2	CTDIw / CTDIvol
 35afca3b	Abbrechen
+35db04cd	DRL
 35dd3154	Atome und Kerne, Strahlungsarten und wie Photonen und geladene Teilchen mit Materie wechselwirken — die Grundlage der gesamten Medizinphysik.
 35dfee4a	Der Aufbau des Atoms
+35ece971	<b>β⁻:</b> Neutron → Proton + Elektron + Antineutrino (I-#, Lu-#, Y-#); die Elektronen mit kurzer Reichweite werden in der Therapie genutzt.
 35fca6f7	Historien
 36014d05	k-Raum
 360983be	Wasser-Aufhärtungskorrektur (BHC)
 36315a9f	Kortikalis / kontrastiertes Blut
 363200c3	Fertig: 
 36375dc7	Gesamten Fortschritt zurücksetzen?
+364873b6	α/β-Verhältnis
 365bad67	Level 
 368f3298	 Fragen
 36c94f4b	Kein Diabetes
 36cc1e6f	Senke die Dosisleistung am Bedienplatz (grüne Markierung) unter # µSv/h
+375f3043	In der Praxis nutzt man für diagnostische Verfahren die effektive Dosis pro Aktivitätseinheit nach ICRP #, z. B. F-#-FDG ≈ # mSv/MBq und Tc-#m-Knochenszintigrafie (MDP) ≈ # mSv/MBq.
 3769e565	#. Dosis
+37c8362e	Schilddrüse
+37cc2d08	Drei Werkzeuge
 3809b45a	Spinecho! t = 
 381fcf9b	Rauschen (Blasen-ROI, SD)
 38362f62	Erledigte Aufgaben, Fallsterne und Lektionsfortschritt werden gelöscht. Das kann nicht rückgängig gemacht werden.
+38576bba	Was ist der grundlegende physikalische Grund für den Bragg-Peak?
+385a8606	Die Ortsauflösung verschlechtert sich
 38652f80	Aufnahmezeit
+38660fa2	Bereichseinteilung und Vorkommnisse
+38b44594	Durch Messung der Flugzeit
 38ec0bda	Effektive Dosis (# mSv/MBq)
 38f2a757	Spezifische Aktivität (rein)
 38f6bec6	Axiale Schicht (HU)
 38f9308a	Schädel
+392650d1	Photonen deponieren Dosis in zwei Schritten: Zuerst übertragen sie Energie auf geladene Teilchen (Kerma = kinetische Energie, freigesetzt pro Masse), dann geben diese Teilchen sie an das Medium ab (Energiedosis). Kerma wird dort gezählt, wo die Wechselwirkung stattfindet, die Dosis dort, wo die Elektronen hingelangen.
 39547f25	Ungefiltert
 396c9c92	Lunge V2# < # %
+3970bb49	Zerfallsarten
 398977ad	Detektorkanäle
 399e986d	Aufgaben
+39e59875	DVH
+39e88871	Was passiert bei einem Parallellochkollimator, wenn sich die Quelle vom Detektor entfernt?
 3a6a3b1d	Verbleibend / zerfallen
 3ad53794	AP
+3b078b13	SAR ~ B₀² · α² · (Pulse / s)
 3b1cbe1c	Aktivität im Körper nach dem Scan
 3b272149	✗ Falsch
 3b2ac288	Ein Knochenmarködem im fetthaltigen Mark wird erst mit Fettsuppression (oder STIR) sichtbar.
+3b324767	Z / E
 3b6eb64c	Vordere Rektumwand grenzt an die Prostata
 3b7e32aa	Verhältnis Eintritt / Peak
 3b8987c9	  — Lektion gemeistert!
 3ba1a0c6	Jede HWS halbiert die Intensität: (#/#)³ = #/#.
+3c04e9f8	Mit EI_T = # hat ein Bild mit EI # einen DI = #·log₁₀(#) = #: die doppelte Detektordosis. Auch wenn das Bild gut aussieht, sollten die mAs beim nächsten Mal halbiert werden.
 3c21cd4d	Verschreibung
 3c2dfe59	Ausgeblendet
 3c4cfbae	Titan ist nicht ferromagnetisch (MR-sicher / bedingt); keine Maßnahme nötig.
+3c96d414	Ein #-MeV-α-Teilchen
 3c988cc0	Mittlere Energie
+3d2156fc	Die Rampe (|f|) verstärkt hohe Frequenzen so, dass die Unschärfe genau aufgehoben wird, wodurch auch das Rauschen steigt; gefensterte Kernel bestimmen den Kompromiss.
 3d27f064	<b>Paarbildung:</b> Im Feld eines Kerns wird das Photon zu einem Elektron-Positron-Paar; die Schwelle liegt bei # MeV, und die Wahrscheinlichkeit steigt etwa mit Z².
+3d44f458	Geiger-Müller-Zählrohr
 3d6b9f1f	Lungentumor
+3d767dfb	Den Unterschied zwischen der Strahlqualität des Anwenders und der Kalibrierqualität (Co-#)
 3dbec6d5	Expositionsindex (EI)
+3dd00737	Auslegung nach NCRP #/#
 3e04a9b3	Die Wellenlänge eines #-keV-Röntgenphotons: λ ≈ # / # = # nm — etwa ein Zehntel eines Atomdurchmessers (~# nm).
 3e0553f6	Brustkorb
 3e233fe3	Mittlere Lebensdauer τ = #/λ
@@ -302,11 +485,13 @@
 3e3a239c	Bildgebungsverfahren
 3e5c100c	Orthopädie: MRT rechtes Knie — Meniskusriss? Knochenprellung? (Dr. Polat)
 3e6fed3c	Bloch-Kugel (rotierendes System)
+3e77062b	Der Wasserstoffkern (Proton) verhält sich wie ein winziger Magnet. In einem starken Feld B₀ richten sich die Protonen parallel oder antiparallel aus und präzedieren mit der Larmorfrequenz um das Feld:
 3ea76ce8	BED Tumor
 3f01de3a	Fünf Wechselwirkungen
 3f6fbd86	k-Raum-Abtastung
 3f99f636	Rauschen # HU: nicht diagnostisch — eine Wiederholung wäre nötig und erhöht die Gesamtdosis.
 3fa74db5	Photonenspektrum (Target + Ausgleichsfilter)
+3fdc4de2	Indirekt, durch OH·-Radikale aus der Radiolyse des Wassers
 3fddf4f8	Ausgezeichnet! Du beherrschst den Stoff.
 3fe8604c	Tattoo
 3feef465	− Entfernen
@@ -314,56 +499,99 @@
 40253cf6	μ ist der lineare Schwächungskoeffizient (cm⁻¹), die Summe der vier Wechselwirkungsterme. μ/ρ (cm²/g) ist unabhängig von der Dichte, deshalb wird er tabelliert (NIST XCOM).
 40361aca	Anzahl der Fraktionen
 4036e7f4	Diese App vermittelt die Kernthemen der Medizinphysik mit interaktiven #D-Simulationen. Alle Berechnungen beruhen auf echten physikalischen Modellen und Referenzdaten, sie ist aber NICHT für den klinischen Einsatz bestimmt.
+4037c6dd	Der Raum ist zu # % belegt
+40470c54	Sehr wenig — dünnes Blei reicht für #-keV-Photonen nicht aus
 4068c7dd	Frühstück vor # Stunden, Blutzucker # mg/dL. Was tust du?
+407381a7	Bildgeführte Strahlentherapie: Überprüfung der Patientenposition mit kV/CBCT vor jeder Fraktion.
 4078f8e8	Spulen um die Röhre lassen das Feld linear mit dem Ort variieren (mT/m): Schichtwahl, Frequenz- und Phasenkodierung. Das schnelle Schalten erzeugt den Lärm.
 41086ad1	mAs für gleiches σ (vs. # cm)
 411cbb0d	Nur von Schwangeren fernhalten
 414eb5b3	Zusammenfassung
+4157224d	β⁺-Zerfall (Positron)
+41b45f05	<b>Höhere kVp:</b> Maximal- und mittlere Energie steigen, der Strahl durchdringt besser; die Ausbeute steigt etwa mit kVp²; der Kontrast sinkt.
 41d150aa	Gantry
 41e0bccc	Photonen
 421ed9be	Bei diagnostischen Energien dominieren zwei Wechselwirkungen: der <b>Photoeffekt</b> (~ Z³/E³, Quelle des Kontrasts) und die <b>Compton-Streuung</b> (~ Elektronendichte, Quelle der Streustrahlung). Die Simulation nutzt für jedes Material NIST-Tabellen μ/ρ(E).
+422525cf	BED / EQD2
 422af40c	Maus: Linksziehen = drehen, Rechtsziehen = verschieben, Mausrad = zoomen. Touch: ein Finger = drehen, zwei Finger = zoomen/verschieben.
+423010bd	Die T1-Relaxation
 42347061	Röhrenstrom × Zeit
 424c4852	#. Bildentstehung
 426e4933	Klaustrophobie
 42720baf	Knochen
 427f78a4	Schnelle Regeln (Nennenergie): R9# ≈ E/#, R8# ≈ E/#, R5# ≈ E/#, Rp ≈ E/# (cm).
+42a1f7ce	Sie muss sich verdoppeln
+42b7c6d8	Gammakamera und SPECT
+42e381ed	Die Durchleuchtung bildet in Echtzeit ab (Bildverstärker oder Flachdetektor). Die automatische Dosisleistungsregelung (ABC) erhöht kVp und mA, wenn der Patient dicker ist. Die Gesamtdosis ist Dosisleistung × Zeit, und bei langen Interventionen kann die Hautdosis deterministische Schwellen überschreiten: vorübergehendes Erythem ~# Gy, Epilation ~# Gy, schwere Schäden > #–# Gy.
+42f504d1	Ihre RBW ist #
+432ffd97	Bei MV dominiert der Compton-Effekt, die Schwächung hängt von der Elektronendichte ab, und dicker Beton ist billig und zugleich tragend
+435cb733	Rauschen und Detektoren
 439ee205	Vergleiche die Wirkung der Schwächungskorrektur in der Bildmitte
 43b2aeba	Parameter ändern → Bild und Dosis werden neu berechnet (polyenergetisches Raytracing + NIST-Daten).
 43b5e592	Radionuklid
+43bcbe39	Die T1-Werte werden kürzer
 43cb67fd	Die Bindungsenergie der K-Schale von Wolfram beträgt # keV. Erzeugt eine mit # kVp betriebene Röhre charakteristische K-Linien von Wolfram?
 43d93074	EQD2 Tumor (α/β #) = # Gy, späte Haut (α/β #) = # Gy. Unterdosiert: hohes Rezidivrisiko.
 446ceec2	in Luftkerma
+449d5209	f(# cm) = # × e^(−#) ≈ #, also SSDE ≈ # × # ≈ # mGy. Deshalb müssen pädiatrische Protokolle gesondert optimiert werden.
+44b565e7	≈ # Minute
 44fb5dc7	Quelle gesichert! Dosis während der Mission: 
 4531ef7f	Die Schwächung hängt exponentiell von der Dicke ab.
 4581c4fb	#. Radioaktiver Zerfall
 45901efd	Gradientenspulen
 4602d9ec	tippe auf das Bild
 46143215	Hier treffen sich die Rotationsachsen von Gantry, Kollimator und Tisch (±# mm). Der Quelle-Achse-Abstand (SAD) beträgt # cm.
+4642dfa0	Projektion
 467b083e	Bolus
 46ac079e	Scanne…
+46d4c952	Ein Linienintegral
+46db0052	<b>Ringe:</b> ein defektes oder falsch kalibriertes Detektorelement.
 46e87af2	 % erledigt
+4719156f	Röntgenröhre und Spektrum
 472bd5d7	Niedrige kV verstärken den Jodkontrast (K-Kante # keV); gute Wahl bei einer schlanken Patientin.
+4731830d	<b>Aufenthalt:</b> Büros T = #, Flure T ≈ #/#, Warteräume T ≈ #/# (Vorschläge der NCRP).
 475a075b	Sinogramm  p(θ, s)
 477692bf	Nuklearmed.
+477c08b3	# MBq FDG: E ≈ # × # = # mSv; der CT-Anteil einer PET/CT kann weitere #–# mSv hinzufügen.
+47900c2b	Die Hounsfield-Skala
+47932082	<b>Schwangerschaft:</b> muss vorher erfragt werden; Radioiod kann die fetale Schilddrüse ablatieren (ab der #.–#. Woche).
+47955da0	Was bedeutet ein Nutzungsfaktor U = #?
+47ae1b91	t_max = ln(λ_Tc/λ_Mo)/(λ_Tc − λ_Mo) ≈ # h, weshalb Kliniken meist einmal täglich eluieren.
+47f7e1bf	<b>Neutronen:</b> Oberhalb von ~# MV erzeugen (γ,n)-Reaktionen Photoneutronen; Tür und Labyrinth werden dafür ausgelegt.
 47f9a72c	Fieber (# °C) und Husten seit # Tagen
+47fcd7a2	Sie nimmt mit dem Abstand ab
+48240919	Der Zeitanteil, in dem der Nutzstrahl auf eine bestimmte Barriere gerichtet ist.
+482ee3dd	Kerma, Energiedosis, Äquivalent- und effektive Dosis; Dosimeter; wie Strahlung auf Zellen wirkt, das LQ-Modell, BED und EQD2.
+483d1dab	E² / Z
+4876b3ed	Der Zeitanteil, in dem sich die am stärksten exponierte Person in einem Bereich aufhält.
+488a432b	CT-Dosis: CTDI, DLP und SSDE
+48b92494	Elektronen, die auf kein Target treffen, werden direkt genutzt; der Nadelstrahl aus dem Wellenleiter wird durch eine dünne Folie mit hohem Z zu einem klinischen Feld gestreut.
 48bee2b3	Eine CT-Anforderung kommt. Elifs letzte Periode war vor # Wochen. Was tust du vor jeder Untersuchung mit ionisierender Strahlung?
 48cabbff	#-Felder
+48eb3008	Vergrößerungsmodi (kleineres FOV) erhöhen die Dosisleistung.
 48f82113	ausgeschieden 
 49059469	Geht das schnell? Ich muss morgen wieder arbeiten — ich schleife in der Werkstatt.
 491836e3	Fehler 
 499a20d5	AP, liegend, SID # cm
 49cf1cfd	Larmorfrequenz f₀ = γ̄·B₀
 49e1196b	Meniskusriss
+4a5fde88	Nach der Bethe-Formel skaliert das Stoßbremsvermögen etwa mit z²/v²: Je langsamer das Teilchen wird, desto schneller verliert es Energie. Das ist der Ursprung des Bragg-Peaks schwerer Teilchen.
+4a6030a5	Das Raster ist falsch herum eingelegt
+4a610ce1	SAR ~ B₀² · (Flipwinkel)² · (HF-Pulse / s)
 4a690915	Empfangsspule
 4ac37c75	Compton-Streuung
 4b058728	Einstellungen
 4b20e113	Nuklearmedizin / PET
+4b26d668	Photonen gehorchen der Poisson-Statistik: Bei N Photonen beträgt das Rauschen √N und SNR ~ √N, eine Verdopplung des SNR kostet also die vierfache Dosis. Digitale Detektoren nutzen indirekte (CsI-Szintillator + a-Si-Photodiode) oder direkte (a-Se) Konversion. Die Detektoreffizienz wird durch die DQE = SNR²_out / SNR²_in ausgedrückt.
+4b66e013	Beruflich strahlenexponierte Personen tragen Personendosimeter (OSL/TLD): Hp(#) für die Ganzkörperdosis, Hp(#) für die Haut, Fingerringdosimeter für die Hände. Mit Bleischürze wird das Dosimeter meist darunter am Rumpf getragen; für die Augenlinsendosis wird ein zweites in Kragenhöhe über der Schürze empfohlen.
 4b6a214c	Kalibrierquelle, Brachytherapie (historisch)
 4b7042c7	eGFR # mL/min/# m²
 4b81b768	SNR (Mitte)
+4b88091d	E ≈ # × # = # mSv (ICRP #).
+4baca147	Ein einzelner Peak ist nur wenige mm breit. Um ein Ziel abzudecken, werden Peaks verschiedener Energien gewichtet und zu einem verbreiterten Bragg-Peak (SOBP) summiert. Moderne Anlagen bestrahlen das Ziel Schicht für Schicht und Spot für Spot mit Pencil-Beam-Scanning (PBS), was die intensitätsmodulierte Protonentherapie (IMPT) ermöglicht.
 4be56c9f	Frage 
 4bf1fc72	Fettsättigung (FS)
+4bf8421e	<b>Monitorkammern:</b> messen kontinuierlich die Dosisleistung (MU) und die Strahlsymmetrie; sie sind doppelt und unabhängig ausgeführt.
 4c3b45ab	• Energiedosis D (Gy = J/kg)\n• Äquivalentdosis H_T = w_R · D_T (Sv); w_R = # für Photonen und Elektronen, # für Alphateilchen, # für Protonen\n• Effektive Dosis E = Σ w_T · H_T (Sv); Gewebe-Wichtungsfaktoren nach ICRP #\n• Messgeräte zeigen die Umgebungs-Äquivalentdosis H*(#) (≈ # × Luftkerma bei Cs-#).
 4c498c6f	Ich stille mein Baby. Kann ihr diese Untersuchung schaden?
 4c4a1ccb	Photoneutronen
@@ -371,37 +599,51 @@
 4c94eaa4	Gut. Wiederhole die Lektionen der Themen, bei denen du Fehler hattest.
 4c96524b	Senke die Rückenmarksdosis mit einem Protonenplan
 4cf38cb8	Ableseenergie
+4d1863f4	<b>Repopulierung:</b> Der Tumor proliferiert während der Behandlung; eine verlängerte Gesamtbehandlungszeit verringert die Tumorkontrolle.
 4d1aa535	Themen
+4d3dd3bd	Die Tumorkontrolle verbessert sich
 4d5f9cf2	Jahr
 4daa2b83	Strahlenschutz
 4dd7913c	Bilde den Herzschrittmacher auf einer Thoraxaufnahme ab
 4de2c891	Lunge, Knochen, Weichteile und Herz sind mit NIST-Schwächungskoeffizienten modelliert; für jedes Detektorpixel wird ein polyenergetischer Strahl verfolgt.
 4df6b638	Messwerte
 4e0d4ec8	Eine Abschirmung ist # HWS dick. Wie groß ist die Transmission in schmaler Geometrie?
+4e2183c3	Das kumulative DVH zeigt, welcher Prozentsatz einer Struktur mindestens die Dosis D erhält. Für Ziele wird D9# verwendet (die Dosis, die # % des Volumens abdeckt); für OAR Vx (Prozentsatz, der x Gy erhält), Dmax und Dmean. QUANTEC-Beispiele: Lunge V2# ≤ #–# % und Mittelwert ≤ #–# Gy (Pneumonitis < # %); Rückenmark Dmax ≤ # Gy (#-Gy-Fraktionen); Rektum V7# < # %; Parotis Mittelwert < # Gy.
+4e3cc928	Die Aktivität im Körper nimmt sowohl durch physikalischen Zerfall als auch durch biologische Ausscheidung ab:
 4e6c5d36	Simulation
 4e7651ae	Sofort Kontrastmittel-CT
+4e7782c3	Z³ / E³
 4e8632ff	Direkt ionisierend
 4ea60106	#. Dosisgrößen
 4ebc9931	Tumor-EQD2 (α/β #)
 4eed3c07	unterbelichtet / verrauscht
 4ef63472	relative Dosis
+4f01c549	E ≈ # × # = # mSv.
 4f56491a	Bestimme die Halbwertszeit von Tc-#m per Monte Carlo auf # % genau
 4f5e1d34	#. Drei Grundsätze: Zeit, Abstand, Abschirmung
 4f8bf6fa	Schweißer / Schleifer: mögliches Metall im Auge
+4f92129e	Die Gesamtzahl der Zerfälle in einem Organ (Zeitintegral der Aktivität).
 4fca6bb4	Keine chronische Erkrankung, vollständig geimpft
 4fd01b06	Strahlenenergie
+4fdd3825	M_Q ist die um Temperatur-Druck, Polarität, Rekombination und Elektrometer korrigierte Anzeige; N_D,w,Q0 ist der Wasser-Energiedosis-Kalibrierfaktor des Standardlabors (in Co-#), und k_Q korrigiert die Strahlqualität.
+5009dc40	Radioaktiver Zerfall
 5009de05	Dosisleistung in # m
 5009fb9e	Vergleiche die Tumor-BED von SBRT (#×# Gy) und konventioneller Bestrahlung (#×# Gy)
+5021c2fa	Was stellt ein Projektionswert p dar?
 504443a0	Belichtung
 5060769e	lat
 506f8881	Rektum
+507364c6	<b>Bevölkerung:</b> # mSv/Jahr; Augenlinse # mSv/Jahr; Haut # mSv/Jahr.
 50793575	Glossar
 50b3cd30	Digitales Röntgenbild (CsI-Detektor)
+50b6db4e	Die Streustrahlung am Detektor
 50f75e70	Ödem/Mark-CNR #: Fettmark überdeckt das Ödem — Fettsättigung (FS) verwenden.
 51301586	ACHTUNG
+51327597	Das ACR definiert vier Zonen: I öffentlich, II Screening, III kontrollierter Zugang, IV der Magnetraum. Jeder Patient und jeder Mitarbeitende wird vor dem Betreten von Zone III schriftlich befragt; Metallarbeiter mit möglichem intraokularem Metall erhalten zuvor Orbitaaufnahmen oder eine CT. Implantate sind als MR Safe, MR Conditional oder MR Unsafe gekennzeichnet, und ihre Bedingungen werden eingehalten.
 514a1189	TR (für das SE-Diagramm)
 515cc083	T2-gewichtet
 5169f3c5	Linearer Energietransfer: Energie, die ein geladenes Teilchen pro Weglänge abgibt (keV/µm).
+517390af	Das Herz liegt nahe am Detektor, was Vergrößerung und geometrische Unschärfe verringert
 51880252	Dosisverteilung (x–z-Ebene)
 51b48ac4	Abschirmung platziert. Dicke und Material im linken Bereich ändern.
 51d5b7b0	EQD2 Tumor (α/β #) = # Gy, späte Haut (α/β #) = # Gy. Akzeptabel: weniger Termine, aber höheres Risiko für Späteffekte (Atrophie, Teleangiektasien).
@@ -410,85 +652,132 @@
 51f7e789	Gesamtdosis (Gy)
 51fa3930	Fertig. Prüfe die Ergebnisse; ändere bei Bedarf die Einstellungen und starte erneut.
 523e597b	Weiße Substanz
+524bb01f	Isozentrische (SAD-)Techniken verwenden das TMR, eine Tiefendosiskurve ohne Abstandsquadrat-Effekt bei festem Quelle-Punkt-Abstand. Outputfaktoren berücksichtigen die Kollimatorstreuung (S_c) und die Phantomstreuung (S_p) der Feldgröße.
 524fb8d1	Drücke ELUIEREN, um Tc-#m zu gewinnen. Für die höchste Ausbeute ≈ # h nach der letzten Elution warten.
+52784cfd	Nur gegen Neutronen
 52af1039	In Elektronenfeldern verengt sich die #-%-Isodose mit der Tiefe; ein Saum von ~#–# cm ist nötig. Outputfaktoren müssen für kleine Felder gemessen werden (TG-#).
 537cf34e	Ausbeute der letzten Elution
 539143ed	TCP für dieses Schema (N₀ = #⁹)
 5394c2c1	Dosisflächenprodukt (DFP)
 53a02dda	α/β ≈ # Gy (Tumor, früh reagierend) und ≈ # Gy (spät reagierendes Normalgewebe, z. B. Rückenmark). Kleine Einzeldosen schonen spät reagierende Gewebe; hohe Einzeldosen wie bei der SBRT ergeben eine sehr hohe Tumor-BED, erfordern aber präzises Zielen. TCP = exp(−N₀·S).
+53db2663	Die Empfindlichkeit fällt auf null
 53f501c6	Aktivität bei Scanbeginn
 542674c2	Phantom
+542cb793	Die PDD und ihre Einflussgrößen
 543dd434	Paarbildung
 543f87d4	Wirbelsäule
 548c82d8	Magnetisierung
 5490dc6c	 Wochen
 54ba96a0	Effektive Halbwertszeit
 54ebaaec	Effektiver Durchmesser → SSDE
+54f725f4	DLP und effektive Dosis
 550bfe9e	Puls
 55231493	Gehirn
 55437eb0	Projektion und Lagerung
 554740bc	Ändere Feldwinkel und -gewichte: Decke das Ziel ab und schone Rückenmark, Herz und Lungen.
+554b47d8	Wird jede Projektion entlang ihrer Richtung über die Schicht zurückverschmiert (einfache Rückprojektion), entsteht eine #/r-Unschärfe. Zur Korrektur werden die Projektionen zuerst mit einem Rampenfilter (|f|) gefiltert; die gefilterte Rückprojektion (FBP) vereint beide Schritte. Da die Rampe auch das Rauschen verstärkt, wird sie gefenstert (Shepp–Logan, Hann …): Ein scharfer Kernel bedeutet hohe Auflösung und hohes Rauschen.
 5566f444	Anwenden
 556bb28a	In den Behälter legen
 556d6936	Sobald die Quelle drin ist, senken einige cm Blei die Dosisleistung um das Hundertfache (jede HWS halbiert sie, jede ZWS teilt sie durch zehn).
 5586c1bb	Tischposition (z)
+55953a46	Einfalls-Oberflächen-Luftkerma, einschließlich Rückstreuung.
 55af7f60	Kann stehen, kooperativ
 55b7844c	Direkte und indirekte Ionisation
+55c3d9ec	Die Konsole zeigt einen CTDIvol von # mGy. Wie groß ist etwa die SSDE eines Kindes mit # cm effektivem Durchmesser?
 55c427dd	Recovery-Koeffizient (größte / kleinste Kugel)
+55e29d05	Gegen äußere Exposition gibt es drei Werkzeuge: die Zeit verkürzen (Dosis = Dosisleistung × Zeit), den Abstand vergrößern (bei einer Punktquelle sinkt die Dosisleistung mit #/d²) und eine Abschirmung dazwischenbringen (jede HWS halbiert die Dosis).
 55f81dfb	PET-Physik
 56a82532	Röntgenradiographie
 56aaa165	Hautkrebs an der Wange — Elektronentherapie
 56e6dfdf	Bleibehälter
+571ea1cc	Transmission der Abschirmung
 57270c3f	# Fraktion applizieren
+573a4142	Überbelichtung; der Patient erhielt unnötige Dosis
 57426dc2	Dosisleistungsmessgerät
+57a7b53c	Wie hoch ist etwa die effektive Dosis von # MBq FDG?
+57fd150b	Das Target beschleunigt die Elektronen
 580581bf	Einzeldosis, α/β=
+581bf5b5	Die Rückstreuung ist auf der Röhrenseite am höchsten, wo der Strahl in den Patienten eintritt; die Detektorseite ist sicherer.
+58247ddd	Die Hauptvorteile von Megavolt-Photonen sind hohe Eindringtiefe und Hautschonung: Die Dosis ist an der Oberfläche niedrig und erreicht ihr Maximum bei d_max (# MV: # cm, # MV: # cm).
 58390f45	Tattoo am linken Arm (#)
 584aaa85	Das elektromagnetische Spektrum
 584ba3f5	Klonogene: 
 5865c9d9	Ausgewähltes Feld: 
 5865ea2d	ICRP # und ACOG: keine deterministischen Effekte unter # mGy; ein Abbruch wird unter # mGy nicht empfohlen. Risiko mit Zahlen und Ruhe vermitteln.
+5869cede	Radionuklidproduktion und Generator
 5876c756	Wartende Patienten
 5878a2bf	Tiefendosis
 58820d8d	Beste Antwort: 
+588c2a16	Im Sekundärelektronengleichgewicht (CPE) und bei vernachlässigbarem Bremsstrahlungsverlust ist die Energiedosis gleich der Stoßkerma: D = K_col. Im Aufbaubereich nahe der Oberfläche herrscht kein CPE — das ist der Grund für die Hautschonung bei Megavolt-Strahlen.
+588ce9ad	#/T_eff = #/T_physikalisch + #/T_biologisch
 589a5df5	Patientenbewegung (Phasenfehler)
 58c52672	 a
 58e096de	Über
+58ead5a3	Warum ist im Aufbaubereich D ≠ K_col?
 590ca79a	Bild
+5947fcd5	PTV-Saum (van Herk)
 5951ffab	Beschäftigte (effektiv)
 59c7842a	Läsionsabdeckung: Minimum # % — die Hautoberfläche ist unterdosiert: Ein Bolus zieht die Elektronendosis an die Oberfläche.
 59c80f5b	Röntgen-Thorax beim Kind
+59d56146	≈ # Stunden
 5a09a50e	Protonenreichweite (Bragg–Kleeman)
+5a252151	Wo liegt ungefähr die Schwelle für ein Hauterythem bei der Durchleuchtung?
 5a296842	Planvorlagen
+5a46ef7e	<b>Flugzeit (TOF):</b> Die Ankunftszeitdifferenz (~#–# ps) lokalisiert das Ereignis entlang der LOR auf wenige cm und senkt das Rauschen.
 5a53afe8	Die Prostata liegt ≈ # cm tief von vorn und ≈ # cm von der Seite. Vergleiche die Tiefendosen (PDD) und wähle eine Energie für VMAT.
 5a54e20e	Ergebnis: 
+5a5f631a	≈ # kHz
+5a87b1d6	<b>Personal:</b> Spritzenabschirmungen, Abstand und Zeit statt Bleischürzen sowie Fingerdosimeter (Hp(#)).
 5aaf54e6	#. Elektronenstrahlen
 5ab00023	Ödem/Mark-CNR #: Knochenprellung sichtbar.
 5af0fb47	Monte-Carlo-Tiefendosis • Bragg-Peak
 5b6df32a	Nächste Frage  →
+5b71adcb	Enge Einblendung (mit rasterloser Niedrigdosistechnik)
 5b765e84	Beim Abdomen-CT liegt der Uterus im Nutzstrahl; eine Schürze kann nicht schützen und verschlechtert das Bild.
 5bac8b63	Eigener Flipwinkel α
 5c1604f3	Nächster Patient: 
 5c1cca76	• <b>Zeit:</b> Die Dosis ist proportional zur Aufenthaltsdauer nahe der Quelle.\n• <b>Abstand:</b> Bei einer Punktquelle fällt die Dosisleistung mit #/d²: Doppelter Abstand viertelt die Dosis. Deshalb sind Zangen so wirksam.\n• <b>Abschirmung:</b> Dichte Materialien mit hohem Z (Blei) schwächen Photonen am besten. Eine HWS halbiert, eine ZWS senkt die Dosisleistung auf ein Zehntel.
+5c5faa98	Der Bildkontrast entsteht aus dem Schwächungsunterschied zwischen benachbarten Strahlwegen. Knochen unterscheidet sich bei niedriger Energie (Photoeffekt dominiert) stark und bei hoher Energie (Compton-Effekt dominiert) nur schwach vom Weichgewebe — daher #–# kVp für die Mammographie und #–# kVp für Thoraxaufnahmen.
 5c60f76f	Läsion
 5c6467e1	Dosiskarte zeigen (x–z)
+5c74eff9	Was korrigiert k_Q in TRS-#?
+5cab77e9	Patienten und Angehörige haben oft Angst vor Strahlung. Eine gute Erklärung ist zahlenbasiert und dennoch verständlich, vergleicht mit der natürlichen Strahlenexposition, betont den Nutzen der Untersuchung und vermeidet Übertreibungen wie „null Risiko“ oder „sehr gefährlich“.
+5cadc7e1	Dosis = Dosisleistung × Zeit
 5cae40c9	Wasserstoffkerne (Protonen) besitzen ein magnetisches Moment. Im Feld B₀ richtet sich ein winziger Überschuss am Feld aus und erzeugt eine Nettomagnetisierung M₀ (M₀ ~ B₀). Die Spins präzedieren mit der Larmorfrequenz um B₀.
 5ce2e06a	Richtig. Bei PA liegt das Herz nahe am Detektor → weniger Vergrößerung; ein langer SID verringert geometrische Vergrößerung und Unschärfe. Vorn liegende Organe (Brust, Schilddrüse) erhalten bei PA zudem weniger Dosis.
+5cefb1d7	Ein Gitter aus Bleilamellen, das gestreute Photonen absorbiert.
 5d155c86	Zum Ergebnis  →
 5d27c72a	Tc-#m bei der Elution
+5d34e900	Mz = M₀(# − e^(−#)) ≈ # M₀; # % ist das, was nach einem T2 von der Transversalmagnetisierung übrig bleibt.
+5d4d8ed3	η ≈ #×#⁻⁹ × # × #⁵ ≈ #; die übrigen # % sind Wärme, daher ist das Wärmemanagement der Röhre entscheidend.
 5d74c24a	Bestrahlungsplanung • DVH
+5d9e42a8	σ ~ # / √(mAs · Schichtdicke)
 5dc26de3	So lernst du
 5ddb2028	Grundlagen der Strahlenphysik
 5de75a0b	Rechte Lunge
 5dea53d0	Strahlentherapie: Elektronentherapie, BCC linke Wange; Ultraschalltiefe # cm (Dr. Öz)
 5deb5e94	Lehnt eine Operation ab (unter Antikoagulanzien)
+5dfaa4f1	AAPM TG-# empfiehlt # %/# mm mit ≥ # % als Toleranz-/Handlungsschwelle.
 5e0275a6	#. Generator und transientes Gleichgewicht
+5e380c3b	<b>Kollimation:</b> Blenden und ein Multileaf-Kollimator (MLC, #–# mm Lamellen) formen das Feld nach dem Zielvolumen und ermöglichen IMRT/VMAT.
 5e4baa18	Ansicht
 5e840e69	Überlebensfraktion S
 5e8aae31	Rückenmark
 5e8f4863	HF ist nicht hörbar; der Lärm kommt von den Gradienten und kann das Gehör schädigen.
+5e8fb6de	Systematische Fehler sind immer größer
 5ed62a66	Blut + Jodkontrastmittel
+5ed90f63	Die charakteristischen Linien verschwinden
+5ee0c02a	Der dargestellte HU-Bereich (W) und seine Mitte (L).
+5f2b803e	Bei der Durchleuchtung stammt der Großteil der Personaldosis aus der vom Patienten gestreuten Strahlung. Tragen Sie Bleischürze, Schilddrüsenschutz und Bleibrille, nutzen Sie eine deckenmontierte Abschirmung und halten Sie Abstand (Abstandsquadratgesetz).
 5f38ef7b	Zusätzlicher Cu-Filter
+5f3d9216	ALARA
+5f48df71	MU-Berechnung (SAD)
 5f594fad	Rekonstruktion
+5f842ccc	kVp
+5fbbbe70	Die von den Monitorkammern gemessene Beschleunigerausgabe, kalibriert z. B. auf # cGy/MU unter Referenzbedingungen.
+5fcb368b	<b>ESAK:</b> Einfalls-Oberflächen-Luftkerma einschließlich Rückstreuung (BSF ≈ #–#); verwendet für deterministische Wirkungen und DRL-Vergleiche.
+5fef495e	Fenster / Level
+60139e9e	Auf welches Volumen wird die Dosis verschrieben?
 6032454b	Compton-Streuung
 6053526e	Für FDG: Glukose < # mg/dL und ≥ #–# h nüchtern; Aufnahmezeit # ± # min.
 605c9960	Quantenrauschen
@@ -497,85 +786,135 @@
 6174d861	CTDIvol ist die Dosis in einem # cm PMMA-Phantom, nicht die des Patienten. AAPM #/#: SSDE = f(D_eff)·CTDIvol; bei großen Patienten ist f < #.
 61814715	Matrix (Auflösung)
 61999a6b	Scanlänge begrenzt (Beckenkamm bis Symphyse): niedrigeres DLP.
+61b09960	Bei # keV beträgt die HWS von Blei ~# mm, daher halten # mm Pb nur ~# % der Photonen zurück. Bei der PET kommt es auf Abstand, Zeit, Spritzenabschirmungen und L-Blöcke an.
 61e2a3f8	Quelle
+61e37e95	<b>Filterung:</b> entfernt niedrige Energien, erhöht die HWS und senkt die Hautdosis. Vorschriften verlangen eine Gesamtfilterung von mindestens # mm Al oberhalb von # kVp.
 61f84dec	Die Dosis wird mit einer Inhomogenitätskorrektur über die äquivalente Weglänge berechnet (radiologische Tiefe = Σ ρₑ·Δl): Ein Feld durch die Lunge wird weniger geschwächt. Die Planqualität wird am DVH beurteilt: PTV D9# ≥ # %, Rückenmark Dmax < # Gy, Lunge V2# < # %, mittlere Lungendosis < # Gy, Herz Mittelwert < # Gy (QUANTEC).
+61fa4b9a	Brachytherapie und Qualitätssicherung
+620629d0	Pitch = (Tischvorschub pro Rotation) / (gesamte Strahlkollimation)
+620ac3ff	<b>GTV:</b> sichtbarer Tumor. <b>CTV:</b> GTV + mikroskopische Ausbreitung. <b>ITV:</b> CTV + innere Bewegung (z. B. Atmung).
 6246a72c	Zurücksetzen (M || B₀)
 6283a899	 min/Bett, Aufnahme 
 6292946b	Modulationsbreite
 62b33346	μ(Wasser)-Referenz
+62bd3c83	Regel: Reichweite ≈ E/# cm, also etwa # cm bei # MeV. Deshalb werden Elektronen für oberflächliche Tumoren eingesetzt.
 62dc212b	Mittlere freie Weglänge #/μ
 6337b9a5	Ein HF-Puls (B₁ mit der Larmorfrequenz) kippt M um den Flipwinkel α. Danach gilt:\n• <b>T1 (Spin-Gitter)</b>: Mz erholt sich: Mz(t) = M₀ + (Mz(#) − M₀)·e^(−t/T1)\n• <b>T2 (Spin-Spin)</b>: die Quermagnetisierung dephasiert: Mxy(t) = Mxy(#)·e^(−t/T2)\n• <b>T2*</b>: Feldinhomogenitäten verstärken die Dephasierung (#/T2* = #/T2 + γΔB) — ein #°-Puls kehrt diesen Anteil um: das <b>Spinecho</b>.
+63717795	Er beseitigt die #/r-Unschärfe der einfachen Rückprojektion
 638a3d27	Streustrahlenraster (Bucky)
+638c594d	T2 und T2*: transversaler Zerfall
+63914fc5	Wie groß ist ungefähr die praktische Reichweite eines #-MeV-Elektronenstrahls in Wasser?
 63e33069	Distale Tiefe
 63e87165	Alter / Geschlecht
+63f9d666	Ein Bereich mit besonderen Regeln und geschultem Personal, in dem sonst Dosisgrenzwerte überschritten werden könnten.
 64053f4c	Sinogramm, gefilterte Rückprojektion, Hounsfield-Einheiten, Artefakte.
 64ab923e	Transmission (schmales Bündel)
+64af52b9	<b>Radiosensitivität:</b> die intrinsische Empfindlichkeit jedes Gewebes und Zelltyps.
 64cec188	Sequenz
+64fa4ca8	Nach einem diagnostischen CT wird eine fetale Dosis von # mGy geschätzt. Wie lautet die richtige Beratung?
 650b51c9	CTDIvol ist eine Phantomdosis; für die patientenspezifische Dosis SSDE = f(D_eff)·CTDIvol verwenden (AAPM #/#).
 65297d00	 (inkl. Repopulation)
 652cb5da	Mehr Übung nötig — die Lektionen unten helfen dir.
 656c2bdf	Haut / Hände
+658d1478	Der Nutzstrahl ist # % der Zeit auf diese Barriere gerichtet
 65b3c1bb	Graue Substanz
+660035ea	Genau in der Mitte der Röhre
 660f2bd2	Geometrie und Detektor
 662c7590	Meniskus
 6644745a	Effektiver Durchmesser / f
 66597e63	Zufällige
 66c80500	Photonen-Schwächungs- und Energieabsorptionskoeffizienten (# Materialien)
 66f00e9c	Richtig: Bei jeder Frau im gebärfähigen Alter muss eine Schwangerschaft ausgeschlossen werden, wenn das Becken im Strahl liegt (ICRP #, IAEA SSG-#).
+66fe8adc	Relaxation: T1, T2 und T2*
 6705e1b1	Schrittweise Lektionen vom Atom bis zur Strahlentherapie, interaktive Abbildungen, Rechenbeispiele, Quizze und eine Übungsprüfung.
 672a70aa	SOBP zeigen (analytisch)
 6750e405	Effektive Dosis = DFP × Konversionskoeffizient (je nach Region). Natürliche Strahlung ≈ # mSv/Jahr.
 675d82e1	Sinogramm
 6779effc	Eluiert
+67af0b2f	<b>OSL (Al₂O₃:C):</b> wird durch optische Stimulation ausgelesen und kann erneut ausgelesen werden; die meisten Personendosimeter sind von diesem Typ.
 67b8f497	BED spätes Gewebe
+67e47d97	Was ist das wahrscheinlichste Problem bei einem Bild mit DI = −#?
 67ebc3e7	#. Hounsfield-Einheiten und Fensterung
 67fabac5	Rektum-EQD2 (α/β #) = # Gy — Risiko später rektaler Toxizität (Blutung, Proktitis).
+6805c1cb	Kinder sind #–#-mal strahlenempfindlicher als Erwachsene und haben ein langes Leben vor sich. Es gelten größenangepasste Protokolle („Image Gently“): niedrige mAs, kein Raster, zusätzliche Cu-Filterung, enge Einblendung; im CT sollte die Dosis anhand der SSDE beurteilt werden. Gonadenschutz wird nicht mehr routinemäßig empfohlen (AAPM #); eine enge Einblendung ist wirksamer.
 6808f26e	Es ist riskant; Sie sollten einen Abbruch erwägen.
 6817ce15	US: Appendix nicht darstellbar. Nachts kein MRT; der Chirurg betont das Perforationsrisiko. Gemeinsame Entscheidung: Niedrigdosis-CT.
+681fce83	Diagnostische Referenzwerte (DRL) sind die #. Perzentile der nationalen Verteilung (ICRP #). Sie sind keine Dosisgrenzwerte; Einrichtungen, deren typische Dosen darüber liegen, sollten optimieren.
+6823752e	Das ist nicht nötig
+686bef8e	Risikokommunikation
 687d1f08	Eine Pflegekraft will im Notfall eine Sauerstoffflasche aus Stahl in den Untersuchungsraum (Zone IV) bringen. Was tust du?
+6888962e	Bildkontrast und Gesamtsignal
 68de0f88	Formelsammlung — 
 69069946	Aufhärtung: polyenergetisch scannen mit BHC aus (Cupping)
+69232305	Sie sinkt
 69338848	Ersten Fall starten  →
+693aa065	N_D,w wird in Co-# angegeben. Bei der Strahlqualität des Anwenders (z. B. # MV, TPR₂₀,₁₀ ≈ #) unterscheiden sich Bremsvermögensverhältnisse und Störungsfaktoren, und k_Q korrigiert dies.
+694d03af	Das Licht verteilt sich auf viele PMTs, und der Schwerpunkt ihrer Signale ergibt den Ort.
 69607fdf	EPID (MV-Bildgebung)
 69762965	Abdomen
+6982091c	Röhrenausbeute
+699bd238	<b>T2-gewichtet:</b> langes TR (> # ms), langes TE (~#–# ms). Flüssigkeit und Ödem sind hell; die meisten Pathologien werden sichtbar.
 69c54135	 h
 69d97846	Gewebesignal
+69d99419	Feine Details und Kanten
 69fc5799	Cu-Filter
 6a494fba	Übersicht
 6a4f8e94	Bei diagnostischen und therapeutischen Energien wechselwirken Photonen hauptsächlich auf fünf Arten: kohärente (Rayleigh-)Streuung, Photoabsorption, Compton-Streuung, Paarbildung und Kernphotoreaktionen. Welche dominiert, hängt von der Photonenenergie und der Ordnungszahl des Mediums ab.
 6a8f4d0e	Nicht ganz. 
 6ab344fe	Effektiv (physikalisch + biologisch)
+6abfaaba	Die Dosisgröße in der Mammographie ist die mittlere Parenchymdosis (MGD), ≈ #–# mGy pro Aufnahme bei einer Standardbrust. Die Tomosynthese (DBT) ist eine Tomographie mit begrenztem Winkel, die Gewebeüberlagerungen verringert.
 6ada0052	CT
 6ae55601	Wiederholen
+6b21c3b7	T = TR · N_Phase · NEX / ETL
 6b26a05c	Hautoberflächendosis
+6b26b7cb	Einzelpersonen der Bevölkerung
+6b447c93	Geladene Teilchen: Bremsvermögen und Reichweite
+6b5a05de	Das Zerfallsgesetz
 6b7a6181	R = Beschleunigungsfaktor: Jede R-te Zeile wird aufgenommen → Einfaltung um FOV/R (Aliasing). Parallele Bildgebung (SENSE/GRAPPA) entfaltet sie mit den Spulensensitivitäten.
 6b8da132	Dosisleistung in # cm
 6bb77736	Punktquelle
 6bbe4f23	Al-Filter (zusätzlich)
 6bc09210	Keine Änderung; gleiche mAs
+6be1e44b	# s × # × # = # s ≈ # min — deshalb ist das Turbo-Spin-Echo klinischer Standard.
 6be9432d	Oberflächendosis
 6bf0564a	Geladene Teilchen (Elektronen, Protonen, α), die Energie über Coulomb-Wechselwirkungen abgeben.
 6bf28b9c	Wissenschaftlich unbegründeter und schädlicher Rat.
 6c025c20	noch nicht gescannt
 6c168d60	Fall abgeschlossen
+6c339b71	Gegen die vom Patienten gestreute Strahlung und die Durchlassstrahlung des Strahlerkopfs
 6c3c9505	Photonenenergie
 6c6870d7	Triff eine Wahl
+6c70ec36	Der SUV vergleicht die FDG-Aufnahme eines Tumors unabhängig vom Patienten, ist aber empfindlich gegenüber Aufnahmezeit, Blutzucker, Rekonstruktion und Partialvolumen — daher die EANM-Vorgaben von # ± # min Aufnahmezeit und Blutzucker < # mg/dL.
 6c8fcda6	FÜR EINSTEIGER
 6cc46a6f	 Min. Lesezeit
 6cc784fd	Du triffst immer nur eine Entscheidung.
 6cec06d7	# ng/mL
+6d03cdad	#/T_eff = #/T_phys + #/T_biol
 6d148508	Scan
+6d5614c7	Elektronische Kollimation: Die beiden Detektoren, die die gegenläufigen Photonen auffangen, definieren die Linie, auf der die Annihilation stattfand.
 6d8836d2	Möglich, aber nicht erste Wahl; US und MRT sollten zuerst kommen.
 6d94e783	k-Raum und Fourier-Transformation
 6dc54781	 d
+6dcb0105	Wie ändert sich die DAP-Anzeige, wenn die Kammer näher an der Röhre oder weiter weg platziert wird?
+6e0a7f2e	Scannergenerationen und Spiral-CT
 6e2eab59	Richtige Belichtung: bringe den Abweichungsindex (DI) eines Thoraxbildes in den Bereich −#…#
 6e67bd16	Referenz / analytisch
 6e8c7b25	Photonenenergie
+6e8ef574	Das SNR skaliert mit dem Voxelvolumen und √(N_Phase · N_Freq · NEX). Eine Verdopplung der Auflösung in der Ebene (ein Viertel des Voxels) kostet viel SNR; parallele Bildgebung (SENSE/GRAPPA) beschleunigt die Aufnahme auf Kosten des SNR.
+6ea1bcc5	<b>Auflösungsgrenzen:</b> Positronenreichweite (Mittelwert F-# ≈ # mm, Ga-# ≈ # mm), Nicht-Kollinearität und Kristallgröße; die klinische PET-Auflösung beträgt ≈ #–# mm.
 6eb5b73c	Patientenakte
+6ecb14dc	Die Barriere lässt # % durch
 6ef0f4ce	FLAIR: Liquor unterdrücken, während die Läsion hell bleibt
+6f2e642a	Äquivalentdosis und effektive Dosis
+6f3ba7bf	mA und Zeit bestimmen nur die Zahl der Elektronen und damit der Photonen; die Energieverteilung wird durch kVp und Filterung bestimmt.
 6f441d09	Was entsteht, wenn das Positron aus FDG annihiliert, und wie weist PET es nach?
 6f7079de	Teletherapie, Gamma Knife
+6f78682d	DAP = K · A   (abstandsunabhängig)
+6fa2096f	Durch den gewichteten Mittelwert der PMT-Signale (Anger-Logik)
 6fb2dc0f	 Projektionen, 
+6fca1b0f	Beim TMR ist der Quelle-Punkt-Abstand fest, daher enthält es keinen Abstandsquadrat-Effekt
+6fe34f38	Protonen erfahren am Ende ihrer Reichweite Paarbildung
+6ff5a02f	<b>Stillen:</b> Bei FDG und den meisten Tc-#m-Präparaten ist keine oder nur eine Pause von wenigen Stunden nötig; bei I-# muss abgestillt werden.
 70491c5e	Letzte Menstruation: vor # Wochen (unregelmäßig)
 705dbc6f	Keine Verhütung
 70689f04	Scanlänge
@@ -586,6 +925,8 @@
 709e0d80	Bleibehälter
 70c9432b	Schwächung, HWS und Strahlaufhärtung
 70e6ad0e	Radioaktive Kerne
+7125219e	Resonanz und HF-Puls
+71a8aa21	σ ~ #/√mAs; ein engeres Fenster macht das Rauschen nur sichtbarer.
 71c67fc5	Junge
 720bb6d5	Isozentrum
 72103ea7	Kinderthorax: kein Raster, Cu-Zusatzfilter, hohe kVp / niedrige mAs, enge Einblendung, kurze Belichtung (Bewegung).
@@ -593,42 +934,63 @@
 72133fde	#. Kontrast
 721471f0	ELUIEREN
 72467d86	Abdomenübersicht im Stehen
+724dce60	Elektronen
 729ea19a	+ Abschirmung platzieren
 72a6030d	Das Exponentialgesetz gilt nur in schmaler Geometrie, in der Streuphotonen den Detektor nicht erreichen. In einem breiten Bündel tragen auch Streuphotonen bei, und die Transmission wird zu B·e^(−μx) mit Aufbaufaktor B ≥ #. Wer B in Abschirmrechnungen vernachlässigt, dimensioniert die Abschirmung zu schwach.
 72b715d3	Hasan: „Wie erreichen Sie etwas, das so tief liegt?“
+72c5fc11	Gray (Gy)
 72daab8b	Sehne / Band
 72f6d05f	Das Zentrum des k-Raums trägt den Bildkontrast, die Peripherie die feinen Details (Kanten).
 72f991f9	Linearer Schwächungskoeffizient μ
 72fb1a0a	Spektrum
 72fc2e5a	Übersehen: 
+730dd2e0	<b>HF (B₁):</b> Gewebeerwärmung, begrenzt durch die SAR (W/kg): Ganzkörper ≤ # W/kg und Kopf ≤ # W/kg im Normalbetrieb (IEC ###). Leitende Kabel und Schleifen können Verbrennungen verursachen.
 732be2f9	Bildführung (IGRT)
 7342c4c8	Kontrastmittel geben; bei eGFR ≥ # und ohne akutes Nierenversagen wird Metformin nicht abgesetzt
 73715b63	Passender klinischer Fall  →
 738f6b5a	Ein #°-Puls kippt M in die xy-Ebene. Die Spins fächern auf, weil sie unterschiedlich schnell präzedieren (T2*). Ein #°-Puls klappt sie um, und es bildet sich ein Echo.
 7393264d	Alle Themen erkunden
+739d2c89	Was ist der wichtigste dosimetrische Vorteil von Protonen gegenüber Photonen?
 73a87380	Theorie und Formeln
 73bf80aa	Photonen knapp oberhalb der K-Kante können K-Elektronen herausschlagen, daher springt die Photoabsorption an. Deshalb verstärken CT-Protokolle mit niedriger kV den Iodkontrast.
 73d792b6	Scanne mit wenigen Projektionen (≤ #): sieh die Streifenartefakte
 73e93954	Ultraschall; bei unklarem Befund MRT ohne Kontrastmittel
 74148df9	Er kommt vom Kryogen; harmlos
+74fd5f82	Die Gewichtung über TR und TE wählen
+754a8c40	Zufällige Fehler verschmieren die Dosis über die Fraktionen (sie mitteln sich heraus), während ein systematischer Fehler die gesamte Verteilung vom Ziel wegschiebt.
+755393eb	CTDIvol ist nicht die Patientendosis
 7564d845	Ja, es ist gefährlich; vermeiden wir es, wenn möglich.
 75793978	Mehmets Bauch misst # × # cm (durchschnittlicher Erwachsener ≈ # × #). Für Wasser μ(# keV) ≈ # cm⁻¹. Um wie viel verringern # cm zusätzliches Gewebe die Photonen, die den Detektor erreichen?
 758e615c	Berechne… (#×# Pixel Raytracing)
+759b11e4	Ḣ = Γ · A / d²        Ḣ_abgeschirmt = Ḣ · B,   B ≈ #^(−x/HWS)
+75a71666	F-#-FDG
 75a97a00	Neue Prüfung
 75afa3bb	Geringer diagnostischer Wert bei Appendizitis; unnötige Dosis.
 75d4759c	Schmerzen im linken Unterbauch, Fieber
+75d5140c	Die DNA ist das Hauptziel der Zellabtötung. Bei Strahlung mit niedrigem LET entstehen etwa zwei Drittel der Schäden indirekt: OH·-Radikale aus der Radiolyse des Wassers greifen die DNA an. Einzelstrangbrüche werden leicht repariert; Doppelstrangbrüche (DSB) sind die wichtigste letale Läsion.
 760d8617	Ein evakuiertes Fläschchen in einem Bleitopf saugt die Kochsalzlösung und das Tc-#m durch die Säule. Der Mo-#-Durchbruch muss < # kBq Mo pro MBq Tc bleiben.
+7620b894	Andere Dosimeter
 763fa74b	Beide sind Photonen, und ihre Energiebereiche überlappen sich (das #-keV-γ von Tc-#m ist niedriger als Röntgenstrahlung einer #-kVp-Röhre). Nur die Herkunft unterscheidet sich.
 7647a3ac	Bestanden — lies das Feedback aufmerksam.
+765479aa	Wogegen wird eine Sekundärbarriere ausgelegt?
 765e2544	Zone-IV-Regel
+7686236b	Jede ZWS bringt einen Faktor #: #³ = #, also etwa # HWS.
+76a60042	In der Schwangerschaft wird die MRT bevorzugt, weil sie ohne ionisierende Strahlung auskommt; Gadolinium passiert jedoch die Plazenta und wird nur bei zwingender Indikation gegeben. Bei Patienten mit eGFR < # ist Gadolinium wegen des Risikos einer nephrogenen systemischen Fibrose (NSF) mit Vorsicht einzusetzen.
 76dd194b	Herz Mittelwert < # Gy
+7719e496	<b>Elektroneneinfang und isomerer Übergang:</b> Tc-#m ist ein metastabiler Zustand, der ein γ von # keV emittiert — eine ideale Bildgebungsenergie mit wenig Teilchenstrahlung.
 77384e8c	Irreführend. Das LNT-Modell nimmt ein winziges, aber nicht null Risiko an; ehrlich und zugleich beruhigend sprechen.
 774a6613	Ein schmales monoenergetisches Photonenbündel, das eine Dicke x durchläuft, hat pro Weglänge eine konstante Wechselwirkungswahrscheinlichkeit. Daraus ergibt sich ein exponentieller Abfall:
 777502bf	Hautmarkierungen zeigen keine innere Bewegung; hohes Risiko, das Ziel zu verfehlen.
+777ecec1	# % / # mm
+7791bab3	≈ # mSv
+77e56096	Warum filtert man die Rückprojektion?
 77eb0235	Punkte
+77f31cee	<b>Effektive Dosis:</b> DAP × Konversionskoeffizient — z. B. Thorax p.a. ≈ # mSv, Lendenwirbelsäule ≈ # mSv.
 78197beb	ESAK # µGy > DRL: Dosis senken (höhere kVp + Cu-Filter, Raster entfernen, mAs senken).
 7835c649	Elektronen besetzen die K-, L-, M-… Schalen. Die Bindungsenergien der inneren Schalen steigen steil mit Z: Die K-Schale von Wolfram liegt bei # keV, die von Iod bei # keV und die des Sauerstoffs im Wasser nur bei # keV.
 785a8151	Pitch
+78a45025	Sievert (Sv)
+78b30f07	Deterministische und stochastische Wirkungen
 78cd4207	Eluatfläschchen
 792a98a9	• <b>Aufhärtung:</b> Niedrige Energien werden zuerst absorbiert; entlang langer Wege sinkt das effektive μ → „Cupping“ in der Mitte und dunkle Streifen zwischen dichten Knochen. Die Wasserkalibrierung (BHC) behebt das Cupping, nicht aber die Knochenstreifen.\n• <b>Metall:</b> Fast alle Photonen werden absorbiert (Photon Starvation) → helle/dunkle radiale Streifen.\n• <b>Wenige Projektionen:</b> unzureichende Winkelabtastung → Streifen- (Aliasing-)Artefakte.\n• <b>Rauschen:</b> σ ~ #/√(mAs); der grundlegende Kompromiss zwischen Dosis und Rauschen.
 793c090c	Niedrigdosis-CT-Protokoll
@@ -637,28 +999,45 @@
 79525074	Nur Zentrum
 79a399e0	Dosis
 79ae5968	Zeitraffer (Halbwertszeiten / # s)
+7a19375c	Wo ist die Anziehung auf einen ferromagnetischen Gegenstand in der MRT am größten?
+7a3977c5	Vollständigen Schutz
+7a4568f0	Bei niedriger Energie reagiert μ sehr empfindlich auf Unterschiede in Z und Dichte; Dosis und Kompression werden gegen diesen Kontrast abgewogen.
+7a564ff8	Streuphotonen sammeln sich im Peak
 7a696fee	Äquivalent natürlicher Hintergrundstrahlung
 7a9ee904	Tippe auf den Boden → gehen (Tastatur: WASD). Beobachte die Dosisleistung am Messgerät. Zeit, Abstand und Abschirmung senken die Dosis.
+7aa5a762	Gradientenecho-Sequenzen verwenden keinen #°-Puls; sie sind daher schnell, aber T2*-gewichtet (Blutungen, Verkalkungen). Kleine Flipwinkel erlauben kurze TR, mit maximalem Signal beim Ernst-Winkel: cos α_E = e^(−TR/T1). Gadoliniumhaltige Kontrastmittel sind paramagnetisch: Sie verkürzen T1 und lassen anreicherndes Gewebe in T1-gewichteten Bildern hell erscheinen.
 7ab00d8b	Axiale Dosisverteilung
+7ad68a4e	<b>Monatlich / jährlich:</b> PDD und Profile, Positionsgenauigkeit des MLC, Isozentrum, Bildgebungssysteme; jährliche Referenzdosimetrie (TRS-#).
 7b06fb7d	SE-Signal über TE
 7b0ee643	Minimaldosis in der Läsion (#–# cm)
+7b16b51b	Eine Wirkung, deren Wahrscheinlichkeit mit der Dosis steigt und für die keine Schwelle angenommen wird (Krebs, erbliche Effekte).
 7b3a2d83	Alphateilchen
 7b4e65c1	Rektum-EQD2 (α/β #)
 7b804b26	Physikalische Effekte
+7bd77338	Unabhängig von der Aktivität
 7bdb6a90	horizontal: Detektor s  •  vertikal: Winkel θ (#→#°)
 7be2d594	Fokus-Bildempfänger-Abstand (SID)
+7bea5b23	Die Röhre sollte unter dem Tisch sein: Das Personal erhält den größten Teil seiner Dosis aus der Rückstreuung des Patienten auf der Röhrenseite.
 7bef2f61	Dosiskarte (x–Tiefe): Dosis relativ zum Maximum, %
 7bf995f5	Messsonde (tippen)
 7c162dc9	Spektrum • Schwächung • Streuung • Dosis
+7c312941	Elektronen aus der Kanone werden in einem Wellenleiter, der mit S-Band-Mikrowellen (~# GHz) gespeist wird, auf MeV-Energien beschleunigt; ein Umlenkmagnet lenkt sie auf das Target. Im Photonenmodus erzeugt ein Target mit hohem Z Bremsstrahlung, und ein Ausgleichsfilter glättet das Strahlprofil; im Elektronenmodus wird das Target herausgefahren und eine Streufolie weitet den schmalen Elektronenstrahl auf.
 7c5092be	Ionisierende Strahlung trägt genug Energie (≥ # eV), um Elektronen aus Atomen zu lösen. Der obere UV-Bereich, Röntgen- und γ-Strahlung sowie alle schnellen geladenen Teilchen sind ionisierend; Radiowellen und sichtbares Licht nicht.
+7c547340	#-keV-γ-Photonen
 7c72fb1b	Ernst-Winkel (WS)
 7c7da947	Effektive Dosis
 7c941c55	R8# (≈ therapeutische Tiefe)
+7cae44a6	≈ # mGy
+7d0cb4a8	Bei der Brachytherapie wird die Quelle in oder neben den Tumor gebracht. Die Dosis fällt mit dem Abstand steil ab (Abstandsquadrat), was eine hohe Zieldosis bei Schonung des umgebenden Gewebes ergibt. HDR verwendet Ir-# (T½ # Tage, mittlere Energie ~# keV, ~# GBq) in einem Afterloader; permanente LDR-Seeds verwenden I-# (T½ # Tage, #–# keV) oder Pd-#.
+7d17d3db	Ortsinformation durch Gradienten
+7d1ab5c2	p.a. erzeugt mehr Streustrahlung
 7d7615e3	Prostatakrebs — perkutane Strahlentherapie
 7d96597f	Vorgeschichte
 7d972bea	In Begleitung seiner Mutter; erste Bildgebung
+7db298cb	Wo sollte das Personal bei der Durchleuchtung stehen (C-Bogen horizontal)?
 7dd6f549	Titanimplantat
 7de1562e	 J., 
+7dee6ced	Die HWS nimmt zu (der Strahl wird aufgehärtet)
 7e0e48e1	cT2b N0 M0
 7e0faf28	Die Anziehung wirkt sofort; schwere Verletzungen und Todesfälle wurden berichtet.
 7e323ea2	Strom und Daten werden ohne Kabel übertragen, sodass die Röhre kontinuierlich rotieren kann — das macht Spiral-CT möglich.
@@ -666,48 +1045,71 @@
 7e5ca532	Augenlinse
 7e64d602	Röhre und Detektor rotieren um den Patienten. Für jeden Winkel θ und jede Detektorposition s ist die gemessene Schwächung ein Linienintegral von μ(x,y). Die Gesamtheit aller Projektionen ist das <b>Sinogramm</b>: Ein punktförmiges Objekt zeichnet eine Sinuskurve.
 7e6646b7	Abdomen-CT bei einem großen Patienten
+7e78e10c	(#/#)² = #/#; Schwächung und Streuung im Gewebe werden durch g(r) korrigiert, aber das Abstandsquadrat dominiert.
 7e86bdae	Bewertung
 7e8c6db6	HWS und ZWS
+7e958f84	CT-Rauschen stammt aus der Quantenstatistik. Die Standardabweichung (σ) der HU in einer ROI skaliert mit dem Kehrwert der Wurzel aus mAs und Schichtdicke. Je dicker der Patient, desto stärker fällt die Zahl der Photonen am Detektor exponentiell ab und das Rauschen steigt schnell.
 7ec52420	Radioligandentherapie (PSMA, DOTATATE)
+7f80d327	Die Darstellung aller Projektionen nach Winkel und Detektorposition.
 7f8ed8ff	Die Heliumpumpe brummt leise, aber das Klopfen kommt von den Gradienten.
 7fa4aa8f	Läsion # cm vom linken Auge entfernt
 7fa59d83	horizontal: radial s • vertikal: Winkel φ
 7fa5ff5c	Vollständig
 7fb12b63	Detektorbogen
+7fbf730c	Die Koinzidenz der beiden Photonen legt die Linie des Ereignisses (LOR) bereits fest
+7fcbce60	K = Ψ · (μ_tr/ρ)        (Ψ: Energiefluenz)
+7ff4afcd	Die effektive Dosis ist eine über die Bevölkerung gemittelte Risikogröße. Sie dient zum Vergleich von Verfahren und zur Optimierung des Strahlenschutzes, nicht zur Berechnung des individuellen Patientenrisikos; dafür braucht man Organdosen.
+803de498	U beschreibt die Verteilung der Strahlrichtungen, T die Aufenthaltsdauer; für Sekundärbarrieren gilt U = #.
+804ba45f	Wie muss sich die Photonenzahl ändern, um das SNR zu verdoppeln?
+8057daf6	Die ungepaarten Elektronen von Gd³⁺ beschleunigen die Relaxation, daher erscheint die Anreicherung in T1-gewichteten Bildern hell.
 8077377d	Wöchentliche Portalaufnahme
 807b9275	Richtig: Die Anziehungskraft ~ B·dB/dz ist nahe der Tunnelöffnung am größten. Bei Bedarf den Patienten zur Versorgung in Zone III bringen.
 80cc6fb4	Ein Positron annihiliert mit einem Elektron zu zwei entgegengesetzten #-keV-Photonen. Erfassen zwei gegenüberliegende Detektoren sie innerhalb weniger ns, wird eine Koinzidenz (Koinzidenzlinie, LOR) registriert.
+80d30c6b	CTDIw = ⅓·CTDI_Zentrum + #/#·CTDI_Peripherie     CTDIvol = CTDIw / Pitch     DLP = CTDIvol · L     E ≈ k · DLP
 80d6fd98	α/β spät reagierendes Gewebe
 80f76b66	Nach Schwangerschaft fragen und einen β-hCG-Test anfordern
 80fd59df	Teilchen
 811c30cd	Anzahl Projektionen (#°)
+817e06f4	Kontrollbereich
 8190561a	Schmerzen im rechten Unterbauch, Übelkeit (# h)
+8193cecf	Spin-Echo-Signal
 819c9d03	Mo-#/Tc-#m-Generator
+81aa5ec6	<b>Bewegung:</b> Streifen und Geisterbilder, reduziert durch kurze Rotationszeiten und Atemanhalten.
 81ad7d36	Lange Zange benutzen (Quelle # cm vom Körper)
 81b60676	Ant
+81d7d87b	Photonen, die im Patienten Compton-gestreut werden, erreichen den Detektor aus zufälligen Richtungen, verringern den Kontrast und erhöhen das Rauschen. In dicken Körperregionen kann das Streu-zu-Primär-Verhältnis #–# erreichen. Möglichkeiten, die Streustrahlung zu verringern:
 8202e478	Abschirmung
 8210c814	Axiale Hirnschicht
+8231915e	SPECT
 826d7453	Elektron
+82b88998	Ein Monitor kann nur ~# Graustufen darstellen, daher wählt man Fenster (W) und Level (L): typisch sind W # / L # für Weichgewebe, W # / L −# für die Lunge und W # / L # für Knochen.
 82ce6c55	Knorpel
 82e2dbbd	Region und Projektion
 82e733b7	<b>Streuung</b> verringert den Kontrast: Das Verhältnis Streu- zu Primärstrahlung wächst mit Feldgröße und Patientendicke. Ein Raster lässt ~#% der Primär- und ~#% der Streustrahlung durch. Einblendung senkt Streuung und Dosis.
 82fa204f	Ein großes Feld erhöht Streustrahlung und DFP; der eigentliche Schutz ist ein enges Feld.
+82fdbac3	Das Spektrum
 832d529e	Knie-MRT und MR-Sicherheit
 832f8681	Lunge
 835889e9	Niere
 836bc242	#–# MV VMAT bringt aus vielen Winkeln genug Dosis ins tiefe Ziel; die Haut wird geschont und Neutronen sind vernachlässigbar.
 83754be6	Dein Bestwert: 
+8385b274	Dosimetrie und Strahlenbiologie
 83d4e55a	# kV bei einem großen Patienten verursacht Photonenmangel-Streifen und übermäßiges Rauschen.
 84737e5d	Messwerte
+84cf07c1	Es besteht überhaupt kein Risiko
 85124f40	Rauschen # HU: diagnostisch.
 8516948a	Formeln
 851ad665	Gantrywinkel
+851e9f59	Kleine Fraktionen schonen spät reagierendes Gewebe, weil der β-Term schrumpft. Ist das α/β des Tumors jedoch niedriger als das des spät reagierenden Gewebes (Prostata), begünstigt die Hypofraktionierung die Tumorwirkung — deshalb waren die Studien CHHiP (# Gy/#) und PACE-B (# Gy/#) erfolgreich.
 852fc0ce	Zeynep: „Ich habe vorher Milch abgepumpt. Mein Mann kann ihr das Fläschchen geben.“
 8567c350	Auswertung öffnen
 85e4b82f	OK
+8616bbc4	Last-Image-Hold, Einblendung und ein nah am Patienten positionierter Detektor senken die Dosis.
 86260ec0	So funktioniert der Fallmodus
+863c496a	Die Prostata ist hypoxisch
 8647f589	DI # → Unterbelichtung: Quantenrauschen, nicht diagnostisch.
 869cfa26	EQD2 spätes Gewebe
+86aa8c33	Die HWS nimmt ab
 86c813a5	Ereignisse
 86e1dbb8	Zwei #-keV-Photonen im Abstand von ~#°, von zwei Detektoren innerhalb eines Koinzidenzfensters von wenigen ns erfasst → Koinzidenzlinie (LOR)
 87025a9c	Nuklearmedizin: F-# FDG-PET/CT, Staging (Dr. Er)
@@ -717,164 +1119,268 @@
 8762cac3	Protonenenergie
 876b129d	Schritt 
 8786af42	✓ Ausgezeichnet
+87dbef57	<b>Reparatur:</b> Gesundes Gewebe repariert subletale Schäden zwischen den Fraktionen (Abstand ≥ # h).
+87dc07cb	Ihre Hautdosis ist null
 87e69378	Gestreute
+87ff7f51	<b>Reoxygenierung:</b> Hypoxische Tumorzellen werden zwischen den Fraktionen mit Sauerstoff versorgt.
 882ac676	Säuglingsdosis
+88444e3c	Koinzidenzdetektion
 88674cd6	#) Wähle links ein Thema; die Themen sind von den Grundlagen bis zur Klinik geordnet. #) Lies die Lektion; überspringe keine KERNAUSSAGE-Kästen und Rechenbeispiele. #) Bewege die Regler der Abbildungen, um zu sehen, was die Formeln aussagen. #) Mach das Quiz am Ende der Lektion: Sind alle Antworten richtig, wird die Lektion mit ★ markiert. #) Nutze „Im Labor ausprobieren“ und „Passender klinischer Fall“, um das Gelernte anzuwenden.
 886d0cbf	Die HF-Pulse verursachen den Lärm; keine Vorsichtsmaßnahme nötig
 888cc345	In # m (abgeschirmt)
+88905e3e	p = ln(I₀/I) = ∫μ dl: Eine Messung liefert die gesamte Schwächung entlang des Wegs, daher braucht man viele Winkel, um die Schicht zu rekonstruieren.
+889fa24c	Wie wird F-# hergestellt?
+88faff94	Der Aufbaufaktor nimmt ab
+8904ba00	Kumulierte Aktivität Ã
+891d411a	Der lineare Energietransfer (LET) ist die pro Weglänge abgegebene Energie. Photonen und Elektronen haben einen niedrigen LET (~#–# keV/µm); α-Teilchen und langsame schwere Ionen haben einen hohen LET (~# keV/µm) und hinterlassen dichte, schwer reparierbare DNA-Schäden — daher der Strahlungswichtungsfaktor # für α.
 89235979	Lebt die Mutter (Mo-#) länger als die Tochter (Tc-#m), strebt A₂/A₁ gegen eine Konstante: transientes Gleichgewicht. Ist die Mutter viel langlebiger (z. B. Sr-#/Y-#), entsteht säkulares Gleichgewicht: A₂ = A₁.
+89261fb7	Wie wird bei einer Gammakamera der Ereignisort bestimmt?
+892a4e53	Generator (transientes Gleichgewicht)
 892ef903	Ein einzelnes #-keV-Photon
+89598673	Da SNR ~ √N, braucht ein doppeltes SNR #× so viele Photonen — und #× so viel Dosis.
+896dd872	Deterministische Wirkung
 897fe13f	Kontrastmittel und Nieren
 89d558f4	Eine mehrkanalige Empfangsspule nahe am Gewebe erhöht das SNR und ermöglicht parallele Bildgebung.
 89f4c462	Riss/Meniskus-CNR #: Riss nicht sichtbar — eine lange TR (PD/T2) ist nötig.
 8a2fa41a	Aktivität, Zeit und Uptake
 8a355b34	PA, stehend, SID # cm
 8a69358c	Zeit 
+8a794070	Gradientenspulen fügen ein kleines, linear mit dem Ort variierendes Feld hinzu und machen so die Larmorfrequenz ortsabhängig:
+8a79948a	Personendosimetrie und Überwachung
 8aa94879	Leitlinien (ICRP #, IAEA) verlangen bei FDG keine Stillpause; empfohlen wird, engen Kontakt für einige Stunden zu begrenzen und abgepumpte Milch zu verwenden.
+8ae221d1	Die Wochendosis an einem Punkt hinter einer Barriere darf den Planungswert P nicht überschreiten: # mSv/Woche (# mSv/Jahr) für Kontrollbereiche und # mSv/Woche (# mSv/Jahr) für nicht kontrollierte Bereiche. Die erforderliche Transmission ergibt sich aus der Arbeitslast W, dem Nutzungsfaktor U, dem Aufenthaltsfaktor T und dem Abstand d:
 8b0d147c	Knochenkontrast (# cm in # cm Gewebe)
 8b0eb3c2	Echte
+8b2fcd4a	Die Röhre erwärmt sich bei # cm weniger
 8b5a89a7	Was dominiert wo?
 8b68a871	Mögliche Schwangerschaft und Appendizitis
+8bde112c	Inversion Recovery und Fettunterdrückung
 8c032c1a	Lernpunkte
 8c5db0a7	<b>Photoeffekt:</b> Das Photon wird vollständig absorbiert, und ein Elektron einer inneren Schale wird herausgeschlagen. Die Wahrscheinlichkeit skaliert etwa mit Z³/E³.
 8c7d3087	Ergebnis: 
+8c83f65c	<b>PTV:</b> CTV/ITV + Lagerungssaum; die Verschreibung bezieht sich auf das PTV.
 8c880991	Zu jeder Antwort gibt es eine Erklärung und Feedback.
 8ca7a950	Ein Geiger-Müller-Zähler oder eine Ionisationskammer, die die Dosisleistung in µSv/h anzeigt; dient im Heißlabor zur Kontaminationskontrolle.
 8cde5d5c	Kollimator + Zusatzfilterung
+8d1ed6ee	Sie nimmt mit dem Abstand zu
 8d46a34c	Dicke (cm)
 8d815095	Wechselwirkungen von Photonen mit Materie
 8d8cee46	Abstandsquadratgesetz
+8db1a663	Die Nettomagnetisierung und damit das SNR steigen
 8dbd5185	Zeit # s — der Patient kann stillhalten.
 8de41236	Herzschrittmacher
 8e5380f5	Emir kann stehen und kooperiert. Welche Technik wählst du?
 8e925209	Radon-Transformation • FBP • Hounsfield • Artefakte
 8ea57a5e	R9# (Tiefe im Patienten)
+8f11c218	η ≈ #×#⁻⁹ · Z · V   (W, # kV: ≈ # %)
 8f1b876c	Dein Bestwert
 8f30fea5	Größe / Gewicht
+8f7ca05e	Das Bremsvermögen steigt etwa mit #/v², daher gibt das langsamer werdende Teilchen immer mehr Energie ab
 8fb29e12	Wähle links ein Thema und eine Lektion. Spiele mit den Reglern der Abbildungen und teste dich am Ende jeder Lektion.
 8fd05dbc	Therapie von Schilddrüsenkrebs und Hyperthyreose
+8fd304c9	CTDIw = #/#·CTDI_Zentrum + #/#·CTDI_Peripherie        CTDIvol = CTDIw / Pitch
+8fd58c41	Primärbarriere eines #-MV-Linacs: W = # Gy/Woche (in # m), U = #, T = # (Büro), P = # mSv/Woche = #×#⁻⁵ Sv (nicht kontrolliert), d = # m vom Isozentrum. B = #×#⁻⁵ × # / (# × # × #) ≈ #×#⁻⁶ → n = # ZWS. Für Beton gilt ZWS₁ = # cm, ZWS_e = # cm (NCRP #): x ≈ # + # × # ≈ # cm Beton.
 8fed86d7	In Ordnung, wenn es schnell geht
 8ff1e887	Zeitraffer
 9017c010	+ Feld hinzufügen
+9018cfae	Wie skaliert die Rate zufälliger Koinzidenzen mit der Aktivität?
+901f2a3e	Die Folie wandelt Elektronen in Photonen um
+902aac5f	M = SID/SOD und U_g ~ OID/SOD: Mit kleinem OID und großem SID erscheint das Herz nahezu in wahrer Größe und scharf.
 90571e3f	 Quizfragen
+905ee9cb	Kerma und Energiedosis
 907a4bcf	Patientendosis (effektiv)
+907fefb6	CTDIvol
+908240bf	SUV = C_Gewebe [kBq/mL] / (A_injiziert [kBq] / Gewicht [g])
+90c0a335	Kollimator
 90d642b7	Tumor-α/β ≈ # Gy, späte Haut-/Knorpeleffekte α/β ≈ # Gy. Was passt zu einer #-Jährigen, der das tägliche Kommen schwerfällt?
 90da7a12	Röntgen
+90dd40c0	In einem größeren Feld erreichen mehr gestreute Photonen den Zentralstrahl und erhöhen die PDD, besonders in der Tiefe.
 90e8ad1a	Gewebe
 91078d77	Röhrenspektrum, Filterung, HWS, Streuung, Detektor und Patientendosis.
 91258979	Radiopharmakon
+915b2438	Ein Raster verbessert den Kontrast — aber was erhöht es noch?
 91882d73	CSDA-Reichweite (Bethe / NIST)
+9192b5dc	#-keV-Photonen können Blei nicht durchdringen
+91a42068	Von Elektronen zu Photonen
 91a7732a	Schnell geschaltete Gradientenströme erfahren in B₀ Lorentzkräfte; der Lärm kann # dB übersteigen → Ohrstöpsel / Kopfhörer sind Pflicht
 91b76332	Beruhigend, aber ungenau: Das stochastische Risiko ist winzig, nicht null.
+9238d6ff	Beruflich strahlenexponierte Personen
 926d87c3	Erfasst systematische Lagerungsfehler, aber nicht die tägliche Organbewegung → größere Säume und Rektumdosis.
 928ef299	weiblich
+9293a3fa	<b>Partialvolumen:</b> In dicken Schichten werden verschiedene Gewebe innerhalb eines Voxels gemittelt.
 92fe3fad	Nur Lehrinhalte — nicht für klinische Entscheidungen.
 9340f08a	Zerfallskonstante λ
+9364ced4	Das Positron legt im Gewebe ~# mm zurück und annihiliert mit einem Elektron zu zwei nahezu entgegengesetzten #-keV-Photonen. Registrieren Ringdetektoren (LYSO, BGO) beide innerhalb eines Koinzidenzfensters von wenigen Nanosekunden, liegt das Ereignis auf der Verbindungslinie (LOR) zwischen ihnen. Es ist kein Kollimator nötig, daher ist die Empfindlichkeit weit höher als bei einer Gammakamera.
+93672c16	Alle Detektorwerte unter einem Winkel bilden eine Projektion; nach Winkel und Position über #°+Fächerwinkel angeordnet ergeben sie das Sinogramm. Jeder Punkt der Schicht beschreibt im Sinogramm eine Sinuskurve.
+936f0729	M₀ ~ B₀ und das SNR steigt etwa mit B₀, die SAR aber etwa mit ~B₀², und die T1-Zeiten werden länger.
+93755f1f	Das Signal des Liquors (freie Flüssigkeit)
 93798b62	Generator
 93926697	Anthropomorphes Phantom
+93c69625	Röhrenstrom × Zeit; bestimmt linear die Zahl der Photonen (und die Dosis).
 93fd33cf	Mx (Signal)
 94397cd5	Potenzielle Verdopplungszeit Tpot
 9441540c	DLP = CTDIvol × Länge; beschreibt die Gesamtbestrahlung, nicht die Organdosis.
+947997c0	Wie hoch ist der jährliche Grenzwert der Augenlinsendosis für beruflich exponierte Personen (ICRP #)?
 948fe972	kV-Röntgenquelle
 94a38054	Deine Entscheidung
+94ab30dc	<b>Messgeräte:</b> Ionisationskammer für die Dosisleistung; GM- oder Pancake-Sonde für Kontaminationen.
 94cc8d3b	Säuglingsdosis ≈ 
 94f37251	CTDIvol selbst
 951e2e51	ZUR AUSWERTUNG  →
 95a8c428	Mo-# (T½ # h) → # % → Tc-#m (T½ # h). Mo-# ist an einer Aluminiumoxidsäule gebunden; Tc-#m baut sich durch dessen Zerfall auf und wird mit Kochsalzlösung „eluiert“.
+95ac4fdd	Die „#-%-Regel“: Eine Erhöhung der kVp um # % verdoppelt etwa die Exposition am Detektor, sodass die mAs halbiert werden können. Die Patientendosis sinkt meist, der Kontrast allerdings auch.
 95bce1b7	Luft
 95be3cc5	Bestwert 
 95d6d65a	Laborsystem (Präzession zeigen)
+95f2bf9e	Die (γ,n)-Schwellen der meisten Materialien liegen bei etwa #–# MeV, daher haben #–# MV-Strahlen eine merkliche Neutronenkontamination.
 95f4d5de	Feld und Augenschutz
+95f8091a	Strahlenschutzgrundsätze und Dosisgrenzwerte, Zeit–Abstand–Abschirmung, Raumabschirmungsplanung, Personendosimetrie, Schwangerschaft, Kinder und Risikokommunikation.
+962e3a8d	Das α/β-Verhältnis (Gy) ist die Dosis, bei der beide Terme gleich groß sind: ≈ # Gy für früh reagierende Gewebe und die meisten Tumoren, ≈ # Gy für spät reagierende Gewebe (Rückenmark, Rektum, Hautfibrose). Prostata- (~# Gy) und Mammakarzinome (~# Gy) haben ein niedriges α/β.
 963b7c8f	Hallo! Tut das Gerät weh? Kann meine Mama draußen warten?
+963c7428	#–#-mal
 966d8f4b	Emirs Thorax ist ≈ # cm dick (Erwachsene ≈ # cm). Stelle kVp, mAs, Filter, Raster und Feld ein und drücke dann AUSLÖSEN. Ziel: DI −#…# und ESAK ≤ # µGy.
+969a2726	Die Dosis fällt nach dem Bragg-Peak steil ab; die Eintrittsdosis ist nicht null, aber niedriger als bei Photonen.
 96c251ec	Fourier-Scheiben-Theorem: Die #D-Fouriertransformierte einer Projektion ist ein Schnitt durch die #D-Fouriertransformierte des Bildes. Daher werden die Projektionen zuerst mit der |f|-Rampe gefiltert und dann rückprojiziert. Ungefilterte Rückprojektion ergibt eine #/r-Unschärfe.
 97080889	Patientendurchmesser
 97197ddf	Eine Woche lang jeden Kontakt meiden
 971c410e	Radioaktiver Zerfall, Mo-#/Tc-#m-Generator, PET-Koinzidenzen und MLEM.
 9741e45e	Es gibt überhaupt kein Risiko, null Strahlung.
 97563b2a	Schirmt die Gammastrahlung ab, während das Fläschchen gelagert oder getragen wird; wenige mm Blei reichen für die #-keV-Photonen von Tc-#m.
+97667826	Der Überschuss im parallelen Zustand ist winzig (~# ppm bei # T), aber die enorme Zahl von Protonen in einem Voxel ergibt eine messbare Nettomagnetisierung M₀, die mit B₀ wächst — deshalb liefern hohe Felder ein besseres Signal-Rausch-Verhältnis.
+9773e002	# keV γ, T½ # h; das am häufigsten verwendete Radionuklid.
+978d448a	Interne Dosimetrie und Patientensicherheit
 979c2167	Oberflächendosis (Hautschonung)
 97fc3c0a	Du bist die Medizinphysikerin bzw. der Medizinphysiker des Krankenhauses. Jeder Patient ist ein Fall: Lies die Akte, triff deine Entscheidungen und sieh Ergebnisse, die mit echten physikalischen Modellen berechnet werden. Nach jedem Schritt erfährst du, warum er richtig oder falsch war.
 981c2b72	kV-Detektor
 98333fde	Beton
 9837047f	Läsion + ~# cm Saum (≈ # cm Bleiausblendung); Auge außerhalb des Feldes, bei Bedarf interner Augenschutz
+98532465	GRE:  S = PD·sinα·(# − E₁)/(# − cosα·E₁)·e^(−TE/T2*)      Ernst-Winkel: cos α_E = e^(−TR/T1)
 98582d5e	Indirekt ionisierend
 9867b7d1	Die Dosisleistung fällt mit dem Quadrat des Abstands, Ḣ = Γ·A/d². Die Bodenfarben zeigen diese Dosisleistung; die weiße Linie markiert # µSv/h.
+986c335e	Zum Vergleich: Die weltweit mittlere natürliche Strahlenexposition beträgt ≈ # mSv/Jahr (UNSCEAR). Eine Thorax-Röntgenaufnahme p.a. entspricht ≈ # mSv (~# Tage), ein Abdomen-CT ≈ # mSv (~# Jahre), ein Flug Istanbul–New York ≈ # mSv.
+9888d039	<b>Bewegung und Fluss:</b> Geisterbilder in Phasenrichtung.
 9895bce3	EQD2 Tumor
 98b07aa5	Nein — die maximale Elektronenenergie (# keV) reicht nicht, um die K-Schale zu ionisieren
 98f224a5	AUSLÖSEN
 9920e564	Planbewertung
+992370e6	α-Zerfall
 993014d9	Gewicht
 9945210a	Algorithmus
 994bbd58	Regel: R ≈ #·E^#
 995324ac	Zeit 
 995c9ab4	#. Dosimetrie
 9970e954	PET: Koinzidenzen und Rekonstruktion
+9973e834	Elektronen-Faustregeln
 997b38dc	Größenangepasstes Protokoll
 99a15c5e	Effektive Dosis (ca.)
+99a61a5f	Durchleuchtung und Mammographie
 99a7a50a	WEITER  →
 99f7bee7	Schleifring
 99fa0dc1	Zählstatistik A·t / (#·kg)
 9a125d51	Elektronen aus der geheizten Kathode werden durch die kVp auf eine rotierende Wolframanode beschleunigt. Nur ~# % ihrer Energie werden zu Röntgenstrahlung (Bremsstrahlung + charakteristische Strahlung); der Rest ist Wärme.
 9a23c97b	FDG-PET/CT bei einer stillenden Mutter
 9a2b880f	Patientendicke / FHA
+9a548d26	Pitch = #/# = #; bei gleichen mAs beträgt der CTDIvol #/# seines Werts bei Pitch #.
 9a73db9b	Sprache
+9a83f5a9	Prozentuale Tiefendosis
+9ab3d4c5	# µSv/h
 9b012adc	Abstand zur Quelle
+9b173448	„Diese Röntgenaufnahme des Thorax entspricht etwa # mSv — so viel Strahlung erhalten wir aus der Natur in etwa # Tagen. Der Nutzen, eine Lungenentzündung richtig zu erkennen, ist viel größer als dieses sehr kleine Risiko.“
+9b1a53e6	≈ # %
+9b243684	Sie muss sich vervierfachen
+9c46f193	Jedes Loch nimmt Photonen aus einem Kegel auf, dessen Grundfläche mit dem Abstand wächst, was die Auflösung verschlechtert — deshalb wird der Detektor nah an den Patienten gebracht.
 9c4aa55c	Röntgenröhre
 9c506f53	Schichtposition
 9c528492	NbTi-Wicklungen, mit flüssigem Helium auf ~# K gekühlt. B₀ (# / # T) ist immer an: Ferromagnetische Gegenstände werden zu Geschossen.
 9c70fc8a	Fokussierte dünne Bleilamellen absorbieren im Patienten gestreute Photonen. Der Kontrast verbessert sich, aber die mAs müssen für dieselbe Detektordosis steigen (Bucky-Faktor #–#).
 9c8081f1	Labor öffnen
 9cabb538	Zeit • Abstand • Abschirmung
+9cb890cd	Das Spin-Echo-Signal enthält sowohl T1- als auch T2-Terme:
+9ce536e5	Bei einem CT mit # mSv beträgt das nominelle zusätzliche Krebsrisiko ≈ # Sv × # / Sv ≈ # %, also etwa # zu # — gering neben der Basisinzidenz von ~# % für Krebs im Lauf des Lebens, aber dennoch rechtfertigungsbedürftig.
 9cf82695	Ergebnisse
 9d145291	Photoeffekt
+9d21a288	Das Raster absorbiert auch einen Teil der Primärstrahlung, daher müssen die mAs für dasselbe Detektorsignal um das #–#-Fache steigen.
 9d2b5423	Beschreibt die Geräteleistung und ignoriert die Patientengröße.
 9d3d585c	Modalität aller Felder
+9d49828f	Die Elektronen selbst sind der Therapiestrahl; die Folie weitet den schmalen Strahl zu einem breiten homogenen Feld auf
+9d598f66	Der Sauerstoffverstärkungsfaktor beträgt für Röntgenstrahlung ~#–#; für Strahlung mit hohem LET nähert er sich #.
 9d6f6466	Ein Filter entfernt bevorzugt niederenergetische Photonen (<b>Aufhärtung</b>), die nur die Hautdosis erhöhen würden. Mehr Filterung erhöht mittlere Energie und HWS und senkt die Leistung.
 9d70bd7a	DI = #·log₁₀(EI / EI_target): # ≈ # % mehr, −# ≈ # % weniger, # ≈ #× Detektordosis.
+9de25720	Nutzungsfaktor U
+9de4bb08	Brustgewebe (Fett, fibroglanduläres Gewebe, Tumor) unterscheiden sich in der Schwächung nur sehr wenig, daher werden niedrige Energien verwendet, bei denen der Photoeffekt dominiert: #–# kVp mit Mo/Mo, Mo/Rh, W/Rh oder W/Ag als Anode/Filter. Die Kompression verringert Dicke, Streustrahlung, Bewegung und Dosis. Mikrokalk erfordert einen sehr kleinen Brennfleck (#–# mm).
 9e134627	Klinische Fälle — # Patienten warten
 9e1d18ea	#. Strahlenbiologie
+9e2b6eb5	PTV
 9e452222	Welches davon ist indirekt ionisierend?
 9e75940c	Aktivität
 9e7b7a87	Tumor-EQD2 = n·d·(d + #)/(# + #) = # Gy — höher als nötig.
+9e851bcc	Physik der Strahlentherapie
 9e8abbb2	Das Messgerät der Beschäftigten zeigt die Umgebungs-Äquivalentdosisleistung H*(#) am jeweiligen Ort; aufgenommene Dosis = Dosisleistung × Zeit.
 9e995ba1	Fraktionierung (LQ-Modell)
+9eb1083f	Im Kontrollraum
 9ebe06d9	Frühstück vor # Stunden
+9f012d98	Die SAR sinkt
 9f24f2f7	Kontrastmittel nutzen diese Physik: Die K-Kante von Iod liegt bei # keV, die von Gadolinium bei # keV. Die Absorption springt an, wenn die Photonenenergie knapp oberhalb der K-Kante liegt.
+9f323307	Messzeit T = TR × N_Phase × NEX / ETL
 9f3f7105	Rekonstruiere…
 9faeab39	Die Impulserhaltung erfordert zwei Photonen.
 9fc55136	Signal über TE (T2-Zerfall)
+9fc5a477	Die Zelle besteht größtenteils aus Wasser; OH·-Radikale aus der Radiolyse verursachen etwa zwei Drittel der Schäden, und Sauerstoff macht sie dauerhaft.
+9fed9d91	Die Form bleibt gleich; die Zahl der Photonen verdoppelt sich bei jeder Energie
 9ffc9a24	HU messen: tippe auf Lunge (< −#), Fett (−#…−#) und Knochen (> #)
 a049bc94	T1- / T2- / PD-Kontrast
+a049c691	Das Bild wird vergrößert
+a07e0be8	Tc-#m-MDP
+a0899a7e	mAs vervierfachen
+a0a42eb1	Stochastische Wirkung
+a0afe4ef	CTDIw = #/#·CTDI_Zentrum + #/#·CTDI_Peripherie     CTDIvol = CTDIw / Pitch
 a0cf38d2	Uptake-Zeit angemessen: Standard-Verhältnis Tumor/Hintergrund (vergleichbare SUVs).
 a12d8b93	Atome, Kerne und Strahlung
 a13c66b3	Effektive Dosis ≈ # × 
+a147ccfe	Was unterdrückt eine FLAIR-Sequenz?
 a14e7f7e	Jodkontrastmittel (Herz/Aorta)
+a15a9e57	Tägliche QC: Homogenität (Flood) und Energiepeak; wöchentlich Auflösung/Linearität.
 a15fa5b0	Abtastung
+a1691857	Der #/v²-Term der Bethe-Formel: Wenn die Geschwindigkeit sinkt, wächst der Energieverlust pro Weglänge und erzeugt am Ende der Reichweite einen scharfen Peak.
 a1793be6	Knochen / Luft
 a17f6a53	# zufällige Fragen aus allen Themen — eine gute Vorbereitung auf Masterinterviews und Prüfungen.
 a1be3d2c	Lateral (LAT)
 a1d821ab	#. Artefakte
+a2059fd4	Die Dephasierung durch statische Feldinhomogenitäten (den T2*-Effekt)
 a219bf8b	Wartezimmer
 a22bd65a	Protonen
 a267e784	Effektive Dosis ≈ # × # = # mSv (ICRP #).
 a26d32ed	Mz-Erholung (TI)
+a27c2818	Sie ändert sich nicht
 a28c2366	Im Wellenleiter auf MeV beschleunigte Elektronen werden auf ein Target (Photonen) oder durch eine Streufolie (Elektronen) gelenkt. Auch das Ausgleichsfilter und die Monitorkammern (MU) sitzen hier.
+a2b24ff7	Bei Frauen im gebärfähigen Alter wird zuerst nach einer Schwangerschaft gefragt, wenn das Becken im Nutzstrahl liegt oder ein Radionuklid verabreicht werden soll, bei Bedarf mit einem β-hCG-Test. Fetale Dosen aus diagnostischen Untersuchungen liegen meist < # mGy; unter ~# mGy sind keine deterministischen Effekte zu erwarten, und ein Schwangerschaftsabbruch ist medizinisch nicht zu rechtfertigen (ICRP #). Das zusätzliche Krebsrisiko im Kindesalter beträgt ≈ # % pro # mGy (Grundrisiko ≈ #–# %).
+a2b54d61	Die Ortsfrequenzdarstellung der MR-Rohdaten; das Bild ist ihre Fourier-Transformierte.
 a2c330b1	Prüfe, dass R5# eines Elektronenstrahls der Regel E/# folgt
 a2eb2f51	Radioaktiver Zerfall (Monte Carlo)
 a2ed22c4	effektiver Durchmesser D_eff (cm)
 a30f0337	Elektronen-PDD: Die Oberflächendosis steigt mit der Energie (# MeV ≈ # %, # MeV ≈ # %); Bolus erhöht die Oberflächendosis und verkürzt die Reichweite.
+a331c4a6	R9# ≈ E/# → E ≈ # × # ≈ # MeV; # MeV würden unnötig tief dosieren.
+a340d8fe	Er sinkt auf #/# seines Werts
+a370731d	CT-Grundlagen: Projektionen und Sinogramm
+a3729e56	Projektionen und Sinogramm, gefilterte Rückprojektion und iterative Rekonstruktion, Hounsfield-Einheiten, Bildqualität und Artefakte, CTDI/DLP/SSDE.
 a37bf952	Ausgezeichnet — eine echte Medizinphysik-Fachkraft!
 a408a7ff	Frauen im gebärfähigen Alter mit dem Becken im Strahl: zuerst Schwangerschaft ausschließen (bei Bedarf β-hCG).
 a431924a	Quelle aufnehmen
+a45ef663	Kerma
 a475164f	Blei
 a4843b38	Knochen (# cm) # % — unnötig hoch: Risiko einer Osteoradionekrose. Wähle eine niedrigere Energie.
+a49d211b	Deterministische Wirkungen (Gewebereaktionen) haben eine Schwelle, und ihr Schweregrad nimmt mit der Dosis zu. Beispiele: vorübergehendes Hauterythem ~# Gy, vorübergehende Epilation ~# Gy, Linsentrübung/Katarakt ~# Gy (ICRP #). Deshalb wird die Hautdosis bei langen durchleuchtungsgesteuerten Eingriffen überwacht.
 a4a2847a	Kurze TR + kurze TE → T1-gewichtet; lange TR + lange TE → T2-gewichtet; lange TR + kurze TE → Protonendichte.
 a4be5f34	Isotop
 a4eeda8f	Läsion
+a50bb8ca	Die Elektronendosis fällt jenseits einer bestimmten Tiefe steil ab — ideal für oberflächliche Ziele. Faustregeln (E in MeV, Tiefe in cm): R9# ≈ E/# (Behandlungstiefe), R8# ≈ E/#, praktische Reichweite Rp ≈ E/#. Die Oberflächendosis ist hoch (#–# %) und steigt mit der Energie; Bolus erhöht sie weiter und verkürzt die Reichweite im Patienten.
 a50be870	Patientenliege
 a51067fd	Zerfall
+a5206542	# h ≈ # Halbwertszeiten (T½ = # h): # × (#/#)² = # MBq.
+a56385b1	Spezifische Absorptionsrate: wie schnell HF-Energie im Gewebe in Wärme umgewandelt wird (W/kg).
 a5916fb6	Fall abgeschlossen — 
+a59db3b2	Radioaktiver Zerfall, Radionuklidproduktion und Generatoren, Gammakamera und SPECT, PET, interne Dosimetrie und Patientensicherheit.
+a5a30ba8	Sauerstoff „fixiert“ Radikalschäden, daher sind hypoxische Zellen #–#-mal strahlenresistenter (Sauerstoffverstärkungsfaktor, OER). Der hypoxische Kern von Tumoren ist deshalb ein Therapieproblem.
 a5a57f6f	In der Bildgebung stammt der Kontrast größtenteils vom Photoeffekt, weil die Z³-Abhängigkeit Knochen (Ca, Z = #) deutlich von Weichgewebe (effektives Z ≈ #) trennt. Compton ist die Hauptquelle der Streustrahlung, die den Kontrast verringert.
 a5d46b38	DLP (# cm Scan)
 a5ee64bb	Mittelungen (NEX)
@@ -884,44 +1390,74 @@ a60a634d	Säuglingsdosis ≈ # µSv (Abstandsquadratgesetz: Die Dosisleistung in
 a6310194	Beratung
 a650d3f5	INTERAKTIVE ABBILDUNG
 a66f47bd	Bleidicke
+a675b402	<b>End-to-End-Tests:</b> prüfen die gesamte Kette von der CT-Simulation bis zur Bestrahlung mit einem anthropomorphen Phantom.
+a6b773b5	Was hebt ein Spin-Echo auf?
 a6e53476	HF-Körperspule
 a6f33ef9	Richtig: ein Zahlenvergleich (natürliche Strahlung ≈ # mSv/Jahr ≈ # µSv/Tag), Rechtfertigung und ALARA zusammen erklärt.
 a704e2e8	Der Klein-Nishina-Wirkungsquerschnitt bestimmt den Compton-Streuwinkel und die Energie des Rückstoßelektrons. Die Monte-Carlo-Simulation verfolgt jedes Photon und Elektron; die Dosis konvergiert mit der statistischen Unsicherheit σ ~ #/√N.
 a72ca2ae	Füge eine biologische Halbwertszeit hinzu und sieh die effektive Halbwertszeit (I-#)
 a77fb204	Wird ein Elektron einer inneren Schale entfernt, füllt ein äußeres Elektron die Lücke, und die Differenz wird als charakteristische Röntgenstrahlung oder als Auger-Elektron abgegeben. Charakteristische Energien sind elementspezifisch; die Wolfram-Kα-Linie einer Röntgenröhre liegt bei ≈ # keV.
 a7ae7cae	# MeV
+a7b12571	Abdomen-Scan: CTDIvol # mGy über # cm. DLP = # mGy·cm, E ≈ # × # ≈ # mSv — etwa # Jahre natürliche Hintergrundstrahlung.
+a7fc4636	Wenn die Mitte eines Wasserphantoms dunkler aussieht als der Rand, was ist die Ursache?
+a81646ff	Das Energiefenster (# keV ± # % für Tc-#m) weist die meisten Streuphotonen zurück.
 a85562cb	Schwangerschaftsabfrage übersprungen: Der Fetus könnte unbemerkt bestrahlt worden sein.
+a85680c5	#/# (# %)
 a861d965	Rekonstruieren
 a86b43b2	Bowtie-Filter + Kollimator
+a8721f49	Organdosen außerhalb des Feldes sind ohnehin winzig; eine Abschirmung im Feld verschlechtert das Bild und veranlasst die Belichtungsautomatik, die Dosis zu erhöhen.
 a87f9edd	Jede Linie ist eine Koinzidenz (LOR): grün = echt, gelb = gestreut, rot = zufällig. Sammle genug Ereignisse und drücke dann „Rekonstruieren“.
 a8b4a774	SSDE — für den effektiven Durchmesser korrigierter CTDIvol
+a8ca95fa	≤ # %
+a8efac85	<b>Optimierung (ALARA):</b> Dosen werden so niedrig wie vernünftigerweise erreichbar gehalten; für Patienten bedeutet das, die Dosis bei erhaltener diagnostischer Qualität zu senken (DRL sind dafür ein Werkzeug).
 a93ad5ad	Rauschen σ (HU)
+a949da20	Röhrenwirkungsgrad
 a97badd0	Führe deinen ersten Scan durch und sieh zu, wie sich das Sinogramm füllt
 a97d3fea	Effektive (monoenergetische) Energie
 a9887e52	Lernzentrum
 a99ef883	Berechne…
+a9ec004a	Pitch = Tischvorschub pro Rotation ÷ Gesamtkollimation
 a9f0a4e6	Punkte
 a9f3146e	Wasser / Knochen / Blei
+aa119389	ESAK
+aa1209da	Wie hoch ist etwa die effektive Dosis eines Thorax-CT mit einem DLP von # mGy·cm?
 aa28ed13	Zellkultur (#D)
 aa2ce59e	Dosis-Volumen-Histogramm (DVH)
+aa36db58	≈ # MV
 aa430d6d	Nicht gerechtfertigt: pädiatrisches Thorax-CT ≈ #–# mSv gegenüber ≈ # mSv für eine PA-Aufnahme. Verstößt gegen das Rechtfertigungsprinzip (ICRP #).
 aa4446a7	Gefiltert (Eintritt)
+aa7069a5	Ein supraleitender Magnet lässt sich nicht einfach „ausschalten“. Ein Quench lässt das Helium entweichen, ist teuer und kann den Sauerstoff im Raum verdrängen; er wird nur bei Lebensgefahr ausgelöst (z. B. wenn jemand am Magneten eingeklemmt ist). Bei Herzstillstand wird der Patient zur Reanimation in Zone III gebracht.
 aa7120ec	Metformin für # h absetzen, dann scannen
 aaaa64f1	Röhrenlast
+aad07647	Bewegung
 aaede69c	ACR Appropriateness Criteria und ACOG: zuerst Ultraschall, dann MRT ohne Gadolinium — keine ionisierende Strahlung.
 aaee7048	Messzeit (# Phase, ETL #)
+ab06bf6d	STIR-Inversionszeit für Fett (T1 ≈ # ms) bei # T: TI ≈ # × # ≈ # ms; in der Praxis werden #–# ms verwendet, da TR endlich ist.
 ab14bcac	Computertomographie
 ab25d4ea	Rückstreufaktor BSF ≈ #. Das DFP (Gy·cm²) ist abstandsunabhängig und wird mit Koeffizienten in effektive Dosis umgerechnet: Thorax PA ≈ #, Abdomen ≈ #, Becken ≈ #, Schädel ≈ # mSv/(Gy·cm²). Typischer Thorax PA: ESAK ~#–# mGy, E ~# mSv.
+ab344af2	<b>Echte, gestreute und zufällige Koinzidenzen:</b> Zufällige wachsen mit dem Quadrat der Aktivität (Korrektur mit verzögertem Fenster); Streuung wird durch Modellierung korrigiert.
 ab834a11	Biologische Halbwertszeit (# = keine)
 ab8ca2c5	Wasserphantom
+aba2f3f7	Gepulste Durchleuchtung und niedrige Bildraten (z. B. # fps) senken die Dosis proportional.
+abb049f7	Elektronenstrahlen
+abc084d1	Was passiert ungefähr, wenn eine Kopf-Hals-Behandlung um eine Woche verlängert wird?
+abcdcf7a	Welcher RBW-Wert wird in der klinischen Protonentherapie verwendet?
 abdee8d2	MV-Photonen wechselwirken im Wasser vor allem über Compton-Streuung; die Energie wird von Sekundärelektronen über mehrere cm abgegeben. Daher ist die Dosis an der Oberfläche niedrig und steigt bis dmax an (<b>Aufbau</b>; Hautschonung). Danach fällt sie durch Schwächung und das Abstandsquadratgesetz ab.
 abe195be	Wechsle bei einer Thoraxschicht ins Lungenfenster
 abe68d6f	Atemfrequenz
+abfef648	<b>Radiochromer Film (EBT3/EBT4):</b> #D-Dosisverteilung mit hoher Ortsauflösung, für die IMRT-Patienten-QA.
+ac46edc7	Warum hat in der van-Herk-Formel der systematische Fehler (Σ) einen größeren Koeffizienten als der zufällige Fehler (σ)?
 ac5b89c3	Dosis pro Fraktion
 ac720a66	Schmales und breites Bündel: Aufbaufaktor
 ac737796	Bildet den austretenden Therapiestrahl ab (Portal-Bild); dient zur Überprüfung der Feldform und der applizierten Dosis.
+ac7d67eb	Unsicherheiten
+ac92d741	Wie wird die Augenlinsendosis bei einer Person mit Bleischürze überwacht?
 aca79e3e	Schritte: 
 aced2b71	Fraktionierung (ältere Patientin)
+acf4af3c	Welches Gewebe hat einen Wichtungsfaktor von #?
+acf8c2eb	Warum wird im Elektronenmodus das Target herausgefahren und eine Streufolie verwendet?
+ad7cb1fd	A = λ·N     # Bq = # Zerfall/s     # mCi = # MBq
+ad863383	Ein radioaktiver Patient ist eine Zeit lang selbst eine Quelle: Die Dosisleistung in # m folgt Γ·A/d². Therapiepatienten (z. B. I-#) werden nach nationalen Grenzwerten für Dosisleistung oder Aktivität entlassen, mit schriftlichen Hinweisen, engen Kontakt zu Kindern und Schwangeren einzuschränken.
 ada7afdb	keine
 ada880a8	Theorie folgt bald.
 adbf56a0	Ihre Energie: γ-Strahlen sind immer energiereicher
@@ -930,16 +1466,31 @@ ae20a6a3	Das Bremsvermögen steigt mit #/β², während das Proton langsamer wir
 ae27b827	Modus Klinische Fälle
 ae6bb2bb	max. 
 ae888d5f	Die #-%-Isodose der Elektronen verengt sich in der Tiefe: Die Ausblendung sollte ~# cm größer als die Läsion sein.
+aeb91213	ICRU-Volumina
+aebe6d8f	Die Durchlassstrahlung ist auf ~# % der Arbeitslast begrenzt; die Streustrahlung hängt von Winkel und Feldgröße ab.
 aef94af7	Richtig. 
 af010c63	Knochen (Rippe/Becken)
+af366776	Bei einer Schwangeren, deren Uterus im Nutzstrahl liegt, gilt für die Fetaldosis ≈ SSDE; sie liegt weit unter # mGy, wo keine deterministischen Wirkungen zu erwarten sind (ICRP #).
+afbed5fb	Wie groß ist der Pitch bei # mm Kollimation und # mm Tischvorschub pro Umdrehung?
 afe72516	Das scharfe Dosismaximum am Ende der Reichweite eines schweren geladenen Teilchens.
 afe8043f	Zeit (h)
+aff91e2c	Das Zellüberleben wird am besten durch das linear-quadratische (LQ-)Modell beschrieben. Der α-Term steht für letale Schäden durch eine einzelne Spur, der β-Term für das Zusammenwirken von Schäden aus zwei getrennten Spuren.
+b0411b94	#-mal
 b081abb7	isomerer Übergang (IT)
+b08d33bd	Die #D-konformale Therapie nutzt wenige feste, mit dem MLC geformte Felder. IMRT teilt jedes Feld in kleine Segmente, um die Intensität zu modulieren; die inverse Planung optimiert dabei eine Zielfunktion (Zieldosen und OAR-Grenzwerte). VMAT verändert MLC, Dosisleistung und Gantrygeschwindigkeit kontinuierlich während der Gantryrotation und erreicht IMRT-Qualität in wenigen Minuten.
 b0adb207	Warum ist die zweite HWS eines polyenergetischen Strahls größer als die erste?
 b0c23fb1	Aktivitäten (transientes Gleichgewicht)
+b0ca3b9d	Wie viele ZWS Abschirmung senken die Dosisleistung um das #-Fache?
+b0d829f3	≈ # cm
 b0db6938	 Tagen
+b0e35e18	Nur Schutz vor Betastrahlung
+b0e55336	<b>Schwächungskorrektur:</b> Die beiden Photonen durchqueren zusammen die gesamte Körperdicke; aus der CT wird eine μ-Karte für # keV erstellt.
+b0e5e70b	SPECT rekonstruiert wie die CT Schichten aus Projektionen, die mit einer um den Patienten rotierenden Kamera aufgenommen werden (meist OSEM). Die Schwächungskorrektur nutzt die CT eines SPECT/CT.
 b0f260dc	Nicht die erste Wahl bei Verdacht auf Pneumonie; eine Seitaufnahme braucht mehr Dosis und reicht allein nicht aus.
 b11e7606	Welche Punkte im Screeningbogen erfordern vor dem MRT ZUSÄTZLICHE MASSNAHMEN? (alle zutreffenden auswählen)
+b17551b5	Um wie viel strahlenresistenter sind hypoxische Zellen etwa als gut oxygenierte (niedriges LET)?
+b18eabf1	Nach der Bragg-Gray-Hohlraumtheorie ist die Dosis im Medium gleich der Hohlraumdosis mal dem Verhältnis der Massenbremsvermögen von Medium zu Gas. In der Praxis wird das Protokoll IAEA TRS-# oder AAPM TG-# verwendet:
+b1a99313	≈ # Gy EQD2 an Wirksamkeit gehen durch Repopulierung verloren
 b1b83851	Tiefe in Wasser (cm)
 b1c222ab	EQD2 = n·d·(d + α/β)/(# + α/β). Tumoren mit niedrigem α/β (Prostata ≈ #) profitieren von Hypofraktionierung.
 b1c8c38e	Balken: Tagesanteil für Beschäftigte (# mSv/Jahr ÷ # Tage = # µSv).
@@ -949,33 +1500,55 @@ b232d1f0	Läsionsabdeckung: Minimum # % — vollständig.
 b2697ad8	Röntgen- und γ-Strahlen sind dieselbe Art von Photonen; sie unterscheiden sich nur in ihrer Herkunft. Röntgenstrahlen stammen von Elektronen (Bremsstrahlung oder Schalenübergänge), γ-Strahlen aus dem Kern (radioaktiver Zerfall).
 b2972ae3	Kopf
 b2aad11c	Scanparameter
+b31c403d	<b>Geiger-Müller-Zählrohr:</b> ein sehr empfindlicher Zähler zum Aufspüren von Kontamination; liefert keine Energieinformation. Zur Dosisleistungsmessung ist ein Ionisationskammer-Messgerät vorzuziehen.
+b32962b7	Die historische Größe Ionendosis (C/kg) misst nur die Ionisation in Luft. Die Bildung eines Ionenpaars in Luft kostet im Mittel W/e = # J/C, also K_Luft = X · #.
 b33eb976	Modell: Parallelstrahlgeometrie (umsortierte Fächerstrahldaten), energieintegrierender Detektor, Streuung vernachlässigt.
 b34b3fcd	Pause / Start
+b357382c	Artefakte
+b3615a21	Welcher Anteil von M₀ der Längsmagnetisierung ist eine T1-Zeit nach einem #°-Puls wiederhergestellt?
 b3755394	Die Photoeffekt-Wahrscheinlichkeit steigt sehr steil mit der Ordnungszahl und fällt steil mit der Energie — deshalb erhöht eine niedrige kVp den Knochenkontrast.
 b38452f0	Marker (TR oder TE)
+b391a968	Mit einem zweiten Dosimeter in Kragenhöhe außerhalb der Schürze
+b397b1d8	Haut
 b3af5cc8	#. ALARA und Grenzwerte
+b3c141a0	MR-Sicherheit
 b3f9f066	Es tut so weh … und ich weiß nicht, ob ich schwanger sein könnte.
+b43b8664	S = exp(−α·D − β·D²)        bei n Fraktionen:  S = exp[−n(α·d + β·d²)]
+b45d336f	Wie viel sind # MBq Tc-#m nach # Stunden?
 b48eaaae	#. k-Raum
+b4b43e70	Nahe der Röhrenöffnung, wo der räumliche Feldgradient am größten ist
+b4cffd96	<b>Chemische Verschiebung:</b> ein heller/dunkler Saum an Fett-Wasser-Grenzen in Frequenzrichtung.
 b4d90f43	Patientendosis
+b50e98d5	Drei Grundprinzipien (ICRP #)
 b528da3e	Undurchsichtig
 b5377fa4	Stahl
+b53e3b71	Zum Vergleich von Fraktionierungsschemata verwenden wir die biologisch effektive Dosis (BED) und die äquivalente Dosis in #-Gy-Fraktionen (EQD2):
 b54b4085	Geh näher an den Behälter (< # m).
 b54d1bc5	Labore erkunden
 b58894f8	Im rotierenden System (x', y') drehen wir mit der Larmorfrequenz mit: Nur Frequenzabweichungen (Δω) bleiben sichtbar.
 b589c5ea	Feldbreite (Isozentrum)
+b5bc01ee	Dort dominiert die Bremsstrahlung
+b5df3592	Um die Röhre zu schonen
 b5f6bbb8	Ziel 
+b6289cee	Sequenzen und Kontrast
+b63830af	Kammerpolarität
 b6b8c8bf	Larmor-Präzession, Bloch-Gleichungen, T1/T2, Spinecho, k-Raum.
+b6db5e97	Was ist ein typisches Gamma-Kriterium für die IMRT-Patienten-QS?
 b6e00083	Herz
 b6e56670	Halb- und Zehntelwertschichtdicke
 b6fab935	PD-gewichtet
+b70423e7	Mayneord-F-Faktor
 b72c1283	#. Photonenstrahlen und Tiefendosis
 b7312de4	Luft −#, Wasser #, Fett ≈ −#, Weichteil #…#, Knochen #…# HU. Da das Auge nur ~#–# Graustufen unterscheidet, werden Bilder durch ein Fenster (Breite W, Lage L) dargestellt: Lunge W1#/L−#, Weichteil W4#/L4#, Knochen W2#/L4#, Gehirn W8#/L3#.
+b7362550	Repetitionszeit (zwischen Anregungen) / Echozeit (zwischen Anregung und Signal).
 b77556fd	Die Energie eines Photons ist proportional zu seiner Frequenz: E = h·ν. Eine praktische Faustformel ist E[keV] ≈ # / λ[nm]. Radiowellen (MRT), sichtbares Licht und Röntgen-/γ-Strahlung sind dasselbe Phänomen bei unterschiedlichen Energien.
 b7d0e925	Energie des einfallenden Photons
 b7fdc96d	Seit der letzten Elution
 b8095719	EANM: A·t ~ Gewicht. Ein längerer Scan erlaubt weniger Aktivität und Dosis.
+b80f1610	Die PET nutzt nur gestreute Photonen
 b846a137	Wähle die Schichtposition und drücke SCAN. Tippe auf das Bild, um HU zu messen.
 b85a81d5	Fraktionierungsschema
+b8624b08	Ein Labyrinth zwingt gestreute Photonen, mehrfach abzuprallen, bevor sie die Tür erreichen. Oberhalb von # MV enthält die Tür zusätzlich boriertes Polyethylen und Blei gegen Neutronen und Einfang-Gammastrahlung. Eine Strahlenschutzmessung nach der Installation ist Pflicht.
 b8628c9b	Spongiosa
 b86f8853	RECHENBEISPIEL
 b8757751	Ja; perkutane Strahlentherapie macht nicht radioaktiv — sobald das Gerät aus ist, bleibt nichts zurück
@@ -987,32 +1560,66 @@ b8e79c59	Für Wasser gilt μ/ρ (# keV) = # cm²/g, also μ = # cm⁻¹. HWS = #
 b8ebb4eb	Zeitpunkt des Tc-#m-Maximums
 b8f48602	Konstanten
 b8ff3ac7	Feld #×# cm: passt zur Lunge.
+b90ddbf5	Blei lässt keine MV-Photonen durch
 b92e17d6	Raster verwendet: Ein ~# cm dicker Kinderthorax erzeugt wenig Streustrahlung; ein Raster (Bucky-Faktor #–#) erhöht die Dosis unnötig.
 b95e783d	Geh näher an die Quelle (< # m).
 b999f041	# cm großes Basalzellkarzinom an der linken Wange (bioptisch gesichert)
 b9a92b6b	Dosis ≈ # µSv: etwa # Tage natürlicher Strahlung. Der Nutzen der Pneumoniediagnose überwiegt das Risiko bei Weitem.
+b9bc8c97	Dosimeter und Kalibrierung
 ba151840	Wie skaliert die Photoeffekt-Wahrscheinlichkeit ungefähr?
+ba1a8e96	Ḣ ~ #/d²: # × (#/#)² = # µSv/h.
 ba1de520	Larmorfrequenz f = γ̄·B₀ (# MHz/T). SAR ~ B₀²: ~#× HF-Erwärmung bei # T.
+ba32dc5a	<b>PD-gewichtet:</b> langes TR, kurzes TE. Zeigt Unterschiede der Protonendichte; im muskuloskelettalen Bereich (Menisken) verwendet.
+ba35bb9c	Ab welcher Energie wird die Photoneutronenproduktion bedeutsam?
 ba44e340	SSDE 
+ba5ac16c	Der steile distale Dosisabfall der Protonen ist ein Vorteil, die Reichweiteunsicherheit aber ein Risiko. Wegen Fehlern bei der Umrechnung von CT-HU in Bremsvermögen und wegen anatomischer Veränderungen wird ein Reichweitensaum von typischerweise „# % + # mm“ verwendet, und die Strahlen werden so angeordnet, dass sie nicht direkt auf ein kritisches Organ zielen.
 ba66cab6	Akzeptiertes Rauschen bei einem großen Patienten: ≤ # HU in der Leber-ROI (≈ # HU bei einem durchschnittlichen Erwachsenen). Wähle kV und mAs, dann SCANNEN. Halte die SSDE unter # mGy.
 bade5b16	Dreht sich mit der Gantry #–# Mal pro Sekunde und schickt aus jedem Winkel einen Fächerstrahl durch den Patienten.
+bb1b430e	# % / # mm mit ≥ # % bestandenen Punkten
+bb4c1849	Ionisationskammer (TRS-#)
 bb5bd1d0	Mittlere / effektive Energie
 bb62355a	Läsionsabdeckung: Minimum # % — der tiefe Rand liegt unter # %: Energie zu niedrig.
 bb757050	eluieren
+bb961b50	Durch Erwärmung
 bbabaa0a	Scan länger als nötig: Beckenkamm bis Symphyse reicht bei Appendizitis.
+bbadf5f8	Der Abweichungsindex (DI) zeigt, wie weit der EI vom Zielwert entfernt ist: DI = # im Ziel, # ≈ # % zu hoch, # = doppelt, −# ≈ # % zu niedrig. Der übliche Akzeptanzbereich ist −# bis #.
+bc1b6d45	Große Fraktionen schonen das Rektum
 bc38932a	Referenzdosimetrie (IAEA TRS-#) und PDD-/Profilmessungen: Eine Ionisationskammer wird durch das Wasser gefahren. Hier ist jede Spur ein per Monte Carlo verfolgtes Teilchen.
 bc506327	Zeynep: „Muss ich mich nach der Injektion ruhig hinlegen?“
 bc566d93	Fetaldosis ≈ SSDE = 
 bc5d4211	Alle applizieren
+bc7b5e89	Pitch > # bedeutet schnelleres Scannen bei geringerer Dosis, wobei Lücken durch Interpolation gefüllt werden; Pitch < # bedeutet Überlappung und höhere Dosis.
+bc8245d8	Er korrigiert die Strahlaufhärtung
+bccb7e5d	Der Kollimator: Empfindlichkeit versus Auflösung
+bcdac932	Vergrößerung
+bcdc6b6f	<b>Aliasing (Einfaltung):</b> Gewebe außerhalb des FOV wird in Phasenrichtung eingefaltet.
+bd1d615b	≈ # Gy
+bd328853	DNA-Schäden
 bd77abf8	Notfallchirurgie: akute Appendizitis? KM-CT Abdomen-Becken (Dr. Şahin)
 bd7bba09	Signal
+bd8ee7fc	≈ # Minuten
 bd9533e5	Hodgkin-Lymphom — Staging
+bd963d7a	Welche Elektronenenergie erfasst einen Tumor bis # cm Tiefe mit der #-%-Isodose (ohne Bolus)?
+bd9c904d	Zeit, Abstand und Abschirmung
+bdaf69c4	Durchleuchtung
+be1fdde1	Eine Bleischürze ins Feld legen
+be4c8b99	Sie sinkt auf ein Viertel
+be515cc5	Sie deponieren hinter dem Ziel fast keine Dosis (keine Austrittsdosis)
+be58929f	Gradientenecho und Kontrastmittel
 be5b1f2d	Die Frage des Patienten
+be5c7cfc	Röntgenbildgebung
 be65f185	Eisenoxid-Pigmente können sich erwärmen: Patient informieren, ggf. kalte Kompresse. Keine Kontraindikation.
+be76f7c6	Der Linearbeschleuniger
+be78efa4	Ein GM-Zählrohr zählt einzelne Ereignisse und findet schwache Kontamination schnell; für Dosismessungen ist eine kalibrierte Ionisationskammer genauer.
+beb99ac5	<b>Dosisbegrenzung:</b> Grenzwerte gelten für beruflich exponierte Personen und die Bevölkerung — nicht für Patienten, denn der Nutzen liegt bei ihnen.
 bf06df89	Elektronenenergie
 bf300ab6	gefiltert
 bf62a8bf	Der gelbe Pfeil ist die Nettomagnetisierung M. Ein HF-Puls kippt sie aus B₀; sie erholt sich longitudinal mit T1 und zerfällt transversal mit T2. Die farbigen Pfeile sind Isochromaten mit unterschiedlichen Frequenzen (T2*).
+bf689b25	Zerfallsgesetz
+bf6a994f	Photonen lassen sich nicht brechen, daher entsteht das Bild durch einen Bleikollimator, der nur Photonen aus einer bestimmten Richtung durchlässt — nur ~# % kommen durch. Bei einem Parallellochkollimator verschlechtert sich die Auflösung mit dem Quellabstand, daher wird der Detektor so nah wie möglich an den Patienten gebracht. Längere, engere Löcher verbessern die Auflösung und senken die Empfindlichkeit.
 bf6d791a	In breiten Strahlenbündeln erreichen auch gestreute Photonen den Detektor; der Aufbaufaktor B ≥ # berücksichtigt das. Hier wird B ≈ # + k·μx verwendet.
+bf6f2da2	Wie lange dauert ein konventionelles Spin-Echo mit TR # ms, # Zeilen und NEX #?
+bf7ae11a	≤ #–# %
 bfaba695	Relative Aktivitätskonzentration (bezogen auf das Bildmaximum)
 bfb0dfa4	Keine Allergien; Kreatinin normal
 bfce608a	Patient / Phantom
@@ -1028,26 +1635,39 @@ c09eec06	MLEM ist ein iteratives Verfahren, das die Poisson-Statistik direkt mod
 c0aad756	Teilchenspuren zeigen
 c0f5bb27	Die Rotationsachse. Den Patienten hier zu zentrieren ist wichtig: Dezentrierung hebelt das Bowtie-Filter aus und erhöht Rauschen und Dosis.
 c124dd95	Jede Zelle überlebt eine Fraktion mit der Wahrscheinlichkeit S(d) = exp(−αd − βd²). Gewebe mit niedrigem α/β reagieren empfindlicher auf die Dosis pro Fraktion.
+c131e9c7	μ an einem einzelnen Punkt
 c1329b8d	Elif: „Bitte nehmen Sie für mein Baby die niedrigste Dosis.“
 c14f1584	Gesamtscan (# Betten)
 c1811e60	Tägliche IGRT korrigiert #–# mm Organbewegung und erlaubt PTV-Säume von ~# mm (van Herk: M = #Σ + #σ).
+c1b213e5	Elektronen in einem #-MV-Photonenstrahl
 c1d1684b	Felder
+c27c4e12	Auf der Röhrenseite
 c285174a	Tiefe im Patienten (cm)
+c296a83d	Streustrahlung und Raster
 c2dcb4a3	Viel länger zu warten ist unnötig: F-# ist fast vollständig zerfallen, und das Stillen wird unnötig unterbrochen.
 c2e4e241	isomerer Übergang
+c2e97a22	Warum EI?
 c2f67ba3	# mm Al + # mm Cu
+c2fe5429	<b>Redistribution:</b> Zellen gelangen in empfindliche Zyklusphasen (G2/M).
 c341622f	Die Dosis des Babys stammt hauptsächlich von den #-keV-Photonen aus dem Körper der Mutter (externe Exposition); nur sehr wenig FDG gelangt in die Milch. Wann darf der enge Kontakt (Halten, Stillen ~# cm) wieder aufgenommen werden? Spielziel: Säuglingsdosis ≤ # µSv.
+c3593ab4	<b>FFF (ohne Ausgleichsfilter):</b> erhöht die Dosisleistung um das #–#-Fache und ermöglicht kurze stereotaktische Bestrahlungen.
 c35ec4c3	Anterior-posterior (AP)
 c3a14e9a	Wasser μen/ρ
+c3e46e55	Die Spitzenspannung der Röhre; bestimmt die maximale Photonenenergie und die Durchdringungsfähigkeit des Strahls.
 c3e47672	Spinecho
 c3ff1e50	Elektronen aus der Kathode werden durch die Röhrenspannung (kVp) auf eine Wolframanode beschleunigt. ~#% der Energie werden zu Wärme, ~#% zu Röntgenstrahlung. Elektronen, die im Kernfeld abgebremst werden, senden <b>Bremsstrahlung</b> mit kontinuierlichem Spektrum bis E_max = kVp aus.
 c4547490	Spinphysik
+c481cc03	<b>Frequenzkodierung:</b> während der Auslese, sodass jede Spalte mit einer anderen Frequenz sendet.
 c487c009	Fenster W(f): Ram-Lak (scharf, verrauscht), Shepp-Logan (sinc), Kosinus, Hann (glatt, rauscharm). Abwägung Schärfe ↔ Rauschen.
 c4a7b302	Spurfarben: gelb = Photon, blau = Elektron, magenta = Positron, orange = Proton, grün = Kernwechselwirkung.
+c4b3c7a6	PDD(d) = # · D(d) / D(d_max)   (SSD fest)
+c4cbd544	Drei Felder, drei Risiken
 c4ef192a	kein Raster, 
+c52f63a4	Die Quellstärke wird als Luftkerma-Stärke S_K angegeben (U = µGy·m²/h); Λ ist die Dosisleistungskonstante, g(r) die radiale Dosisfunktion und F(r,θ) die Anisotropiefunktion. Eine Ir-#-Quelle verliert ~# % pro Tag, daher werden die Bestrahlungszeiten automatisch verlängert und die Quelle etwa alle # Monate gewechselt.
 c558bcea	Beruf: Schweißer / Schleifer (# Jahre)
 c5748eb4	MR-Sicherheitsscreening
 c57b585f	Die Konsole zeigt CTDIvol. Welche Größe gibt die Dosis dieses großen Patienten am besten wieder?
+c58f8d26	Mit dem Quadrat der Aktivität
 c59c3c01	Ayşe: „Was ist dieses geleeartige Ding? Kommt das auf mein Gesicht?“
 c5d4754f	# mg/dL
 c5e874f2	Gonadenschutz wird nicht mehr routinemäßig empfohlen; Einblendung ist der beste Schutz.
@@ -1057,26 +1677,50 @@ c6a141c6	Tiefendosis auf dem Zentralstrahl
 c6b800d4	#. Spin und Präzession
 c6c23301	Richtig. (Bei einer permanenten I-#-Seed-Implantation gäbe es kurzzeitige Einschränkungen für engen Kontakt.)
 c6c4ee23	Tumorkontrollwahrscheinlichkeit
+c6d283b2	ITV
 c6d6b1b5	Das gilt nur für ~# cm (eine HWS).
 c6d8a5ee	 (Kopf)
+c6e71781	Für # MBq Cs-# (Γ ≈ # µGy·m²/(MBq·h)) beträgt die Luftkermaleistung in # m ≈ # × # ≈ # µGy/h, also H*(#) ≈ # µSv/h. In # m sinkt sie auf ein Viertel (≈ # µSv/h), in # m auf ein Neuntel. Bei einer Blei-HWS von ≈ # cm für Cs-# senken # cm Blei (≈ # HWS) sie um weitere ~#×.
+c6f4f9c3	Brachytherapie
+c70bdae0	GTV
 c7801b3c	NÄCHSTE LEKTION
 c7e4693e	Modellhinweis: Die Streuung nutzt einen vereinfachten Kern abhängig von Feld und Dicke; Detektor-DQE und Brennfleckunschärfe werden vernachlässigt.
 c81dd039	Rückenmark Dmax < # Gy
 c8423429	Geeignet für Säuglinge und bettlägerige Patienten, aber der Herzschatten wird vergrößert und vorn liegende Organe erhalten mehr Dosis.
+c8588751	Bestrahlungsplanung: Volumina, IMRT/VMAT und DVH
+c86f5711	Das Spektrum besteht aus zwei Teilen: kontinuierlicher Bremsstrahlung von # bis zur kVp (Kramers: I(E) ~ Z(E_max − E)) und charakteristischen Linien — bei Wolfram Kα ≈ # keV und Kβ ≈ # keV, die nur bei kVp > # auftreten.
+c8814047	Die effektive Dosis ist nicht direkt messbar, daher nutzt man Messgrößen: die Umgebungs-Äquivalentdosis H*(#) zur Ortsüberwachung sowie Hp(#) (Ganzkörper) und Hp(#) (Haut, Hände) für die Personendosimetrie.
 c8828318	Abstandsquadratgesetz: Messwerte bei ~# m, ~# m und ~# m aufnehmen
+c8e11800	Was muss vor einer MRT bei einem Schweißer geschehen?
 c8f76d70	Die Dosis liegt weit unter der Schwelle von ~# mGy für Fehlbildungen; das zusätzliche Krebsrisiko im Kindesalter ist sehr klein (≈ # % pro # mGy). Es gibt keinen medizinischen Grund für einen Abbruch.
 c901ddc3	Gelenkflüssigkeit
 c91a26b5	Die Prostata bewegt sich von Tag zu Tag mit der Blasen- und Rektumfüllung. Wie überprüfst du jede Fraktion?
+c91ce3d7	Qualitätssicherung
 c9248cc8	Abschirmung und Einblendung
 c926cd17	Wasser / Liquor / Urin
+c93c2d38	Die echte T2-Relaxation
 c944c820	Die Compton-Streuung verschwindet bei dieser Energie
 c964528c	Am Detektor (Mitte)
+c990d8eb	Häufige Artefakte
+c997bac9	Bei medizinischer Exposition liegt der Nutzen beim Patienten; daher gelten Rechtfertigung und Optimierung (DRL), aber kein Grenzwert.
+c9cd7e94	Moderne CT-Geräte gehören zur dritten Generation: Röhre und gekrümmter Detektor rotieren gemeinsam (~#–# s pro Umdrehung). Schleifringe ermöglichen eine kontinuierliche Rotation, sodass während der Tischbewegung spiralförmig gescannt wird. Mehrzeilendetektoren (#–# Zeilen) decken #–# cm pro Umdrehung ab.
 c9db273f	Sprache wählen
+c9fe7760	Protonen im Magnetfeld
 ca1a3109	Warum ist Iodkontrast mit einem Spektrum am besten sichtbar, dessen Maximum nahe # keV liegt?
+ca2fbdf7	Der Z³-Vorteil des Photoeffekts verschwindet bei MV; die Schwächung pro Masseneinheit ist nahezu materialunabhängig, daher wird Blei/Stahl nur ergänzt, wo der Platz knapp ist.
 ca42e28e	Triff Entscheidungen im Fall von Emirs Thorax-Röntgen im Kindesalter, sieh das Ergebnis und lerne den Grund hinter jedem Schritt. Die technischen Labore warten auf dich, wenn du so weit bist.
+ca83a24e	<b>DAP (KAP):</b> Kerma × Fläche in Gy·cm². Es hängt nicht vom Abstand zur Röhre ab (die Fläche wächst mit d², die Kerma fällt mit #/d²) und spiegelt die insgesamt übertragene Energie wider.
+ca900d67	<b>Reaktor:</b> Neutroneneinfang (n,γ) oder Spaltung; Mo-# (Mutternuklid von Tc-#m) und I-# stammen meist aus der Spaltung von U-#.
 caa249cb	k-Raum (log |S(kx, ky)|)
 cae55017	Photon
 cae6e1b1	Acht Themen von den Grundlagen der Medizinphysik bis zur Klinik. Jede Lektion bietet Erklärungen, Formeln, Rechenbeispiele, interaktive Abbildungen auf Basis echter Physikmodelle und ein kurzes Quiz. Am Ende kannst du direkt ins passende Labor und zum passenden klinischen Fall springen.
+cb0b7009	Um die kleinen Schwächungsunterschiede zwischen Brustgeweben über den Photoeffekt zu verstärken
+cb2d5fcc	In der Filmära schwärzte eine Überdosis das Bild und fiel sofort auf. Digitale Systeme fenstern automatisch, sodass selbst ein überbelichtetes Bild „schön“ aussieht: die Gefahr der schleichenden Dosiserhöhung (dose creep). IEC ## definiert daher den Expositionsindex (EI), proportional zur Luftkerma am Detektor: EI = # × K (µGy).
+cb37627d	Tissue-Maximum-Ratio: Dosis in der Tiefe d geteilt durch die Dosis in d_max am selben Punkt (feste SAD).
+cb52d7bc	Elektronen verlassen eine geheizte Wolframwendel (Kathode) durch Glühemission und werden durch die kVp zur Anode beschleunigt. Nur ~# % ihrer Energie werden zu Röntgenstrahlung; der Rest ist Wärme, deshalb rotiert die Anode und hat eine große Wärmekapazität.
+cb6a7d48	Mit systematischer SD Σ = # mm und zufälliger SD σ = # mm beträgt der PTV-Saum # × # + # × # = # mm. Senkt tägliches IGRT Σ auf # mm, wird der Saum # + # = # mm.
+cb70c670	<b>Patientenspezifische QS:</b> Der IMRT/VMAT-Plan wird in einem Phantom gemessen und per Gamma-Analyse verglichen (z. B. # %/# mm, ≥ # % bestanden; TG-#).
+cb8ff794	Das Abstandsquadratgesetz gilt für Punktquellen in Abständen, die größer als die Quelle selbst sind. Ganz aus der Nähe (z. B. wenn man eine Quelle in der Hand hält) steigt die Dosis extrem schnell: Immer eine Zange benutzen — # cm statt # cm senken die Handdosis etwa um das #-Fache.
 cb988a96	Nach # h (von # MBq)
 cbad3f92	Das Positron annihiliert innerhalb von ~# mm Gewebe; nur die #-keV-Photonen entweichen.
 cbd54f80	Material
@@ -1084,80 +1728,139 @@ cbd7b457	Kurzformeln
 cc25a532	Hals
 cc4c7f13	Lektion 
 cc4da60f	Zufällige Koinzidenzen
+cc673698	Abweichungsindex
 cca2c192	Gesamtfilterung = # mm Al (Eigenfilterung) + Zusatzfilter. Vorschrift: ≥ # mm Al (># kVp).
 ccdfbfa0	Bevölkerung
+cd2f8f64	Aufbau der Röhre
+cd3156fd	Klinisch werden Protonendosen in Gy(RBE) mit einer konstanten RBW von # verschrieben, obwohl die RBW am distalen Ende des Peaks, wo der LET steigt, # überschreiten kann.
 cd38aa8b	Wartezeit vor engem Kontakt
+cd487f09	Die Patientendosis (um den Bucky-Faktor)
 cd4c6563	Bedienplatz
+cd617903	<b>Photonenmangel:</b> Bei großen Patienten, besonders auf Schulter- und Beckenhöhe, kommen lateral zu wenige Photonen an, und es entstehen horizontale Streifen.
 cd86acc3	Schließen
 cd9bfde6	Gantry-Verkleidung transparent zeigen
 cdd62ae0	Bogen (VMAT-ähnlich)
+cddf6a03	Temperatur und Druck
 cde4341b	Winkel: #° = anterior (AP), #° = links (Patient), #° = posterior (PA), #° = rechts.
 ce0454c7	Kleine Kugeln zeigen wegen des Partialvolumeneffekts eine geringere gemessene Aktivität (RC < #).
 ce3486fb	horizontal: x (−#…# cm) • vertikal: Tiefe #→# cm
 ce483eb5	Dicke
 ce6b3dac	R8# distal (MC)
 ce715e71	Ein CsI:Tl-Szintillator wandelt Röntgenstrahlung in Licht um, ein a-Si-Photodiodenarray das Licht in Ladung. Der Expositionsindex (EI) gibt die Dosis am Detektor an.
+cf1199b5	Elektronen sind leicht, werden daher um große Winkel gestreut und folgen Zickzackbahnen. In Medien mit hohem Z spielt auch die Bremsstrahlung (Strahlungsverlust) eine Rolle — so erzeugt eine Röntgenröhre Röntgenstrahlung. Faustregel: Die Elektronenreichweite in Wasser beträgt ≈ E/# cm (E in MeV).
 cf377b43	Übungsprüfung
+cf5b8c68	Sie muss um √# steigen
 cf781cab	Die Mutter bittet um eine Bleischürze für Emir. Was tust du?
 cfc2c2f6	Filterung (Al, Cu) entfernt vorab die niederenergetischen Photonen, die der Patient ohnehin absorbieren würde und die das Bild nie erreichen — das senkt die Hautdosis. Auch das „Cupping“-Artefakt im CT entsteht durch Strahlaufhärtung.
 d020ae28	In einer bleiabgeschirmten Aluminiumoxidsäule zerfällt Mo-# (T½ # h) zu Tc-#m (T½ # h). Durch die Säule geleitete Kochsalzlösung spült nur das Tc-#m-Pertechnetat aus (Elution).
+d0527b5f	Warum werden MV-Bestrahlungsräume mit Beton statt mit Blei abgeschirmt?
+d0591deb	Für welche Gruppe gibt es keinen Dosisgrenzwert?
 d070218a	Tiefe
+d0a19740	Fehler in der Strahlentherapie sind systematisch und können viele Patienten betreffen; daher gehören unabhängige MU-Prüfungen, die Planfreigabe nach dem Vier-Augen-Prinzip und eine Kultur der Fehlermeldung zu den Kernaufgaben der Medizinphysikerin bzw. des Medizinphysikers.
 d0a43715	Ein supraleitender Magnet lässt sich nicht einfach ausschalten; ein Quench lässt das Helium ab, ist teuer und gefährlich — nur in lebensbedrohlichen Situationen.
+d0de0de1	<b>α:</b> ein He-#-Kern mit sehr hohem LET und einer Reichweite < # mm (Ra-#).
 d0fd90b6	Bei Änderung automatisch belichten
+d1098233	η ≈ #×#⁻⁹ · Z · V    (Wolfram Z = #, V = # kV → η ≈ # %)
 d1998663	Ja, aber nur die Kβ-Linie erscheint
 d1af3044	Amalgam- und Kompositfüllungen sind sicher; sie können nur Artefakte verursachen.
 d1b7ec5b	Tumor-EQD2 = n·d·(d + #)/(# + #) = # Gy — unterdosiert, Risiko eines biochemischen Rezidivs.
+d1b834b9	Das α-Teilchen ist doppelt geladen (z² = #) und langsam, mit einem LET von ~# keV/µm, verglichen mit ~# keV/µm für die von Photonen in Bewegung gesetzten Elektronen.
 d21058ed	Tippe auf den Boden, um die Abschirmung zu platzieren.
+d21b004d	Die Bleiplatte mit Löchern, die nur Photonen aus einer bestimmten Richtung zum Kristall der Gammakamera durchlässt.
+d2223509	Der CTDIvol ist die Dosis in einem PMMA-Zylinder von # cm. Ein schlanker Patient (oder ein Kind) erhält bei gleichem CTDIvol deutlich mehr Dosis, ein großer Patient weniger. Der AAPM Report # liefert einen Umrechnungsfaktor auf Basis des effektiven Durchmessers: die größenspezifische Dosisabschätzung (SSDE).
+d229ed94	Direkt, indem Photonen die DNA zerbrechen
 d22ff1b4	Der Cu-Filter entfernt niederenergetische Photonen: viel geringere Hautdosis bei gleichem DI.
 d252b05e	Wähle im Wartezimmer einen Patienten, lies die Akte und starte den Fall. In jedem Schritt entscheidest du: eine Frage beantworten, Geräteparameter einstellen oder ein Bild erzeugen. Die Physik-Engine berechnet das Ergebnis; mit BESTÄTIGEN erhältst du Punkte und eine Erklärung.
+d258834e	Die mittlere Energie steigt
+d27f15a1	Aufenthaltsfaktor T
+d28ab5fa	V2# ≤ #–# % und eine mittlere Lungendosis ≤ #–# Gy halten das Risiko einer symptomatischen Pneumonitis unter # %.
 d28e3e42	Bewertung: diagnostische Qualität / Therapiewirkung, Patientendosis (ALARA), Sicherheit und Kommunikation. ★★★ erfordert ≥ # %.
 d2ab41fb	erwartet 
+d2c2e72f	Durch direktes Auslesen, durch welches Kollimatorloch es kam
 d2c74831	Erster Schritt
 d2db263e	Ein Positron aus dem β⁺-Zerfall annihiliert innerhalb weniger mm mit einem Elektron (Positronenreichweite → Auflösungsverlust) und erzeugt zwei #-keV-Photonen, die fast entgegengesetzt fliegen (±#°). Sprechen zwei Kristalle des Rings innerhalb des Zeitfensters (~# ns) an, werden eine Koinzidenz und eine Koinzidenzlinie (LOR) registriert.
+d3302805	Warum wird eine Thoraxaufnahme p.a. mit # cm SID angefertigt?
+d3457fda	LET
+d348b1f3	Spin und Larmorfrequenz, Relaxation (T1, T2, T2*), Sequenzen und Kontrast, Ortskodierung und k-Raum, MR-Sicherheit.
 d350ad22	Fettgewebe
+d37c1018	LQ-Überleben
+d39e2fda	<b>Suszeptibilität:</b> Signalverlust und Verzerrung an Metall und an Luft-Gewebe-Grenzflächen (besonders GRE und EPI).
 d4066030	Exponentielle Schwächung
+d424ea14	Der Linearbeschleuniger, Tiefendosis und MU-Berechnung, Bestrahlungsplanung (Volumina, IMRT/VMAT, DVH), Protonentherapie, Brachytherapie und Qualitätssicherung.
+d45a18d7	Bei welchem Radionuklid muss das Stillen ganz beendet werden?
 d4601b55	• <b>Schwächung:</b> Die Wahrscheinlichkeit, dass beide Photonen entkommen, ist exp(−∫μ dl) entlang der LOR — unabhängig vom Emissionsort! Deshalb wird die PET-Schwächungskorrektur direkt aus dem CT bestimmt.\n• <b>Streuung:</b> Compton-gestreute Photonen erzeugen falsche LORs; das Energiefenster (#–# keV) verwirft einen Teil davon.\n• <b>Zufällige:</b> Zwei nicht zusammengehörende Photonen fallen in dasselbe Fenster; Rate ~ Aktivität².\n• <b>NEC</b> = T²/(T+S+R): ein Maß für die Bildqualität.
 d46b8bd4	Schritte
+d48da20f	Eine Gewebereaktion mit Schwellendosis, deren Schwere mit der Dosis zunimmt (Erythem, Katarakt).
 d4ab7bf3	Wirkt harmlos, kann aber ins Feld geraten → Wiederholungsaufnahme und automatische Dosiserhöhung. Besser, die Sorge der Mutter mit einer Erklärung zu beantworten.
 d4beda32	Streustrahlenraster
 d4c68488	Volumen %
+d4dfd01b	Eine Ionisationskammer ist ein Kondensator, der die von der Strahlung in einem Gas erzeugte Ladung sammelt. Sie ist der Goldstandard der Referenzdosimetrie. Die zylindrische Farmer-Kammer (# cm³) wird für Megavolt-Photonen verwendet, Flachkammern für Elektronen.
 d4ffd893	Verhältnis Knochen / Wasser (Kontrast)
 d51a0c7d	fraktioniert, α/β = #
 d54bb772	Knochenmarködem
+d581622c	Biologische Strahlenwirkungen
 d584bb20	Linke Lunge
+d58f1655	Zonen und Screening
+d5abe21a	MU (Monitoreinheit)
+d5b12f90	Dosisgrenzwerte
 d5c4ed9d	Prostata
 d5cc8e12	Kindernotaufnahme: Thorax p.a. — Pneumonie? (Dr. Aydın)
+d5dea1d4	Ein #-MeV-Proton: R ≈ # × #^# ≈ # × # ≈ # cm. NIST PSTAR gibt eine CSDA-Reichweite von # cm an — die Regel ist also eine gute Schätzung.
 d5f8859c	Quiz zu diesem Thema
 d618a937	Strahl und Kalibrierung
 d63556b0	Wasser
 d64fa515	mit Blei
+d67796d1	Planungszielvolumen: CTV plus ein Saum für Lagerungs- und Bewegungsunsicherheiten.
 d68f0065	Lektion öffnen: 
+d6a01349	Bildqualität und Artefakte
+d70f2e87	In einem Zyklotron über die Reaktion ¹⁸O(p,n)¹⁸F
 d720c7e2	Beschwerden und Anforderung
+d752ff03	Einheit der Energiedosis, # J/kg.
 d77aac98	#. Erzeugung von Röntgenstrahlung
 d77bb8f6	Öffne den Fall
 d7b6610e	# MeV Elektronen erreichen nur ≈ # cm (Rp ≈ E/#): Sie kommen nicht bis zur Prostata.
+d7d34b45	Leukämie
 d7fcdf81	Allgemeinchirurgie: Divertikulitis / Abszess? KM-CT Abdomen (Dr. Tunç)
+d88a6749	Das macht keinen Unterschied
 d908d184	Dosisgröße
 d9370cf8	Inversion (#°)
 d9556410	Belichtungsparameter
+d969abbf	D(Ziel) = Σ_Quelle Ã(Quelle) · S(Ziel ← Quelle)        Ã = ∫ A(t) dt ≈ # · A₀ · T_eff
+d96b25e8	Das Sekundärelektronengleichgewicht hat sich noch nicht eingestellt
 d9b3e49e	Blut / Herz
+d9cd3b9c	Das LQ-Modell, BED und EQD2
+d9d9a2cc	mAs verdoppeln
+d9fc4c9b	Dosis-Volumen-Histogramm: der Anteil einer Struktur, der mindestens eine bestimmte Dosis erhält.
 da35274d	Die Läsion misst # cm. Welche Ausblendungsgröße und welchen Augenschutz wählst du?
 da435822	Letztes Mal hat es ewig gedauert … Passe ich überhaupt ins Gerät?
 da880d68	Quelle in der Hand! Bring sie schnell zum Bleibehälter.
 dad956f3	Tc-#m erreicht sein Maximum bei t_max = ln(λTc/λMo)/(λTc − λMo) ≈ # h nach der Elution. Im Gleichgewicht gilt A_Tc/A_Mo → #·λTc/(λTc − λMo) ≈ #.
+db1f3609	D(Ziel) = Ã(Quelle) · S(Ziel ← Quelle)
+db876443	Einheit der Äquivalent- und effektiven Dosis; steht für das stochastische Risiko.
 db90e18f	Knochen
 dba8b336	Wir zeigen dir den besten ersten Schritt.
 dbb638ff	SPECT-Bildgebung (Knochen, Myokardperfusion)
 dbbc21b7	Physik: Warum steigt das Rauschen?
+dbdf67b5	Sie halbiert sich
 dbf4470f	Punkte 
 dc0b6beb	Literatur
 dc411606	Bloch-Gleichungen • Präzession • Spinecho
 dcc0d7a5	noch nicht gestartet
+dcc2469a	Ein Gonadenschutz
 dce06e30	MRT mit Gadolinium
+dcf29cd8	mAs
 dd2558f8	# kg / # cm
+dd49d94d	Welche ist eine deterministische Wirkung?
+dd7b54c8	Das Dosimeter unter der Schürze repräsentiert nicht das Auge; bei einem Linsengrenzwert von # mSv/Jahr ist diese Messung für interventionell tätiges Personal wichtig.
+dd9f3f2a	Wie kann man das Rauschen halbieren?
 ddd13aac	Zeit # s — zu lang, Bewegungsartefakte wahrscheinlich; TR verkürzen oder Turbofaktor erhöhen.
 de128bc0	Lärm
+de7ed956	Protonentherapie und Bragg-Peak
+de969bfd	Die in ein Volumen eintretende und es verlassende Energie geladener Teilchen gleicht sich aus; dann gilt D = K_col.
 deb145c5	Bleischürze geben und sofort scannen
+deb1fdd9	<b>Bleischürze:</b> #–# mm Bleigleichwert; hält #–# % der diagnostischen Photonen zurück, ist aber gegen die #-keV-Photonen der PET nahezu wirkungslos.
+ded09878	Was empfiehlt QUANTEC für die Lunge V2#?
+dee5f315	Strahlenschutzgrundsätze und Dosisgrenzwerte
 deea998c	TR (Repetitionszeit)
 deeed36b	Bildqualität
 df0c22b3	Magnetresonanz
@@ -1169,39 +1872,60 @@ df7177fa	KERNAUSSAGE
 df76eace	Aktivität A(t)
 df926a69	Rauschen (Leber-ROI, SD)
 dfe4e404	Zeit
+dffe9654	Orbitaaufnahmen oder CT, um intraokulares Metall auszuschließen
 e026c507	gestreutes Photon E′
 e03ac455	HWS = ln2/μ = #/# ≈ # cm.
+e06240a9	Was hat den höchsten LET?
+e073c123	Die Dosis, bei der der lineare und der quadratische Term des LQ-Modells gleich groß sind; ein Maß für die Fraktionierungsempfindlichkeit.
 e0a49aab	Prüfung starten  →
 e0bbd3df	Schwelle der Paarbildung
 e0ccc31f	Hauptmenü
 e0e1e90f	 Tage natürliche Strahlung)
+e0f63b6b	Das Integral von μ entlang des Strahls
 e0fe199e	Die drei Grundsätze des Strahlenschutzes (ICRP #)
 e15b5d80	Zellüberlebenskurve (LQ)
 e1940a73	Tipp: Du kannst jederzeit auf ein Gerät im Hintergrund klicken; zum Einstieg ist das nicht nötig.
 e19d9fd0	männlich
 e232e2c1	Praktische Reichweite Rp (Ref.)
 e2433a82	Fetaldosis ≈ SSDE (Uterus im Feld). CTDIvol ist eine Phantomdosis und muss für die Patientengröße korrigiert werden.
+e2671f77	Koinzidenz
+e2c75b33	Wie ändert sich der CTDIvol, wenn der Pitch bei konstanten mAs von # auf # steigt?
 e2d84590	Anzahl der Fraktionen n
 e2e5fdc7	PTV (GTV + # mm) Mittel = # Gy / # Fraktionen (# Gy)
 e3232976	Zählstatistik # — zu wenige Counts: verrauschtes Bild, kleine Lymphknoten können übersehen werden.
+e327fb76	Die iterative Rekonstruktion (ASIR, SAFIRE, modellbasiert) schätzt ein Bild, vergleicht es mit den gemessenen Projektionen und korrigiert es; sie kann die Rauschstatistik modellieren — das erlaubt #–# % Dosisreduktion bei gleicher Qualität, um den Preis einer manchmal „plastischen“ Textur.
+e32a5d63	Die prozentuale Tiefendosis (PDD) beschreibt die Änderung der Zentralstrahldosis mit der Tiefe bei festem SSD. Die PDD steigt mit der Energie, mit der Feldgröße (mehr Streuung) und mit dem SSD (schwächerer Abstandsquadrat-Effekt — der Mayneord-F-Faktor).
+e33558b2	Hounsfield-Einheit
 e3726bce	Am nächsten Morgen: # h nüchtern, Blutzucker # mg/dL.
+e3d17916	Gewebeinhomogenitäten (Lunge, Knochen, Lufträume) beeinflussen die Dosisberechnung: Lunge mit geringer Dichte erhöht die Dosis in der Tiefe und verbreitert den Halbschatten. Moderne Algorithmen (AAA, Acuros, Monte Carlo) berücksichtigen das.
 e3f06eaf	Streuwinkel θ (°)
 e41d8109	Tiefe (cm)
+e43cb2ca	Durch Eluieren eines Generators
 e43e04b0	Röntgenröhre (Generator)
+e46edbca	<b>Täglich:</b> Konstanz der Dosisleistung ±# %, Laser, Sicherheitsverriegelungen, Übereinstimmung von Licht- und Strahlenfeld (AAPM TG-#).
+e47dd3eb	T1: longitudinale Erholung
+e486e4c2	<b>TLD (LiF:Mg,Ti):</b> gibt gespeicherte Energie beim Erhitzen als Licht ab; nahezu gewebeäquivalent, für Personen- und In-vivo-Dosimetrie.
 e4ab1899	Fensterbreite (W)
 e4c140b2	Der Zerfall ist zufällig: Wann ein einzelner Kern zerfällt, lässt sich nicht vorhersagen, viele Kerne folgen aber dem Exponentialgesetz. Die Aktivität wird in Becquerel gemessen (# Bq = # Zerfall/s); die alte Einheit ist das Curie (# Ci = #·#¹⁰ Bq).
+e4c224ea	# Gy in # Fraktionen (# Gy): für den Tumor (α/β = #) EQD2 = #·(##)/(##) = # Gy; für spät reagierendes Gewebe (α/β = #) EQD2 = #·(##)/(##) = # Gy. Größere Fraktionen „bestrafen“ spät reagierendes Gewebe stärker.
+e4dc2f18	Strahlen durch die Mitte legen längere Wege zurück und härten stärker auf, daher sinkt das effektive μ und die Mitte erscheint dunkler (niedrigere HU).
 e4e5be6e	Elif fragt unter Tränen: „Hat es meinem Baby geschadet?“ Geschätzte fetale Dosis ≈ # mGy.
+e4fe3008	Weit unter der deterministischen Schwelle; sehr kleines Zusatzrisiko; kein Grund für einen Abbruch
+e4fec5f8	Größen der Patientendosis
 e4ff8488	Fensterlage (L)
 e53403f8	gemischt
 e549237e	Prostata α/β ≈ # Gy, Rektum (Späteffekte) α/β ≈ # Gy. Ziel: Tumor-EQD2 #–# Gy, Rektumvorderwand (Annahme: sie erhält # %) EQD2 ≤ # Gy.
 e56e73a9	Blenden + MLC
+e5d8d1ac	#/#
 e5dcf84a	Aufgenommene Dosis
 e5e8cc94	Verhältnis Peak / Eintritt
 e5f27121	Inversion Recovery
 e5f6fa50	Feldstärke
 e621da6d	Compton-Kante T_max
 e636070c	Partial Fourier # %
+e6393de5	Unterbelichtung; das Bild kann verrauscht sein
 e670f9a4	Geschätzte Fetaldosis
+e6737e82	Es erzeugt selbst Signal
 e6862f05	ungefiltert
 e70efde8	Patientenrotation
 e73b4300	Zusätzlicher Al-Filter
@@ -1209,16 +1933,28 @@ e74c644a	Module
 e75dfe28	Wartezimmer — wähle einen Patienten
 e78631fd	Fenster
 e7883571	#. Bestrahlungsplanung
+e790f279	Tiefendosis und MU-Berechnung
+e7a94ca1	Es verkürzt das T1 benachbarter Protonen
+e7baa8c0	Messgrößen (operationelle Größen)
+e7fcf842	Welche Parameter ergeben ein T2-gewichtetes Spin-Echo?
 e8145ea3	 % der kVp)
+e833649b	Gesamtbehandlungszeit und Behandlungspausen
 e8511c37	Voreinstellungen
+e86c6807	Sie steigt (mehr Streubeitrag)
+e8afa1cb	Bei innerer Exposition ist die Dosis die Gesamtzahl der Zerfälle im Quellorgan (kumulierte Aktivität Ã) mal dem S-Wert, der die Energie angibt, die das Zielorgan erreicht:
 e8f9a7ba	← Einfache Startseite
+e90246db	<b>Gradienten (dB/dt):</b> periphere Nervenstimulation und laute Geräusche (> # dB); oberhalb von # dB(A) ist Gehörschutz Pflicht.
 e934bbc7	Gesamtbehandlungszeit
+e9427778	≈ # HU
 e9cef8c2	Elektronen haben eine endliche Reichweite: ideal für oberflächliche Tumoren. Faustregeln: R5# ≈ E₀/# cm, Rp ≈ #·E₀ cm, therapeutische Tiefe R8# ≈ E/# cm. Der kleine Ausläufer in der Tiefe stammt von Bremsstrahlungsphotonen.
 e9eeaebf	keine ionisierende Strahlung
 e9f3813b	Säuglingsdosis (# % enger Kontakt)
+ea2e74ca	Rekonstruktion und Hounsfield-Einheiten
 ea3ff3b9	Die Fälle dienen nur der Ausbildung, nicht für klinische Entscheidungen.
 ea445006	NEMA-Bildqualitätsphantom
+ea48645c	Geometrische Unschärfe
 ea617450	Verdacht auf Appendizitis bei einer Schwangeren. Was kommt zuerst?
+ea778ea7	Gar nicht: Die Fläche skaliert mit d² und die Kerma mit #/d²
 eab8f509	Filterung: erhöhe die HWS auf über # mm Al
 eac26593	Effektive Dosis (# cm)
 ead12e43	Compton-Kinematik
@@ -1227,26 +1963,39 @@ eaeaaa7b	Erfahre das Warum
 eaf105c7	Hervorheben
 eaf5e11d	Wenn μ = # cm⁻¹ ist, wie groß ist die HWS?
 eaff7e77	eGFR # mL/min/# m², unter Metformin. Was tust du beim jodhaltigen Kontrastmittel?
+eb1ada30	Ein ferromagnetischer Splitter kann sich auch bei # T bewegen und zur Erblindung führen, daher muss er vorher ausgeschlossen werden.
 eb1b05b8	Neutron
 eb267579	 (ohne AC)
+eb2a1095	Nichts — die Gesamtdosis ist gleich
 eb2ba7e2	Feldhöhe
+eb4d158b	Objektkontrast
 eb5ba0e3	#. Gefilterte Rückprojektion (FBP)
+eb6d0b86	# cm
 eb6d0c3f	Patientenvorbereitung
 ebb00912	keine Abschirmung nötig
 ebee5570	Emir: „Soll ich die Luft anhalten? Okay, ich halte sie an!“
 ec3c5945	Tipp: Die Seite „Theorie“ in der oberen Leiste listet die wichtigsten Formeln.
 ec3ea500	Modellhinweise: MC nutzt Condensed History (Highland-Vielfachstreuung); die Planung ist #D und vernachlässigt laterale Streuung.
+ec51e118	Der Filter entfernt niederenergetische Photonen, daher steigen die mittlere Energie und damit die HWS.
 ec88aab2	Abgeschlossen
+ecc43793	Die Einheit ist das Becquerel (# Bq = # Zerfall/s); die alte Einheit ist das Curie (# Ci = # GBq). Diagnostische Aktivitäten liegen im MBq-, therapeutische im GBq-Bereich.
 ece35ca8	Im Labor ausprobieren  →
 ece838e8	Scan
 ed03c7fc	≈ Teilweise richtig
+ed23a0d1	Ein angereichertes H₂¹⁸O-Target wird mit Protonen beschossen, danach folgt die FDG-Synthese.
 ed465190	Ziel: Meniskusriss und Knochenmarködem darstellen. Spinecho: S = PD·(# − e^(−TR/T1))·e^(−TE/T2). Wähle TR, TE, Fettsättigung und B₀ und drücke dann SEQUENZ STARTEN.
 eda30c59	Aufgabe erledigt: 
 edbd8b07	Gewichtung
 eddfea6b	Hunderte Kanäle × viele Zeilen aus Keramik-Szintillator. Er misst eine Projektion pro Winkel; zusammen bilden sie das Sinogramm.
 edf0d031	Quiz zurücksetzen
+edf5ddd0	<b>Statisches Feld (B₀):</b> Ferromagnetische Gegenstände werden zu Geschossen. Die Anziehung skaliert mit B·dB/dz und ist an der Öffnung der Röhre am größten. Ein supraleitender Magnet ist immer eingeschaltet. Manche Implantate (ältere Herzschrittmacher, Aneurysmaclips) sind Kontraindikationen.
+ee010b9e	PET
+ee14e5d2	Linear mit der Aktivität
+ee1fc13a	<b>Dioden und MOSFETs:</b> klein und empfindlich, für In-vivo- und Kleinfeldmessungen; sie zeigen Energie- und Winkelabhängigkeit.
 ee5e0890	Eng auf die Lunge einblenden; kein Gonadenschutz, und der Mutter den Grund erklären
 ee69cbe6	Elif fragt unter Tränen: „Hat es meinem Baby geschadet?“ Geschätzte Fetaldosis ≈ 
+ee7232f8	R = #τ·S₁·S₂: Beide Einzelraten steigen mit der Aktivität, daher wachsen die Zufälligen mit A² — ein Grund, warum zu viel Aktivität das Bild nicht verbessert.
+ee792940	Das TMR ist unabhängig von der Feldgröße
 ee88a3cc	Für eine Ganzkörperaufnahme wird der Patient durch Bettpositionen gefahren; das axiale Sichtfeld beträgt #–# cm, bei Long-Axial-Systemen #–# m.
 ee940d80	Hell = hohe Schwächung (Knochen, Metall). Dargestellt in radiologischer Konvention: rechte Patientenseite links. Das Fenster wird automatisch gesetzt.
 ef57cd07	Blutzucker
@@ -1256,9 +2005,17 @@ efce91bf	Gemessene T½ (MC)
 efd604d5	Temperatur
 efd9baf3	Tc/Mo-Verhältnis (transientes Gleichgewicht)
 f02abde8	Strahlaufhärtung
+f03867ac	Vergrößerung (M) und geometrische Unschärfe (U_g) nehmen mit dem Objekt-Detektor-Abstand (OID) zu. Deshalb werden Thoraxaufnahmen p.a. (Herz nahe am Detektor) mit # cm SID angefertigt. Ein kleiner Brennfleck (f) schärft das Bild, begrenzt aber die thermische Belastbarkeit der Röhre.
 f0565afa	Fraktioniert (festes d)
+f056bd95	Die Methode nach NCRP # und #
+f07687d2	IEC ###: # W/kg im Normalbetrieb, # W/kg im kontrollierten Betriebsmodus erster Stufe (unter ärztlicher Aufsicht).
+f0b3d9d9	Expositionsindex und Patientendosis
 f0c79167	Post
+f0d40ccc	Nach einer #°-Inversion liefert ein Gewebe, das genau beim Nulldurchgang seines Mz angeregt wird, kein Signal: TI_null = T1·ln2. STIR (TI ≈ #–# ms bei # T) unterdrückt Fett, FLAIR (TI ≈ #–# ms) unterdrückt Liquor. Die chemische Fettsättigung nutzt die Frequenzverschiebung von # ppm zwischen Fett und Wasser (≈ # Hz bei # T).
+f0dca9d4	<b>Luftspalt:</b> ein Abstand zwischen Patient und Detektor lässt einen Teil der Streustrahlung am Detektor vorbeigehen, um den Preis einer Vergrößerung.
+f0ff89cc	Ein Ringartefakt
 f10c7001	Ihre Geschwindigkeit: γ-Strahlen sind schneller als Licht
+f1897daf	Das linear-quadratische Modell
 f1d69164	Halbwertschichtdicke (HWS)
 f1e3d43f	Gadolinium passiert die Plazenta; in der Schwangerschaft nur wenn unerlässlich. Ein MRT ohne Kontrastmittel reicht bei Appendizitis aus.
 f1e5a8a5	Übersteigt die kVp die Bindungsenergie der W-K-Schale (# keV), erscheinen <b>charakteristische</b> Linien: Kα ≈ #–# keV, Kβ ≈ #–# keV. Intensität ~ (U − #)^#, U = kVp / E_K.
@@ -1267,51 +2024,89 @@ f215c98f	DI # → Überbelichtung (DI # ≈ # %, # ≈ #× Dosis).
 f2586cb3	Feld (am Detektor)
 f25c8ffb	Natürliche Strahlung (Weltmittel)
 f28c5bf6	Lektionen • interaktive Abbildungen • Quizze
+f2b302fd	Wie ändert sich die PDD in einer bestimmten Tiefe, wenn das Feld größer wird?
+f2dea7ee	Das PTV ist das geometrische Konzept, das sicherstellt, dass das CTV trotz Lagerungs- und Bewegungsunsicherheiten die verschriebene Dosis erhält.
 f2e56345	Stelle die Bleidicke auf die HWS von Cs-# (≈ # cm) ein und sieh die Halbierung
+f2f04328	<b>OAR / PRV:</b> Risikoorgan und sein Planungssaum (z. B. Rückenmark + # mm).
 f2f0b95b	Wartezeit (h)
+f323dc10	Das richtige Dosimeter zu wählen heißt zu wissen, was man misst: Ionisationskammer für die Referenzdosis, Film oder Arrays für Verteilungen, OSL/TLD für die Personendosis, GM-Zählrohr für Kontamination.
+f351af88	TMR
 f38b9efa	#. Projektionen und die Radon-Transformation
 f3952697	Rückstoßelektron T
 f3987859	Die Röhrenleistung steigt etwa mit kVp² und linear mit mAs: #% mehr kVp verdoppelt ungefähr das Detektorsignal (#-%-Regel).
 f3b48ff1	Aufhalten: Der supraleitende Magnet ist immer an, ferromagnetische Gegenstände werden zu Geschossen; nur MR-sichere Ausrüstung
+f3d4e34a	Bereiche werden je nach erwarteter Dosis als Kontroll- oder Überwachungsbereich eingestuft, gekennzeichnet und im Zugang beschränkt. Eine verlorene Quelle, ein unerwartet hoher Dosimeterwert oder eine Bestrahlung des falschen Patienten bzw. der falschen Körperstelle ist ein Vorkommnis: Es wird dokumentiert, seine Grundursache wird analysiert und, falls erforderlich, wird es der Aufsichtsbehörde gemeldet (in der Türkei der NDK).
 f3f36daf	Strahlung mit genügend Energie (≥ # eV), um Elektronen aus Atomen zu lösen.
 f425bff1	  → Echo erwartet bei: 
+f43d0d9d	Mit dem Dosimeter unter der Schürze
+f43d5d4c	Bei schnell proliferierenden Tumoren (Kopf-Hals) setzt die Repopulierung ein, wenn die Behandlung länger als ~# Tage dauert, und kostet etwa ~# Gy EQD2 pro Tag. Ungeplante Behandlungspausen müssen daher ausgeglichen werden (z. B. eine zusätzliche Fraktion am Wochenende oder zweimal tägliche Fraktionen).
 f48a9bb6	Monte-Carlo-Tiefendosis, Bragg-Peak, Bestrahlungsplanung, DVH, Strahlenbiologie.
+f49bd7cf	Das Fenster verengen
+f4a0a51b	Die automatische Röhrenstrommodulation (AEC) passt den mA in jedem Winkel und jeder z-Position an die Patientendicke an, hält das Rauschen auf einem Zielwert und optimiert die Dosis.
 f4a277c4	Planung
 f4a9c097	Filter
+f4eb467e	Auf der Detektorseite (Bildempfänger)
+f50a6eee	Die PDD ist bei festem SSD definiert, tiefere Punkte liegen also weiter von der Quelle entfernt; das TMR passt zur isozentrischen Bestrahlung.
+f565bd92	Bei beschleunigter Repopulierung gehen ~# Gy pro Tag verloren: # Tage × # ≈ # Gy. Deshalb werden Pausen ausgeglichen.
+f5b86b6b	Qualitätskontrolle: Der Mo-#-Durchbruch im Eluat darf # kBq Mo-# pro MBq Tc-#m nicht überschreiten; geprüft wird mit einem Bleibehälter, der die # keV von Tc stoppt, die #-keV-Photonen von Mo aber durchlässt. Auch Aluminiumionengehalt und radiochemische Reinheit werden geprüft.
 f5c1b5b5	Feldgröße (an der Oberfläche)
+f5e265e2	Wie wirkt sich eine stärkere Filterung auf die HWS aus?
 f5e305fa	Feld #×# cm: Der Thorax ist ≈ #×# cm; stärker einblenden (DAP und Streuung).
 f5efdcd1	# mg/L
+f5fce81d	Planung der Raumabschirmung
 f60d1c54	T2-gewichtetes Bild: Liquor heller als weiße Substanz
+f62997ab	Wie wirkt ein gadoliniumhaltiges Kontrastmittel?
+f63ab85a	Die Anger-Kamera
+f6466836	Die Dichte des Materials nimmt zu
 f67cc940	Zerfallsart
 f6862a0b	Transmission der Abschirmung (inkl. Aufbau)
 f6d42ce8	Tiefe des Bragg-Peaks
 f6f22637	Steuerung
 f71b5abf	Biologisch effektive Dosis
 f728f992	durchschnittlicher Erwachsener (# cm)
+f72b2c12	Was ist bei einer pädiatrischen Thoraxaufnahme die wirksamste Schutzmaßnahme?
+f73eed5b	Patienten bei medizinischer Exposition
+f77fcacc	Wasser hat # HU und Luft −# HU; Fett ≈ −#, Lunge ≈ −#…−#, Weichgewebe #…#, Knochen #…# HU. Da μ energieabhängig ist (besonders bei Knochen und Iod), ändern sich die HU-Werte mit der kVp.
+f7b242ee	# Gy
 f7c4fef9	„Danke, Sie waren sehr einfühlsam!“
+f7e06859	Was bestimmt das Zentrum des k-Raums?
 f80ba400	So nutzt du diesen Bereich
 f810e311	Rektum-EQD2 (α/β #) = # Gy — akzeptabel.
+f82c600a	Äquivalentdosis
+f830e238	Das Produkt K·A ist abstandsunabhängig, deshalb kann das DAP mit einer Kammer am Röhrenkollimator gemessen werden.
 f8486832	Nur das Zentrum des k-Raums nutzen: Kontrast bleibt, Details gehen verloren
 f84b8da5	Falsch und angstauslösend bei perkutaner Strahlentherapie.
+f862b10b	Die Ortsauflösung
 f8c4150d	# MeV e⁻
 f8d6f331	Ihre Herkunft: Röntgenstrahlen stammen von Elektronen, γ-Strahlen aus dem Kern
 f900a313	Ach, bleibt da eine Narbe im Gesicht? Und bitte tun Sie meinem Auge nicht weh.
+f92bb98e	Wie entsteht bei Strahlung mit niedrigem LET der Großteil der DNA-Schäden?
+f93ff2ec	Dieselbe physikalische Dosis hat bei verschiedenen Strahlenarten unterschiedliche biologische Wirkungen. Die Äquivalentdosis ist H_T = Σ w_R D_T,R. Strahlungswichtungsfaktoren (ICRP #): # für Photonen und Elektronen, # für Protonen, # für α und #–# für Neutronen je nach Energie.
 fa033cd5	Mission: Quelle bergen
+fa42bc08	Die Abschätzung der fetalen Dosis ist Aufgabe der Medizinphysik: Beim CT gilt fetale Dosis ≈ SSDE, wenn der Uterus im Feld liegt.
 fa73ce08	Gute Arbeit — ein paar Punkte lassen sich verbessern.
 faa8e755	FLAIR: TI = T1·ln2 unterdrückt den Liquor (≈ # ms bei # T). STIR: Eine kurze TI unterdrückt Fett (≈ #–# ms).
 fad26615	Sendet B₁-Pulse mit der Larmorfrequenz (~# MHz bei # T), die M kippen. Die Gewebeerwärmung (SAR) entsteht hier.
 fae02622	Orbita-Röntgen: KEIN metallischer Fremdkörper. Die Untersuchung wird durchgeführt.
+faf2ae6e	Worin unterscheidet sich das TMR von der PDD?
 faff56b8	Verstrichene Zeit
 fb079007	Dosis pro Fraktion d
+fb1c3fc2	Beton ist dichter als Blei
+fb4411db	Die Schichtdicke
 fb5419ac	Unterdosierte Ränder → Rezidivrisiko; R9# wird in sehr kleinen Feldern zudem flacher.
 fb77122a	Ersten Fall starten
 fb8da0b7	Appendizitis in der Schwangerschaft: US → MRT ohne Kontrastmittel → bei Bedarf Niedrigdosis-CT.
 fb990b3e	★★★ ≥ # %, ★★ ≥ # %, ★ ≥ # %. Dein bestes Ergebnis wird gespeichert; spiele erneut, um es zu verbessern.
 fba0b4a2	Kosinus
 fbb64dbd	Röhrenspannung
+fbb96484	Ein HF-Puls mit der Larmorfrequenz kippt M aus der B₀-Richtung (ein #°-Puls legt sie in die Transversalebene). Die rotierende Transversalmagnetisierung induziert einen Strom in der Empfangsspule — den freien Induktionszerfall (FID). Die Resonanzbedingung erlaubt es der MRT, nur den gewählten Kern und Ort anzuregen.
+fbc6d057	Alternativen (Ultraschall, MRT) haben Vorrang; ist ein CT nötig, verwendet man ein Niedrigdosisprotokoll und eine begrenzte Scanlänge.
+fc01ae34	Durch Uranspaltung in einem Reaktor
+fc44dba7	Systemauflösung ≈ #–# mm (in # cm); intrinsische Auflösung ≈ #–# mm.
 fc6adbf7	Einfalldosis an der Haut (ESAK)
 fc7e5fc3	Zählstatistik # — mehr Aktivität als nötig; die Zusatzdosis bringt keinen diagnostischen Gewinn.
 fc82911d	relativ
+fca25fac	Protonen und der Bragg-Peak
 fcdeb802	überbelichtet
 fcff6168	Becken
 fd4e03b8	Zeit pro Bettposition
@@ -1322,11 +2117,16 @@ fd9045b9	#–# kV durchdringen große Patienten besser: weniger mAs für dasselb
 fddaa9d0	Konformitätsindex (Paddick)
 fe0012eb	Veralteter Rat; bei eGFR ≥ # unnötig und verzögert die Diagnose.
 fe2bb7a7	Bleischürze um das Becken legen
+fe67e3af	Die k-Koeffizienten (mSv pro mGy·cm) für Erwachsene sind: Kopf #, Hals #, Thorax #, Abdomen und Becken #.
 feb29647	Polyenergetischer Strahl (realistisch)
 feb7cede	Bluthochdruck (eingestellt)
 febab6f7	IGRT: Vor der Bestrahlung wird ein kV-Bild oder ein Cone-Beam-CT (CBCT) aufgenommen und die Patientenlage millimetergenau korrigiert.
 fec9a6c7	Tägliche kV-Bildgebung / CBCT mit Abgleich der Gold-Marker
+fed90ed4	Ein negativer DI bedeutet, dass die Detektordosis unter dem Ziel liegt (−# ≈ # % zu niedrig), und Quantenrauschen kann die Diagnose beeinträchtigen.
 ff1483ac	Herzschrittmacher (Titan)
+ff3f9ab4	<b>Raster:</b> Bleilamellen absorbieren Streustrahlung (Schachtverhältnis #:#–#:#) auf Kosten der Dosis — Bucky-Faktor #–#. Bei Körperteilen dünner als #–# cm und bei Kindern ist ein Raster meist unnötig.
 ff559aca	Can: „Gut, dass Sie mir Kopfhörer gegeben haben. Jetzt kommen die Geräusche!“
+ff801f8c	Katarakt
 ff97f266	Mittlere Photonenenergie
+ffe8e8a6	Gy(RBE) = # × physikalische Dosis; nicht zu verwechseln mit dem Strahlungs-Wichtungsfaktor der ICRP w_R = #.
 ffedd789	Stillt ein #-monatiges Kind

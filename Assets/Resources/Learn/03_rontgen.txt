@@ -1,13 +1,13 @@
 @topic xray | XR | Röntgen Görüntüleme | X-ray Imaging | xray
 @desc X-ışını tüpü ve spektrum, görüntü oluşumu, kontrast–gürültü, saçılma ve grid, dedektörler, EI/DI, hasta dozu; floroskopi ve mamografi. || The X-ray tube and spectrum, image formation, contrast and noise, scatter and grids, detectors, EI/DI, patient dose; fluoroscopy and mammography.
 @sim xray
-@formula Tüp verimi || Tube efficiency :: η ≈ 1.1×10⁻⁹ · Z · V   (W, 100 kV: ≈ %0.8)
+@formula Tüp verimi || Tube efficiency :: η ≈ 1.1×10⁻⁹ · Z · V   (W, 100 kV: ≈ %0.8) || η ≈ 1.1×10⁻⁹ · Z · V   (W, 100 kV: ≈ 0.8 %)
 @formula Tüp çıkışı || Tube output :: K ~ kVp² · mAs / d²
 @formula Büyütme || Magnification :: M = SID / SOD
 @formula Geometrik bulanıklık || Geometric unsharpness :: U_g = f · OID / SOD
 @formula Sapma indeksi || Deviation index :: DI = 10 · log₁₀(EI / EI_T)
 @formula Kuantum gürültüsü || Quantum noise :: SNR ~ √N
-@formula Doz–alan çarpımı || Dose–area product :: DAP = K · A   (mesafeden bağımsız)
+@formula Doz–alan çarpımı || Dose–area product :: DAP = K · A   (mesafeden bağımsız) || DAP = K · A   (independent of distance)
 @term kVp || kVp :: Tüpün tepe gerilimi; en yüksek foton enerjisini ve demetin girginliğini belirler. || The tube's peak voltage; sets the maximum photon energy and beam penetration.
 @term mAs || mAs :: Tüp akımı × süre; foton sayısını (ve dozu) doğrusal olarak belirler. || Tube current × time; sets the number of photons (and the dose) linearly.
 @term Grid || Grid :: Saçılan fotonları soğuran kurşun lamellerden oluşan ızgara. || A grid of lead strips that absorbs scattered photons.
@@ -17,7 +17,7 @@
 @lesson tube | X-ışını tüpü ve spektrum | The X-ray tube and spectrum | 10
 ## Tüpün yapısı || Tube construction
 Isıtılan tungsten flamandan (katot) termiyonik yayınımla elektronlar çıkar ve kVp gerilimiyle anoda doğru hızlanır. Anoda çarpan elektronların enerjisinin yalnızca ~%1'i X-ışınına dönüşür; geri kalanı ısıdır. Bu yüzden anot döner ve yüksek ısı kapasitelidir. || Electrons leave a heated tungsten filament (cathode) by thermionic emission and are accelerated towards the anode by the kVp. Only ~1 % of their energy becomes X-rays; the rest is heat, which is why the anode rotates and has a large heat capacity.
-$ η ≈ 1.1×10⁻⁹ · Z · V    (tungsten Z = 74, V = 100 kV → η ≈ %0.8)
+$ η ≈ 1.1×10⁻⁹ · Z · V    (tungsten Z = 74, V = 100 kV → η ≈ %0.8) || η ≈ 1.1×10⁻⁹ · Z · V    (tungsten Z = 74, V = 100 kV → η ≈ 0.8 %)
 Çizgi odak ilkesi: eğik anot yüzeyi, ısının büyük bir alana yayılmasını sağlarken dedektörden görünen etkin odak noktasını küçük tutar. Anot topuk etkisi nedeniyle demetin anot tarafı biraz daha zayıftır. || The line-focus principle: the angled anode spreads the heat over a large area while keeping the effective focal spot seen from the detector small. Because of the anode heel effect, the anode side of the beam is slightly weaker.
 ## Spektrum || The spectrum
 Spektrum iki bileşenden oluşur. Sürekli frenleme ışınımı (bremsstrahlung) 0'dan kVp'ye kadar uzanır (Kramers: I(E) ~ Z(E_max − E)). Karakteristik çizgiler ise tungsten için Kα ≈ 59 keV ve Kβ ≈ 67 keV'dedir ve yalnızca kVp > 69.5 olduğunda oluşur. || The spectrum has two parts: continuous bremsstrahlung from 0 up to the kVp (Kramers: I(E) ~ Z(E_max − E)), and characteristic lines — for tungsten Kα ≈ 59 keV and Kβ ≈ 67 keV, which appear only when kVp > 69.5.

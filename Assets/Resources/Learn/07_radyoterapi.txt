@@ -1,6 +1,6 @@
 @topic rt | RT | Radyoterapi Fiziği | Radiotherapy Physics | therapy
 @desc Lineer hızlandırıcı, derin doz ve MU hesabı, tedavi planlama (hacimler, IMRT/VMAT, DVH), proton tedavisi, brakiterapi ve kalite güvence. || The linear accelerator, depth dose and MU calculation, treatment planning (volumes, IMRT/VMAT, DVH), proton therapy, brachytherapy and quality assurance.
-@formula Yüzde derin doz || Percentage depth dose :: PDD(d) = 100 · D(d) / D(d_max)   (SSD sabit)
+@formula Yüzde derin doz || Percentage depth dose :: PDD(d) = 100 · D(d) / D(d_max)   (SSD sabit) || PDD(d) = 100 · D(d) / D(d_max)   (fixed SSD)
 @formula Mayneord F faktörü || Mayneord F factor :: F = [(SSD₂ + d_max)/(SSD₁ + d_max)]² · [(SSD₁ + d)/(SSD₂ + d)]²
 @formula MU hesabı (SAD) || MU calculation (SAD) :: MU = D / (Ḋ_ref · S_c · S_p · TMR(d, s) · ISF)
 @formula Elektron kuralları || Electron rules :: R90 ≈ E/3.2,  R80 ≈ E/2.8,  Rp ≈ E/2   (cm, MeV)
@@ -63,7 +63,7 @@ Elektronların dozu belirli bir derinlikten sonra hızla düşer. Bu yüzden yü
 * <b>GTV:</b> görülebilen tümör. <b>CTV:</b> GTV + mikroskobik yayılım. <b>ITV:</b> CTV + iç hareket (ör. solunum). || <b>GTV:</b> visible tumour. <b>CTV:</b> GTV + microscopic spread. <b>ITV:</b> CTV + internal motion (e.g. breathing).
 * <b>PTV:</b> CTV/ITV + kurulum belirsizliği marjı. Reçete dozu PTV'ye verilir. || <b>PTV:</b> CTV/ITV + set-up margin; the prescription goes to the PTV.
 * <b>OAR / PRV:</b> risk altındaki organ ve onun hareket marjı (ör. omurilik + 5 mm). || <b>OAR / PRV:</b> organ at risk and its planning margin (e.g. spinal cord + 5 mm).
-$ M_PTV = 2.5·Σ + 0.7·σ    (Σ: sistematik, σ: rastgele hata SD'leri)
+$ M_PTV = 2.5·Σ + 0.7·σ    (Σ: sistematik, σ: rastgele hata SD'leri) || M_PTV = 2.5·Σ + 0.7·σ    (Σ, σ: SDs of the systematic and random errors)
 ## Planlama teknikleri || Planning techniques
 3D konformal tedavi, MLC ile şekillendirilmiş birkaç sabit alan kullanır. IMRT, her alanı küçük segmentlere bölerek yoğunluğu modüle eder. Ters planlama bir hedef fonksiyonunu (hedef dozları ve OAR kısıtları) optimize eder. VMAT, gantri dönerken MLC, doz hızı ve hızı sürekli değiştirerek IMRT kalitesini birkaç dakikada verir. || 3D conformal therapy uses a few fixed MLC-shaped fields. IMRT splits each field into small segments to modulate the intensity, with inverse planning optimising an objective function (target doses and OAR constraints). VMAT varies the MLC, dose rate and gantry speed continuously while the gantry rotates, delivering IMRT quality in a few minutes.
 Doku heterojenliği (akciğer, kemik, hava boşlukları) doz hesabını etkiler. Akciğerde düşük yoğunluk derinlerde dozu artırır, penumbrayı genişletir. Modern algoritmalar (AAA, Acuros, Monte Carlo) bunu hesaba katar. || Tissue heterogeneity (lung, bone, air cavities) affects the dose calculation: low-density lung raises the dose at depth and widens the penumbra. Modern algorithms (AAA, Acuros, Monte Carlo) account for this.

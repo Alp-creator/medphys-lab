@@ -1,11 +1,11 @@
 @topic nm | NM | Nükleer Tıp | Nuclear Medicine | nucmed
 @desc Radyoaktif bozunma, radyonüklid üretimi ve jeneratörler, gama kamera ve SPECT, PET, iç dozimetri ve hasta güvenliği. || Radioactive decay, radionuclide production and generators, the gamma camera and SPECT, PET, internal dosimetry and patient safety.
 @formula Bozunma yasası || Decay law :: A(t) = A₀ · e^(−λt)     λ = ln2 / T½
-@formula Aktivite || Activity :: A = λ·N     1 Bq = 1 bozunma/s     1 mCi = 37 MBq
-@formula Efektif yarı ömür || Effective half-life :: 1/T_eff = 1/T_fiziksel + 1/T_biyolojik
+@formula Aktivite || Activity :: A = λ·N     1 Bq = 1 bozunma/s     1 mCi = 37 MBq || A = λ·N     1 Bq = 1 decay/s     1 mCi = 37 MBq
+@formula Efektif yarı ömür || Effective half-life :: 1/T_eff = 1/T_fiziksel + 1/T_biyolojik || 1/T_eff = 1/T_physical + 1/T_biological
 @formula Jeneratör (geçici denge) || Generator (transient equilibrium) :: A_Tc ≈ 0.876 · A_Mo · λ_Tc/(λ_Tc − λ_Mo)   t_max ≈ 23 h
-@formula SUV || SUV :: SUV = C_doku [kBq/mL] / (A_enjekte [kBq] / kilo [g])
-@formula MIRD || MIRD :: D(hedef) = Ã(kaynak) · S(hedef ← kaynak)
+@formula SUV || SUV :: SUV = C_doku [kBq/mL] / (A_enjekte [kBq] / kilo [g]) || SUV = C_tissue [kBq/mL] / (A_injected [kBq] / weight [g])
+@formula MIRD || MIRD :: D(hedef) = Ã(kaynak) · S(hedef ← kaynak) || D(target) = Ã(source) · S(target ← source)
 @term Tc-99m || Tc-99m :: 140 keV γ, T½ 6.0 saat; en çok kullanılan radyonüklid. || 140 keV γ, T½ 6.0 h; the most widely used radionuclide.
 @term Koinsidans || Coincidence :: PET'te iki 511 keV fotonun birkaç ns içinde karşılıklı dedektörlerde algılanması. || In PET, detection of two 511 keV photons in opposite detectors within a few ns.
 @term Kolimatör || Collimator :: Gama kamerada yalnızca belirli yönden gelen fotonları geçiren kurşun delikli plaka. || The lead plate with holes that lets only photons from a given direction through to the gamma camera crystal.
@@ -24,7 +24,7 @@ Birim becquerel'dir (1 Bq = 1 bozunma/s); eski birim curie (1 Ci = 37 GBq). Tan�
 * <b>α:</b> He-4 çekirdeği, çok yüksek LET, menzil < 0.1 mm (Ra-223). || <b>α:</b> a He-4 nucleus with very high LET and a range < 0.1 mm (Ra-223).
 ## Efektif yarı ömür || Effective half-life
 Vücuttaki aktivite hem fiziksel bozunmayla hem de biyolojik atılımla azalır: || Activity in the body decreases both by physical decay and by biological excretion:
-$ 1/T_eff = 1/T_fiz + 1/T_biyo
+$ 1/T_eff = 1/T_fiz + 1/T_biyo || 1/T_eff = 1/T_phys + 1/T_biol
 ! I-131 için T_fiz = 8.0 gün; tiroidde T_biyo = 24 gün olsun. T_eff = (8 × 24)/(8 + 24) = 6 gün. Efektif yarı ömür her zaman ikisinin küçüğünden daha kısadır. || For I-131 T_phys = 8.0 days; let the thyroid T_bio be 24 days. T_eff = (8 × 24)/(8 + 24) = 6 days — always shorter than the smaller of the two.
 ? 600 MBq Tc-99m 12 saat sonra kaç MBq olur? || How much is 600 MBq of Tc-99m after 12 hours?
 + ≈ 150 MBq || ≈ 150 MBq
@@ -87,7 +87,7 @@ Pozitron dokuda ~1 mm yol aldıktan sonra bir elektronla yok olur ve neredeyse z
 * <b>Uçuş süresi (TOF):</b> iki fotonun varış zamanı farkı (~200–500 ps) olayın LOR üzerindeki konumunu birkaç cm içinde sınırlar ve gürültüyü azaltır. || <b>Time of flight (TOF):</b> the arrival-time difference (~200–500 ps) localises the event along the LOR to a few cm and lowers noise.
 * <b>Çözünürlük sınırları:</b> pozitron menzili (F-18 ≈ 0.6 mm, Ga-68 ≈ 3 mm ortalama), 180°'den sapma ve kristal boyutu. Klinik PET çözünürlüğü ≈ 4–5 mm'dir. || <b>Resolution limits:</b> positron range (mean F-18 ≈ 0.6 mm, Ga-68 ≈ 3 mm), non-collinearity and crystal size; clinical PET resolution is ≈ 4–5 mm.
 ## SUV || SUV
-$ SUV = C_doku / (A_enjekte / vücut ağırlığı)
+$ SUV = C_doku / (A_enjekte / vücut ağırlığı) || SUV = C_tissue / (A_injected / body weight)
 SUV, tümörün FDG tutulumunu hastadan bağımsız karşılaştırmak için kullanılır. Ancak tutulum süresi, kan şekeri, rekonstrüksiyon ve kısmi hacim etkisine duyarlıdır. EANM önerileri bu yüzden 60 ± 5 dk tutulum süresi ve kan şekeri < 200 mg/dL ister. || SUV compares a tumour's FDG uptake independently of the patient, but it is sensitive to uptake time, blood glucose, reconstruction and partial volume — hence EANM's 60 ± 5 min uptake time and blood glucose < 200 mg/dL.
 ! Bir tümörde 15 kBq/mL ölçülüyor; 70 kg hastaya 280 MBq enjekte edilmiş (bozunma düzeltilmiş). SUV = 15 / (280 000 / 70 000) = 15 / 4.0 = 3.75. || A tumour measures 15 kBq/mL; a 70 kg patient received 280 MBq (decay-corrected). SUV = 15 / (280 000 / 70 000) = 15 / 4.0 = 3.75.
 ? PET'te kolimatör neden gerekmez? || Why does PET need no collimator?
@@ -104,7 +104,7 @@ SUV, tümörün FDG tutulumunu hastadan bağımsız karşılaştırmak için kul
 @lesson internal | İç dozimetri ve hasta güvenliği | Internal dosimetry and patient safety | 10
 ## MIRD yöntemi || The MIRD method
 İç ışınlamada doz, kaynak organdaki toplam bozunma sayısı (kümülatif aktivite Ã) ile hedef organa düşen enerjiyi veren S değerinin çarpımıdır: || In internal exposure the dose is the total number of decays in the source organ (cumulated activity Ã) times the S value that gives the energy reaching the target organ:
-$ D(hedef) = Σ_kaynak Ã(kaynak) · S(hedef ← kaynak)        Ã = ∫ A(t) dt ≈ 1.44 · A₀ · T_eff
+$ D(hedef) = Σ_kaynak Ã(kaynak) · S(hedef ← kaynak)        Ã = ∫ A(t) dt ≈ 1.44 · A₀ · T_eff || D(target) = Σ_source Ã(source) · S(target ← source)        Ã = ∫ A(t) dt ≈ 1.44 · A₀ · T_eff
 Pratikte tanısal işlemlerde ICRP 128'in aktivite başına efektif doz katsayıları kullanılır. Örnekler: F-18 FDG ≈ 0.019 mSv/MBq; Tc-99m kemik sintigrafisi (MDP) ≈ 0.005 mSv/MBq. || In practice, diagnostic procedures use ICRP 128's effective dose per unit activity, e.g. F-18 FDG ≈ 0.019 mSv/MBq and Tc-99m bone scan (MDP) ≈ 0.005 mSv/MBq.
 ! 300 MBq FDG: E ≈ 300 × 0.019 = 5.7 mSv. PET/BT'nin BT bileşeni buna ayrıca 1–10 mSv ekleyebilir. || 300 MBq FDG: E ≈ 300 × 0.019 = 5.7 mSv; the CT part of a PET/CT can add another 1–10 mSv.
 ## Hasta, aile ve personel || Patient, family and staff

@@ -473,7 +473,8 @@ namespace MedPhys.Modules
             UIKit.P(c, T("• <b>Işın sertleşmesi:</b> polienerjetik ışında düşük enerjiler önce soğurulur; uzun yollarda etkin μ düşer → merkezde 'çanak' (cupping) ve yoğun kemikler arasında koyu çizgiler. Su kalibrasyonu (BHC) çanağı düzeltir, kemik çizgilerini düzeltemez.\n• <b>Metal:</b> fotonların neredeyse tamamı soğurulur (foton açlığı) → parlak/koyu ışınsal çizgiler.\n• <b>Az projeksiyon:</b> açısal örnekleme yetersiz → çizgi (aliasing) artefaktı.\n• <b>Gürültü:</b> σ ~ 1/√(mAs); doz ile gürültü arasındaki temel denge.",
                              "• <b>Beam hardening:</b> low energies are absorbed first; along long paths the effective μ drops → 'cupping' in the centre and dark streaks between dense bones. Water calibration (BHC) fixes cupping but not bone streaks.\n• <b>Metal:</b> almost all photons are absorbed (photon starvation) → bright/dark radial streaks.\n• <b>Few views:</b> insufficient angular sampling → streak (aliasing) artefacts.\n• <b>Noise:</b> σ ~ 1/√(mAs); the fundamental dose–noise trade-off."));
             UIKit.H(c, T("5. Doz", "5. Dose"));
-            UIKit.Eq(c, "CTDIw = ⅓·CTDI_merkez + 2/3·CTDI_çevre     CTDIvol = CTDIw / pitch     DLP = CTDIvol · L     E ≈ k · DLP");
+            UIKit.Eq(c, T("CTDIw = ⅓·CTDI_merkez + 2/3·CTDI_çevre     CTDIvol = CTDIw / pitch     DLP = CTDIvol · L     E ≈ k · DLP",
+                          "CTDIw = ⅓·CTDI_centre + 2/3·CTDI_periphery     CTDIvol = CTDIw / pitch     DLP = CTDIvol · L     E ≈ k · DLP"));
             UIKit.Note(c, T("Model: paralel ışın geometrisi (fan ışın verisinin yeniden gruplanmış hali), enerji-integre eden dedektör, saçılma ihmal.", "Model: parallel-beam geometry (rebinned fan-beam data), energy-integrating detector, scatter neglected."));
         }
     }

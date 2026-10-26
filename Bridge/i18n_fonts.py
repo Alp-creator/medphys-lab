@@ -4,7 +4,7 @@ Without arguments every font is converted in full; with --subset only the charac
 (Assets/Resources/Lang/*.txt) plus basic punctuation/digits are kept, which keeps the CJK font small.
 usage: python i18n_fonts.py [--subset]
 """
-import glob, io, os, sys
+import glob, io, os, sys, unicodedata
 from fontTools.ttLib import TTFont
 from fontTools import subset as ftsubset
 from fontTools.varLib import instancer
@@ -26,7 +26,10 @@ def used_text(langs):
     for code in langs:
         p = os.path.join(ROOT, "Assets", "Resources", "Lang", code + ".txt")
         if os.path.exists(p):
-            s.update(io.open(p, encoding="utf-8").read())
+            t = io.open(p, encoding="utf-8").read()
+            # the shaper decomposes some characters (Thai SARA AM → NIKHAHIT + SARA AA, Bengali AU → E + AU length
+            # mark, ...), so the glyphs of the canonical and compatibility decompositions must stay in the subset
+            s.update(t, unicodedata.normalize("NFD", t), unicodedata.normalize("NFKD", t))
     return s
 
 

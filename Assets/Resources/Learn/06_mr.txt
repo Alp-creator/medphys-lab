@@ -5,8 +5,8 @@
 @formula T2 sönümü || T2 decay :: Mxy(t) = M₀ · e^(−t/T2)
 @formula Spin eko sinyali || Spin-echo signal :: S = PD · (1 − e^(−TR/T1)) · e^(−TE/T2)
 @formula İnversiyon sıfırlama || Inversion null :: TI_null = T1 · ln2  (TR >> T1)
-@formula Çekim süresi || Scan time :: T = TR · N_faz · NEX / ETL
-@formula SAR || SAR :: SAR ~ B₀² · α² · (darbe sayısı / s)
+@formula Çekim süresi || Scan time :: T = TR · N_faz · NEX / ETL || T = TR · N_phase · NEX / ETL
+@formula SAR || SAR :: SAR ~ B₀² · α² · (darbe sayısı / s) || SAR ~ B₀² · α² · (pulses / s)
 @term Larmor frekansı || Larmor frequency :: Protonların B₀ etrafında presesyon frekansı; 1.5 T'da 63.9 MHz. || The precession frequency of protons around B₀; 63.9 MHz at 1.5 T.
 @term TR / TE || TR / TE :: Tekrarlama süresi (iki uyarım arası) / eko süresi (uyarım ile sinyal arası). || Repetition time (between excitations) / echo time (between excitation and signal).
 @term k-uzayı || k-space :: Ham MR verisinin uzaysal frekans gösterimi; görüntü bunun Fourier dönüşümüdür. || The spatial-frequency representation of raw MR data; the image is its Fourier transform.
@@ -86,7 +86,7 @@ Gradyan bobinleri B₀'a konumla doğrusal değişen küçük bir alan ekler. B�
 * <b>Faz kodlama:</b> her TR'de farklı genlikte kısa bir gradyan; satırları faz farkıyla ayırır. || <b>Phase encoding:</b> a short gradient of different strength in every TR that separates rows by phase.
 ## k-uzayı || k-space
 Toplanan sinyaller k-uzayını doldurur. Görüntü, k-uzayının 2B Fourier dönüşümüdür. k-uzayının merkezi kontrastı ve genel sinyal düzeyini, çevresi ise ince detayları ve kenarları taşır. Her TR'de (spin ekoda) bir satır toplanır. || The acquired signals fill k-space, and the image is its 2D Fourier transform. The centre of k-space carries contrast and overall signal; the periphery carries fine detail and edges. In a spin echo one line is acquired per TR.
-$ Çekim süresi T = TR × N_faz × NEX / ETL
+$ Çekim süresi T = TR × N_faz × NEX / ETL || Scan time T = TR × N_phase × NEX / ETL
 ! TR = 3000 ms, 256 faz satırı, NEX = 1. Konvansiyonel spin ekoda süre 3 × 256 = 768 s ≈ 13 dk'dır. Turbo spin ekoda (ETL = 16) 768/16 = 48 s'ye iner. || TR = 3000 ms, 256 phase lines, NEX = 1: a conventional spin echo takes 3 × 256 = 768 s ≈ 13 min; a turbo spin echo with ETL = 16 takes 768/16 = 48 s.
 > SNR voksel hacmiyle ve √(N_faz · N_frekans · NEX) ile orantılıdır. Çözünürlüğü iki katına çıkarmak (vokseli 4'te birine indirmek) SNR'yi ciddi düşürür. Paralel görüntüleme (SENSE/GRAPPA) çekimi hızlandırır ama SNR kaybettirir. || SNR scales with voxel volume and √(N_phase · N_freq · NEX). Doubling in-plane resolution (a quarter of the voxel) costs a lot of SNR; parallel imaging (SENSE/GRAPPA) speeds up acquisition at an SNR cost.
 ## Sık artefaktlar || Common artefacts
@@ -111,7 +111,7 @@ $ Çekim süresi T = TR × N_faz × NEX / ETL
 * <b>Statik alan (B₀):</b> ferromanyetik cisimler füze gibi çekilir. Çekim kuvveti B·dB/dz ile orantılıdır ve tünel girişinde en büyüktür. Süperiletken mıknatıs her zaman açıktır. Bazı implantlar (eski kalp pilleri, anevrizma klipsleri) kontrendikedir. || <b>Static field (B₀):</b> ferromagnetic objects become projectiles. The pull scales with B·dB/dz and peaks at the bore entrance. A superconducting magnet is always on. Some implants (older pacemakers, aneurysm clips) are contraindicated.
 * <b>Gradyanlar (dB/dt):</b> periferik sinir uyarımı ve yüksek akustik gürültü (> 100 dB). 99 dB(A) üzerinde kulak koruması zorunludur. || <b>Gradients (dB/dt):</b> peripheral nerve stimulation and loud acoustic noise (> 100 dB); hearing protection is mandatory above 99 dB(A).
 * <b>RF (B₁):</b> dokuda ısınma; SAR (W/kg) ile sınırlanır. Normal modda tüm vücut SAR ≤ 2 W/kg, baş ≤ 3.2 W/kg'dır (IEC 60601-2-33). İletken kablo ve halkalar yanık yapabilir. || <b>RF (B₁):</b> tissue heating, limited by SAR (W/kg): whole-body ≤ 2 W/kg and head ≤ 3.2 W/kg in normal mode (IEC 60601-2-33). Conductive leads and loops can cause burns.
-$ SAR ~ B₀² · (flip açısı)² · (RF darbe sayısı / s)
+$ SAR ~ B₀² · (flip açısı)² · (RF darbe sayısı / s) || SAR ~ B₀² · (flip angle)² · (RF pulses / s)
 ## Bölgeler ve tarama || Zones and screening
 ACR dört bölge tanımlar: I halka açık alan, II tarama, III kontrollü erişim, IV mıknatıs odası. Her hasta ve personel Zon III'e girmeden önce yazılı tarama formundan geçer. Metal işçilerinde göz içi metal parça şüphesi varsa önce orbita grafisi veya BT yapılır. İmplantlar "MR güvenli", "MR koşullu" veya "MR güvensiz" olarak etiketlenir ve koşullara uyulur. || The ACR defines four zones: I public, II screening, III controlled access, IV the magnet room. Every patient and staff member is screened in writing before entering Zone III; metal workers with possible intra-ocular metal get orbit radiographs or CT first. Implants are labelled MR Safe, MR Conditional or MR Unsafe, and their conditions are followed.
 !! Süperiletken mıknatıs "kapatılamaz". Acil söndürme (quench) helyumu dışarı atar, pahalıdır ve odada oksijeni azaltabilir; yalnızca hayati tehlikede (ör. mıknatısa sıkışma) yapılır. Kardiyak arrestte hasta Zon III'e çıkarılıp orada müdahale edilir. || A superconducting magnet cannot simply be "switched off". A quench vents the helium, is costly and can deplete oxygen in the room; it is done only when life is at risk (e.g. someone pinned to the magnet). In cardiac arrest the patient is moved out to Zone III for resuscitation.

@@ -1,34 +1,47 @@
 002e566d	Klinické případy
 005ef20f	Stav
 006f11ff	Plicní uzel (nádor)
+007cc916	<b>Výběr vrstvy:</b> gradient během RF pulsu, takže úzkopásmový puls vybudí jen jednu vrstvu.
+00af857c	Střední dávka definovaná ve fantomu z PMMA o průměru # nebo # cm — nikoli dávka pacienta.
+00cb23fb	<b>Zdůvodnění:</b> každá činnost se zářením musí přinést více užitku než škody; v medicíně se to posuzuje u každého vyšetření.
 00e896c1	Změř dmax a PDD1# fotonů # MV (≥ # # historií)
 00e97d3d	Neexistuje žádné riziko.
 01446da3	Kontrastní krev
+01703bea	<b>Kolimace:</b> zmenšuje ozářený objem, a tím snižuje rozptyl i dávku — nejdůležitější krok.
 01b10287	Játra
 022ebff6	  — přečti si vysvětlení a zkus to znovu.
 02307551	Tři principy radiační ochrany: zdůvodnění, optimalizace (ALARA: tak nízko, jak lze rozumně dosáhnout) a limity dávek. Pracovník: # mSv/rok (průměr za # let, max. # za jeden rok), obyvatelstvo: # mSv/rok, oční čočka: # mSv/rok.
+023478eb	Spin, Larmorova frekvence a magnetizace
 0282b42b	Bez mřížky: správná volba pro štíhlý dětský hrudník.
 02875262	Krevní tlak
 028cc680	Otevřít široké pole a dát olovo na štítnou žlázu
+02943f2b	# Sv
 02daa186	Gradientní echo
 02ff0734	hodiny
 03410798	Začít lekcí #  →
+03a5ffee	<b>Primární bariéra:</b> stěna, na kterou může svazek dopadat přímo (U < #).
 03aded2d	Proton
+03bd2a69	# %
 03d9f12f	POTVRDIT
+03ee7f99	Součin dávky a plochy
+04031976	V nádoru se naměří # kBq/mL; pacient s hmotností # kg dostal # MBq (korigováno na přeměnu). SUV = # / (# # / # #) = # / # = #.
 04215fff	Ozařovací hlavice
 04665812	Střední energie (vstup / detektor)
 04b21fef	Jen periferie
 04c33449	Počáteční počet atomů N₀
+04d7b85a	Stačí oko přelepit
 05446544	Ionizující záření
 054ed6b1	#. Protony a Braggův vrchol
 0551e426	Supravodivý magnet
 05735a1f	Během vyšetření je slyšet hlasité klepání. Příčina a opatření?
 05747e6b	Současná doporučení (AAPM #, BIR/IPEM #): kolimace je nejúčinnější ochranou. Dávka na gonády mimo pole je už nepatrná; stínění, které sklouzne do pole, zakryje anatomii a automatika expozice zvýší dávku.
 05883f18	Dávkový příkon H*(#)
+05a40e0d	Signál svalu
 05aeb14d	Zbytečná dávka na oko a zdravou kůži obličeje.
 05b19ab8	Tipy ke studiu
 05b21be8	EQD2 nádoru = n·d·(d + #)/(# + #) = # Gy — kurativní rozmezí.
 05f6dc9a	Hlavní pole B₀
+0682d944	DVH a omezení
 069d81b7	 kanálů
 06ba43bc	Každá koule je jádro. V každém časovém kroku se přemění s pravděpodobností p = # − e^(−λΔt) a vyšle čáru fotonu; při málo jádrech N(t) statisticky kolísá.
 06df51de	Aplikovaná aktivita
@@ -39,64 +52,97 @@
 07ef138f	SPUSTIT SEKVENCI
 0827bee2	Limity dávek (ICRP #)
 086c6bbb	Barvy: izodózy #%·#%·#%·#%·#%. Kontury: zelená PTV, žlutá mícha, červená srdce, růžová plíce.
+08b1f023	<b>Těhotná pracovnice:</b> po oznámení těhotenství by dávka pro plod neměla po zbytek těhotenství překročit ~# mSv.
 08c92619	Děti jsou #–#× radiosenzitivnější než dospělí a mají dlouhou očekávanou dobu života → ALARA je ještě důležitější.
 09138ded	Nechci operaci. Jaká je ta léčba zářením, bolí to?
+094a7633	Přeměna β⁻
 096813ae	Šum (σ, homogenní oblast)
+096b4d6f	Radiochromní film
 098d1ad9	Radioembolizace jater (SIRT)
+09aa91b9	Proti primárnímu svazku
 09c4871c	Jaká interakce převládá u fotonu # MeV v měkké tkáni?
+09e38d90	Dědičná mutace
 09f71920	Larmorova frekvence
 09feeabb	Porovnej Braggův vrchol protonů # MeV s doletem CSDA podle NIST
+0a2d132a	Kdo se monitoruje a jak?
+0a2d70d0	Filtrovaná zpětná projekce: projekce se filtrují rampovým filtrem a zpětně promítají.
+0a43bb10	BED = # × (# + #/#) = # Gy. Při α/β = # by to bylo # Gy.
 0a496fc5	Dávka plodu ≈ SSDE (děloha celá v poli). Diagnostický limit šumu ≈ # HU (nízkodávkový protokol pro apendicitidu). Zvol kV, mAs, pitch a délku skenu a pak stiskni SKENOVAT.
 0a52c35c	T1-vážený
 0aa78268	Hypofrakcionace: α/β prostaty je nižší než u rekta, takže velké frakce zvýhodňují nádor (CHHiP #/#, PACE-B #/#) a pacient méně dojíždí.
+0ac75168	Pokud je dávkový příkon # µSv/h ve vzdálenosti # m, jaký je ve vzdálenosti # m?
 0ac8a560	Obnovit
 0acf4d25	Větší text
+0b2830b9	SUV
+0b2a90c5	MIRD
+0b3d4df2	Děti
 0b4677ab	EANM: glukóza < # mmol/L (≈ # mg/dL). Hyperglykémie soutěží s FDG a snižuje vychytávání v nádoru.
 0b4d8f40	přežívající frakce
 0b81ff1c	Kost horní čelisti ≈ # cm pod lézí
 0b8b3199	Dávková omezení (QUANTEC / RTOG)
 0bbe8b9f	Monte Carlo v reálném čase: každá stopa je částice. Více historií = menší statistický šum (σ ~ #/√N).
+0be48cca	As Low As Reasonably Achievable — udržovat dávky tak nízké, jak lze rozumně dosáhnout, s ohledem na ekonomické a společenské faktory.
+0c088256	ICRP # zjistila práh pro kataraktu ~# Gy a snížila limit z # na # mSv/rok — proto jsou v intervenční kardiologii důležité olověné brýle.
+0c13aa12	Co dělá rampový filtr ve FBP?
 0c1c4f42	Radiační onkologie: kurativní EBRT, prostata ± semenné váčky (MUDr. Kılıç)
 0c2610e2	CNR ruptura/meniskus #: ruptura dobře patrná (tekutina světlá, meniskus tmavý v PD/T2).
 0c433245	Nízký poměr nádor/pozadí → riziko chyb ve stagingu.
 0c903e49	Olověné clony omezují pole: méně dávky pro pacienta a méně rozptylu. Filtrace Al/Cu odstraní fotony nízkých energií, ztvrdí svazek a sníží dávku na kůži.
 0ccd4680	Poměr koule / pozadí
+0cd9d0ad	Proč se v mamografii používá nízké kVp?
 0ce92428	CTDIw: tělový fantom # cm (hlavový # cm); E = DLP × k (hrudník #, břicho #, hlava # mSv/mGy·cm).
 0d78d08a	Vytvoř SOBP široký # cm
+0d816b59	TMR je definován jen pro elektrony
 0db9cc3e	Tep
 0dec8195	Použij #° – τ – #° a vytvoř spinové echo
 0e1a0a7b	jednorázová dávka, α/β = # (časné / nádor)
 0e32111a	Svazek
 0e629e6c	Přeobjednat: lačnění ≥ #–# h, glykémie musí být < # mg/dL
+0efb8aba	Jaká je Larmorova frekvence protonu při # T?
 0f01dfcb	Další čas eluce
 0f6a0301	Aplikátor #×# cm, bez vykrytí
+0ff0ece3	Síla roste s B·dB/dz; ve středu je B největší, ale dB/dz ≈ #, zatímco u vstupu dosahuje součin maxima.
 0ff4383c	Těhotná pracovnice (plod)
 10225e52	Kortikální kost
+10446e37	Tvrdnutí svazku (cupping)
+105d6ef1	Získané signály plní k-prostor a obraz je jeho #D Fourierovou transformací. Střed k-prostoru nese kontrast a celkový signál, okraje jemné detaily a hrany. U spinového echa se v každém TR získá jeden řádek.
 10bddc32	Feromagnetický úlomek v oku se může v B₀ pohnout a způsobit slepotu → nejprve RTG očnic (nebo CT).
 10bee102	Index odchylky (DI)
+10ea12d4	Plíce, tlusté střevo, žaludek, prs, červená dřeň a ostatní tkáně: #; štítná žláza #; kůže #.
 10f562e1	Podat rychle působící inzulin a hned aplikovat
 10f6a1bd	Lineárně-kvadratický model • BED
+11021e45	Mamografie
 113249ae	Vytvoř fotonový plán, který splní všechna dávková omezení
 114fa830	Mnoholistový kolimátor (lamely #–# mm) tvaruje pole podle nádoru a při IMRT a VMAT se během ozařování pohybuje.
 116e6f62	Hologram
 11a18b82	Odstranit vše
 11a4e77a	Diagnostická / léčebná kvalita
+11a6d3ed	α/β prostaty (~# Gy) je nižší než u okolní pozdní tkáně (rektum ~# Gy)
+11be0e65	Katarakta má práh (ICRP #: ~# Gy) a její závažnost roste s dávkou; nádory a dědičné účinky jsou stochastické.
+120a6115	Pacient, rodina a personál
+120fdb1f	Brachyterapie (TG-#, bod)
+122b6e24	TR = # ms, # fázových řádků, NEX = #: konvenční spinové echo trvá # × # = # s ≈ # min; turbo spinové echo s ETL = # trvá #/# = # s.
 124f5fe7	Kontrast bílá / šedá hmota (u značky)
+1264df05	Těhotenství, děti a komunikace rizika
 129b582e	DI # → správná expozice.
 132d55ba	relativní počet fotonů
 134c264b	Kovový artefakt: naskenuj řez pánví s kyčelní protézou
 135a8cc7	 h poté
 136685c9	EQD2 nádor (α/β #) = # Gy, pozdní kůže (α/β #) = # Gy. Dobrá rovnováha mezi kontrolou nádoru a kosmetikou.
 1370333f	Šířka pole
+138168c1	Jakou ekvivalentní dávku dá # Gy záření α?
 138fb3e1	Správně: I/I₀ = e^(−μx). Protože σ ~ #/√N, šum při stejných mAs vzroste ≈ √# ≈ #×.
 13ad4851	β-hCG POZITIVNÍ: přibližně # týdnů těhotenství.
 13bea53e	Implantovány # zlaté značky
 13f06473	Smazat odečty
+1425444e	# MV, pole #×# cm², # cGy do izocentra v hloubce # cm. Kalibrace: # cGy/MU v d_max v izocentru. TMR(# cm) ≈ #, S_c = S_p = #, ISF = #. MU = # / (# × #) ≈ # MU.
 1451f91f	skutečný 
 14d5133a	ACR (#) a ESUR #: metformin pokračuje při eGFR ≥ #; i. v. kontrast je nutný k odhalení abscesu.
 14e77c03	Obnovit postup
 151c3f35	Prstenec detektorů (LYSO + SiPM)
 1527c7a5	Poznávej lékařskou fyziku po malých krocích se skutečnými výpočty.
+154a1ae4	Jaká je hlavní výhoda vyššího pole (# T)?
+158c91bf	≈ # MBq
 15b23cec	 bodů
 15c3229f	α/β nádoru
 15cf43c6	Plochý panel naproti kV zdroji; během rotace gantry sbírá stovky projekcí pro CBCT.
@@ -107,64 +153,115 @@
 16280e6a	Dávkový příkon od pacienta ~ A/d²; F-# T½ = # min. Odklad těsného kontaktu o několik hodin dávku kojence výrazně sníží.
 1640e3a4	vzdálenost (m)
 164b6930	Uložit odečet
+167d88c8	≈ # MHz
 16b19be2	Vliv kVp: exponuj při ≤# kVp a ≥# kVp; porovnej kontrast kostí
 16d4a955	Radioterapie
+16f6a6d1	SAR
 17098140	Adenokarcinom prostaty, střední riziko (Gleason ##, PSA #)
 1716fced	Dávka plodu ≈ SSDE = # mGy (CTDIvol # × f #).
 1725def4	Čáry K vyžadují, aby dopadající elektron překročil vazebnou energii slupky K, proto se čáry K wolframu objevují až nad # kVp.
 17278db5	Energie
+174431ff	Při diagnostických energiích (převládá fotoelektrický jev) je olovo velmi účinné: #–# mm Pb zastaví #–# % fotonů při # kVp. Při energiích MV (převládá Comptonův rozptyl) se zeslabení řídí elektronovou hustotou, proto se ozařovny staví z levného, silného betonu. Neutrony vyžadují materiály s vodíkem (polyethylen, borovaný beton).
+176d6111	Který druh přeměny je základem PET?
 17a150b4	Ano — charakteristické čáry nezávisí na kVp
 17a890d2	Zbývající jádra N(t)
 17c2afe2	V měkké tkáni převládá fotoelektrický jev pod asi # keV, Comptonův rozptyl mezi # keV a ~# MeV a nad tím tvorba párů. V materiálech s vysokým Z, jako je olovo, sahá fotoelektrická oblast až k asi # keV — proto je olovo dobré stínění.
 17cd8fa8	 lekcí • 
+17e23d13	Přechodný erytém začíná při ~# Gy dávky na kůži; při dlouhých intervencích je třeba sledovat a zaznamenávat maximální kožní dávku.
+17f14029	Zvyšuje B₀
+17f5c6dc	Proč je hypofrakcionace výhodná u karcinomu prostaty?
+17fda0a4	Ionizační komora
 1808f4a6	V měkké tkáni převládá Comptonův rozptyl od asi # keV do # MeV. Tvorba párů pod svým prahem # MeV vůbec nastat nemůže.
 18279c08	Rozšířený Braggův vrchol (SOBP)
 18284597	<b>Expoziční index</b> EI = # × K_detektor [µGy] (IEC ##). Index odchylky DI = #·log₁₀(EI / EI_cíl); |DI| ≤ # je vhodné. DI = # znamená dvojnásobek potřebné dávky.
 182fdbbe	EANM (překryv lůžek > # %): A·t ≥ # MBq·min·kg⁻¹ × hmotnost. Menší aktivita + delší čas dá stejný obraz při nižší dávce. Doporučená doba akumulace je # ± # min.
 18674089	<b>Koherentní rozptyl:</b> foton změní směr bez ztráty energie; malý příspěvek při nízkých energiích.
+188a8059	LET a biologický účinek
+189d2fc2	Odkud pocházejí?
 18d0a565	CT hrudníku
 1904dc9d	Doporučení EANM
 19201036	Čas–vzdálenost–stínění, zákon převrácených čtverců, mapa dávkového příkonu, mise.
 193ee1fd	Rozšířený Braggův vrchol (SOBP, # cm)
+195d68ba	Ionizační komora Farmer
+197560c4	Příčná magnetizace zaniká, protože spiny na sebe působí a ztrácejí fázovou koherenci — spin-spinová relaxace, T2. V praxi nehomogenity pole urychlují rozfázování, takže pozorovaný rozpad je T2* < T2. Refokusační puls #° (spinové echo) ruší statické nehomogenity a obnoví skutečné T2.
+19a0d56e	Rovnováha nabitých částic (CPE)
+19a49e9f	IGRT
 19b5eb24	Orientační pravidlo: R9# ≈ E/# cm, R5# ≈ E/# cm, Rp ≈ E/# cm. Elektrony se zastaví v ostře dané hloubce — ideální pro povrchové nádory.
 19c23656	 h čekání
+1a0c0de0	# mSv
 1a36a166	Postup
+1a3806f2	Jaká je BED pro # Gy × # = # Gy u tkáně s α/β = # Gy?
+1a8231be	Absorbovaná dávka
+1aa52b11	Pozitron anihiluje s elektronem na dva protisměrné fotony # keV, které PET detekuje v koincidenci.
 1ace7035	Plochý detektor
+1ad4cee2	Diagnostická referenční úroveň: #. percentil národního rozdělení. Nástroj optimalizace, nikoli limit.
 1b01a1c6	Atom se skládá z jádra se Z protony a N neutrony, obklopeného Z elektrony. Nukleonové číslo je A = Z + N. Jádra se stejným Z, ale různým N jsou izotopy, například ¹²C a ¹⁴C.
 1b06e46e	Nasbírej ≥ # # koincidencí a rekonstruuj metodou MLEM
 1b12fad7	Diabetes # typu (metformin)
+1b3d5f37	Nabitá částice prodělá nespočet malých coulombických interakcí s elektrony prostředí a ztrácí energii spojitě. Ztráta energie na jednotku dráhy je brzdná schopnost S = −dE/dx (MeV/cm), uváděná také jako hmotnostní brzdná schopnost S/ρ (MeV·cm²/g).
+1b97c482	Po RF pulsu se podélná magnetizace zotavuje, jak spiny předávají energii okolí (mřížce) — spin-mřížková relaxace, T1. Tuk má krátký T1 (~# ms při # T), tekutiny dlouhý (mozkomíšní mok ~# ms); T1 se s rostoucím B₀ prodlužuje.
+1b9905a7	Prostorové kódování a k-prostor
 1bbe9bf8	Mehmet: „Ruce nad hlavu? Dobře.“
 1be9e2d9	Polotloušťka (HVL) je tloušťka, která sníží intenzitu na polovinu: HVL = ln2/μ. Desetinová tloušťka je TVL = ln1#/μ ≈ # HVL. n polotlouštěk sníží intenzitu #ⁿkrát.
+1c0f8606	Pro snížení šumu na polovinu se musí mAs (a dávka) zčtyřnásobit. Alternativně přechod z řezů # mm na # mm také sníží šum na polovinu, za cenu rozlišení v ose z.
+1c3ba3dc	Těhotná pacientka
+1c4e4f9c	Brzdná schopnost
+1c7776da	Na náhodných chybách vůbec nezáleží
 1c872a31	ano (> # MV)
 1ca87565	Stačí kožní značky a lasery
 1cb740a3	<b>Zákon převrácených čtverců:</b> intenzita ~ #/d². Přechod ze SID # na # cm vyžaduje ~#× mAs pro stejnou dávku na detektoru, ale dávka na kůži roste méně a zvětšení klesá.
 1cc0e3d5	Matka se ptá: „Může tenhle rentgen mému synovi ublížit?“ Efektivní dávka Emira ≈ 
+1d38faf9	Teplejší vzduch znamená méně plynu v komoře a nižší údaj. Referenční podmínky TRS-# jsou # °C a # kPa. Při # °C a # kPa je k_TP = (##)/(##) × #/# ≈ # × # ≈ #. Bez této korekce by dávka vycházela o # % nižší.
 1d4b8ac2	Aplikovat okamžitě
+1d6a995e	Systematická chyba posune každou frakci stejně a trvale přesune dávku
 1d6b9aba	Během organogeneze (týdny #–#) je deterministický práh ~#–# mGy; diagnostická vyšetření jsou hluboko pod ním.
 1d8a20dd	Mehmetovo břicho měří 
 1dd9a37f	Nestandardní doba akumulace: SUV nejsou srovnatelné s předchozími/následujícími vyšetřeními.
+1ddd0e0d	Při snímku hrudníku dostanou plíce # mGy a prsy # mGy (ostatní zanedbatelné). E ≈ #·# + #·# = # mSv ≈ # mSv — asi # dní přírodního pozadí.
+1e466356	Protony předají většinu dávky v Braggově vrcholu a za ním téměř nic, zatímco fotony ukládají i značnou výstupní dávku za cílem. Protonová terapie proto výrazně snižuje integrální dávku, zejména u dětí a u nádorů v blízkosti kritických orgánů (oko, spodina lební, páteř).
+1e4f76b7	Nulový bod inverze
 1e6a827e	Najdi Larmorovu frekvenci protonů při # T (≈ # MHz)
+1e788d30	Gamakamera se skládá z kolimátoru, velkého krystalu NaI(Tl), fotonásobičů (PMT) a elektroniky pro polohu a energii. Foton pohlcený v krystalu vyvolá záblesk světla; vážený průměr signálů PMT určuje polohu události (Angerova logika) a jejich součet energii.
 1e836d59	Pokles T2
+1e96362a	Protony se pohybují téměř přímočaře. Většinu dávky předají v posledních milimetrech dosahu, potom dávka klesne téměř na nulu. Dosah je přesně určen energií (pravidlo Bragga–Kleemana R ≈ #·E^#). Jednotlivé protony se zastaví v mírně odlišných hloubkách (rozptyl dosahu), proto je vrchol široký několik mm.
+1e9e1a29	Princip čárového ohniska: skloněná anoda rozkládá teplo na velkou plochu, přičemž efektivní ohnisko viděné z detektoru zůstává malé. Kvůli efektu paty anody je anodová strana svazku o něco slabší.
+1ef452c8	S_col ~ (z² / v²) · ln(# m_e v² / I)        (I: střední excitační energie; ≈ # eV pro vodu)
 1f05f68e	Tkáňové parametry
 1f12087d	Dávka ≈ 
+1f2ecf71	Šum
 1f4ea376	Počáteční aktivita Mo-#
 1f6b3b4a	Kost (# cm) # % — šetřena.
+1f956563	Techniky plánování
+1fe5d236	Rentgenka a spektrum, vznik obrazu, kontrast a šum, rozptýlené záření a mřížky, detektory, EI/DI, dávka pacientovi; skiaskopie a mamografie.
+2009a0a3	Co poskytne olověná zástěra radiologickému asistentovi, který připravuje PET radiofarmakum?
+200b57d8	CT měří profil zeslabení řezu ze všech směrů pomocí rentgenky rotující kolem pacienta a protilehlé řady detektorů. Každý prvek detektoru vidí integrál μ podél svého paprsku:
 20170133	Zubní výplně
 2056fe0a	Co-# má nízké PDD a širokou polostín; v moderní kurativní radioterapii prostaty se nepoužívá.
 20c4a5a9	Zobrazení kůže
 20c53222	Vyber si libovolné téma. Pokud jsi nový, zkus nejdřív krátký úvodní případ.
 20caf1bb	Eluuj generátor #–# h po předchozí eluci (maximální výtěžek)
+20daffb6	Je-li μ tkáně o # % vyšší než u vody, jaká je její hodnota HU (μ_vzduch ≈ #)?
+20e5e537	<b>Límec na štítnou žlázu a olověné brýle:</b> při skiaskopii a intervenčních výkonech.
+20e99949	Dozimetrické veličiny
 210acf6e	Hasan: „Kolik dní budu muset jezdit? Dojíždím z vesnice.“
+2128d576	U povrchu vstupuje méně elektronů, než vystupuje; dávka narůstá na délce dosahu elektronů (d_max), až se přiblíží kermě.
 218447b4	Tuk
+21ce1114	Těhotenství by mělo být ukončeno
 21db31eb	Krátké TR/TE → T1; dlouhý TR, krátký TE → PD; dlouhé TR/TE → T2 vážení.
 21f331e9	Artroskopie ramene #: titanové kotvy
+221c38d0	Tkáň s nízkým α/β je citlivější na velké frakce. Protože α/β nádoru je nižší než u rekta, lze při stejné pozdní toxicitě dosáhnout vyšší biologické dávky v nádoru.
+22392fc6	Generátor Mo-#/Tc-#m
 224a7dd2	U zevního ozařování žádné takové omezení není; může platit pro zrna při brachyterapii.
 229566cb	Hasan: „Můžu po léčbě obejmout vnoučata? Budu radioaktivní?“
 22a06b53	ALARA: snímek hrudníku s ESAK < # mGy a DI ≥ −#
+22a87b76	<b>Generátor:</b> dlouhodobě žijící mateřský nuklid vytváří krátkodobý dceřiný: Mo-#/Tc-#m, Ge-#/Ga-#.
+22d2c2ce	Stačí použít přístroj s nižším polem (# T)
 22fd0749	Denní IGRT koriguje pohyb orgánů a zmenšuje okraje i dávku na rektum.
 2357d727	Fyzika svazku
 23f641a4	• Kontroluj jednotky v každém vzorci (cm⁻¹, Gy, Sv, MBq). • Řešené příklady nejdřív vyřeš sám, pak porovnej. • Po cvičné zkoušce zopakuj lekce k chybným otázkám. • U pohovorů se nejčastěji objevují: principy ICRP, polotloušťka, zákon převrácených čtverců, LQ/EQD2, CTDIvol/SSDE, T1/T2, PDD a Braggův vrchol.
+240febd8	I-#
 24176da5	Generátor Mo-# / Tc-#m
+243eddb1	Geometrie
 2448ca2f	olovo
 2456b993	Kontrast
 2523a664	Dojdi ke zdroji (< # m), zvedni ho a odnes do olověného kontejneru.
@@ -172,128 +269,214 @@
 252a0fa6	nestíněno
 253898c0	Statistika impulzů # — kvalita obrazu na úrovni EANM.
 25517e15	Braggův vrchol
+255b2c81	Snižuje šum
+256cadab	R ≈ #·E^#   (voda, R v cm, E v MeV)
 2576aae7	Hmotnost / výška
+258734b7	<b>Tvrdnutí svazku:</b> cupping (tmavý střed) a tmavé pruhy mezi hustými kostmi; kalibrace na vodu cupping koriguje.
 25941612	Dávka v kosti (# cm)
+25a52545	Pro I-# je T_fyz = # dní; nechť biologický poločas štítné žlázy je # dní. T_ef = (# × #)/(# + #) = # dní — vždy kratší než menší z obou.
 25b31f5d	Výkon rentgenky (# m)
 25c2fc03	Nenalezeny žádné otázky.
 25e14a19	Proud × čas
 25edd5e3	reference brzdné schopnosti a dosahu protonů a elektronů
+25f0ba98	ICRP # udává pro α w_R = #: H = # × # Gy = # Sv.
+260c9112	#
+26abae68	HU = # × (# μ_w − μ_w)/μ_w = # × # = # — typické pro měkké tkáně.
 26f973b0	Korekce zeslabení (AC)
 26fbd2ec	Čím se liší rentgenové záření od γ záření?
+271d6d1e	<b>Sekundární bariéra:</b> proti rozptylu z pacienta a úniku z hlavice (~# % pracovní zátěže); U = #.
 2731d14d	ZAČÍT PŘÍPAD  →
 2749a496	Efektivní dávka pacienta
+274a6a69	TR / TE
+27b867bb	BED a EQD2
 27c35a89	 (ztráta T2: e^(−TE/T2))
 280f0096	Začni svým prvním případem
+285171e9	I-# přechází do mateřského mléka a hromadí se ve štítné žláze kojence; při terapeutických aktivitách se kojení tohoto dítěte ukončuje.
 287f6fa8	Podané frakce
 2885d27b	Protirozptylová mřížka (#:#)
 28a6f0c2	Graf
+28b66559	Puls #° obrátí pořadí fází, takže se statické nehomogenity v čase TE refokusují; náhodné spin-spinové interakce (T2) vrátit nelze.
 28ce8c15	Detektory měří samotný pozitron
 290489df	Pravděpodobnost interakce na jednotku dráhy (cm⁻¹); μ/ρ je hmotnostní součinitel zeslabení (cm²/g).
 296d75eb	Radiobiologie
+299d31a2	SUV = C_tkáň / (A_aplikovaná / tělesná hmotnost)
 29aac115	jednorázová dávka, α/β = # (pozdní)
 29e178a3	Rozhovor s rodinou
 29e32f3e	Recepce
 2a17c8fd	Šum v játrech # HU: absces s nízkým kontrastem se může ztratit v šumu.
 2a72143f	Potřeba pro < # µSv/h u pultu
+2ab5c9fc	<b>Cyklotron:</b> ostřelování protony; F-# se vyrábí z obohacené vody reakcí ¹⁸O(p,n)¹⁸F. Při T½ = # min se distribuuje z regionálních cyklotronů.
 2ab93b6c	Cíl: ≥ # % dávky všude od kůže do # cm; ≤ # % na kosti v # cm. Zvol energii a tloušťku bolusu.
+2aca6a7c	Přibližně za jak dlouho po eluci dosáhne aktivita Tc-#m v generátoru maxima?
 2ad83ea8	SKENOVAT
+2aecbbea	Nízké prostorové frekvence jsou ve středu: bez středu obraz ztratí kontrast, bez okrajů bude rozmazaný.
 2afcdfa8	CNR trhlina / menisk
+2b02aa61	Vzroste #×
+2b030ee3	V PET detekce dvou fotonů # keV v protilehlých detektorech během několika ns.
 2b05bc17	Každý atom se v každém časovém kroku přemění s pravděpodobností p = # − e^(−λΔt). Při malém počtu atomů křivka statisticky kolísá.
 2b45b1f2	Iterace MLEM
+2b6a8342	Který přístroj je nejlepší k prohledání místnosti na kontaminaci?
 2b8ee748	Zvolené schéma
 2bab58c8	Bezpečnost MR: dotazník, RTG očnic (kovodělníci), pravidla zóny IV, ochrana sluchu.
 2bbeecb2	Skuteční pacienti, skutečná rozhodnutí: dětský RTG hrudníku, CT v těhotenství, velký pacient, radioterapie prostaty, rakovina kůže, PET a bezpečnost MR.
 2bd2dbd1	Titanová kyčelní protéza
+2bd612e8	Dlouhé TI (≈ #–# ms) potlačí mozkomíšní mok s velmi dlouhým T1 a odhalí periventrikulární léze.
 2be6e625	HDR brachyterapie
 2bfaf1fc	zatím neexponováno
 2c30aab8	Celková dávka / čas
+2c32813e	# W/kg
+2c32a937	SSDE (AAPM #)
+2c5508a5	<b>Pracovníci:</b> efektivní dávka # mSv/rok (průměr za # let, nejvýše # mSv v jednom roce); oční čočka # mSv/rok (ICRP #); kůže a končetiny # mSv/rok.
+2c58f0bf	CTDI je integrál dávkového profilu jedné rotace, měřený tužkovou komorou délky # mm ve fantomech z PMMA (hlava # cm, tělo # cm). Vážený CTDIw kombinuje střed a periferii; CTDIvol zohledňuje pitch a zobrazuje ho konzole.
+2c7551a1	Proč PET nepotřebuje kolimátor?
 2c89960f	EQD2 nádor (α/β #) = # Gy, pozdní kůže (α/β #) = # Gy. Jediná velká frakce hrozí pozdní nekrózou a poškozením chrupavky.
+2caf8732	Jak změní zdvojnásobení proudu rentgenky (mA) spektrum?
 2cafb291	Klinické případy — 
 2cb28fc5	Části
 2ceef116	Vypnout magnet a pak ji pustit dovnitř
+2cf118a7	HU = # · (μ − μ_voda) / (μ_voda − μ_vzduch)
 2d0ea9f2	Celková dávka
+2d38e091	M_PTV = #·Σ + #·σ    (Σ, σ: SD systematických a náhodných chyb)
 2d435572	Vyvolává zbytečný strach a zdržuje diagnózu; odůvodněné vyšetření se nemá blokovat.
+2d59f0fd	Ztvrdnutí svazku: s rostoucí střední energií μ klesá, takže druhé snížení na polovinu vyžaduje silnější vrstvu.
 2d877b6c	Oddíl
+2d8fb0b2	Aby se zcela odstranil rozptyl
 2d93483f	Můžeš zaškrtnout více možností.
 2dcee2fc	po eluci (h)
 2e160bcd	Stadium
+2e2c2d5d	f = # × # ≈ # MHz.
+2e4d104d	Vznik obrazu: kontrast, rozptýlené záření a mřížky
+2e5665a5	Precesní frekvence protonů kolem B₀; # MHz při # T.
+2e5bf3b5	Signál tuku
+2e62f99c	Jak se při HDR změní dávka ve vzdálenosti # cm místo # cm od zdroje (jen zákon převrácených čtverců)?
 2e6390f7	Hotovo. 
 2e83162e	Návrh sekvence
 2eafe887	Rychlost
+2ebc2a84	Rodina CTDI
 2ebd290f	Zatížení rentgenky (pitch #)
 2ecb2727	Nízké kV zvyšuje kontrast jódu, ale u velkých pacientů způsobuje nedostatek fotonů.
+2ed4bd8c	U stochastických účinků (rakovina, dědičné účinky) radiační ochrana předpokládá lineární bezprahový model (LNT): pravděpodobnost je úměrná dávce, zatímco závažnost na ní nezávisí. Nominální koeficient rizika rakoviny podle ICRP # je ≈ # % na Sv pro celou populaci.
+2ee5a97a	Efektivní dávka E = Σ w_T H_T vyjadřuje stochastické riziko nerovnoměrného ozáření jedním číslem. Tkáňové váhové faktory (ICRP #): červená kostní dřeň, tlusté střevo, plíce, žaludek, prs a „ostatní tkáně“ #; gonády #; močový měchýř, jícen, játra a štítná žláza #; povrch kostí, mozek, slinné žlázy a kůže #. Jejich součet je #.
 2f0820de	Skenovat bez kontrastu
+2f1696b0	<b>Kov:</b> hvězdicovité světlé/tmavé pruhy z nedostatku fotonů a tvrdnutí; pomáhají algoritmy MAR a vyšší kV.
+2f2650d9	Metoda MIRD
 2f44ed8c	Restart
+2f538647	<b>β⁺:</b> proton → neutron + pozitron + neutrino (F-#, Ga-#); pozitron anihiluje na # × # keV fotonů — základ PET.
 2f828120	Horké koule různých velikostí a plicní vložka ve válci s vodou: testují se jím koeficienty obnovy, efekt částečného objemu a korekce zeslabení.
+2f9059d6	Jaká část energie se při # kV ve wolframové anodě přibližně mění v rentgenové záření?
+2faee7d1	Doba vyšetření
+2fb366b1	Mřížka
 2fc8666a	CNR edém / dřeň
+2fdacb63	FBP
+2ffbb13c	TR # ms, TE # ms
 3000eed2	čas (dny)
+30477590	<b>Vyšší mAs:</b> tvar spektra se nemění; počet fotonů a dávka rostou lineárně.
 304ff7fb	Žádné
+309e5265	Proč protony?
 30b6e97d	Energie elektronů a bolus
+30b7dd3d	Dlouhé TR odstraní vliv T1, dlouhé TE zvýrazní rozdíly v T2.
 30fa92b1	Rekonstruovaný obraz
+31417a84	Jaký je limit SAR pro celé tělo v normálním provozním režimu?
 3152bf83	Kostní metastázy (alfa terapie)
 31b9a47d	Zotavení T1
+31bbbc99	Magnetická rezonance
+31d8fb21	<b>T1-vážený obraz:</b> krátké TR (~#–# ms), krátké TE (~#–# ms). Tuk je světlý a tekutiny tmavé; používá se pro anatomii a sycení kontrastní látkou.
 31e91d5f	Uprostřed tenký a na okrajích silný: snižuje dávku na tenkých okrajích pacienta a vyrovnává signál detektoru. Kolimátor určuje šířku řezu.
+31fd861c	Fotony tam neinteragují
 327a15b7	Tvorba fotoneutronů začíná nad ~# MV; s VMAT stačí pro hluboké cíle #–# MV.
+328c47ab	# R radioterapie
 32abb5ec	Nenabité částice (fotony, neutrony), které nejprve uvedou do pohybu nabité částice.
 32d80beb	složení tkání, dozimetrické veličiny, váhové faktory
 33449df1	#. Zeslabení a filtrace
 3377af3e	Správně: F = I·L × B. Hluk roste s B₀ (hlasitější při # T); IEC ### vyžaduje ochranu sluchu.
+339ae232	Typické hodnoty (# T): bílá hmota T1 ≈ # ms, T2 ≈ # ms; šedá hmota T1 ≈ # ms, T2 ≈ # ms; mozkomíšní mok T1 ≈ # ms, T2 ≈ # ms; tuk T1 ≈ # ms, T2 ≈ # ms. Většina patologií (edém, nádor) přidává vodu a prodlužuje T1 i T2.
 33c3fd73	Nukleární medicína
 33d5539e	Je tu žádanka, skenovat okamžitě
 33d5b2f2	Sval
+33ddebe6	Stínicí materiály
 34049cb1	Nádor
 340a8d84	Při spirálním skenu se posouvá konstantní rychlostí. Pitch = posun stolu na otáčku / celková šířka svazku; pitch > # snižuje dávku.
 340d8b25	Zpětný rozptyl E′(#°)
+342904de	<b>Fázové kódování:</b> krátký gradient různé síly v každém TR, který odděluje řádky fází.
+34350203	Nestabilní jádro má konstantní pravděpodobnost přeměny za jednotku času (λ). Aktivita A = λN je rychlost přeměn a klesá exponenciálně:
 347ac991	První polotloušťka odstraní měkké fotony, takže zbývající svazek je tvrdší
 34895938	Podlaha: dávkový příkon H*(#), µSv/h (log. stupnice) • bílá čára = # µSv/h
 34a0fb80	Nabité částice (elektrony, protony, α) podléhají podél dráhy neustálým coulombickým interakcím a jsou přímo ionizující. Fotony a neutrony nemají náboj: nejprve uvedou do pohybu nabitou částici (foton → elektron, neutron → odražený proton) a teprve ta předá dávku.
 34a3d9ed	Vývojář
 34aaa379	 min
+34da35d5	≈ # MeV
 34dd8fb9	#. Blochovy rovnice a relaxace
+34e79c54	Mo-# (T½ # h) je navázán na sloupci oxidu hlinitého; ~# % jeho přeměn vede k Tc-#m. Fyziologický roztok protékající sloupcem (eluce) rozpustí jen technecistan (TcO₄⁻). Protože mateřský nuklid žije déle — ale ne o mnoho déle — než dceřiný, nastává přechodná rovnováha: aktivita Tc-#m dosahuje maxima ~# h po eluci.
+34ec1b57	CTDIvol = CTDIw / pitch. Mnoho skenerů používá „efektivní mAs“ (mAs/pitch); pak zůstává CTDIvol konstantní.
+350bcbe4	Dávka = dávkový příkon × čas          Ḣ(d) = Γ · A / d²          Ḣ_stíněný = Ḣ₀ · B · e^(−μx)
 3510b740	Inzulin žene FDG do svalů a tuku; poté je třeba čekat ≥ # h.
 35143fb3	TE (echo čas)
+35370a12	ICRP #: pod # mGy není ukončení těhotenství lékařsky odůvodněné. Stochastické riziko je velmi malé, ale ne nulové, proto má být komunikace upřímná a klidná.
+35a72ef2	CTDIw / CTDIvol
 35afca3b	Zrušit
+35db04cd	DRL
 35dd3154	Atomy a jádra, druhy záření a interakce fotonů a nabitých částic s látkou — základ celé lékařské fyziky.
 35dfee4a	Stavba atomu
+35ece971	<b>β⁻:</b> neutron → proton + elektron + antineutrino (I-#, Lu-#, Y-#); elektrony s krátkým doletem se využívají v terapii.
 35fca6f7	Historie
 36014d05	k-prostor
 360983be	Korekce tvrdnutí svazku na vodu (BHC)
 36315a9f	Kortikální kost / kontrastní krev
 363200c3	Hotovo: 
 36375dc7	Obnovit veškerý postup?
+364873b6	Poměr α/β
 365bad67	Úroveň 
 368f3298	 otázek
 36c94f4b	Bez diabetu
 36cc1e6f	Sniž dávkový příkon u ovládacího pultu (zelená značka) pod # µSv/h
+375f3043	V praxi se u diagnostických vyšetření používá efektivní dávka na jednotku aktivity podle ICRP #, např. F-# FDG ≈ # mSv/MBq a scintigrafie skeletu s Tc-#m (MDP) ≈ # mSv/MBq.
 3769e565	#. Dávka
+37c8362e	Štítná žláza
+37cc2d08	Tři nástroje
 3809b45a	Spinové echo! t = 
 381fcf9b	Šum (ROI močového měchýře, SD)
 38362f62	Dokončené úkoly, hvězdičky případů a postup v lekcích budou smazány. Nelze to vrátit.
+38576bba	Jaká je základní fyzikální příčina Braggova vrcholu?
+385a8606	Prostorové rozlišení se zhoršuje
 38652f80	Doba akumulace
+38660fa2	Klasifikace pásem a mimořádné události
+38b44594	Měřením doby letu
 38ec0bda	Efektivní dávka (# mSv/MBq)
 38f2a757	Měrná aktivita (čistý)
 38f6bec6	Axiální řez (HU)
 38f9308a	Lebka
+392650d1	Fotony předávají dávku ve dvou krocích: nejprve předají energii nabitým částicím (kerma = kinetická energie uvolněná na jednotku hmotnosti), potom ji tyto částice předají prostředí (absorbovaná dávka). Kerma se počítá tam, kde nastane interakce, dávka tam, kam doletí elektrony.
 39547f25	Nefiltrované
 396c9c92	Plíce V2# < # %
+3970bb49	Druhy přeměny
 398977ad	Kanály detektoru
 399e986d	Úkoly
+39e59875	DVH
+39e88871	Co se stane u kolimátoru s paralelními otvory, když se zdroj vzdaluje od detektoru?
 3a6a3b1d	Zbývající / přeměněná
 3ad53794	AP
+3b078b13	SAR ~ B₀² · α² · (pulzy / s)
 3b1cbe1c	Aktivita v těle po vyšetření
 3b272149	✗ Špatně
 3b2ac288	Edém kostní dřeně v tukové dřeni je vidět jen s potlačením tuku (nebo STIR).
+3b324767	Z / E
 3b6eb64c	Přední stěna rekta naléhá na prostatu
 3b7e32aa	Poměr vstup / vrchol
 3b8987c9	  — lekce zvládnuta!
 3ba1a0c6	Každá polotloušťka sníží intenzitu na polovinu: (#/#)³ = #/#.
+3c04e9f8	Při EI_T = # má snímek s EI # hodnotu DI = #·log₁₀(#) = #: dvojnásobnou dávku na detektoru. I když snímek vypadá dobře, příště je třeba mAs snížit na polovinu.
 3c21cd4d	Předpis
 3c2dfe59	Skrytá
 3c4cfbae	Titan není feromagnetický (MR bezpečný / podmíněný); žádné opatření není nutné.
+3c96d414	Částice α # MeV
 3c988cc0	Střední energie
+3d2156fc	Rampa (|f|) zesiluje vysoké frekvence tak, aby přesně zrušila neostrost, čímž ale zvyšuje i šum; okénkové kernely určují kompromis.
 3d27f064	<b>Tvorba párů:</b> v poli jádra se foton změní na pár elektron–pozitron; práh je # MeV a pravděpodobnost roste zhruba jako Z².
+3d44f458	Geigerův–Müllerův počítač
 3d6b9f1f	Nádor plic
+3d767dfb	Rozdíl mezi kvalitou svazku uživatele a kalibrační kvalitou (Co-#)
 3dbec6d5	Expoziční index (EI)
+3dd00737	Návrh podle NCRP #/#
 3e04a9b3	Vlnová délka rentgenového fotonu # keV: λ ≈ # / # = # nm — asi desetina průměru atomu (~# nm).
 3e0553f6	Hrudník
 3e233fe3	Střední doba života τ = #/λ
@@ -302,11 +485,13 @@
 3e3a239c	Zobrazovací metoda
 3e5c100c	Ortopedie: MR pravého kolena — ruptura menisku? kostní kontuze? (MUDr. Polat)
 3e6fed3c	Blochova koule (rotující soustava)
+3e77062b	Jádro vodíku (proton) se chová jako drobný magnet. V silném poli B₀ se protony orientují paralelně nebo antiparalelně a precedují kolem pole Larmorovou frekvencí:
 3ea76ce8	BED nádoru
 3f01de3a	Pět interakcí
 3f6fbd86	Vzorkování k-prostoru
 3f99f636	Šum # HU: nediagnostický — bylo by nutné vyšetření opakovat, což zvýší celkovou dávku.
 3fa74db5	Fotonové spektrum (terčík + vyrovnávací filtr)
+3fdc4de2	Nepřímo, radikály OH· z radiolýzy vody
 3fddf4f8	Výborně! Látku ovládáš.
 3fe8604c	Tetování
 3feef465	− Odebrat
@@ -314,56 +499,99 @@
 40253cf6	μ je lineární součinitel zeslabení (cm⁻¹), součet čtyř interakčních členů. μ/ρ (cm²/g) nezávisí na hustotě, proto se tabeluje (NIST XCOM).
 40361aca	Počet frakcí
 4036e7f4	Tato aplikace učí základní témata lékařské fyziky pomocí interaktivních #D simulací. Všechny výpočty vycházejí ze skutečných fyzikálních modelů a referenčních dat, ale NENÍ určena pro klinické použití.
+4037c6dd	Místnost je obsazena z # %
+40470c54	Velmi málo — tenké olovo na fotony o energii # keV nestačí
 4068c7dd	Snídaně před # hodinami, glykémie # mg/dL. Co uděláš?
+407381a7	Obrazem řízená radioterapie: ověření polohy pacienta pomocí kV/CBCT před každou frakcí.
 4078f8e8	Cívky kolem tunelu mění pole lineárně s polohou (mT/m): výběr vrstvy, frekvenční a fázové kódování. Rychlé spínání vytváří hluk.
 41086ad1	mAs pro stejné σ (vůči # cm)
 411cbb0d	Jen se vyhýbejte těhotným ženám
 414eb5b3	Shrnutí
+4157224d	Přeměna β⁺ (pozitronová)
+41b45f05	<b>Vyšší kVp:</b> maximální i střední energie roste a svazek lépe proniká; výtěžnost roste zhruba s kVp²; kontrast klesá.
 41d150aa	Gantry
 41e0bccc	fotony
 421ed9be	Při diagnostických energiích převládají dvě interakce: <b>fotoelektrický jev</b> (~ Z³/E³, zdroj kontrastu) a <b>Comptonův rozptyl</b> (~ elektronová hustota, zdroj rozptylu). Simulace používá tabulky NIST μ/ρ(E) pro každý materiál.
+422525cf	BED / EQD2
 422af40c	Myš: tažení levým = otáčení, pravým = posun, kolečko = zoom. Dotyk: jeden prst = otáčení, dva prsty = zoom/posun.
+423010bd	Relaxaci T1
 42347061	Proud rentgenky × čas
 424c4852	#. Vznik obrazu
 426e4933	Klaustrofobie
 42720baf	Kost
 427f78a4	Rychlá pravidla (nominální energie): R9# ≈ E/#, R8# ≈ E/#, R5# ≈ E/#, Rp ≈ E/# (cm).
+42a1f7ce	Musí se zdvojnásobit
+42b7c6d8	Gamakamera a SPECT
+42e381ed	Skiaskopie zobrazuje v reálném čase (zesilovač obrazu nebo plochý detektor). Automatická regulace jasu (ABC) zvyšuje kVp a mA, když je pacient silnější. Celková dávka je dávkový příkon × čas a při dlouhých intervencích může dávka na kůži překročit deterministické prahy: přechodný erytém ~# Gy, epilace ~# Gy, závažné poškození > #–# Gy.
+42f504d1	Jejich RBE je #
+432ffd97	Při MV převládá Comptonův rozptyl, zeslabení závisí na elektronové hustotě a silný beton je levný a nosný
+435cb733	Šum a detektory
 439ee205	Porovnej účinek korekce zeslabení ve středu obrazu
 43b2aeba	Změň parametry → obraz i dávka se přepočítají (polyenergetické sledování paprsků + data NIST).
 43b5e592	Radionuklid
+43bcbe39	Zkracují se hodnoty T1
 43cb67fd	Vazebná energie slupky K wolframu je # keV. Vytváří rentgenka pracující při # kVp charakteristické čáry K wolframu?
 43d93074	EQD2 nádor (α/β #) = # Gy, pozdní kůže (α/β #) = # Gy. Poddávkováno: vysoké riziko recidivy.
 446ceec2	v kermě ve vzduchu
+449d5209	f(# cm) = # × e^(−#) ≈ #, takže SSDE ≈ # × # ≈ # mGy. Proto je nutné pediatrické protokoly optimalizovat zvlášť.
+44b565e7	≈ # minuta
 44fb5dc7	Zdroj zajištěn! Dávka během mise: 
 4531ef7f	Zeslabení závisí na tloušťce exponenciálně.
 4581c4fb	#. Radioaktivní přeměna
 45901efd	Gradientní cívky
 4602d9ec	klepni na obraz
 46143215	Místo, kde se protínají osy rotace gantry, kolimátoru a stolu (±# mm). Vzdálenost zdroj–osa (SAD) je # cm.
+4642dfa0	Projekce
 467b083e	Bolus
 46ac079e	Skenuji…
+46d4c952	Křivkový integrál
+46db0052	<b>Kroužky:</b> vadný nebo špatně kalibrovaný prvek detektoru.
 46e87af2	 % hotovo
+4719156f	Rentgenka a spektrum
 472bd5d7	Nízké kV zvyšuje kontrast jódu (hrana K # keV); dobrá volba u štíhlé pacientky.
+4731830d	<b>Obsazenost:</b> kanceláře T = #, chodby T ≈ #/#, čekárny T ≈ #/# (doporučení NCRP).
 475a075b	Sinogram  p(θ, s)
 477692bf	Nukleární med.
+477c08b3	# MBq FDG: E ≈ # × # = # mSv; CT část PET/CT může přidat dalších #–# mSv.
+47900c2b	Hounsfieldova stupnice
+47932082	<b>Těhotenství:</b> je třeba se na něj předem zeptat; radiojód může zničit štítnou žlázu plodu (od #.–#. týdne).
+47955da0	Co znamená faktor využití U = #?
+47ae1b91	t_max = ln(λ_Tc/λ_Mo)/(λ_Tc − λ_Mo) ≈ # h, a proto nemocnice obvykle eluují jednou denně.
+47f7e1bf	<b>Neutrony:</b> nad ~# MV vytvářejí reakce (γ,n) fotoneutrony; dveře a labyrint se navrhují s ohledem na ně.
 47f9a72c	Horečka (# °C) a kašel # dní
+47fcd7a2	S rostoucí vzdáleností klesá
+48240919	Podíl času, po který primární svazek míří na danou bariéru.
+482ee3dd	Kerma, absorbovaná dávka, ekvivalentní a efektivní dávka; dozimetry; jak záření působí na buňky, LQ model, BED a EQD2.
+483d1dab	E² / Z
+4876b3ed	Podíl času, po který se nejvíce exponovaná osoba v dané oblasti zdržuje.
+488a432b	Dávka v CT: CTDI, DLP a SSDE
+48b92494	Elektrony, které nedopadnou na terčík, se využijí přímo; tužkový svazek z vlnovodu se tenkou fólií s vysokým Z rozptýlí na klinické pole.
 48bee2b3	Přichází žádanka na CT. Elif měla poslední menstruaci před # týdny. Co uděláš před každým vyšetřením ionizujícím zářením?
 48cabbff	# polí
+48eb3008	Režimy zvětšení (menší FOV) zvyšují dávkový příkon.
 48f82113	vyloučeno 
 49059469	Bude to rychlé? Zítra musím zpátky do práce — v dílně brousím.
 491836e3	chyba 
 499a20d5	AP, vleže, SID # cm
 49cf1cfd	Larmorova frekvence f₀ = γ̄·B₀
 49e1196b	Trhlina menisku
+4a5fde88	Podle Betheho vzorce se srážková brzdná schopnost mění zhruba jako z²/v²: čím pomalejší částice, tím rychleji ztrácí energii. To je původ Braggova vrcholu u těžkých částic.
+4a6030a5	Mřížka je vložena obráceně
+4a610ce1	SAR ~ B₀² · (sklápěcí úhel)² · (RF pulzy / s)
 4a690915	Přijímací cívka
 4ac37c75	Comptonův rozptyl
 4b058728	Nastavení
 4b20e113	Nukleární medicína / PET
+4b26d668	Fotony se řídí Poissonovou statistikou: šum je √N pro N fotonů a SNR ~ √N, takže zdvojnásobení SNR stojí čtyřnásobnou dávku. Digitální detektory využívají nepřímou (scintilátor CsI + fotodioda a-Si) nebo přímou (a-Se) konverzi. Účinnost detektoru vyjadřuje DQE = SNR²_out / SNR²_in.
+4b66e013	Radiační pracovníci nosí osobní dozimetry (OSL/TLD): Hp(#) pro celotělovou dávku, Hp(#) pro kůži, prstenové dozimetry pro ruce. S olověnou zástěrou se dozimetr obvykle nosí pod ní na trupu; pro dávku na oční čočku se doporučuje druhý ve výšce límce nad zástěrou.
 4b6a214c	Kalibrační zdroj, brachyterapie (historicky)
 4b7042c7	eGFR # mL/min/# m²
 4b81b768	SNR (střed)
+4b88091d	E ≈ # × # = # mSv (ICRP #).
+4baca147	Jediný vrchol je široký jen několik mm. K pokrytí cíle se vrcholy různých energií váží a sčítají do rozšířeného Braggova vrcholu (SOBP). Moderní systémy „malují“ cíl vrstvu po vrstvě a bod po bodu skenováním tužkovým svazkem (PBS), což umožňuje protonovou terapii s modulovanou intenzitou (IMPT).
 4be56c9f	Otázka 
 4bf1fc72	Saturace tuku (FS)
+4bf8421e	<b>Monitorovací komory:</b> průběžně měří výkon (MU) a symetrii svazku; jsou zdvojené a nezávislé.
 4c3b45ab	• Absorbovaná dávka D (Gy = J/kg)\n• Ekvivalentní dávka H_T = w_R · D_T (Sv); w_R = # pro fotony a elektrony, # pro alfa, # pro protony\n• Efektivní dávka E = Σ w_T · H_T (Sv); tkáňové váhové faktory podle ICRP #\n• Měřiče ukazují prostorový dávkový ekvivalent H*(#) (≈ # × kerma ve vzduchu pro Cs-#).
 4c498c6f	Kojím svoje miminko. Může jí to vyšetření ublížit?
 4c4a1ccb	Fotoneutrony
@@ -371,37 +599,51 @@
 4c94eaa4	Dobře. Zopakuj lekce témat, ve kterých jsi chyboval.
 4c96524b	Sniž dávku na míchu protonovým plánem
 4cf38cb8	Odečítaná energie
+4d1863f4	<b>Repopulace:</b> nádor během léčby proliferuje; prodloužená celková doba léčby snižuje lokální kontrolu.
 4d1aa535	Témata
+4d3dd3bd	Kontrola nádoru se zlepší
 4d5f9cf2	rok
 4daa2b83	Radiační ochrana
 4dd7913c	Zobraz kardiostimulátor na snímku hrudníku
 4de2c891	Plíce, kosti, měkké tkáně a srdce jsou modelovány koeficienty zeslabení NIST; pro každý pixel detektoru se sleduje polyenergetický paprsek.
 4df6b638	Odečty
 4e0d4ec8	Stínění má tloušťku # HVL. Jaká je propustnost v geometrii úzkého svazku?
+4e2183c3	Kumulativní DVH ukazuje, kolik procent struktury dostane alespoň dávku D. Pro cíle se používá D9# (dávka pokrývající # % objemu); pro OAR Vx (procento dostávající x Gy), Dmax a Dstř. Příklady QUANTEC: plíce V2# ≤ #–# % a střední dávka ≤ #–# Gy (pneumonitida < # %); mícha Dmax ≤ # Gy (frakce po # Gy); rektum V7# < # %; příušní žláza střední dávka < # Gy.
+4e3cc928	Aktivita v těle klesá jak fyzikální přeměnou, tak biologickým vylučováním:
 4e6c5d36	Simulace
 4e7651ae	Rovnou CT s kontrastem
+4e7782c3	Z³ / E³
 4e8632ff	Přímo ionizující
 4ea60106	#. Dozimetrické veličiny
 4ebc9931	EQD2 nádoru (α/β #)
 4eed3c07	podexponovaný / zašuměný
 4ef63472	relativní dávka
+4f01c549	E ≈ # × # = # mSv.
 4f56491a	Změř poločas přeměny Tc-#m metodou Monte Carlo s přesností # %
 4f5e1d34	#. Tři principy: čas, vzdálenost, stínění
 4f8bf6fa	Svářeč / broušení: možný kov v oku
+4f92129e	Celkový počet přeměn v orgánu (časový integrál aktivity).
 4fca6bb4	Bez chronického onemocnění, plně očkovaný
 4fd01b06	Energie svazku
+4fdd3825	M_Q je údaj korigovaný na teplotu a tlak, polaritu, rekombinaci a elektrometr; N_D,w,Q0 je kalibrační faktor v dávce ve vodě ze standardizační laboratoře (v Co-#) a k_Q koriguje kvalitu svazku.
+5009dc40	Radioaktivní přeměna
 5009de05	Dávkový příkon ve # m
 5009fb9e	Porovnej nádorovou BED u SBRT (#×# Gy) a konvenční frakcionace (#×# Gy)
+5021c2fa	Co představuje hodnota projekce p?
 504443a0	Expozice
 5060769e	lat
 506f8881	rektum
+507364c6	<b>Obyvatelstvo:</b> # mSv/rok; oční čočka # mSv/rok; kůže # mSv/rok.
 50793575	Slovníček
 50b3cd30	Digitální rentgenogram (detektor CsI)
+50b6db4e	Rozptyl na detektoru
 50f75e70	CNR edém/dřeň #: tuková dřeň maskuje edém — použij saturaci tuku (FS).
 51301586	POZOR
+51327597	ACR definuje čtyři zóny: I veřejnou, II screeningovou, III s kontrolovaným přístupem, IV místnost s magnetem. Každý pacient i pracovník vyplní před vstupem do zóny III písemný dotazník; kovodělníci s možným nitroočním kovem podstoupí nejprve snímky orbit nebo CT. Implantáty jsou označeny jako MR Safe, MR Conditional nebo MR Unsafe a jejich podmínky se dodržují.
 514a1189	TR (pro graf SE)
 515cc083	T2-vážený
 5169f3c5	Lineární přenos energie: energie, kterou nabitá částice předá na jednotku dráhy (keV/µm).
+517390af	Srdce leží blízko detektoru, což snižuje zvětšení i geometrickou neostrost
 51880252	Rozložení dávky (rovina x–z)
 51b48ac4	Stínění umístěno. Tloušťku a materiál změň v levém panelu.
 51d5b7b0	EQD2 nádor (α/β #) = # Gy, pozdní kůže (α/β #) = # Gy. Přijatelné: méně návštěv, ale vyšší riziko pozdních účinků (atrofie, teleangiektazie).
@@ -410,85 +652,132 @@
 51f7e789	celková dávka (Gy)
 51fa3930	Hotovo. Zkontroluj výsledky; v případě potřeby změň nastavení a spusť znovu.
 523e597b	Bílá hmota
+524bb01f	Izocentrické (SAD) techniky používají TMR, křivku hloubkové dávky bez vlivu zákona převrácených čtverců při pevné vzdálenosti zdroj–bod. Výstupní faktory zohledňují rozptyl v kolimátoru (S_c) a ve fantomu (S_p) podle velikosti pole.
 524fb8d1	Stiskni ELUOVAT a získej Tc-#m. Pro nejvyšší výtěžek počkej ≈ # h po předchozí eluci.
+52784cfd	Jen proti neutronům
 52af1039	V elektronových polích se izodóza # % s hloubkou zužuje; je potřeba okraj ~#–# cm. Výstupní faktory je nutné změřit pro malá pole (TG-#).
 537cf34e	Výtěžek poslední eluce
 539143ed	TCP pro toto schéma (N₀ = #⁹)
 5394c2c1	Součin dávky a plochy (DAP)
 53a02dda	α/β ≈ # Gy (nádor, časně reagující) a ≈ # Gy (pozdně reagující zdravá tkáň, např. mícha). Malé dávky na frakci šetří pozdní tkáně; vysoké dávky na frakci jako u SBRT dávají velmi vysokou nádorovou BED, ale vyžadují přesné zacílení. TCP = exp(−N₀·S).
+53db2663	Citlivost klesne na nulu
 53f501c6	Aktivita na začátku skenu
 542674c2	Fantom
+542cb793	PDD a co ji ovlivňuje
 543dd434	Tvorba párů
 543f87d4	Páteř
 548c82d8	Magnetizace
 5490dc6c	 týdnů
 54ba96a0	Efektivní poločas
 54ebaaec	Efektivní průměr → SSDE
+54f725f4	DLP a efektivní dávka
 550bfe9e	puls
 55231493	Mozek
 55437eb0	Projekce a polohování
 554740bc	Měň úhly a váhy svazků: pokryj cíl a šetři míchu, srdce a plíce.
+554b47d8	Rozmazání každé projekce zpět přes řez ve směru jejího paprsku (prostá zpětná projekce) vytvoří neostrost #/r. Ke korekci se projekce nejprve filtrují rampovým filtrem (|f|); filtrovaná zpětná projekce (FBP) oba kroky spojuje. Protože rampa zesiluje i šum, používá se okénko (Shepp–Logan, Hann…): ostrý kernel znamená vysoké rozlišení a vysoký šum.
 5566f444	Použij to
 556bb28a	Vložit do kontejneru
 556d6936	Jakmile je zdroj uvnitř, několik cm olova sníží dávkový příkon stokrát (každá polotloušťka na polovinu, každá desetinová tloušťka na desetinu).
 5586c1bb	Poloha stolu (z)
+55953a46	Vstupní povrchová kerma ve vzduchu včetně zpětného rozptylu.
 55af7f60	Dokáže stát, spolupracuje
 55b7844c	Přímá a nepřímá ionizace
+55c3d9ec	Konzole ukazuje CTDIvol # mGy. Jaká je přibližně SSDE dítěte s efektivním průměrem # cm?
 55c427dd	Koeficient obnovy (největší / nejmenší koule)
+55e29d05	Proti zevnímu ozáření existují tři nástroje: zkrátit čas (dávka = dávkový příkon × čas), zvětšit vzdálenost (u bodového zdroje klesá dávkový příkon jako #/d²) a vložit stínění (každá HVL dávku sníží na polovinu).
 55f81dfb	Fyzika PET
 56a82532	Rentgenová radiografie
 56aaa165	Rakovina kůže na tváři — elektronová terapie
 56e6dfdf	Olověný kontejner
+571ea1cc	Propustnost stínění
 57270c3f	Podat # frakci
+573a4142	Přeexpozice; pacient dostal zbytečnou dávku
 57426dc2	Radiometr
+57a7b53c	Jaká je přibližná efektivní dávka # MBq FDG?
+57fd150b	Terčík urychluje elektrony
 580581bf	Jednorázová dávka, α/β=
+581bf5b5	Zpětný rozptyl je největší na straně rentgenky, kde svazek vstupuje do pacienta; strana detektoru je bezpečnější.
+58247ddd	Hlavní výhody megavoltových fotonů jsou hluboký průnik a šetření kůže: dávka je na povrchu nízká a maxima dosahuje v d_max (# MV: # cm, # MV: # cm).
 58390f45	Tetování na levé paži (#)
 584aaa85	Elektromagnetické spektrum
 584ba3f5	klonogeny: 
 5865c9d9	Vybraný svazek: 
 5865ea2d	ICRP # a ACOG: pod # mGy žádné deterministické účinky; ukončení těhotenství se pod # mGy nedoporučuje. Sděluj riziko čísly a v klidu.
+5869cede	Výroba radionuklidů a generátor
 5876c756	Čekající pacienti
 5878a2bf	Hloubková dávka
 58820d8d	Nejlepší odpověď: 
+588c2a16	Při rovnováze nabitých částic (CPE) a zanedbatelné ztrátě brzdným zářením se absorbovaná dávka rovná srážkové kermě: D = K_col. V oblasti build-upu u povrchu CPE není — proto megavoltové svazky šetří kůži.
+588ce9ad	#/T_ef = #/T_fyzikální + #/T_biologický
 589a5df5	Pohyb pacienta (fázové chyby)
 58c52672	 r
 58e096de	O aplikaci
+58ead5a3	Proč v oblasti build-upu platí D ≠ K_col?
 590ca79a	Obraz
+5947fcd5	Lem PTV (van Herk)
 5951ffab	Pracovník (efektivní)
 59c7842a	Pokrytí léze: minimum # % — povrch kůže je poddávkován: bolus vytáhne dávku elektronů až k povrchu.
 59c80f5b	RTG hrudníku u dítěte
+59d56146	≈ # hodin
 5a09a50e	Dosah protonů (Bragg–Kleeman)
+5a252151	Jaký je přibližný práh kožního erytému při skiaskopii?
 5a296842	Předvolené plány
+5a46ef7e	<b>Doba letu (TOF):</b> rozdíl časů příchodu (~#–# ps) lokalizuje událost podél LOR s přesností několika cm a snižuje šum.
 5a53afe8	Prostata leží ≈ # cm hluboko zepředu a ≈ # cm ze strany. Porovnej hloubkové dávky (PDD) a zvol energii pro VMAT.
 5a54e20e	Výsledek: 
+5a5f631a	≈ # kHz
+5a87b1d6	<b>Personál:</b> stínění stříkaček, vzdálenost a čas spíše než olověné zástěry a prstové dozimetry (Hp(#)).
 5aaf54e6	#. Elektronové svazky
 5ab00023	CNR edém/dřeň #: kostní kontuze viditelná.
 5af0fb47	Hloubková dávka Monte Carlo • Braggův vrchol
 5b6df32a	Další otázka  →
+5b71adcb	Těsná kolimace (s nízkodávkovou technikou bez mřížky)
 5b765e84	Při CT břicha je děloha v primárním svazku; zástěra nemůže chránit a zhoršuje obraz.
 5bac8b63	Vlastní sklápěcí úhel α
 5c1604f3	Další pacient: 
 5c1cca76	• <b>Čas:</b> dávka je úměrná době strávené u zdroje.\n• <b>Vzdálenost:</b> u bodového zdroje klesá dávkový příkon jako #/d²: dvojnásobná vzdálenost znamená čtvrtinovou dávku. Proto jsou kleště tak účinné.\n• <b>Stínění:</b> husté materiály s vysokým Z (olovo) zeslabují fotony nejlépe. Jedna polotloušťka snižuje příkon na polovinu, jedna desetinová tloušťka na desetinu.
+5c5faa98	Kontrast obrazu vzniká z rozdílu zeslabení mezi sousedními drahami. Kost se od měkkých tkání silně liší při nízké energii (převládá fotoefekt) a slabě při vysoké energii (převládá Comptonův rozptyl) — proto #–# kVp pro mamografii a #–# kVp pro snímky hrudníku.
 5c60f76f	léze
 5c6467e1	Zobrazit mapu dávky (x–z)
+5c74eff9	Co koriguje k_Q v TRS-#?
+5cab77e9	Pacienti a rodiny se často záření bojí. Dobré vysvětlení je číselné, a přesto srozumitelné, srovnává s přírodním pozadím, zdůrazňuje přínos vyšetření a vyhýbá se přehánění typu „nulové riziko“ nebo „velmi nebezpečné“.
+5cadc7e1	Dávka = dávkový příkon × čas
 5cae40c9	Jádra vodíku (protony) mají magnetický moment. V poli B₀ se nepatrný přebytek orientuje ve směru pole a vytváří výslednou magnetizaci M₀ (M₀ ~ B₀). Spiny precedují kolem B₀ Larmorovou frekvencí.
 5ce2e06a	Správně. V PA je srdce blízko detektoru → menší zvětšení; dlouhá SID snižuje geometrické zvětšení a neostrost. Přední orgány (prs, štítná žláza) dostávají v PA také menší dávku.
+5cefb1d7	Mřížka z olověných lamel, která pohlcuje rozptýlené fotony.
 5d155c86	Zobrazit výsledek  →
 5d27c72a	Tc-#m při eluci
+5d34e900	Mz = M₀(# − e^(−#)) ≈ # M₀; # % je to, co po jednom T2 zbude z příčné magnetizace.
+5d4d8ed3	η ≈ #×#⁻⁹ × # × #⁵ ≈ #; zbylých # % je teplo, proto je řízení tepla v rentgence zásadní.
 5d74c24a	Plánování léčby • DVH
+5d9e42a8	σ ~ # / √(mAs · tloušťka řezu)
 5dc26de3	Jak studovat
 5ddb2028	Základy radiační fyziky
 5de75a0b	Pravá plíce
 5dea53d0	Radiační onkologie: elektronová terapie, BCC levé tváře; hloubka podle UZ # cm (MUDr. Öz)
 5deb5e94	Odmítá operaci (užívá antikoagulancia)
+5dfaa4f1	AAPM TG-# doporučuje # %/# mm s ≥ # % jako toleranční/akční úroveň.
 5e0275a6	#. Generátor a přechodná rovnováha
+5e380c3b	<b>Kolimace:</b> clony a vícelamelový kolimátor (MLC, lamely #–# mm) tvarují pole podle cíle a umožňují IMRT/VMAT.
 5e4baa18	Zobrazení
 5e840e69	Přežívající frakce S
 5e8aae31	Mícha
 5e8f4863	RF není slyšet; hluk pochází z gradientů a může poškodit sluch.
+5e8fb6de	Systematické chyby jsou vždy větší
 5ed62a66	Krev + jodový kontrast
+5ed90f63	Charakteristické čáry zmizí
+5ee0c02a	Zobrazený rozsah HU (W) a jeho střed (L).
+5f2b803e	Při skiaskopii pochází většina dávky personálu ze záření rozptýleného pacientem. Používejte olověnou zástěru, límec na štítnou žlázu, olověné brýle a stropní stínění a udržujte odstup (zákon převrácených čtverců).
 5f38ef7b	Přídavný filtr Cu
+5f3d9216	ALARA
+5f48df71	Výpočet MU (SAD)
 5f594fad	Rekonstrukce
+5f842ccc	kVp
+5fbbbe70	Výkon urychlovače měřený jeho monitorovacími komorami, kalibrovaný např. na # cGy/MU za referenčních podmínek.
+5fcb368b	<b>ESAK:</b> vstupní povrchová kerma ve vzduchu včetně zpětného rozptylu (BSF ≈ #–#); používá se pro deterministické účinky a srovnání s DRL.
+5fef495e	Okno / úroveň
+60139e9e	Na jaký objem se předepisuje dávka?
 6032454b	Comptonův rozptyl
 6053526e	Pro FDG: glykémie < # mg/dL a ≥ #–# h nalačno; doba akumulace # ± # min.
 605c9960	Kvantový šum
@@ -497,85 +786,135 @@
 6174d861	CTDIvol je dávka v PMMA fantomu o průměru # cm, ne dávka pacienta. AAPM #/#: SSDE = f(D_eff)·CTDIvol; u velkých pacientů je f < #.
 61814715	Matice (rozlišení)
 61999a6b	Omezená délka skenu (hřeben kosti kyčelní až symfýza): nižší DLP.
+61b09960	Při # keV je HVL olova ~# mm, takže # mm Pb zastaví jen ~# % fotonů. U PET rozhoduje vzdálenost, čas, stínění injekčních stříkaček a L-bloky.
 61e2a3f8	Zdroj
+61e37e95	<b>Filtrace:</b> odstraňuje nízké energie, zvyšuje HVL a snižuje dávku na kůži. Předpisy vyžadují celkovou filtraci nejméně # mm Al nad # kVp.
 61f84dec	Dávka se počítá s korekcí nehomogenit pomocí ekvivalentní délky dráhy (radiologická hloubka = Σ ρₑ·Δl): svazek procházející plící je zeslaben méně. Kvalita plánu se posuzuje podle DVH: PTV D9# ≥ # %, mícha Dmax < # Gy, plíce V2# < # %, střední dávka na plíce < # Gy, srdce průměr < # Gy (QUANTEC).
+61fa4b9a	Brachyterapie a zabezpečení jakosti
+620629d0	pitch = (posun stolu na otáčku) / (celková kolimace svazku)
+620ac3ff	<b>GTV:</b> viditelný nádor. <b>CTV:</b> GTV + mikroskopické šíření. <b>ITV:</b> CTV + vnitřní pohyb (např. dýchání).
 6246a72c	Obnovit (M || B₀)
 6283a899	 min/pozici, akumulace 
 6292946b	Šířka modulace
 62b33346	Reference μ(voda)
+62bd3c83	Pravidlo: dosah ≈ E/# cm, tedy asi # cm pro # MeV. Proto se elektrony používají u povrchových nádorů.
 62dc212b	Střední volná dráha #/μ
 6337b9a5	RF pulz (B₁ na Larmorově frekvenci) sklopí M o úhel α. Potom:\n• <b>T1 (spin–mřížka)</b>: Mz se obnovuje: Mz(t) = M₀ + (Mz(#) − M₀)·e^(−t/T1)\n• <b>T2 (spin–spin)</b>: příčná magnetizace se rozfázuje: Mxy(t) = Mxy(#)·e^(−t/T2)\n• <b>T2*</b>: nehomogenita pole přidává rozfázování (#/T2* = #/T2 + γΔB) — pulz #° tuto část obrátí: <b>spinové echo</b>.
+63717795	Odstraňuje neostrost #/r prosté zpětné projekce
 638a3d27	Protirozptylová mřížka (Bucky)
+638c594d	T2 a T2*: příčný rozpad
+63914fc5	Jaký je přibližně praktický dosah svazku elektronů # MeV ve vodě?
 63e33069	Distální hloubka
 63e87165	Věk / pohlaví
+63f9d666	Oblast se zvláštními pravidly a vyškoleným personálem, kde by jinak mohly být překročeny limity dávek.
 64053f4c	Sinogram, filtrovaná zpětná projekce, Hounsfieldovy jednotky, artefakty.
 64ab923e	propustnost úzkého svazku
+64af52b9	<b>Radiosenzitivita:</b> vnitřní citlivost každé tkáně a typu buněk.
 64cec188	Sekvence
+64fa4ca8	Po diagnostickém CT je odhadnuta dávka na plod # mGy. Jaká je správná rada?
 650b51c9	CTDIvol je dávka ve fantomu; pro dávku konkrétního pacienta použij SSDE = f(D_eff)·CTDIvol (AAPM #/#).
 65297d00	 (vč. repopulace)
 652cb5da	Je potřeba víc studia — pomohou ti lekce níže.
 656c2bdf	Kůže / ruce
+658d1478	Primární svazek míří na tuto bariéru # % času
 65b3c1bb	Šedá hmota
+660035ea	Přesně ve středu tunelu
 660f2bd2	Geometrie a detektor
 662c7590	Menisk
 6644745a	Efektivní průměr / f
 66597e63	Náhodné
 66c80500	koeficienty zeslabení a absorpce energie fotonů (# materiálů)
 66f00e9c	Správně: u každé ženy ve fertilním věku je třeba vyloučit těhotenství, pokud je pánev ve svazku (ICRP #, IAEA SSG-#).
+66fe8adc	Relaxace: T1, T2 a T2*
 6705e1b1	Lekce krok za krokem od atomu po radioterapii, interaktivní obrázky, řešené příklady, kvízy a cvičná zkouška.
 672a70aa	Zobrazit SOBP (analyticky)
 6750e405	Efektivní dávka = DAP × konverzní koeficient (podle oblasti). Přírodní pozadí ≈ # mSv/rok.
 675d82e1	Sinogram
 6779effc	Eluováno
+67af0b2f	<b>OSL (Al₂O₃:C):</b> vyčítá se optickou stimulací a lze jej vyčíst znovu; většina osobních dozimetrů je tohoto typu.
 67b8f497	BED pozdní tkáně
+67e47d97	Jaký je nejpravděpodobnější problém snímku s DI = −#?
 67ebc3e7	#. Hounsfieldovy jednotky a okénkování
 67fabac5	EQD2 rekta (α/β #) = # Gy — riziko pozdní rektální toxicity (krvácení, proktitida).
+6805c1cb	Děti jsou #–#krát radiosenzitivnější než dospělí a mají před sebou dlouhý život. Platí protokoly přizpůsobené velikosti („Image Gently“): nízké mAs, bez mřížky, přídavná filtrace Cu, těsná kolimace; při CT se má dávka posuzovat podle SSDE. Gonádové kryty se již rutinně nedoporučují (AAPM #); kolimace je účinnější.
 6808f26e	Je to riskantní; měla byste zvážit ukončení těhotenství.
 6817ce15	UZ: apendix nezobrazen. V noci není MR; chirurg zdůrazňuje riziko perforace. Společné rozhodnutí: nízkodávkové CT.
+681fce83	Diagnostické referenční úrovně (DRL) jsou #. percentil národního rozdělení (ICRP #). Nejsou to limity dávek; pracoviště, jejichž typické dávky je překračují, mají optimalizovat.
+6823752e	Není to potřeba
+686bef8e	Komunikace rizika
 687d1f08	Sestra chce v akutní situaci přinést ocelovou kyslíkovou lahev do místnosti s magnetem (zóna IV). Co uděláš?
+6888962e	Kontrast obrazu a celkovou úroveň signálu
 68de0f88	Přehled vzorců — 
 69069946	Tvrdnutí svazku: polyenergetický sken s vypnutým BHC (cupping)
+69232305	Klesá
 69338848	Začít první případ  →
+693aa065	N_D,w se udává v Co-#. Při kvalitě uživatele (např. # MV, TPR₂₀,₁₀ ≈ #) se liší poměry brzdných schopností a perturbační faktory a k_Q to koriguje.
+694d03af	Světlo se rozdělí do mnoha PMT a těžiště jejich signálů udává polohu.
 69607fdf	EPID (MV zobrazování)
 69762965	Břicho
+6982091c	Výtěžnost rentgenky
+699bd238	<b>T2-vážený obraz:</b> dlouhé TR (> # ms), dlouhé TE (~#–# ms). Tekutiny a edém jsou světlé; je vidět většina patologií.
 69c54135	 h
 69d97846	Signál tkáně
+69d99419	Jemné detaily a hrany
 69fc5799	Filtr Cu
 6a494fba	Přehled
 6a4f8e94	Při diagnostických a terapeutických energiích fotony interagují hlavně pěti způsoby: koherentní (Rayleighův) rozptyl, fotoelektrická absorpce, Comptonův rozptyl, tvorba párů a fotojaderné reakce. Která převládá, závisí na energii fotonu a protonovém čísle prostředí.
 6a8f4d0e	Ne úplně. 
 6ab344fe	Efektivní (fyzikální + biologický)
+6abfaaba	Dávkovou veličinou v mamografii je střední dávka v mléčné žláze (MGD), ≈ #–# mGy na projekci u standardního prsu. Tomosyntéza (DBT) je tomografie s omezeným úhlem, která snižuje překrývání tkání.
 6ada0052	CT
 6ae55601	Opakování
+6b21c3b7	T = TR · N_fáze · NEX / ETL
 6b26a05c	Dávka na povrchu kůže
+6b26b7cb	Pro obyvatelstvo
+6b447c93	Nabité částice: brzdná schopnost a dosah
+6b5a05de	Zákon radioaktivní přeměny
 6b7a6181	R = akcelerační faktor: snímá se každý R-tý řádek → přeložení o FOV/R (aliasing). Paralelní zobrazování (SENSE/GRAPPA) ho rozbalí pomocí citlivostí cívek.
 6b8da132	Dávkový příkon ve # cm
 6bb77736	Bodový zdroj
 6bbe4f23	Filtr Al (přidaný)
 6bc09210	Beze změny; stejné mAs
+6be1e44b	# s × # × # = # s ≈ # min — proto je turbo spinové echo klinickým standardem.
 6be9432d	Povrchová dávka
 6bf0564a	Nabité částice (elektrony, protony, α), které předávají energii coulombickými interakcemi.
 6bf28b9c	Vědecky nepodložená a škodlivá rada.
 6c025c20	zatím neskenováno
 6c168d60	Případ dokončen
+6c339b71	Proti záření rozptýlenému pacientem a unikajícímu z hlavice
 6c3c9505	energie fotonu
 6c6870d7	Vyber si
+6c70ec36	SUV porovnává vychytávání FDG v nádoru nezávisle na pacientovi, je však citlivé na dobu akumulace, glykémii, rekonstrukci a parciální objem — proto doporučení EANM: doba akumulace # ± # min a glykémie < # mg/dL.
 6c8fcda6	PRO ZAČÁTEČNÍKY
 6cc46a6f	 min čtení
 6cc784fd	Děláš vždy jen jedno rozhodnutí.
 6cec06d7	# ng/mL
+6d03cdad	#/T_ef = #/T_fyz + #/T_biol
 6d148508	Skenovat
+6d5614c7	Elektronická kolimace: dva detektory, které zachytí protisměrně letící fotony, určují přímku, na níž proběhla anihilace.
 6d8836d2	Možné, ale ne jako první volba; nejprve ultrazvuk a MR.
 6d94e783	k-prostor a Fourierova transformace
 6dc54781	 d
+6dcb0105	Jak se změní údaj DAP, umístí-li se komora blíže k rentgence nebo dále od ní?
+6e0a7f2e	Generace skenerů a spirální skenování
 6e2eab59	Správná expozice: dostaň index odchylky (DI) snímku hrudníku do rozmezí −#…#
 6e67bd16	Reference / analyticky
 6e8c7b25	Energie fotonu
+6e8ef574	SNR roste s objemem voxelu a √(N_fáze · N_frekv · NEX). Zdvojnásobení rozlišení v rovině (čtvrtina voxelu) stojí hodně SNR; paralelní zobrazování (SENSE/GRAPPA) zrychluje akvizici na úkor SNR.
+6ea1bcc5	<b>Meze rozlišení:</b> dolet pozitronu (střední F-# ≈ # mm, Ga-# ≈ # mm), nekolinearita a velikost krystalu; klinické rozlišení PET je ≈ #–# mm.
 6eb5b73c	Karta pacienta
+6ecb14dc	Bariéra propouští # %
 6ef0f4ce	FLAIR: potlač mozkomíšní mok, zatímco léze zůstane jasná
+6f2e642a	Ekvivalentní a efektivní dávka
+6f3ba7bf	mA a čas určují jen počet elektronů, a tedy fotonů; rozdělení energií určuje kVp a filtrace.
 6f441d09	Co vzniká při anihilaci pozitronu z FDG a jak to PET detekuje?
 6f7079de	Teleterapie, Leksellův gamma nůž
+6f78682d	DAP = K · A   (nezávisí na vzdálenosti)
+6fa2096f	Váženým průměrem signálů PMT (Angerova logika)
 6fb2dc0f	 projekcí, 
+6fca1b0f	U TMR je vzdálenost zdroj–bod pevná, takže neobsahuje vliv zákona převrácených čtverců
+6fe34f38	Protony na konci dosahu prodělají tvorbu párů
+6ff5a02f	<b>Kojení:</b> u FDG a většiny preparátů s Tc-#m není přerušení potřeba, nebo jen na několik hodin; u I-# je nutné kojení ukončit.
 70491c5e	Poslední menstruace: před # týdny (nepravidelná)
 705dbc6f	Bez antikoncepce
 70689f04	Délka skenu
@@ -586,6 +925,8 @@
 709e0d80	Olověný kontejner
 70c9432b	Zeslabení, HVL a ztvrdnutí svazku
 70e6ad0e	Radioaktivní jádra
+7125219e	Rezonance a RF puls
+71a8aa21	σ ~ #/√mAs; zúžení okna šum jen zviditelní.
 71c67fc5	chlapec
 720bb6d5	Izocentrum
 72103ea7	Dětský hrudník: bez mřížky, přídavný Cu filtr, vysoké kVp / nízké mAs, těsná kolimace, krátká expozice (pohyb).
@@ -593,42 +934,63 @@
 72133fde	#. Kontrast
 721471f0	ELUOVAT
 72467d86	Nativní snímek břicha vestoje
+724dce60	Elektrony
 729ea19a	+ Umístit stínění
 72a6030d	Exponenciální zákon platí jen v geometrii úzkého svazku, kdy rozptýlené fotony nedopadají na detektor. V širokém svazku přispívají i rozptýlené fotony a propustnost je B·e^(−μx) s faktorem build-up B ≥ #. Zanedbání B ve výpočtu stínění vede k poddimenzovanému stínění.
 72b715d3	Hasan: „Jak se dostanete k něčemu tak hluboko?“
+72c5fc11	Gray (Gy)
 72daab8b	Šlacha / vaz
 72f6d05f	Střed k-prostoru nese kontrast obrazu; periferie nese jemné detaily (hrany).
 72f991f9	Lineární součinitel zeslabení μ
 72fb1a0a	Spektrum
 72fc2e5a	Přehlédnuto: 
+730dd2e0	<b>RF (B₁):</b> ohřev tkání omezený hodnotou SAR (W/kg): celé tělo ≤ # W/kg a hlava ≤ # W/kg v normálním režimu (IEC ###). Vodivé kabely a smyčky mohou způsobit popáleniny.
 732be2f9	Obrazové navádění (IGRT)
 7342c4c8	Podat kontrast; při eGFR ≥ # a bez akutního poškození ledvin se metformin nevysazuje
 73715b63	Související klinický případ  →
 738f6b5a	Pulz #° sklopí M do roviny xy. Spiny se vějířovitě rozbíhají, protože precedují různou rychlostí (T2*). Pulz #° je překlopí a vznikne echo.
 7393264d	Prozkoumat všechna témata
+739d2c89	Jaká je hlavní dozimetrická výhoda protonů oproti fotonům?
 73a87380	Teorie a vzorce
 73bf80aa	Fotony těsně nad K-hranou mohou vyrážet elektrony K, takže fotoelektrická absorpce skokově vzroste. Proto CT protokoly s nízkým kV zvýrazňují jódový kontrast.
 73d792b6	Skenuj s málo projekcemi (≤ #): uvidíš pruhové artefakty
 73e93954	Ultrazvuk; MR bez kontrastu, pokud je nejednoznačný
 74148df9	Pochází z kryogenu; neškodný
+74fd5f82	Volba vážení pomocí TR a TE
+754a8c40	Náhodné chyby rozmazávají dávku přes frakce (průměrují se), kdežto systematická chyba posune celé rozložení mimo cíl.
+755393eb	CTDIvol není dávka pacienta
 7564d845	Ano, je to nebezpečné; pokud to jde, vyhneme se tomu.
 75793978	Mehmetovo břicho měří # × # cm (průměrný dospělý ≈ # × #). Pro vodu μ(# keV) ≈ # cm⁻¹. O kolik # cm tkáně navíc sníží počet fotonů dopadajících na detektor?
 758e615c	Počítám… (sledování paprsků #×# pixelů)
+759b11e4	Ḣ = Γ · A / d²        Ḣ_stíněný = Ḣ · B,   B ≈ #^(−x/HVL)
+75a71666	F-# FDG
 75a97a00	Nová zkouška
 75afa3bb	Malá diagnostická hodnota u apendicitidy; zbytečná dávka.
 75d4759c	Bolest v levém podbřišku, horečka
+75d5140c	DNA je hlavním cílem při usmrcování buněk. U záření s nízkým LET vznikají asi dvě třetiny poškození nepřímo: radikály OH· z radiolýzy vody napadají DNA. Jednovláknové zlomy se snadno opraví; dvouvláknové zlomy (DSB) jsou hlavní letální lézí.
 760d8617	Vakuová lahvička v olověném pouzdře nasaje fyziologický roztok a Tc-#m přes kolonu. Průnik Mo-# musí zůstat < # kBq Mo na MBq Tc.
+7620b894	Další dozimetry
 763fa74b	Obě jsou fotony a jejich energetické rozsahy se překrývají (γ # keV z Tc-#m má nižší energii než rentgenové záření z rentgenky # kVp). Liší se jen původem.
 7647a3ac	Splněno — pozorně si přečti zpětnou vazbu.
+765479aa	Proti čemu se navrhuje sekundární bariéra?
 765e2544	Pravidlo zóny IV
+7686236b	Každá TVL dává faktor #: #³ = #, tedy asi # HVL.
+76a60042	V těhotenství se dává přednost MR, protože nepoužívá ionizující záření, ale gadolinium prochází placentou a podává se jen v nezbytných případech. U pacientů s eGFR < # vyžaduje gadolinium opatrnost kvůli riziku nefrogenní systémové fibrózy (NSF).
 76dd194b	Srdce průměr < # Gy
+7719e496	<b>Elektronový záchyt a izomerní přechod:</b> Tc-#m je metastabilní stav vyzařující γ # keV — ideální energii pro zobrazování s malou částicovou emisí.
 77384e8c	Zavádějící. Model LNT předpokládá nepatrné, ale nenulové riziko; mluv poctivě a uklidňujícím tónem.
 774a6613	Úzký monoenergetický svazek fotonů procházející tloušťkou x má na jednotku dráhy konstantní pravděpodobnost interakce. Výsledkem je exponenciální pokles:
 777502bf	Kožní značky neukazují vnitřní pohyb; vysoké riziko minutí cíle.
+777ecec1	# % / # mm
+7791bab3	≈ # mSv
+77e56096	Proč se zpětná projekce filtruje?
 77eb0235	Skóre
+77f31cee	<b>Efektivní dávka:</b> DAP × konverzní koeficient — např. hrudník PA ≈ # mSv, bederní páteř ≈ # mSv.
 78197beb	ESAK # µGy > DRL: sniž dávku (vyšší kVp + Cu filtr, odstraň mřížku, sniž mAs).
 7835c649	Elektrony obsazují slupky K, L, M… Vazebné energie vnitřních slupek prudce rostou se Z: slupka K wolframu má # keV, jódu # keV a kyslíku ve vodě jen # keV.
 785a8151	Pitch
+78a45025	Sievert (Sv)
+78b30f07	Deterministické a stochastické účinky
 78cd4207	Lahvička s eluátem
 792a98a9	• <b>Tvrdnutí svazku:</b> nízké energie se pohltí jako první; podél dlouhých drah klesá efektivní μ → „cupping“ uprostřed a tmavé pruhy mezi hustými kostmi. Kalibrace na vodu (BHC) odstraní cupping, ne však kostní pruhy.\n• <b>Kov:</b> pohltí se téměř všechny fotony (photon starvation) → světlé/tmavé radiální pruhy.\n• <b>Málo projekcí:</b> nedostatečné úhlové vzorkování → pruhové (aliasingové) artefakty.\n• <b>Šum:</b> σ ~ #/√(mAs); základní kompromis mezi dávkou a šumem.
 793c090c	Nízkodávkový protokol CT
@@ -637,28 +999,45 @@
 79525074	Jen střed
 79a399e0	Dávka
 79ae5968	Rychlost času (poločasy / # s)
+7a19375c	Kde je v MR přitažlivá síla na feromagnetický předmět největší?
+7a3977c5	Úplnou ochranu
+7a4568f0	Při nízké energii je μ velmi citlivé na rozdíly v Z a hustotě; dávka a komprese se vyvažují vůči tomuto kontrastu.
+7a564ff8	Rozptýlené fotony se hromadí ve vrcholu
 7a696fee	Ekvivalent přirozeného pozadí
 7a9ee904	Klepni na podlahu → chůze (klávesnice: WASD). Sleduj dávkový příkon na měřiči. Čas, vzdálenost a stínění snižují dávku.
+7aa5a762	Sekvence gradientního echa nepoužívají puls #°, takže jsou rychlé, ale T2*-vážené (krvácení, kalcifikace). Malé sklápěcí úhly umožňují krátké TR s maximálním signálem při Ernstově úhlu: cos α_E = e^(−TR/T1). Gadoliniové kontrastní látky jsou paramagnetické: zkracují T1 a sytící se tkáň je v T1-vážených obrazech světlá.
 7ab00d8b	Axiální rozložení dávky
+7ad68a4e	<b>Měsíčně / ročně:</b> PDD a profily, přesnost polohy MLC, izocentrum, zobrazovací systémy; roční referenční dozimetrie (TRS-#).
 7b06fb7d	Signál SE v závislosti na TE
 7b0ee643	Minimální dávka v lézi (#–# cm)
+7b16b51b	Účinek, jehož pravděpodobnost roste s dávkou a u něhož se předpokládá, že nemá práh (rakovina, dědičné účinky).
 7b3a2d83	Částice alfa
 7b4e65c1	EQD2 rekta (α/β #)
 7b804b26	Fyzikální jevy
+7bd77338	Na aktivitě nezávisí
 7bdb6a90	vodorovně: detektor s  •  svisle: úhel θ (#→#°)
 7be2d594	Vzdálenost ohnisko–obraz (SID)
+7bea5b23	Rentgenka má být pod stolem: personál dostává většinu dávky ze zpětného rozptylu od pacienta na straně rentgenky.
 7bef2f61	Mapa dávky (x–hloubka): dávka vůči maximu, %
 7bf995f5	Sonda (klepnout)
 7c162dc9	Spektrum • Zeslabení • Rozptyl • Dávka
+7c312941	Elektrony z děla se urychlují na energie řádu MeV ve vlnovodu napájeném mikrovlnami pásma S (~# GHz); ohybový magnet je směruje na terčík. V fotonovém režimu terčík s vysokým Z vytváří brzdné záření a vyrovnávací filtr zrovnoměrňuje svazek; v elektronovém režimu se terčík vysune a rozptylová fólie rozšíří úzký elektronový svazek.
 7c5092be	Ionizující záření nese dost energie (≥ # eV) k uvolnění elektronů z atomů. Horní část UV oblasti, rentgenové a γ záření a všechny rychlé nabité částice jsou ionizující; rádiové vlny a viditelné světlo ne.
+7c547340	Fotony γ # keV
 7c72fb1b	Ernstův úhel (BH)
 7c7da947	Efektivní dávka
 7c941c55	R8# (≈ terapeutická hloubka)
+7cae44a6	≈ # mGy
+7d0cb4a8	Při brachyterapii se zdroj umístí do nádoru nebo těsně vedle něj. Dávka strmě klesá se vzdáleností (zákon převrácených čtverců), což dává vysokou dávku v cíli při šetření okolní tkáně. HDR používá Ir-# (T½ # dní, střední energie ~# keV, ~# GBq) v dálkovém afterloadingovém přístroji; trvalá zrna LDR používají I-# (T½ # dní, #–# keV) nebo Pd-#.
+7d17d3db	Poloha pomocí gradientů
+7d1ab5c2	Projekce PA vytváří více rozptylu
 7d7615e3	Karcinom prostaty — zevní radioterapie
 7d96597f	Anamnéza
 7d972bea	V doprovodu matky; první zobrazovací vyšetření
+7db298cb	Kde má personál stát při skiaskopii (C-rameno vodorovně)?
 7dd6f549	Titanový implantát
 7de1562e	 let, 
+7dee6ced	HVL se zvětší (svazek se zatvrdí)
 7e0e48e1	cT2b N0 M0
 7e0faf28	Přitažení je okamžité; byla hlášena vážná zranění i úmrtí.
 7e323ea2	Napájení a data procházejí bez kabelů, takže se rentgenka může otáčet nepřetržitě — to umožňuje spirální skenování.
@@ -666,48 +1045,71 @@
 7e5ca532	Oční čočka
 7e64d602	Rentgenka a detektor se otáčejí kolem pacienta. Pro každý úhel θ a polohu detektoru s je naměřené zeslabení křivkovým integrálem μ(x,y). Soubor všech projekcí je <b>sinogram</b>: bodový objekt kreslí sinusovku.
 7e6646b7	CT břicha u objemného pacienta
+7e78e10c	(#/#)² = #/#; zeslabení a rozptyl v tkáni koriguje g(r), ale převládá zákon převrácených čtverců.
 7e86bdae	Hodnocení
 7e8c6db6	HVL a TVL
+7e958f84	Šum v CT pochází z kvantové statistiky. Směrodatná odchylka (σ) HU v ROI se mění nepřímo úměrně odmocnině z mAs a z tloušťky řezu. Čím je pacient silnější, tím víc exponenciálně klesá počet fotonů na detektoru a tím rychleji roste šum.
 7ec52420	Radioligandová terapie (PSMA, DOTATATE)
+7f80d327	Mapa všech projekcí podle úhlu a polohy na detektoru.
 7f8ed8ff	Heliová pumpa tiše hučí, ale klepání pochází z gradientů.
 7fa4aa8f	Léze # cm od levého oka
 7fa59d83	vodorovně: radiálně s • svisle: úhel φ
 7fa5ff5c	Úplné
 7fb12b63	Oblouk detektorů
+7fbf730c	Koincidence obou fotonů už určuje přímku události (LOR)
+7fcbce60	K = Ψ · (μ_tr/ρ)        (Ψ: fluence energie)
+7ff4afcd	Efektivní dávka je veličina rizika zprůměrovaná přes populaci. Slouží k porovnání výkonů a k optimalizaci ochrany, ne k výpočtu rizika konkrétního pacienta; k tomu jsou potřeba orgánové dávky.
+803de498	U vyjadřuje rozložení směrů svazku a T obsazenost; pro sekundární bariéry se používá U = #.
+804ba45f	Jak se musí změnit počet fotonů, aby se SNR zdvojnásobilo?
+8057daf6	Nepárové elektrony Gd³⁺ urychlují relaxaci, takže sycení je v T1-vážených obrazech světlé.
 8077377d	Týdenní portálový snímek
 807b9275	Správně: přitažlivá síla ~ B·dB/dz a je největší u vstupu do tunelu. V případě potřeby převez pacienta k ošetření do zóny III.
 80cc6fb4	Pozitron anihiluje s elektronem na dva protisměrné fotony # keV. Zachytí-li je dva protilehlé detektory během několika ns, zaznamená se koincidence (linie odezvy, LOR).
+80d30c6b	CTDIw = ⅓·CTDI_střed + #/#·CTDI_okraj     CTDIvol = CTDIw / pitch     DLP = CTDIvol · L     E ≈ k · DLP
 80d6fd98	α/β pozdně reagující tkáně
 80f76b66	Zeptat se na těhotenství a vyžádat test β-hCG
 80fd59df	Částice
 811c30cd	Počet projekcí (#°)
+817e06f4	Kontrolované pásmo
 8190561a	Bolest v pravém podbřišku, nevolnost (# h)
+8193cecf	Signál spinového echa
 819c9d03	Generátor Mo-#/Tc-#m
+81aa5ec6	<b>Pohyb:</b> pruhy a duchy, omezované krátkou dobou rotace a zadržením dechu.
 81ad7d36	Použij dlouhé kleště (zdroj # cm od těla)
 81b60676	Př
+81d7d87b	Fotony, které se v pacientovi comptonovsky rozptýlí, dopadají na detektor z náhodných směrů, snižují kontrast a přidávají šum. V silných částech těla může poměr rozptýleného a primárního záření dosáhnout #–#. Jak rozptyl omezit:
 8202e478	Stínění
 8210c814	Axiální řez mozkem
+8231915e	SPECT
 826d7453	Elektron
+82b88998	Monitor zobrazí jen ~# odstínů šedi, proto se volí okno (W) a úroveň (L): typicky W # / L # pro měkké tkáně, W # / L −# pro plíce a W # / L # pro kost.
 82ce6c55	Chrupavka
 82e2dbbd	Oblast a projekce
 82e733b7	<b>Rozptyl</b> snižuje kontrast: poměr rozptýleného a primárního záření roste s velikostí pole a tloušťkou pacienta. Mřížka propustí ~#% primárního a ~#% rozptýleného záření. Kolimace snižuje rozptyl i dávku.
 82fa204f	Široké pole zvyšuje rozptýlené záření a DAP; skutečnou ochranou je úzké pole.
+82fdbac3	Spektrum
 832d529e	MR kolena a bezpečnost MR
 832f8681	Plíce
 835889e9	Ledvina
 836bc242	#–# MV technikou VMAT dodá z mnoha úhlů dostatečnou dávku do hlubokého cíle; kůže je šetřena a neutrony jsou zanedbatelné.
 83754be6	Tvůj nejlepší: 
+8385b274	Dozimetrie a radiobiologie
 83d4e55a	# kV u velkého pacienta způsobuje pruhy z nedostatku fotonů a nadměrný šum.
 84737e5d	Odečty
+84cf07c1	Neexistuje vůbec žádné riziko
 85124f40	Šum # HU: diagnostický.
 8516948a	Vzorce
 851ad665	Úhel gantry
+851e9f59	Malé frakce šetří pozdně reagující tkáň, protože člen β se zmenšuje. Je-li však α/β nádoru nižší než u pozdní tkáně (prostata), hypofrakcionace zvýhodňuje účinek na nádor — proto byly studie CHHiP (# Gy/#) a PACE-B (# Gy/#) úspěšné.
 852fc0ce	Zeynep: „Předem jsem si odstříkala mléko. Manžel jí může dát lahvičku.“
 8567c350	Otevřít rozbor
 85e4b82f	OK
+8616bbc4	Podržení posledního snímku, kolimace a přiblížení detektoru k pacientovi snižují dávku.
 86260ec0	Jak hrát režim případů
+863c496a	Prostata je hypoxická
 8647f589	DI # → podexpozice: kvantový šum, nediagnostické.
 869cfa26	EQD2 pozdní tkáně
+86aa8c33	HVL se zmenší
 86c813a5	Impulzy
 86e1dbb8	Dva fotony # keV pod úhlem ~#°, zachycené dvěma detektory v koincidenčním okně několika ns → linie odezvy (LOR)
 87025a9c	Nukleární medicína: F-# FDG PET/CT, staging (MUDr. Er)
@@ -717,164 +1119,268 @@
 8762cac3	Energie protonů
 876b129d	Krok 
 8786af42	✓ Výborně
+87dbef57	<b>Reparace:</b> zdravá tkáň opravuje subletální poškození mezi frakcemi (odstup ≥ # h).
+87dc07cb	Jejich kožní dávka je nulová
 87e69378	Rozptýlené
+87ff7f51	<b>Reoxygenace:</b> hypoxické nádorové buňky se mezi frakcemi okysličí.
 882ac676	Dávka pro kojence
+88444e3c	Koincidenční detekce
 88674cd6	#) Vyber vlevo téma; témata jsou seřazena od základů po kliniku. #) Přečti si lekci; nepřeskakuj rámečky KLÍČOVÁ MYŠLENKA ani řešené příklady. #) Posouvej posuvníky obrázků a sleduj, co říkají vzorce. #) Udělej kvíz na konci lekce: vše správně označí lekci ★. #) Použij „Vyzkoušej v laboratoři“ a „Související klinický případ“ k uplatnění naučeného.
 886d0cbf	Hluk způsobují RF pulzy; žádné opatření není nutné
 888cc345	Ve # m (stíněno)
+88905e3e	p = ln(I₀/I) = ∫μ dl: jedno měření dává celkové zeslabení podél dráhy, proto je k rekonstrukci řezu potřeba mnoho úhlů.
+889fa24c	Jak se vyrábí F-#?
+88faff94	Faktor build-up klesá
+8904ba00	Kumulovaná aktivita Ã
+891d411a	Lineární přenos energie (LET) je energie předaná na jednotku dráhy. Fotony a elektrony mají nízký LET (~#–# keV/µm); částice α a pomalé těžké ionty mají vysoký LET (~# keV/µm) a zanechávají husté, obtížně opravitelné poškození DNA — odtud radiační váhový faktor # pro α.
 89235979	Když mateřský nuklid (Mo-#) žije déle než dceřiný (Tc-#m), A₂/A₁ se blíží konstantě: přechodná rovnováha. Je-li mateřský nuklid mnohem dlouhodobější (např. Sr-#/Y-#), vzniká trvalá rovnováha: A₂ = A₁.
+89261fb7	Jak se v gamakameře určuje poloha události?
+892a4e53	Generátor (přechodná rovnováha)
 892ef903	Jediný foton # keV
+89598673	Protože SNR ~ √N, zdvojnásobení SNR vyžaduje #× více fotonů — a #× vyšší dávku.
+896dd872	Deterministický účinek
 897fe13f	Kontrast a ledviny
 89d558f4	Vícekanálová přijímací cívka blízko tkáně zvyšuje SNR a umožňuje paralelní zobrazování.
 89f4c462	CNR ruptura/meniskus #: ruptura není vidět — je potřeba dlouhý TR (PD/T2).
 8a2fa41a	Aktivita, čas a akumulace
 8a355b34	PA, vestoje, SID # cm
 8a69358c	čas 
+8a794070	Gradientní cívky přidávají malé pole, které se lineárně mění s polohou, takže Larmorova frekvence závisí na poloze:
+8a79948a	Osobní dozimetrie a monitorování
 8aa94879	Doporučení (ICRP #, MAAE) u FDG nevyžadují přerušení kojení; doporučuje se na několik hodin omezit těsný kontakt a podávat odstříkané mléko.
+8ae221d1	Týdenní dávka v bodě za bariérou nesmí překročit návrhový cíl P: # mSv/týden (# mSv/rok) pro kontrolovaná pásma a # mSv/týden (# mSv/rok) pro nekontrolované prostory. Potřebná propustnost vyplývá z pracovní zátěže W, faktoru využití U, obsazenosti T a vzdálenosti d:
 8b0d147c	Kontrast kosti (# cm v # cm tkáně)
 8b0eb3c2	Pravé
+8b2fcd4a	Rentgenka se při # cm méně zahřívá
 8b5a89a7	Co kde převládá?
 8b68a871	Možné těhotenství a apendicitida
+8bde112c	Inverzní zotavení a potlačení tuku
 8c032c1a	Co si odnést
 8c5db0a7	<b>Fotoelektrický jev:</b> foton se zcela pohltí a z vnitřní slupky je vyražen elektron. Pravděpodobnost se mění zhruba jako Z³/E³.
 8c7d3087	Skóre: 
+8c83f65c	<b>PTV:</b> CTV/ITV + lem pro nastavení; preskripce se vztahuje k PTV.
 8c880991	Každá odpověď má vysvětlení a zpětnou vazbu.
 8ca7a950	Geiger-Müllerův počítač nebo ionizační komora zobrazující dávkový příkon v µSv/h; slouží ke kontrole kontaminace v horké laboratoři.
 8cde5d5c	Kolimátor + přídavná filtrace
+8d1ed6ee	S rostoucí vzdáleností roste
 8d46a34c	tloušťka (cm)
 8d815095	Interakce fotonů s látkou
 8d8cee46	Zákon převrácených čtverců
+8db1a663	Roste výsledná magnetizace, a tedy SNR
 8dbd5185	Čas # s — pacient vydrží v klidu.
 8de41236	Kardiostimulátor
 8e5380f5	Emir dokáže stát a spolupracuje. Jakou techniku zvolíš?
 8e925209	Radonova transformace • FBP • Hounsfield • Artefakty
 8ea57a5e	R9# (hloubka v pacientovi)
+8f11c218	η ≈ #×#⁻⁹ · Z · V   (W, # kV: ≈ # %)
 8f1b876c	Tvůj nejlepší
 8f30fea5	Výška / hmotnost
+8f7ca05e	Brzdná schopnost roste zhruba jako #/v², takže zpomalující částice předává stále více energie
 8fb29e12	Vlevo vyber téma a lekci. Hraj si s posuvníky obrázků a na konci každé lekce se otestuj.
 8fd05dbc	Léčba karcinomu štítné žlázy a hypertyreózy
+8fd304c9	CTDIw = #/#·CTDI_střed + #/#·CTDI_okraj        CTDIvol = CTDIw / pitch
+8fd58c41	Primární bariéra urychlovače # MV: W = # Gy/týden (ve vzdálenosti # m), U = #, T = # (kancelář), P = # mSv/týden = #×#⁻⁵ Sv (nekontrolovaný prostor), d = # m od izocentra. B = #×#⁻⁵ × # / (# × # × #) ≈ #×#⁻⁶ → n = # TVL. Pro beton TVL₁ = # cm, TVL_e = # cm (NCRP #): x ≈ # + # × # ≈ # cm betonu.
 8fed86d7	V pořádku, když to bude rychle
 8ff1e887	Rychlost času
 9017c010	+ Přidat svazek
+9018cfae	Jak závisí četnost náhodných koincidencí na aktivitě?
+901f2a3e	Fólie mění elektrony na fotony
+902aac5f	M = SID/SOD a U_g ~ OID/SOD: při malém OID a velkém SID se srdce zobrazí téměř ve skutečné velikosti a ostře.
 90571e3f	 kvízových otázek
+905ee9cb	Kerma a absorbovaná dávka
 907a4bcf	Dávka pacienta (efektivní)
+907fefb6	CTDIvol
+908240bf	SUV = C_tkáň [kBq/mL] / (A_aplikovaná [kBq] / hmotnost [g])
+90c0a335	Kolimátor
 90d642b7	α/β nádoru ≈ # Gy, pozdní účinky na kůži / chrupavku α/β ≈ # Gy. Co se hodí pro #letou pacientku, které denní dojíždění dělá potíže?
 90da7a12	Rentgen
+90dd40c0	Ve větším poli dopadá na centrální osu více rozptýlených fotonů, což zvyšuje PDD, zejména v hloubce.
 90e8ad1a	Tkáň
 91078d77	Spektrum rentgenky, filtrace, HVL, rozptyl, detektor a dávka pacienta.
 91258979	Radiofarmakum
+915b2438	Mřížka zlepšuje kontrast — co ale ještě zvyšuje?
 91882d73	Dolet CSDA (Bethe / NIST)
+9192b5dc	Fotony # keV neprojdou olovem
+91a42068	Od elektronů k fotonům
 91a7732a	Rychle spínané gradientní proudy působí v B₀ Lorentzovy síly; hluk může přesáhnout # dB → špunty / sluchátka jsou povinné
 91b76332	Uklidňující, ale nepřesné: stochastické riziko je nepatrné, ne nulové.
+9238d6ff	Pro radiační pracovníky
 926d87c3	Zachytí systematickou chybu nastavení, ale ne denní pohyb orgánu → větší okraje a dávka na rektum.
 928ef299	žena
+9293a3fa	<b>Parciální objem:</b> v silných řezech se různé tkáně průměrují v jednom voxelu.
 92fe3fad	Pouze vzdělávací obsah — ne pro klinická rozhodnutí.
 9340f08a	Přeměnová konstanta λ
+9364ced4	Pozitron urazí v tkáni ~# mm a anihiluje s elektronem na dva téměř protisměrné fotony # keV. Zachytí-li prstencové detektory (LYSO, BGO) oba v koincidenčním okně několika nanosekund, leží událost na čáře odezvy (LOR) mezi nimi. Kolimátor není potřeba, proto je citlivost mnohem vyšší než u gamakamery.
+93672c16	Všechny hodnoty detektorů pod jedním úhlem tvoří projekci; seřazené podle úhlu a polohy v rozsahu #°+úhel vějíře tvoří sinogram. Každý bod řezu opisuje v sinogramu sinusovku.
+936f0729	M₀ ~ B₀ a SNR roste přibližně s B₀, SAR však roste jako ~B₀² a časy T1 se prodlužují.
+93755f1f	Signál mozkomíšního moku (volné tekutiny)
 93798b62	Generátor
 93926697	Antropomorfní fantom
+93c69625	Proud rentgenky × čas; lineárně určuje počet fotonů (a dávku).
 93fd33cf	Mx (signál)
 94397cd5	Potenciální zdvojovací čas Tpot
 9441540c	DLP = CTDIvol × délka; popisuje celkové ozáření, ne orgánovou dávku.
+947997c0	Jaký je roční limit dávky na oční čočku pro pracovníky (ICRP #)?
 948fe972	kV rentgenový zdroj
 94a38054	Tvé rozhodnutí
+94ab30dc	<b>Měřiče:</b> ionizační komora pro dávkový příkon; GM nebo „pancake“ sonda pro kontaminaci.
 94cc8d3b	Dávka kojence ≈ 
 94f37251	Samotný CTDIvol
 951e2e51	ZOBRAZIT ROZBOR  →
 95a8c428	Mo-# (T½ # h) → # % → Tc-#m (T½ # h). Mo-# je vázán na koloně z oxidu hlinitého; Tc-#m se jeho přeměnou hromadí a „eluuje“ se fyziologickým roztokem.
+95ac4fdd	„Pravidlo # %“: zvýšení kVp o # % zhruba zdvojnásobí expozici na detektoru, takže lze mAs snížit na polovinu. Dávka pacientovi obvykle klesne, ale kontrast také.
 95bce1b7	Vzduch
 95be3cc5	Nejlepší 
 95d6d65a	Laboratorní soustava (zobrazit precesi)
+95f2bf9e	Prahy (γ,n) většiny materiálů leží kolem #–# MeV, proto mají svazky #–# MV znatelnou kontaminaci neutrony.
 95f4d5de	Pole a ochrana oka
+95f8091a	Principy ochrany a limity dávek, čas–vzdálenost–stínění, návrh stínění místností, osobní dozimetrie, těhotenství, děti a komunikace rizika.
+962e3a8d	Poměr α/β (Gy) je dávka, při níž jsou oba členy stejné: ≈ # Gy pro časně reagující tkáně a většinu nádorů, ≈ # Gy pro pozdně reagující tkáně (mícha, rektum, fibróza kůže). Karcinomy prostaty (~# Gy) a prsu (~# Gy) mají nízký α/β.
 963b7c8f	Ahoj! Bolí ten přístroj? Může maminka počkat venku?
+963c7428	#–#krát
 966d8f4b	Emirův hrudník je ≈ # cm silný (dospělý ≈ # cm). Nastav kVp, mAs, filtr, mřížku a pole a pak stiskni EXPONOVAT. Cíl: DI −#…# a ESAK ≤ # µGy.
+969a2726	Dávka za Braggovým vrcholem prudce klesá; vstupní dávka není nulová, ale je nižší než u fotonů.
 96c251ec	Fourierova věta o řezu: #D Fourierova transformace projekce je řezem #D Fourierovy transformace obrazu. Projekce se proto nejprve filtrují rampou |f| a pak zpětně promítnou. Nefiltrovaná zpětná projekce dává rozmazání #/r.
 97080889	Průměr pacienta
 97197ddf	Týden se vyhýbejte jakémukoli kontaktu
 971c410e	Radioaktivní přeměna, generátor Mo-#/Tc-#m, koincidence PET a MLEM.
 9741e45e	Neexistuje žádné riziko, nulové záření.
 97563b2a	Stíní záření gama, když je lahvička uložena nebo přenášena; na fotony # keV z Tc-#m stačí pár mm olova.
+97667826	Přebytek v paralelním stavu je nepatrný (~# ppm při # T), ale obrovský počet protonů ve voxelu dává měřitelnou výslednou magnetizaci M₀, která roste s B₀ — proto vysoká pole poskytují lepší poměr signálu k šumu.
+9773e002	γ # keV, T½ # h; nejpoužívanější radionuklid.
+978d448a	Vnitřní dozimetrie a bezpečnost pacienta
 979c2167	Povrchová dávka (šetření kůže)
 97fc3c0a	Jsi radiologický fyzik nemocnice. Každý pacient je případ: přečti si kartu, rozhodni se a podívej se na výsledky spočtené skutečnými fyzikálními modely. Po každém kroku se dozvíš, proč byl správný nebo špatný.
 981c2b72	kV detektor
 98333fde	Beton
 9837047f	Léze + okraj ~# cm (olověné vykrytí ≈ # cm); oko mimo pole, v případě potřeby vnitřní oční štít
+98532465	GRE:  S = PD·sinα·(# − E₁)/(# − cosα·E₁)·e^(−TE/T2*)      Ernstův úhel: cos α_E = e^(−TR/T1)
 98582d5e	Nepřímo ionizující
 9867b7d1	Dávkový příkon klesá se čtvercem vzdálenosti, Ḣ = Γ·A/d². Barvy podlahy ukazují tento příkon; bílá čára značí # µSv/h.
+986c335e	Pro srovnání: celosvětový průměr přírodního pozadí je ≈ # mSv/rok (UNSCEAR). Snímek hrudníku PA ≈ # mSv (~# dny), CT břicha ≈ # mSv (~# roky), let Istanbul–New York ≈ # mSv.
+9888d039	<b>Pohyb a tok:</b> duchy ve směru fázového kódování.
 9895bce3	EQD2 nádoru
 98b07aa5	Ne — maximální energie elektronů (# keV) nestačí k ionizaci slupky K
 98f224a5	EXPONOVAT
 9920e564	Hodnocení plánu
+992370e6	Přeměna α
 993014d9	Hmotnost
 9945210a	Algoritmus
 994bbd58	Pravidlo: R ≈ #·E^#
 995324ac	Čas 
 995c9ab4	#. Dozimetrie
 9970e954	PET: koincidence a rekonstrukce
+9973e834	Pravidla pro elektrony
 997b38dc	Protokol přizpůsobený velikosti
 99a15c5e	Efektivní dávka (přibl.)
+99a61a5f	Skiaskopie a mamografie
 99a7a50a	POKRAČOVAT  →
 99f7bee7	Sběrací kroužek
 99fa0dc1	Dostatečnost četností A·t / (#·kg)
 9a125d51	Elektrony z rozžhavené katody se urychlují napětím kVp na rotující wolframovou anodu. Jen ~# % jejich energie se změní v rentgenové záření (brzdné + charakteristické); zbytek je teplo.
 9a23c97b	FDG PET/CT u kojící matky
 9a2b880f	Tloušťka pacienta / SSD
+9a548d26	pitch = #/# = #; při stejném mAs je CTDIvol #/# hodnoty při pitchi #.
 9a73db9b	Jazyk
+9a83f5a9	Procentuální hloubková dávka
+9ab3d4c5	# µSv/h
 9b012adc	Vzdálenost od zdroje
+9b173448	„Tento snímek hrudníku znamená asi # mSv — tolik záření dostaneme z přírody zhruba za # dny. Přínos správné diagnózy zápalu plic je mnohem větší než toto velmi malé riziko.“
+9b1a53e6	≈ # %
+9b243684	Musí se zčtyřnásobit
+9c46f193	Každý otvor přijímá fotony z kužele, jehož stopa roste se vzdáleností, což zhoršuje rozlišení — proto se detektor umisťuje blízko pacienta.
 9c4aa55c	Rentgenka
 9c506f53	Úroveň řezu
 9c528492	Vinutí z NbTi chlazená kapalným heliem na ~# K. B₀ (# / # T) je stále zapnuté: feromagnetické předměty se stávají projektily.
 9c70fc8a	Fokusované tenké olověné lamely pohlcují fotony rozptýlené v pacientovi. Kontrast se zlepší, ale mAs musí vzrůst pro stejnou dávku na detektoru (Bucky faktor #–#).
 9c8081f1	Otevřít laboratoř
 9cabb538	Čas • Vzdálenost • Stínění
+9cb890cd	Signál spinového echa obsahuje členy T1 i T2:
+9ce536e5	U CT s dávkou # mSv je nominální dodatečné riziko rakoviny ≈ # Sv × # / Sv ≈ # %, tedy asi # z # — málo vedle ~# % celoživotní základní incidence rakoviny, přesto však vyžaduje zdůvodnění.
 9cf82695	Výsledky
 9d145291	Fotoelektrický jev
+9d21a288	Mřížka pohlcuje i část primárního svazku, takže pro stejný signál na detektoru musí mAs vzrůst #–#×.
 9d2b5423	Popisuje výkon skeneru a nebere v úvahu velikost pacienta.
 9d3d585c	Modalita všech svazků
+9d49828f	Samotné elektrony jsou léčebným svazkem; fólie rozšíří úzký svazek na široké homogenní pole
+9d598f66	Poměr kyslíkového zesílení pro rentgenové záření je ~#–#; pro záření s vysokým LET se blíží #.
 9d6f6466	Filtr přednostně odstraňuje fotony nízkých energií (<b>tvrdnutí svazku</b>), které by jen zvyšovaly dávku na kůži. Více filtrace zvyšuje střední energii a polotloušťku a snižuje výkon.
 9d70bd7a	DI = #·log₁₀(EI / EI_target): # ≈ o # % více, −# ≈ o # % méně, # ≈ #× dávka na detektoru.
+9de25720	Faktor využití U
+9de4bb08	Tkáně prsu (tuk, fibroglandulární tkáň, nádor) se v zeslabení liší jen velmi málo, proto se používají nízké energie, kde převládá fotoefekt: #–# kVp s anodou/filtrem Mo/Mo, Mo/Rh, W/Rh nebo W/Ag. Komprese snižuje tloušťku, rozptyl, pohyb i dávku. Mikrokalcifikace vyžadují velmi malé ohnisko (#–# mm).
 9e134627	Klinické případy — # pacientů čeká
 9e1d18ea	#. Radiobiologie
+9e2b6eb5	PTV
 9e452222	Které z nich je nepřímo ionizující?
 9e75940c	Aktivita
 9e7b7a87	EQD2 nádoru = n·d·(d + #)/(# + #) = # Gy — vyšší, než je třeba.
+9e851bcc	Fyzika radioterapie
 9e8abbb2	Měřič pracovníka ukazuje příkon prostorového dávkového ekvivalentu H*(#) v místě, kde stojí; nastřádaná dávka = příkon × čas.
 9e995ba1	Frakcionace (LQ model)
+9eb1083f	Ve velíně
 9ebe06d9	Snídaně před # hodinami
+9f012d98	Klesá SAR
 9f24f2f7	Kontrastní látky využívají tuto fyziku: K-hrana jódu leží na # keV a gadolinia na # keV. Absorpce skokově vzroste, když je energie fotonu těsně nad K-hranou.
+9f323307	Doba snímání T = TR × N_fáze × NEX / ETL
 9f3f7105	Rekonstruuji…
 9faeab39	Zákon zachování hybnosti vyžaduje dva fotony.
 9fc55136	Signál v závislosti na TE (pokles T2)
+9fc5a477	Buňka je převážně z vody; radikály OH· z radiolýzy způsobují asi dvě třetiny poškození a kyslík je činí trvalým.
+9fed9d91	Tvar zůstane stejný; počet fotonů se při každé energii zdvojnásobí
 9ffc9a24	Změř HU: klepni na plíci (< −#), tuk (−#…−#) a kost (> #)
 a049bc94	Kontrast T1 / T2 / PD
+a049c691	Obraz se zvětší
+a07e0be8	Tc-#m MDP
+a0899a7e	Zčtyřnásobit mAs
+a0a42eb1	Stochastický účinek
+a0afe4ef	CTDIw = #/#·CTDI_střed + #/#·CTDI_okraj     CTDIvol = CTDIw / pitch
 a0cf38d2	Doba akumulace vhodná: standardní poměr nádor/pozadí (srovnatelné SUV).
 a12d8b93	Atomy, jádra a záření
 a13c66b3	Efektivní dávka ≈ # × 
+a147ccfe	Co potlačuje sekvence FLAIR?
 a14e7f7e	Jodová kontrastní látka (srdce/aorta)
+a15a9e57	Denní kontrola kvality: homogenita (flood) a nastavení energetického píku; týdně rozlišení/linearita.
 a15fa5b0	Vzorkování
+a1691857	Člen #/v² v Betheho vzorci: s klesající rychlostí roste ztráta energie na jednotku dráhy, což vytváří ostrý vrchol na konci dosahu.
 a1793be6	Kost / vzduch
 a17f6a53	# náhodných otázek ze všech témat — dobrá příprava na pohovory k magisterskému studiu a zkoušky.
 a1be3d2c	Boční (LAT)
 a1d821ab	#. Artefakty
+a2059fd4	Rozfázování vlivem statických nehomogenit pole (efekt T2*)
 a219bf8b	Čekárna
 a22bd65a	protony
 a267e784	Efektivní dávka ≈ # × # = # mSv (ICRP #).
 a26d32ed	Obnova Mz (TI)
+a27c2818	Nezmění se
 a28c2366	Elektrony urychlené ve vlnovodu na MeV se stáčejí na terčík (fotony) nebo přes rozptylovou fólii (elektrony). Je zde i vyrovnávací filtr a monitorovací komory (MU).
+a2b24ff7	U žen ve fertilním věku se nejprve ptáme na těhotenství, pokud je pánev v primárním svazku nebo se má podat radionuklid, v případě potřeby s testem β-hCG. Dávky na plod z diagnostických vyšetření jsou většinou < # mGy; pod ~# mGy se neočekávají deterministické účinky a ukončení těhotenství nelze lékařsky zdůvodnit (ICRP #). Dodatečné riziko nádoru v dětství je ≈ # % na # mGy (základní riziko ≈ #–# %).
+a2b54d61	Reprezentace surových dat MR v prostorových frekvencích; obraz je jejich Fourierovou transformací.
 a2c330b1	Ověř, že R5# elektronového svazku odpovídá pravidlu E/#
 a2eb2f51	Radioaktivní přeměna (Monte Carlo)
 a2ed22c4	efektivní průměr D_eff (cm)
 a30f0337	PDD elektronů: povrchová dávka roste s energií (# MeV ≈ # %, # MeV ≈ # %); bolus zvyšuje povrchovou dávku a zkracuje dosah.
+a331c4a6	R9# ≈ E/# → E ≈ # × # ≈ # MeV; # MeV by zbytečně ozařovalo do hloubky.
+a340d8fe	Klesne na #/# své hodnoty
+a370731d	Principy CT: projekce a sinogram
+a3729e56	Projekce a sinogram, filtrovaná zpětná projekce a iterativní rekonstrukce, Hounsfieldovy jednotky, kvalita obrazu a artefakty, CTDI/DLP/SSDE.
 a37bf952	Výborně — skutečný radiologický fyzik!
 a408a7ff	Ženy ve fertilním věku s pánví ve svazku: nejprve vyloučit těhotenství (podle potřeby β-hCG).
 a431924a	Zvednout zdroj
+a45ef663	Kerma
 a475164f	Olovo
 a4843b38	Kost (# cm) # % — zbytečně vysoká: riziko osteoradionekrózy. Zvol nižší energii.
+a49d211b	Deterministické účinky (tkáňové reakce) mají práh a jejich závažnost roste s dávkou. Příklady: přechodný erytém kůže ~# Gy, dočasná epilace ~# Gy, zákal čočky/katarakta ~# Gy (ICRP #). Proto se u dlouhých výkonů pod skiaskopií sleduje dávka na kůži.
 a4a2847a	Krátký TR + krátký TE → T1-vážený; dlouhý TR + dlouhý TE → T2-vážený; dlouhý TR + krátký TE → protonová denzita.
 a4be5f34	Izotop
 a4eeda8f	Léze
+a50bb8ca	Dávka elektronů za určitou hloubkou rychle klesá, což je ideální pro povrchové cíle. Rychlá pravidla (E v MeV, hloubka v cm): R9# ≈ E/# (léčebná hloubka), R8# ≈ E/#, praktický dosah Rp ≈ E/#. Povrchová dávka je vysoká (#–# %) a roste s energií; bolus ji dále zvyšuje a zkracuje dosah v pacientovi.
 a50be870	Stůl pacienta
 a51067fd	Přeměna
+a5206542	# h ≈ # poločasy (T½ = # h): # × (#/#)² = # MBq.
+a56385b1	Měrný absorbovaný výkon: jak rychle se RF energie v tkáni mění na teplo (W/kg).
 a5916fb6	Případ dokončen — 
+a59db3b2	Radioaktivní přeměna, výroba radionuklidů a generátory, gamakamera a SPECT, PET, vnitřní dozimetrie a bezpečnost pacienta.
+a5a30ba8	Kyslík „fixuje“ poškození volnými radikály, proto jsou hypoxické buňky #–#krát odolnější (poměr kyslíkového zesílení, OER). Hypoxické jádro nádorů je proto léčebným problémem.
 a5a57f6f	Při zobrazování pochází kontrast z velké části z fotoelektrického jevu, protože závislost na Z³ výrazně odliší kost (Ca, Z = #) od měkké tkáně (efektivní Z ≈ #). Comptonův rozptyl je hlavním zdrojem rozptýleného záření, které snižuje kontrast.
 a5d46b38	DLP (sken # cm)
 a5ee64bb	Průměrování (NEX)
@@ -884,44 +1390,74 @@ a60a634d	Dávka kojence ≈ # µSv (zákon převrácených čtverců: dávkový 
 a6310194	Poradenství
 a650d3f5	INTERAKTIVNÍ OBRÁZEK
 a66f47bd	Tloušťka olova
+a675b402	<b>Testy end-to-end:</b> ověřují celý řetězec od CT simulace po ozáření s antropomorfním fantomem.
+a6b773b5	Co ruší spinové echo?
 a6e53476	Tělová RF cívka
 a6f33ef9	Správně: číselné srovnání (přírodní pozadí ≈ # mSv/rok ≈ # µSv/den), spolu s vysvětlením odůvodnění a ALARA.
 a704e2e8	Klein–Nishinův účinný průřez určuje úhel Comptonova rozptylu a energii odraženého elektronu. Simulace Monte Carlo sleduje každý foton a elektron; dávka konverguje se statistickou nejistotou σ ~ #/√N.
 a72ca2ae	Přidej biologický poločas a sleduj efektivní poločas (I-#)
 a77fb204	Když je elektron z vnitřní slupky odstraněn, vnější elektron zaplní vakanci a rozdíl se vyzáří jako charakteristické rentgenové záření nebo Augerův elektron. Charakteristické energie jsou pro prvek specifické; čára Kα wolframu v rentgence má ≈ # keV.
 a7ae7cae	# MeV
+a7b12571	CT břicha: CTDIvol # mGy na délce # cm. DLP = # mGy·cm, E ≈ # × # ≈ # mSv — přibližně # let přírodního pozadí.
+a7fc4636	Jeví-li se střed vodního fantomu tmavší než okraj, jaká je příčina?
+a81646ff	Energetické okno (# keV ± # % pro Tc-#m) odmítá většinu rozptýlených fotonů.
 a85562cb	Dotaz na těhotenství vynechán: plod mohl být nevědomky ozářen.
+a85680c5	#/# (# %)
 a861d965	Rekonstruovat
 a86b43b2	Filtr bowtie + kolimátor
+a8721f49	Orgánové dávky mimo pole jsou už tak nepatrné; kryt v poli zhorší obraz a způsobí, že expoziční automatika dávku zvýší.
 a87f9edd	Každá čára je koincidence (LOR): zelená = pravá, žlutá = rozptýlená, červená = náhodná. Nasbírej dost impulzů a pak „Rekonstruovat“.
 a8b4a774	SSDE — CTDIvol korigovaný na efektivní průměr
+a8ca95fa	≤ # %
+a8efac85	<b>Optimalizace (ALARA):</b> dávky se udržují tak nízké, jak lze rozumně dosáhnout; u pacientů to znamená snižovat dávku při zachování diagnostické kvality (nástrojem jsou DRL).
 a93ad5ad	šum σ (HU)
+a949da20	Účinnost rentgenky
 a97badd0	Proveď první sken a sleduj, jak se plní sinogram
 a97d3fea	Efektivní (monoenergetická) energie
 a9887e52	Výukové centrum
 a99ef883	Počítám…
+a9ec004a	pitch = posun stolu na otáčku ÷ celková kolimace
 a9f0a4e6	Body
 a9f3146e	Voda / kost / olovo
+aa119389	ESAK
+aa1209da	Jaká je přibližně efektivní dávka CT hrudníku s DLP # mGy·cm?
 aa28ed13	Buněčná kultura (#D)
 aa2ce59e	Histogram dávka-objem (DVH)
+aa36db58	≈ # MV
 aa430d6d	Neodůvodněné: dětské CT hrudníku ≈ #–# mSv oproti ≈ # mSv u PA snímku. Porušuje princip odůvodnění (ICRP #).
 aa4446a7	Filtrované (vstup)
+aa7069a5	Supravodivý magnet nelze jen tak „vypnout“. Quench vypustí helium, je nákladný a může snížit obsah kyslíku v místnosti; provádí se jen při ohrožení života (např. osoba přimáčknutá k magnetu). Při zástavě srdce se pacient k resuscitaci přesune do zóny III.
 aa7120ec	Vysadit metformin na # h, pak skenovat
 aaaa64f1	Zatížení rentgenky
+aad07647	Pohyb
 aaede69c	ACR Appropriateness Criteria a ACOG: nejprve ultrazvuk, pak MR bez gadolinia — bez ionizujícího záření.
 aaee7048	Doba měření (# fáze, ETL #)
+ab06bf6d	Inverzní čas STIR pro tuk (T1 ≈ # ms) při # T: TI ≈ # × # ≈ # ms; v praxi se používá #–# ms, protože TR je konečné.
 ab14bcac	Výpočetní tomografie
 ab25d4ea	Faktor zpětného rozptylu BSF ≈ #. DAP (Gy·cm²) nezávisí na vzdálenosti a převádí se na efektivní dávku koeficienty: hrudník PA ≈ #, břicho ≈ #, pánev ≈ #, lebka ≈ # mSv/(Gy·cm²). Typický hrudník PA: ESAK ~#–# mGy, E ~# mSv.
+ab344af2	<b>Pravé, rozptýlené a náhodné koincidence:</b> náhodné rostou se čtvercem aktivity (korigují se zpožděným oknem); rozptyl se koriguje modelováním.
 ab834a11	Biologický poločas (# = žádný)
 ab8ca2c5	Vodní fantom
+aba2f3f7	Pulzní skiaskopie a nízká snímková frekvence (např. # snímků/s) úměrně snižují dávku.
+abb049f7	Elektronové svazky
+abc084d1	Co se zhruba stane, když se léčba nádoru hlavy a krku prodlouží o týden?
+abcdcf7a	Jaká hodnota RBE se používá v klinické protonové terapii?
 abdee8d2	MV fotony interagují ve vodě hlavně Comptonovým rozptylem; energii předávají sekundární elektrony na několika cm. Proto je dávka na povrchu nízká a stoupá do dmax (<b>build-up</b>; šetření kůže). Pak klesá vlivem zeslabení a zákona převrácených čtverců.
 abe195be	Přepni na plicní okno u řezu hrudníkem
 abe68d6f	Dechová frekvence
+abfef648	<b>Radiochromní film (EBT3/EBT4):</b> #D rozložení dávky s vysokým prostorovým rozlišením, používá se pro kontrolu kvality IMRT pacienta.
+ac46edc7	Proč má ve van Herkově vzorci systematická chyba (Σ) větší koeficient než náhodná chyba (σ)?
 ac5b89c3	Dávka na frakci
 ac720a66	Úzký a široký svazek: build-up
 ac737796	Zobrazuje vystupující terapeutický svazek (portálový snímek); slouží k ověření tvaru pole a podané dávky.
+ac7d67eb	Nejistoty
+ac92d741	Jak se monitoruje dávka na oční čočku u pracovníka s olověnou zástěrou?
 aca79e3e	Kroky: 
 aced2b71	Frakcionace (starší pacientka)
+acf4af3c	Která tkáň má váhový faktor #?
+acf8c2eb	Proč se v elektronovém režimu terčík vysune a používá se rozptylová fólie?
+ad7cb1fd	A = λ·N     # Bq = # přeměna/s     # mCi = # MBq
+ad863383	Radioaktivní pacient je po určitou dobu zdrojem: dávkový příkon ve # m odpovídá Γ·A/d². Pacienti po terapii (např. I-#) se propouštějí podle národních limitů dávkového příkonu nebo aktivity, s písemnými pokyny omezit blízký kontakt s dětmi a těhotnými ženami.
 ada7afdb	žádné
 ada880a8	Teorie bude brzy.
 adbf56a0	Energií: γ záření má vždy vyšší energii
@@ -930,16 +1466,31 @@ ae20a6a3	Brzdná schopnost roste jako #/β², jak se proton zpomaluje; většina
 ae27b827	Režim klinických případů
 ae6bb2bb	max. 
 ae888d5f	Izodóza # % elektronů se v hloubce zužuje: vykrytí má být ~# cm větší než léze.
+aeb91213	Objemy ICRU
+aebe6d8f	Únik je omezen na ~# % pracovní zátěže; rozptyl závisí na úhlu a velikosti pole.
 aef94af7	Správně. 
 af010c63	Kost (žebro/pánev)
+af366776	U těhotné pacientky s dělohou v primárním svazku je dávka plodu ≈ SSDE; je hluboko pod # mGy, kde se deterministické účinky neočekávají (ICRP #).
+afbed5fb	Jaký je pitch při kolimaci # mm a posunu stolu # mm na otáčku?
 afe72516	Ostré maximum dávky na konci dosahu těžké nabité částice.
 afe8043f	čas (h)
+aff91e2c	Přežití buněk nejlépe popisuje lineárně-kvadratický (LQ) model. Člen α představuje letální poškození jedinou stopou, člen β interakci poškození ze dvou samostatných stop.
+b0411b94	#krát
 b081abb7	izomerní přechod (IT)
+b08d33bd	Konformní radioterapie #D používá několik pevných polí tvarovaných MLC. IMRT dělí každé pole na malé segmenty pro modulaci intenzity, přičemž inverzní plánování optimalizuje účelovou funkci (dávky do cíle a omezení pro OAR). VMAT plynule mění MLC, dávkový příkon a rychlost gantry během její rotace a dosahuje kvality IMRT za několik minut.
 b0adb207	Proč je druhá polotloušťka polyenergetického svazku větší než první?
 b0c23fb1	Aktivity (přechodná rovnováha)
+b0ca3b9d	Kolik TVL stínění sníží dávkový příkon #krát?
+b0d829f3	≈ # cm
 b0db6938	 dní
+b0e35e18	Pouze ochranu před zářením beta
+b0e55336	<b>Korekce zeslabení:</b> oba fotony společně projdou celou tloušťkou těla; z CT se vytvoří μ-mapa pro # keV.
+b0e5e70b	SPECT rekonstruuje řezy, podobně jako CT, z projekcí získaných otáčením kamery kolem pacienta (obvykle OSEM). Korekce zeslabení využívá CT ze SPECT/CT.
 b0f260dc	Při podezření na zápal plic to není první volba; boční snímek vyžaduje vyšší dávku a sám nestačí.
 b11e7606	Které položky dotazníku vyžadují před MR DALŠÍ OPATŘENÍ? (vyber všechny vhodné)
+b17551b5	Kolikrát přibližně jsou hypoxické buňky odolnější než dobře okysličené (nízký LET)?
+b18eabf1	Podle Braggovy–Grayovy teorie dutiny se dávka v prostředí rovná dávce v dutině krát poměr hmotnostních brzdných schopností prostředí/plyn. V praxi se používá protokol IAEA TRS-# nebo AAPM TG-#:
+b1a99313	Repopulací se ztratí ≈ # Gy EQD2 účinnosti
 b1b83851	hloubka ve vodě (cm)
 b1c222ab	EQD2 = n·d·(d + α/β)/(# + α/β). Nádory s nízkým α/β (prostata ≈ #) mají z hypofrakcionace prospěch.
 b1c8c38e	Pruh: denní podíl pracovníka (# mSv/rok ÷ # dní = # µSv).
@@ -949,33 +1500,55 @@ b232d1f0	Pokrytí léze: minimum # % — úplné.
 b2697ad8	Rentgenové a γ záření jsou stejný druh fotonů; liší se jen původem. Rentgenové záření pochází z elektronů (brzdné záření nebo přechody mezi slupkami), γ záření z jádra (radioaktivní přeměna).
 b2972ae3	Hlava
 b2aad11c	Parametry skenu
+b31c403d	<b>Geigerův–Müllerův počítač:</b> velmi citlivý počítač k hledání kontaminace; nedává informaci o energii. K měření dávkového příkonu je vhodnější přístroj s ionizační komorou.
+b32962b7	Historická veličina expozice (C/kg) měří jen ionizaci ve vzduchu. Vytvoření jednoho iontového páru ve vzduchu stojí v průměru W/e = # J/C, takže K_vzduch = X · #.
 b33eb976	Model: geometrie paralelního svazku (přeuspořádaná data vějířového svazku), energii integrující detektor, rozptyl zanedbán.
 b34b3fcd	Pauza / Spustit
+b357382c	Artefakty
+b3615a21	Jakou část M₀ podélná magnetizace obnoví za jeden T1 po pulsu #°?
 b3755394	Pravděpodobnost fotoelektrického jevu velmi strmě roste s protonovým číslem a strmě klesá s energií — proto nízké kVp zvyšuje kontrast kostí.
 b38452f0	Značka (TR nebo TE)
+b391a968	Druhým dozimetrem ve výšce límce, vně zástěry
+b397b1d8	Kůže
 b3af5cc8	#. ALARA a limity
+b3c141a0	Bezpečnost MR
 b3f9f066	Strašně to bolí… a nevím, jestli nejsem těhotná.
+b43b8664	S = exp(−α·D − β·D²)        při n frakcích:  S = exp[−n(α·d + β·d²)]
+b45d336f	Kolik zbude z # MBq Tc-#m po # hodinách?
 b48eaaae	#. k-prostor
+b4b43e70	U vstupu do tunelu, kde je prostorový gradient pole největší
+b4cffd96	<b>Chemický posun:</b> světlý/tmavý proužek na rozhraní tuk–voda ve směru frekvenčního kódování.
 b4d90f43	Dávka pacienta
+b50e98d5	Tři základní principy (ICRP #)
 b528da3e	Neprůhledná
 b5377fa4	Ocel
+b53e3b71	K porovnání frakcionačních schémat používáme biologicky efektivní dávku (BED) a ekvivalentní dávku ve frakcích po # Gy (EQD2):
 b54b4085	Přibliž se ke kontejneru (< # m).
 b54d1bc5	Prozkoumej laboratoře
 b58894f8	V rotující soustavě (x', y') se otáčíme Larmorovou frekvencí: viditelné zůstávají jen frekvenční odchylky (Δω).
 b589c5ea	Šířka pole (izocentrum)
+b5bc01ee	Převládá tam brzdné záření
+b5df3592	Aby se šetřila rentgenka
 b5f6bbb8	cíl 
+b6289cee	Sekvence a kontrast
+b63830af	Polaritu komory
 b6b8c8bf	Larmorova precese, Blochovy rovnice, T1/T2, spinové echo, k-prostor.
+b6db5e97	Jaké je typické gama kritérium pro QA pacientů s IMRT?
 b6e00083	Srdce
 b6e56670	Polotloušťka a desetinová tloušťka
 b6fab935	PD-vážený
+b70423e7	Mayneordův faktor F
 b72c1283	#. Fotonové svazky a hloubková dávka
 b7312de4	Vzduch −#, voda #, tuk ≈ −#, měkké tkáně #…#, kost #…# HU. Protože oko rozliší jen ~#–# odstínů šedi, obrazy se zobrazují přes okno (šířka W, střed L): plíce W1#/L−#, měkké tkáně W4#/L4#, kost W2#/L4#, mozek W8#/L3#.
+b7362550	Repetiční čas (mezi excitacemi) / echo čas (mezi excitací a signálem).
 b77556fd	Energie fotonu je úměrná jeho frekvenci: E = h·ν. Praktická zkratka je E[keV] ≈ # / λ[nm]. Rádiové vlny (MR), viditelné světlo i rentgenové/γ záření jsou tentýž jev při různých energiích.
 b7d0e925	Energie dopadajícího fotonu
 b7fdc96d	Od poslední eluce
 b8095719	EANM: A·t ~ hmotnost. Delší vyšetření umožní nižší aktivitu i dávku.
+b80f1610	PET využívá jen rozptýlené fotony
 b846a137	Vyber úroveň řezu a stiskni SKEN. Klepnutím na obraz změříš HU.
 b85a81d5	Frakcionační schéma
+b8624b08	Labyrint nutí rozptýlené fotony několikrát se odrazit, než dorazí ke dveřím. Nad # MV obsahují dveře také borovaný polyethylen a olovo proti neutronům a záchytovému záření gama. Po instalaci je povinné radiační měření.
 b8628c9b	Spongiózní kost
 b86f8853	ŘEŠENÝ PŘÍKLAD
 b8757751	Ano; zevní radioterapie vás radioaktivním neudělá — po vypnutí přístroje nic nezůstává
@@ -987,32 +1560,66 @@ b8e79c59	Pro vodu je μ/ρ (# keV) = # cm²/g, takže μ = # cm⁻¹. HVL = #/# 
 b8ebb4eb	Čas maxima Tc-#m
 b8f48602	Konstanty
 b8ff3ac7	Pole #×# cm: odpovídá plicím.
+b90ddbf5	Olovo nepropouští fotony MV
 b92e17d6	Použita mřížka: dětský hrudník ~# cm vytváří málo rozptylu; mřížka (Buckyho faktor #–#) zbytečně zvyšuje dávku.
 b95e783d	Přibliž se ke zdroji (< # m).
 b999f041	Bazaliom # cm na levé tváři (ověřený biopsií)
 b9a92b6b	Dávka ≈ # µSv: asi # dní přírodního pozadí. Přínos diagnózy zápalu plic výrazně převyšuje riziko.
+b9bc8c97	Dozimetry a kalibrace
 ba151840	Jak se přibližně mění pravděpodobnost fotoelektrického jevu?
+ba1a8e96	Ḣ ~ #/d²: # × (#/#)² = # µSv/h.
 ba1de520	Larmorova frekvence f = γ̄·B₀ (# MHz/T). SAR ~ B₀²: ~#× RF ohřev při # T.
+ba32dc5a	<b>PD-vážený obraz:</b> dlouhé TR, krátké TE. Ukazuje rozdíly protonové hustoty; používá se u muskuloskeletálního zobrazení (menisky).
+ba35bb9c	Nad jakou energií začíná být tvorba fotoneutronů významná?
 ba44e340	SSDE 
+ba5ac16c	Strmý distální pokles dávky protonů je výhodou, ale nejistota dosahu je rizikem. Kvůli chybám při převodu HU z CT na brzdnou schopnost a kvůli anatomickým změnám se používá lem dosahu obvykle „# % + # mm“ a svazky se uspořádají tak, aby nemířily přímo na kritický orgán.
 ba66cab6	Přijatelný šum u objemného pacienta: ≤ # HU v ROI jater (≈ # HU u průměrného dospělého). Zvol kV a mAs, pak SKENOVAT. Udrž SSDE pod # mGy.
 bade5b16	Otáčí se s gantry #–# krát za sekundu a z každého úhlu posílá vějířový svazek přes pacienta.
+bb1b430e	# % / # mm s ≥ # % vyhovujících bodů
+bb4c1849	Ionizační komora (TRS-#)
 bb5bd1d0	Střední / efektivní energie
 bb62355a	Pokrytí léze: minimum # % — hluboký okraj je pod # %: příliš nízká energie.
 bb757050	eluovat
+bb961b50	Zahříváním
 bbabaa0a	Sken delší, než je nutné: pro apendicitidu stačí od hřebene kosti kyčelní po symfýzu.
+bbadf5f8	Index odchylky (DI) ukazuje, jak daleko je EI od cíle: DI = # v cíli, # ≈ # % navíc, # = dvojnásobek, −# ≈ # % méně. Obvyklé rozmezí přijatelnosti je −# až #.
+bc1b6d45	Velké frakce šetří rektum
 bc38932a	Referenční dozimetrie (IAEA TRS-#) a měření PDD/profilů: ionizační komora se posouvá vodou. Zde je každá stopa částice sledovaná metodou Monte Carlo.
 bc506327	Zeynep: „Musím po injekci v klidu odpočívat?“
 bc566d93	Dávka na plod ≈ SSDE = 
 bc5d4211	Podat vše
+bc7b5e89	Pitch > # znamená rychlejší skenování s nižší dávkou, mezery se doplňují interpolací; pitch < # znamená překrývání a vyšší dávku.
+bc8245d8	Koriguje tvrdnutí svazku
+bccb7e5d	Kolimátor: citlivost versus rozlišení
+bcdac932	Zvětšení
+bcdc6b6f	<b>Aliasing (přeložení):</b> tkáň mimo FOV se přeloží ve směru fázového kódování.
+bd1d615b	≈ # Gy
+bd328853	Poškození DNA
 bd77abf8	Akutní chirurgie: akutní apendicitida? CT břicha a pánve s kontrastem (MUDr. Şahin)
 bd7bba09	signál
+bd8ee7fc	≈ # minut
 bd9533e5	Hodgkinův lymfom — staging
+bd963d7a	Jaká energie elektronů pokryje nádor do hloubky # cm izodózou # % (bez bolusu)?
+bd9c904d	Čas, vzdálenost a stínění
+bdaf69c4	Skiaskopie
+be1fdde1	Položení olověné zástěry do pole
+be4c8b99	Klesne na čtvrtinu
+be515cc5	Za cílem neukládají téměř žádnou dávku (bez výstupní dávky)
+be58929f	Gradientní echo a kontrastní látky
 be5b1f2d	Otázka pacienta
+be5c7cfc	Rentgenové zobrazování
 be65f185	Pigmenty s oxidem železa se mohou zahřát: informujte pacienta, případně studený obklad. Není to kontraindikace.
+be76f7c6	Lineární urychlovač
+be78efa4	GM počítač počítá jednotlivé události a rychle najde slabou kontaminaci; k měření dávky je přesnější kalibrovaná ionizační komora.
+beb99ac5	<b>Limitování dávek:</b> limity platí pro pracovníky a obyvatelstvo — ne pro pacienty, protože prospěch mají oni.
 bf06df89	Energie elektronů
 bf300ab6	filtrované
 bf62a8bf	Žlutá šipka je výsledná magnetizace M. RF pulz ji vychýlí z B₀; podélně se obnovuje s T1 a příčně zaniká s T2. Barevné šipky jsou izochromáty s různými frekvencemi (T2*).
+bf689b25	Zákon radioaktivní přeměny
+bf6a994f	Fotony nelze lámat, proto obraz vytváří olověný kolimátor, který propouští jen fotony z určitého směru — projde jen ~# %. U kolimátoru s paralelními otvory se rozlišení zhoršuje se vzdáleností zdroje, proto se detektor umisťuje co nejblíže k pacientovi. Delší a užší otvory zlepšují rozlišení a snižují citlivost.
 bf6d791a	V širokých svazcích dopadají na detektor i rozptýlené fotony; zohledňuje to faktor nárůstu B ≥ #. Zde se používá B ≈ # + k·μx.
+bf6f2da2	Jak dlouho trvá konvenční spinové echo s TR # ms, # řádky a NEX #?
+bf7ae11a	≤ #–# %
 bfaba695	Relativní koncentrace aktivity (vůči maximu obrazu)
 bfb0dfa4	Bez alergií; kreatinin v normě
 bfce608a	Pacient / fantom
@@ -1028,26 +1635,39 @@ c09eec06	MLEM je iterační metoda, která přímo modeluje Poissonovu statistik
 c0aad756	Zobrazit stopy částic
 c0f5bb27	Osa rotace. Vycentrovat sem pacienta je důležité: decentrace ruší účinek filtru bowtie a zvyšuje šum i dávku.
 c124dd95	Každá buňka přežije frakci s pravděpodobností S(d) = exp(−αd − βd²). Tkáně s nízkým α/β jsou citlivější na dávku na frakci.
+c131e9c7	μ v jediném bodě
 c1329b8d	Elif: „Prosím, použijte pro mé miminko co nejnižší dávku.“
 c14f1584	Celý sken (# pozic lůžka)
 c1811e60	Denní IGRT koriguje #–# mm pohybu orgánu a umožňuje okraje PTV ~# mm (van Herk: M = #Σ + #σ).
+c1b213e5	Elektrony ve fotonovém svazku # MV
 c1d1684b	Svazky
+c27c4e12	Na straně rentgenky
 c285174a	hloubka v pacientovi (cm)
+c296a83d	Rozptýlené záření a mřížky
 c2dcb4a3	Čekat mnohem déle je zbytečné: F-# se téměř úplně přeměnil a kojení se zbytečně narušuje.
 c2e4e241	izomerní přechod
+c2e97a22	Proč EI?
 c2f67ba3	# mm Al + # mm Cu
+c2fe5429	<b>Redistribuce:</b> buňky přecházejí do citlivých fází cyklu (G2/M).
 c341622f	Dávka miminka pochází hlavně z fotonů # keV z matčina těla (zevní ozáření); do mléka přechází jen velmi málo FDG. Kdy lze obnovit blízký kontakt (chování, kojení ve vzdálenosti ~# cm)? Cíl hry: dávka kojence ≤ # µSv.
+c3593ab4	<b>FFF (bez vyrovnávacího filtru):</b> zvyšuje dávkový příkon #–#krát a umožňuje krátká stereotaktická ozáření.
 c35ec4c3	Předozadní (AP)
 c3a14e9a	voda μen/ρ
+c3e46e55	Špičkové napětí rentgenky; určuje maximální energii fotonů a pronikavost svazku.
 c3e47672	Spinové echo
 c3ff1e50	Elektrony z katody se urychlují napětím rentgenky (kVp) na wolframovou anodu. ~#% energie se změní v teplo, ~#% v rentgenové záření. Elektrony brzděné v poli jader vyzařují <b>brzdné záření</b> se spojitým spektrem až do E_max = kVp.
 c4547490	Spinová fyzika
+c481cc03	<b>Frekvenční kódování:</b> během čtení, takže každý sloupec vysílá na jiné frekvenci.
 c487c009	Okno W(f): Ram-Lak (ostré, šumné), Shepp-Logan (sinc), Kosinus, Hann (hladké, málo šumu). Kompromis ostrost ↔ šum.
 c4a7b302	Barvy stop: žlutá = foton, modrá = elektron, purpurová = pozitron, oranžová = proton, zelená = jaderná interakce.
+c4b3c7a6	PDD(d) = # · D(d) / D(d_max)   (pevná SSD)
+c4cbd544	Tři pole, tři rizika
 c4ef192a	bez mřížky, 
+c52f63a4	Síla zdroje se udává jako kermová síla ve vzduchu S_K (U = µGy·m²/h); Λ je konstanta dávkového příkonu, g(r) radiální dávková funkce a F(r,θ) funkce anizotropie. Zdroj Ir-# ztrácí ~# % za den, proto se ozařovací časy automaticky prodlužují a zdroj se mění přibližně každé # měsíce.
 c558bcea	Povolání: svářeč / broušení (# let)
 c5748eb4	Bezpečnostní dotazník MR
 c57b585f	Konzole ukazuje CTDIvol. Která veličina nejlépe vystihuje dávku tohoto velkého pacienta?
+c58f8d26	Se čtvercem aktivity
 c59c3c01	Ayşe: „Co je ta rosolovitá věc? Dáte mi to na obličej?“
 c5d4754f	# mg/dL
 c5e874f2	Stínění gonád se už rutinně nedoporučuje; nejlepší ochranou je kolimace.
@@ -1057,26 +1677,50 @@ c6a141c6	Hloubková dávka v centrální ose
 c6b800d4	#. Spin a precese
 c6c23301	Správně. (Trvalý implantát zrn I-# by znamenal krátkodobá omezení blízkého kontaktu.)
 c6c4ee23	Pravděpodobnost kontroly nádoru
+c6d283b2	ITV
 c6d6b1b5	To platí jen pro ~# cm (jednu polotloušťku).
 c6d8a5ee	 (hlava)
+c6e71781	Pro # MBq Cs-# (Γ ≈ # µGy·m²/(MBq·h)) je kermový příkon ve vzduchu ve vzdálenosti # m ≈ # × # ≈ # µGy/h, tj. H*(#) ≈ # µSv/h. Ve vzdálenosti # m klesne na čtvrtinu (≈ # µSv/h), ve vzdálenosti # m na devítinu. Při HVL olova ≈ # cm pro Cs-# ho # cm olova (≈ # HVL) sníží ještě ~#krát.
+c6f4f9c3	Brachyterapie
+c70bdae0	GTV
 c7801b3c	DALŠÍ LEKCE
 c7e4693e	Poznámka k modelu: rozptyl používá zjednodušené jádro závislé na poli a tloušťce; DQE detektoru a neostrost ohniska se zanedbávají.
 c81dd039	Mícha Dmax < # Gy
 c8423429	Vhodné pro kojence a ležící pacienty, ale stín srdce je zvětšený a přední orgány dostávají vyšší dávku.
+c8588751	Plánování léčby: objemy, IMRT/VMAT a DVH
+c86f5711	Spektrum má dvě části: spojité brzdné záření od # až po kVp (Kramers: I(E) ~ Z(E_max − E)) a charakteristické čáry — pro wolfram Kα ≈ # keV a Kβ ≈ # keV, které se objevují jen při kVp > #.
+c8814047	Efektivní dávku nelze měřit přímo, proto se používají operační veličiny: prostorový dávkový ekvivalent H*(#) pro monitorování pracovišť a Hp(#) (celé tělo) a Hp(#) (kůže, ruce) pro osobní dozimetrii.
 c8828318	Zákon převrácených čtverců: zaznamenej odečty ve ~# m, ~# m a ~# m
+c8e11800	Co je třeba udělat před MR u svářeče?
 c8f76d70	Dávka je hluboko pod prahem ~# mGy pro malformace; dodatečné riziko dětské rakoviny je velmi malé (≈ # % na # mGy). Neexistuje žádný lékařský důvod k ukončení těhotenství.
 c901ddc3	Kloubní tekutina
 c91a26b5	Prostata se ze dne na den posouvá podle náplně močového měchýře a rekta. Jak ověříš každou frakci?
+c91ce3d7	Zabezpečení jakosti
 c9248cc8	Stínění a kolimace
 c926cd17	Voda / likvor / moč
+c93c2d38	Skutečnou relaxaci T2
 c944c820	Comptonův rozptyl při této energii mizí
 c964528c	Na detektoru (střed)
+c990d8eb	Časté artefakty
+c997bac9	Při lékařském ozáření má prospěch pacient, proto platí zdůvodnění a optimalizace (DRL), ale žádný limit.
+c9cd7e94	Moderní CT patří ke třetí generaci: rentgenka a zakřivený detektor rotují společně (~#–# s na otáčku). Sběrací kroužky umožňují nepřetržitou rotaci, takže se skenuje spirálně během posunu stolu. Vícařadé detektory (#–# řad) pokrývají #–# cm na otáčku.
 c9db273f	Vyber jazyk
+c9fe7760	Protony v magnetickém poli
 ca1a3109	Proč je jódový kontrast nejlépe vidět se spektrem s maximem blízko # keV?
+ca2fbdf7	Výhoda Z³ fotoelektrického jevu při MV mizí; zeslabení na jednotku hmotnosti téměř nezávisí na materiálu, proto se olovo či ocel přidávají jen tam, kde chybí místo.
 ca42e28e	Rozhoduj v případě dětského RTG hrudníku Emira, podívej se na výsledek a pochop důvod každého kroku. Technické laboratoře na tebe počkají, až budeš připraven.
+ca83a24e	<b>DAP (KAP):</b> kerma × plocha v Gy·cm². Nezávisí na vzdálenosti od rentgenky (plocha roste s d², kerma klesá s #/d²) a odráží celkovou předanou energii.
+ca900d67	<b>Reaktor:</b> záchyt neutronu (n,γ) nebo štěpení; Mo-# (mateřský nuklid Tc-#m) a I-# pocházejí většinou ze štěpení U-#.
 caa249cb	k-prostor (log |S(kx, ky)|)
 cae55017	Foton
 cae6e1b1	Osm témat od základů lékařské fyziky po kliniku. Každá lekce má vysvětlení, vzorce, řešené příklady, interaktivní obrázky založené na skutečných fyzikálních modelech a krátký kvíz. Na konci můžeš přejít do odpovídající laboratoře a klinického případu.
+cb0b7009	Aby se díky fotoefektu zesílily malé rozdíly v zeslabení mezi tkáněmi prsu
+cb2d5fcc	V době filmu nadměrná dávka snímek zčernala a hned to bylo vidět. Digitální systémy automaticky nastavují okno, takže i přeexponovaný snímek vypadá „pěkně“: riziko plíživého zvyšování dávek (dose creep). Norma IEC ## proto definuje expoziční index (EI), úměrný kermě ve vzduchu na detektoru: EI = # × K (µGy).
+cb37627d	Poměr tkáň–maximum: dávka v hloubce d dělená dávkou v d_max ve stejném bodě (pevná SAD).
+cb52d7bc	Elektrony opouštějí žhavené wolframové vlákno (katodu) termoemisí a jsou urychlovány k anodě napětím kVp. Jen ~# % jejich energie se mění v rentgenové záření; zbytek je teplo, proto se anoda otáčí a má velkou tepelnou kapacitu.
+cb6a7d48	Při systematické SD Σ = # mm a náhodné SD σ = # mm je lem PTV # × # + # × # = # mm. Pokud denní IGRT sníží Σ na # mm, lem bude # + # = # mm.
+cb70c670	<b>QA specifické pro pacienta:</b> plán IMRT/VMAT se změří ve fantomu a porovná gama analýzou (např. # %/# mm, ≥ # % vyhovujících; TG-#).
+cb8ff794	Zákon převrácených čtverců platí pro bodové zdroje ve vzdálenostech větších, než je velikost zdroje. Zblízka (např. při držení zdroje v ruce) dávka roste extrémně rychle: vždy používejte kleště — # cm místo # cm sníží dávku na ruce asi #krát.
 cb988a96	Po # h (z # MBq)
 cbad3f92	Pozitron anihiluje do ~# mm tkáně; uniknou jen fotony # keV.
 cbd54f80	Materiál
@@ -1084,80 +1728,139 @@ cbd7b457	Rychlé vzorce
 cc25a532	Krk
 cc4c7f13	Lekce 
 cc4da60f	Náhodné koincidence
+cc673698	Index odchylky
 cca2c192	Celková filtrace = # mm Al (vlastní) + přídavná. Předpis: ≥ # mm Al (># kVp).
 ccdfbfa0	Obyvatelstvo
+cd2f8f64	Konstrukce rentgenky
+cd3156fd	Klinicky se dávky protonů předepisují v Gy(RBE) s konstantní RBE #, ačkoli na distálním konci vrcholu, kde roste LET, může RBE přesáhnout #.
 cd38aa8b	Čekání před blízkým kontaktem
+cd487f09	Dávku pacientovi (o Buckyho faktor)
 cd4c6563	Ovládací pult
+cd617903	<b>Nedostatek fotonů:</b> u velkých pacientů, zvlášť v oblasti ramen a pánve, dopadá laterálně příliš málo fotonů a vznikají vodorovné pruhy.
 cd86acc3	Zavřít
 cd9bfde6	Zobrazit kryt gantry průhledně
 cdd62ae0	Oblouk (podobný VMAT)
+cddf6a03	Teplotu a tlak
 cde4341b	Úhel: #° = předozadní (AP), #° = levá strana pacienta, #° = zadopřední (PA), #° = pravá.
 ce0454c7	Malé koule ukazují nižší naměřenou aktivitu kvůli efektu částečného objemu (RC < #).
 ce3486fb	vodorovně: x (−#…# cm) • svisle: hloubka #→# cm
 ce483eb5	Tloušťka
 ce6b3dac	R8# distální (MC)
 ce715e71	Scintilátor CsI:Tl mění rentgenové záření na světlo a pole fotodiod a-Si mění světlo na náboj. Expoziční index (EI) udává dávku dopadající na detektor.
+cf1199b5	Elektrony jsou lehké, proto se rozptylují do velkých úhlů a pohybují se cik-cak. V prostředích s vysokým Z se uplatňuje i brzdné záření (radiační ztráta) — tak rentgenka vytváří rentgenové záření. Hrubé pravidlo: dosah elektronů ve vodě je ≈ E/# cm (E v MeV).
 cf377b43	Cvičná zkouška
+cf5b8c68	Musí vzrůst √#krát
 cf781cab	Matka žádá olověnou zástěru pro Emira. Co uděláš?
 cfc2c2f6	Filtrace (Al, Cu) předem odstraní nízkoenergetické fotony, které by pacient stejně pohltil a které nikdy nedosáhnou obrazu — tím se sníží dávka na kůži. Artefakt „cupping“ v CT také vzniká ztvrdnutím svazku.
 d020ae28	V olovem stíněné koloně z oxidu hlinitého se Mo-# (T½ # h) přeměňuje na Tc-#m (T½ # h). Fyziologický roztok protékající kolonou vyplaví jen technecistan Tc-#m (eluce).
+d0527b5f	Proč se ozařovny MV stíní betonem, a ne olovem?
+d0591deb	Pro kterou skupinu neplatí žádný limit dávky?
 d070218a	Hloubka
+d0a19740	Chyby v radioterapii jsou systematické a mohou postihnout mnoho pacientů, proto nezávislé kontroly MU, schvalování plánu dvěma osobami a kultura hlášení událostí patří k hlavním povinnostem radiologického fyzika.
 d0a43715	Supravodivý magnet nelze jen tak vypnout; quench vypustí helium, je drahý a nebezpečný — jen v život ohrožujících situacích.
+d0de0de1	<b>α:</b> jádro He-# s velmi vysokým LET a doletem < # mm (Ra-#).
 d0fd90b6	Automaticky exponovat při změně
+d1098233	η ≈ #×#⁻⁹ · Z · V    (wolfram Z = #, V = # kV → η ≈ # %)
 d1998663	Ano, ale objeví se jen čára Kβ
 d1af3044	Amalgámové a kompozitní výplně jsou bezpečné; mohou jen způsobit artefakty.
 d1b7ec5b	EQD2 nádoru = n·d·(d + #)/(# + #) = # Gy — poddávkováno, riziko biochemického selhání.
+d1b834b9	Částice α je dvakrát nabitá (z² = #) a pomalá, s LET ~# keV/µm, oproti ~# keV/µm u elektronů uvedených do pohybu fotony.
 d21058ed	Klepnutím na podlahu umístíš stínění.
+d21b004d	Olověná deska s otvory, která ke krystalu gamakamery propustí jen fotony z určitého směru.
+d2223509	CTDIvol je dávka ve válci z PMMA o průměru # cm. Štíhlý pacient (nebo dítě) dostane při stejném CTDIvol mnohem vyšší dávku, velký pacient nižší. AAPM Report # uvádí převodní faktor podle efektivního průměru: odhad dávky podle velikosti (SSDE).
+d229ed94	Přímo, fotony lámou DNA
 d22ff1b4	Filtr Cu odstraňuje nízkoenergetické fotony: mnohem nižší dávka na kůži při stejném DI.
 d252b05e	Vyber pacienta v čekárně, přečti si kartu a spusť případ. V každém kroku se rozhoduješ: odpovíš na otázku, nastavíš parametry přístroje nebo vytvoříš snímek. Fyzikální engine spočítá výsledek; stiskni POTVRDIT a získáš body i vysvětlení.
+d258834e	Střední energie vzroste
+d27f15a1	Faktor obsazenosti T
+d28ab5fa	V2# ≤ #–# % a střední dávka na plíce ≤ #–# Gy udržují riziko symptomatické pneumonitidy pod # %.
 d28e3e42	Hodnocení: diagnostická kvalita / účinnost léčby, dávka pacienta (ALARA), bezpečnost a komunikace. ★★★ vyžaduje ≥ # %.
 d2ab41fb	očekáváno 
+d2c2e72f	Přímým odečtem, kterým otvorem kolimátoru prošel
 d2c74831	První krok
 d2db263e	Pozitron z přeměny β⁺ anihiluje s elektronem během několika mm (dolet pozitronu → ztráta rozlišení) a vzniknou dva fotony # keV letící téměř protisměrně (±#°). Zareagují-li dva krystaly prstence v časovém okně (~# ns), zaznamená se koincidence a linie odezvy (LOR).
+d3302805	Proč se snímek hrudníku dělá v projekci PA při SID # cm?
+d3457fda	LET
+d348b1f3	Spin a Larmorova frekvence, relaxace (T1, T2, T2*), sekvence a kontrast, prostorové kódování a k-prostor, bezpečnost MR.
 d350ad22	Tuková tkáň
+d37c1018	Přežití podle LQ
+d39e2fda	<b>Susceptibilita:</b> ztráta signálu a zkreslení u kovu a na rozhraních vzduch–tkáň (zejména GRE a EPI).
 d4066030	Exponenciální zeslabení
+d424ea14	Lineární urychlovač, hloubková dávka a výpočet MU, plánování léčby (objemy, IMRT/VMAT, DVH), protonová terapie, brachyterapie a zabezpečení jakosti.
+d45a18d7	U kterého radionuklidu je nutné kojení zcela ukončit?
 d4601b55	• <b>Zeslabení:</b> pravděpodobnost, že oba fotony uniknou, je exp(−∫μ dl) podél LOR — nezávisle na místě emise! Proto se korekce zeslabení v PET dělá přímo z CT.\n• <b>Rozptyl:</b> comptonovsky rozptýlené fotony vytvářejí chybné LOR; energetické okno (#–# keV) část z nich vyřadí.\n• <b>Náhodné:</b> dva nesouvisející fotony padnou do stejného okna; četnost ~ aktivita².\n• <b>NEC</b> = T²/(T+S+R): míra kvality obrazu.
 d46b8bd4	Kroky
+d48da20f	Tkáňová reakce s prahem, jejíž závažnost roste s dávkou (erytém, katarakta).
 d4ab7bf3	Vypadá to neškodně, ale může se dostat do pole → opakovaný snímek a zvýšení dávky automatikou. Lepší je obavy matky rozptýlit vysvětlením.
 d4beda32	Protirozptylová mřížka
 d4c68488	objem %
+d4dfd01b	Ionizační komora je kondenzátor, který sbírá náboj vytvořený zářením v plynu. Je zlatým standardem referenční dozimetrie. Válcová komora typu Farmer (# cm³) se používá pro megavoltové fotony, deskové komory pro elektrony.
 d4ffd893	Poměr kost / voda (kontrast)
 d51a0c7d	frakcionováno, α/β = #
 d54bb772	Edém dřeně
+d581622c	Biologické účinky záření
 d584bb20	Levá plíce
+d58f1655	Zóny a screening
+d5abe21a	MU (monitorovací jednotka)
+d5b12f90	Limity dávek
 d5c4ed9d	prostata
 d5cc8e12	Dětská pohotovost: RTG hrudníku PA — pneumonie? (MUDr. Aydın)
+d5dea1d4	Proton # MeV: R ≈ # × #^# ≈ # × # ≈ # cm. NIST PSTAR udává dosah CSDA # cm, takže pravidlo je dobrý odhad.
 d5f8859c	Kvíz k tomuto tématu
 d618a937	Svazek a kalibrace
 d63556b0	Voda
 d64fa515	s olovem
+d67796d1	Plánovací cílový objem: CTV plus lem na nejistoty polohování a pohybu.
 d68f0065	Otevřít lekci: 
+d6a01349	Kvalita obrazu a artefakty
+d70f2e87	V cyklotronu reakcí ¹⁸O(p,n)¹⁸F
 d720c7e2	Potíže a požadavek
+d752ff03	Jednotka absorbované dávky, # J/kg.
 d77aac98	#. Vznik rentgenového záření
 d77bb8f6	Otevři případ
 d7b6610e	Elektrony # MeV dosáhnou jen ≈ # cm (Rp ≈ E/#): k prostatě se nedostanou.
+d7d34b45	Leukémie
 d7fcdf81	Všeobecná chirurgie: divertikulitida / absces? CT břicha s kontrastem (MUDr. Tunç)
+d88a6749	Na tom nezáleží
 d908d184	Dávková veličina
 d9370cf8	Inverze (#°)
 d9556410	Expoziční parametry
+d969abbf	D(cíl) = Σ_zdroj Ã(zdroj) · S(cíl ← zdroj)        Ã = ∫ A(t) dt ≈ # · A₀ · T_ef
+d96b25e8	Rovnováha nabitých částic se ještě neustavila
 d9b3e49e	Krev / srdce
+d9cd3b9c	Model LQ, BED a EQD2
+d9d9a2cc	Zdvojnásobit mAs
+d9fc4c9b	Histogram dávka–objem: podíl struktury, který dostane alespoň danou dávku.
 da35274d	Léze měří # cm. Jakou velikost vykrytí a jakou ochranu oka zvolíš?
 da435822	Minule to trvalo věčnost… Vejdu se vůbec do přístroje?
 da880d68	Zdroj v ruce! Rychle ho odnes do olověného kontejneru.
 dad956f3	Tc-#m dosáhne maxima v t_max = ln(λTc/λMo)/(λTc − λMo) ≈ # h po eluci. V rovnováze A_Tc/A_Mo → #·λTc/(λTc − λMo) ≈ #.
+db1f3609	D(cíl) = Ã(zdroj) · S(cíl ← zdroj)
+db876443	Jednotka ekvivalentní a efektivní dávky; vyjadřuje stochastické riziko.
 db90e18f	kost
 dba8b336	Ukážeme ti nejlepší první krok.
 dbb638ff	SPECT zobrazení (kosti, perfuze myokardu)
 dbbc21b7	Fyzika: proč roste šum?
+dbdf67b5	Klesne na polovinu
 dbf4470f	Skóre 
 dc0b6beb	Literatura
 dc411606	Blochovy rovnice • precese • spinové echo
 dcc0d7a5	zatím nespuštěno
+dcc2469a	Gonádový kryt
 dce06e30	MR s gadoliniem
+dcf29cd8	mAs
 dd2558f8	# kg / # cm
+dd49d94d	Který účinek je deterministický?
+dd7b54c8	Dozimetr pod zástěrou nereprezentuje oko; při limitu pro čočku # mSv/rok je toto měření důležité pro intervenční personál.
+dd9f3f2a	Jak lze snížit šum na polovinu?
 ddd13aac	Čas # s — příliš dlouho, pravděpodobné pohybové artefakty; zkrať TR nebo zvyš turbo faktor.
 de128bc0	Akustický hluk
+de7ed956	Protonová terapie a Braggův vrchol
+de969bfd	Energie nabitých částic vstupujících do objemu a vystupujících z něj je vyrovnaná; pak platí D = K_col.
 deb145c5	Dát olověnou zástěru a hned skenovat
+deb1fdd9	<b>Olověná zástěra:</b> #–# mm olověného ekvivalentu; zastaví #–# % diagnostických fotonů, ale proti fotonům PET o energii # keV je téměř k ničemu.
+ded09878	Co doporučuje QUANTEC pro plicní V2#?
+dee5f315	Principy radiační ochrany a limity dávek
 deea998c	TR (repetiční čas)
 deeed36b	Kvalita obrazu
 df0c22b3	Magnetická rezonance
@@ -1169,39 +1872,60 @@ df7177fa	KLÍČOVÁ MYŠLENKA
 df76eace	aktivita A(t)
 df926a69	Šum (ROI jater, SD)
 dfe4e404	Čas
+dffe9654	Snímky orbit nebo CT k vyloučení nitroočního kovu
 e026c507	rozptýlený foton E′
 e03ac455	HVL = ln2/μ = #/# ≈ # cm.
+e06240a9	Co má nejvyšší LET?
+e073c123	Dávka, při níž jsou lineární a kvadratický člen LQ modelu stejné; míra citlivosti na frakcionaci.
 e0a49aab	Začít zkoušku  →
 e0bbd3df	Práh tvorby párů
 e0ccc31f	Hlavní nabídka
 e0e1e90f	 dní přírodního pozadí)
+e0f63b6b	Integrál μ podél paprsku
 e0fe199e	Tři principy radiační ochrany (ICRP #)
 e15b5d80	Křivka přežití buněk (LQ)
 e1940a73	Tip: na přístroj v pozadí můžeš kliknout kdykoli; k začátku to není potřeba.
 e19d9fd0	muž
 e232e2c1	Praktický dolet Rp (ref.)
 e2433a82	Dávka na plod ≈ SSDE (děloha v poli). CTDIvol je dávka ve fantomu a je nutné ji korigovat na velikost pacienta.
+e2671f77	Koincidence
+e2c75b33	Jak se změní CTDIvol, zvýší-li se pitch z # na # při konstantním mAs?
 e2d84590	Počet frakcí n
 e2e5fdc7	PTV (GTV + # mm) průměr = # Gy / # frakcí (# Gy)
 e3232976	Statistika impulzů # — příliš málo impulzů: zašuměný obraz, malé uzliny mohou uniknout.
+e327fb76	Iterativní rekonstrukce (ASIR, SAFIRE, modelová) odhadne obraz, porovná ho s naměřenými projekcemi a opraví jej; dokáže modelovat statistiku šumu — umožňuje snížit dávku o #–# % při stejné kvalitě, za cenu někdy „plastové“ textury.
+e32a5d63	Procentuální hloubková dávka (PDD) je změna dávky na centrální ose s hloubkou při pevné SSD. PDD roste s energií, s velikostí pole (více rozptylu) a s SSD (slabší vliv zákona převrácených čtverců — Mayneordův faktor F).
+e33558b2	Hounsfieldova jednotka
 e3726bce	Další ráno: # h nalačno, glykémie # mg/dL.
+e3d17916	Nehomogenita tkání (plíce, kost, vzduchové dutiny) ovlivňuje výpočet dávky: plíce s nízkou hustotou zvyšuje dávku v hloubce a rozšiřuje polostín. Moderní algoritmy (AAA, Acuros, Monte Carlo) to zohledňují.
 e3f06eaf	úhel rozptylu θ (°)
 e41d8109	hloubka (cm)
+e43cb2ca	Elucí generátoru
 e43e04b0	Rentgenka (generátor)
+e46edbca	<b>Denně:</b> stálost výkonu ±# %, lasery, bezpečnostní blokády, shoda světelného a radiačního pole (AAPM TG-#).
+e47dd3eb	T1: podélné zotavení
+e486e4c2	<b>TLD (LiF:Mg,Ti):</b> při zahřátí uvolní uloženou energii jako světlo; téměř tkáňově ekvivalentní, používá se pro osobní a in vivo dozimetrii.
 e4ab1899	Šířka okna (W)
 e4c140b2	Přeměna je náhodná: nelze předpovědět, kdy se přemění jednotlivé jádro, ale mnoho jader se řídí exponenciálním zákonem. Aktivita se měří v becquerelech (# Bq = # přeměna/s); stará jednotka je curie (# Ci = #·#¹⁰ Bq).
+e4c224ea	# Gy v # frakcích (# Gy): pro nádor (α/β = #) EQD2 = #·(##)/(##) = # Gy; pro pozdní tkáň (α/β = #) EQD2 = #·(##)/(##) = # Gy. Větší frakce více „trestají“ pozdně reagující tkáň.
+e4dc2f18	Paprsky procházející středem urazí delší dráhu a více ztvrdnou, takže efektivní μ klesne a střed se jeví tmavší (nižší HU).
 e4e5be6e	Elif se v slzách ptá: „Ublížilo to mému miminku?“ Odhadovaná dávka plodu ≈ # mGy.
+e4fe3008	Hluboko pod deterministickým prahem; velmi malé dodatečné riziko; žádný důvod k ukončení těhotenství
+e4fec5f8	Veličiny dávky pacientovi
 e4ff8488	Střed okna (L)
 e53403f8	smíšený
 e549237e	Prostata α/β ≈ # Gy, rektum (pozdní účinky) α/β ≈ # Gy. Cíl: EQD2 nádoru #–# Gy, přední stěna rekta (předpokládej, že dostane # %) EQD2 ≤ # Gy.
 e56e73a9	Clony + MLC
+e5d8d1ac	#/#
 e5dcf84a	Nastřádaná dávka
 e5e8cc94	Poměr vrchol / vstup
 e5f27121	Inversion recovery
 e5f6fa50	Síla pole
 e621da6d	Comptonova hrana T_max
 e636070c	Částečný Fourier # %
+e6393de5	Podexpozice; snímek může být zašuměný
 e670f9a4	Odhadovaná dávka na plod
+e6737e82	Sama vytváří signál
 e6862f05	nefiltrované
 e70efde8	Rotace pacienta
 e73b4300	Přídavný filtr Al
@@ -1209,16 +1933,28 @@ e74c644a	Moduly
 e75dfe28	Čekárna — vyber pacienta
 e78631fd	Okno
 e7883571	#. Plánování léčby
+e790f279	Hloubková dávka a výpočet MU
+e7a94ca1	Zkracuje T1 okolních protonů
+e7baa8c0	Operační veličiny
+e7fcf842	Jaké parametry dávají T2-vážené spinové echo?
 e8145ea3	 % kVp)
+e833649b	Celková doba léčby a přerušení
 e8511c37	Předvolby
+e86c6807	Roste (větší příspěvek rozptylu)
+e8afa1cb	Při vnitřním ozáření je dávka celkový počet přeměn ve zdrojovém orgánu (kumulovaná aktivita Ã) krát hodnota S, která udává energii dopadající do cílového orgánu:
 e8f9a7ba	← Jednoduchá úvodní stránka
+e90246db	<b>Gradienty (dB/dt):</b> stimulace periferních nervů a hlasitý hluk (> # dB); nad # dB(A) je ochrana sluchu povinná.
 e934bbc7	Celková doba léčby
+e9427778	≈ # HU
 e9cef8c2	Elektrony mají konečný dolet: ideální pro povrchové nádory. Praktická pravidla: R5# ≈ E₀/# cm, Rp ≈ #·E₀ cm, terapeutická hloubka R8# ≈ E/# cm. Malý chvost v hloubce pochází z fotonů brzdného záření.
 e9eeaebf	žádné ionizující záření
 e9f3813b	Dávka kojence (# % těsného kontaktu)
+ea2e74ca	Rekonstrukce a Hounsfieldovy jednotky
 ea3ff3b9	Případy slouží pouze ke vzdělávání, ne ke klinickému rozhodování.
 ea445006	Fantom kvality obrazu NEMA
+ea48645c	Geometrická neostrost
 ea617450	Podezření na apendicitidu u těhotné pacientky. Co má být první?
+ea778ea7	Nezmění se: plocha se mění s d² a kerma s #/d²
 eab8f509	Filtrace: zvyš polotloušťku nad # mm Al
 eac26593	Efektivní dávka (# cm)
 ead12e43	Kinematika Comptonova rozptylu
@@ -1227,26 +1963,39 @@ eaeaaa7b	Pochop proč
 eaf105c7	Zvýraznit
 eaf5e11d	Je-li μ = # cm⁻¹, jaká je HVL?
 eaff7e77	eGFR # mL/min/# m², užívá metformin. Co uděláš s jodovou kontrastní látkou?
+eb1ada30	Feromagnetický úlomek se může pohnout i při # T a způsobit slepotu, proto je nutné ho nejprve vyloučit.
 eb1b05b8	Neutron
 eb267579	 (bez AC)
+eb2a1095	Nic — celková dávka je stejná
 eb2ba7e2	Výška pole
+eb4d158b	Kontrast objektu
 eb5ba0e3	#. Filtrovaná zpětná projekce (FBP)
+eb6d0b86	# cm
 eb6d0c3f	Příprava pacienta
 ebb00912	stínění není potřeba
 ebee5570	Emir: „Mám zadržet dech? Dobře, držím!“
 ec3c5945	Tip: stránka „Teorie“ v horní liště obsahuje klíčové vzorce.
 ec3ea500	Poznámky k modelu: MC používá kondenzovanou historii (Highlandův vícenásobný rozptyl); plánování je #D a zanedbává boční rozptyl.
+ec51e118	Filtr odstraňuje nízkoenergetické fotony, takže střední energie, a tím i HVL, roste.
 ec88aab2	Dokončeno
+ecc43793	Jednotkou je becquerel (# Bq = # přeměna/s); stará jednotka je curie (# Ci = # GBq). Diagnostické aktivity se pohybují v MBq, terapeutické v GBq.
 ece35ca8	Vyzkoušej v laboratoři  →
 ece838e8	sken
 ed03c7fc	≈ Částečně správně
+ed23a0d1	Terč z obohacené vody H₂¹⁸O se ostřeluje protony a poté následuje syntéza FDG.
 ed465190	Cíl: zobrazit rupturu menisku a edém kostní dřeně. Spinové echo: S = PD·(# − e^(−TR/T1))·e^(−TE/T2). Zvol TR, TE, saturaci tuku a B₀ a pak stiskni SPUSTIT SEKVENCI.
 eda30c59	Úkol splněn: 
 edbd8b07	Vážení
 eddfea6b	Stovky kanálů × mnoho řad keramického scintilátoru. Měří jednu projekci na úhel; dohromady tvoří sinogram.
 edf0d031	Obnovit kvíz
+edf5ddd0	<b>Statické pole (B₀):</b> feromagnetické předměty se mění v projektily. Přitažlivá síla roste s B·dB/dz a je největší u vstupu do tunelu. Supravodivý magnet je stále zapnutý. Některé implantáty (starší kardiostimulátory, klipy na aneurysma) jsou kontraindikací.
+ee010b9e	PET
+ee14e5d2	Lineárně s aktivitou
+ee1fc13a	<b>Diody a MOSFETy:</b> malé a citlivé, pro in vivo a měření malých polí; vykazují energetickou a úhlovou závislost.
 ee5e0890	Těsně kolimovat na plíce; bez stínění gonád, a matce vysvětlit proč
 ee69cbe6	Elif se v slzách ptá: „Ublížilo to mému dítěti?“ Odhadovaná dávka na plod ≈ 
+ee7232f8	R = #τ·S₁·S₂: obě četnosti jednotlivých záchytů rostou s aktivitou, takže náhodné koincidence rostou jako A² — jeden z důvodů, proč nadměrná aktivita obraz nezlepší.
+ee792940	TMR nezávisí na velikosti pole
 ee88a3cc	Při celotělovém vyšetření se pacient posouvá po pozicích lůžka; axiální zorné pole je #–# cm, u systémů s dlouhým axiálním polem #–# m.
 ee940d80	Světlé = vysoké zeslabení (kost, kov). Zobrazeno v radiologické konvenci: pravá strana pacienta vlevo. Okno se nastaví automaticky.
 ef57cd07	Glykémie
@@ -1256,9 +2005,17 @@ efce91bf	Naměřený T½ (MC)
 efd604d5	Teplota
 efd9baf3	Poměr Tc/Mo (přechodná rovnováha)
 f02abde8	Ztvrdnutí svazku
+f03867ac	Zvětšení (M) a geometrická neostrost (U_g) rostou se vzdáleností objekt–detektor (OID). Proto se snímek hrudníku dělá v projekci PA (srdce blízko detektoru) při SID # cm. Malé ohnisko (f) obraz zaostří, ale omezuje tepelnou zatížitelnost rentgenky.
 f0565afa	Frakcionováno (pevné d)
+f056bd95	Metoda NCRP # a #
+f07687d2	IEC ###: # W/kg v normálním režimu, # W/kg v řízeném režimu první úrovně (pod lékařským dohledem).
+f0b3d9d9	Expoziční index a dávka pacientovi
 f0c79167	Za
+f0d40ccc	Po inverzním pulsu #° nedá tkáň vybuzená přesně v okamžiku, kdy její Mz prochází nulou, žádný signál: TI_null = T1·ln2. STIR (TI ≈ #–# ms při # T) potlačuje tuk, FLAIR (TI ≈ #–# ms) potlačuje mozkomíšní mok. Chemická saturace tuku využívá frekvenční posun # ppm mezi tukem a vodou (≈ # Hz při # T).
+f0dca9d4	<b>Vzduchová mezera:</b> odstup mezi pacientem a detektorem nechá část rozptylu minout detektor, za cenu zvětšení.
+f0ff89cc	Kroužkový artefakt
 f10c7001	Rychlostí: γ záření je rychlejší než světlo
+f1897daf	Lineárně-kvadratický model
 f1d69164	Polotloušťka (HVL)
 f1e3d43f	Gadolinium prochází placentou; v těhotenství jen pokud je nezbytné. Na apendicitidu stačí MR bez kontrastu.
 f1e5a8a5	Když kVp překročí vazebnou energii slupky K wolframu (# keV), objeví se <b>charakteristické</b> čáry: Kα ≈ #–# keV, Kβ ≈ #–# keV. Intenzita ~ (U − #)^#, U = kVp / E_K.
@@ -1267,51 +2024,89 @@ f215c98f	DI # → přeexpozice (DI # ≈ # %, # ≈ #× dávka).
 f2586cb3	Pole (u detektoru)
 f25c8ffb	Přírodní pozadí (světový průměr)
 f28c5bf6	Lekce • interaktivní obrázky • kvízy
+f2b302fd	Jak se mění PDD v dané hloubce, když se pole zvětšuje?
+f2dea7ee	PTV je geometrický pojem, který zaručuje, že CTV dostane předepsanou dávku navzdory nejistotám nastavení a pohybu.
 f2e56345	Nastav tloušťku olova na polotloušťku Cs-# (≈ # cm) a sleduj snížení na polovinu
+f2f04328	<b>OAR / PRV:</b> kritický orgán a jeho plánovací lem (např. mícha + # mm).
 f2f0b95b	čekání (h)
+f323dc10	Zvolit správný dozimetr znamená vědět, co měřím: ionizační komora pro referenční dávku, film nebo pole detektorů pro rozložení, OSL/TLD pro osobní dávku, GM počítač pro kontaminaci.
+f351af88	TMR
 f38b9efa	#. Projekce a Radonova transformace
 f3952697	odražený elektron T
 f3987859	Výkon rentgenky roste přibližně s kVp² a lineárně s mAs: o #% vyšší kVp zhruba zdvojnásobí signál detektoru (pravidlo #%).
 f3b48ff1	Zastavit ji: supravodivý magnet je stále zapnutý a feromagnetické předměty se stávají projektily; jen vybavení bezpečné pro MR
+f3d4e34a	Pásma se podle očekávané dávky klasifikují jako kontrolovaná nebo sledovaná, označují se a omezuje se do nich přístup. Ztracený zdroj, nečekaně vysoký údaj dozimetru nebo ozáření nesprávného pacienta či místa je mimořádná událost: zaznamená se, analyzuje se její kořenová příčina a v případě potřeby se ohlásí dozornému orgánu (v Turecku NDK).
 f3f36daf	Záření s dostatečnou energií (≥ # eV) k uvolnění elektronů z atomů.
 f425bff1	  → echo očekáváno v: 
+f43d0d9d	Dozimetrem pod zástěrou
+f43d5d4c	U rychle proliferujících nádorů (hlava a krk) nastupuje repopulace, trvá-li léčba déle než ~# dní, a stojí zhruba ~# Gy EQD2 za den. Neplánovaná přerušení je proto nutné kompenzovat (např. frakcí navíc o víkendu nebo dvěma frakcemi denně).
 f48a9bb6	Monte Carlo hloubková dávka, Braggův vrchol, plánování léčby, DVH, radiobiologie.
+f49bd7cf	Zúžit okno
+f4a0a51b	Automatická modulace proudu rentgenky (AEC) přizpůsobuje mA v každém úhlu a poloze z tloušťce pacienta, udržuje šum na cílové úrovni a optimalizuje dávku.
 f4a277c4	Plánování
 f4a9c097	Filtr
+f4eb467e	Na straně detektoru (obrazového přijímače)
+f50a6eee	PDD je definována při pevné SSD, takže hlubší body jsou dál od zdroje; TMR se hodí pro izocentrické ozařování.
+f565bd92	Při zrychlené repopulaci se ztrácí ~# Gy za den: # dní × # ≈ # Gy. Proto se přerušení kompenzují.
+f5b86b6b	Kontrola kvality: průnik Mo-# do eluátu nesmí překročit # kBq Mo-# na MBq Tc-#m; ověřuje se v olověném pouzdře, které zastaví # keV Tc, ale propustí fotony # keV Mo. Kontroluje se také obsah iontů hliníku a radiochemická čistota.
 f5c1b5b5	Velikost pole (na povrchu)
+f5e265e2	Jak ovlivní silnější filtrace HVL?
 f5e305fa	Pole #×# cm: hrudník má ≈ #×# cm; více vycloň (DAP a rozptyl).
 f5efdcd1	# mg/L
+f5fce81d	Návrh stínění místností
 f60d1c54	T2-vážený obraz: mozkomíšní mok jasnější než bílá hmota
+f62997ab	Jak působí gadoliniová kontrastní látka?
+f63ab85a	Angerova kamera
+f6466836	Hustota materiálu roste
 f67cc940	Druh přeměny
 f6862a0b	Propustnost stínění (vč. build-upu)
 f6d42ce8	Hloubka Braggova vrcholu
 f6f22637	Ovládání
 f71b5abf	Biologicky efektivní dávka
 f728f992	průměrný dospělý (# cm)
+f72b2c12	Jaké je nejúčinnější ochranné opatření u dětského snímku hrudníku?
+f73eed5b	Pro pacienty při lékařském ozáření
+f77fcacc	Voda má # HU a vzduch −# HU; tuk ≈ −#, plíce ≈ −#…−#, měkké tkáně #…#, kost #…# HU. Protože μ závisí na energii (zejména u kosti a jodu), mění se hodnoty HU s kVp.
+f7b242ee	# Gy
 f7c4fef9	„Děkuji, byl jste velmi pozorný!“
+f7e06859	Co určuje střed k-prostoru?
 f80ba400	Jak používat tuto sekci
 f810e311	EQD2 rekta (α/β #) = # Gy — přijatelné.
+f82c600a	Ekvivalentní dávka
+f830e238	Součin K·A nezávisí na vzdálenosti, proto lze DAP měřit komorou na kolimátoru rentgenky.
 f8486832	Použij jen střed k-prostoru: kontrast zůstane, detaily se ztratí
 f84b8da5	Nesprávné a zbytečně znepokojující u zevní radioterapie.
+f862b10b	Prostorové rozlišení
 f8c4150d	# MeV e⁻
 f8d6f331	Původem: rentgenové záření pochází z elektronů, γ z jádra
 f900a313	Zlatíčko, zůstane mi na obličeji jizva? A prosím, ať mě to nebolí na oko.
+f92bb98e	Jak vzniká většina poškození DNA u záření s nízkým LET?
+f93ff2ec	Stejná fyzikální dávka má u různých druhů záření různé biologické účinky. Ekvivalentní dávka je H_T = Σ w_R D_T,R. Radiační váhové faktory (ICRP #): # pro fotony a elektrony, # pro protony, # pro α a #–# pro neutrony podle energie.
 fa033cd5	Mise: vyzvedni zdroj
+fa42bc08	Odhad dávky na plod je úkolem radiologického fyzika: při CT je dávka na plod ≈ SSDE, pokud je děloha v poli.
 fa73ce08	Dobrá práce — pár věcí ke zlepšení.
 faa8e755	FLAIR: volba TI = T1·ln2 vynuluje likvor (≈ # ms při # T). STIR: krátké TI potlačí tuk (≈ #–# ms).
 fad26615	Vysílá pulzy B₁ na Larmorově frekvenci (~# MHz při # T), které vychylují M. Odtud pochází ohřev tkání (SAR).
 fae02622	RTG orbit: ŽÁDNÉ kovové cizí těleso. Vyšetření pokračuje.
+faf2ae6e	Čím se TMR liší od PDD?
 faff56b8	Uplynulý čas
 fb079007	Dávka na frakci d
+fb1c3fc2	Beton je hustší než olovo
+fb4411db	Tloušťku vrstvy
 fb5419ac	Poddávkované okraje → riziko recidivy; ve velmi malých polích se navíc R9# změlčuje.
 fb77122a	Začít první případ
 fb8da0b7	Apendicitida v těhotenství: UZ → MR bez kontrastu → podle potřeby nízkodávkové CT.
 fb990b3e	★★★ ≥ # %, ★★ ≥ # %, ★ ≥ # %. Tvůj nejlepší výsledek se ukládá; hraj znovu a zlepši ho.
 fba0b4a2	Kosinus
 fbb64dbd	Napětí rentgenky
+fbb96484	RF puls o Larmorově frekvenci sklopí M od B₀ (puls #° ji položí do příčné roviny). Rotující příčná magnetizace indukuje proud v přijímací cívce — volný indukční rozpad (FID). Rezonanční podmínka umožňuje MR vybudit jen zvolené jádro a místo.
+fbc6d057	Alternativy (UZ, MR) mají přednost; je-li CT nutné, použije se nízkodávkový protokol a omezená délka skenu.
+fc01ae34	Štěpením uranu v reaktoru
+fc44dba7	Rozlišení systému ≈ #–# mm (ve # cm); vnitřní rozlišení ≈ #–# mm.
 fc6adbf7	Vstupní povrchová kerma ve vzduchu (ESAK)
 fc7e5fc3	Statistika impulzů # — víc aktivity, než je třeba; dávka navíc nepřináší diagnostický přínos.
 fc82911d	relativní
+fca25fac	Protony a Braggův vrchol
 fcdeb802	přeexponováno
 fcff6168	Pánev
 fd4e03b8	Čas na pozici lůžka
@@ -1322,11 +2117,16 @@ fd9045b9	#–# kV lépe prochází velkými pacienty: méně mAs při stejném �
 fddaa9d0	Index konformity (Paddick)
 fe0012eb	Zastaralá rada; při eGFR ≥ # zbytečná a zdržuje diagnózu.
 fe2bb7a7	Obtočit pánev olověnou zástěrou
+fe67e3af	Koeficienty k (mSv na mGy·cm) pro dospělé jsou: hlava #, krk #, hrudník #, břicho a pánev #.
 feb29647	Polyenergetický svazek (realistický)
 feb7cede	Hypertenze (kompenzovaná)
 febab6f7	IGRT: před ozařováním se pořídí kV snímek nebo CT kuželovým svazkem (CBCT) a poloha pacienta se opraví na milimetr.
 fec9a6c7	Denní kV zobrazení / CBCT se shodou na zlaté značky
+fed90ed4	Záporný DI znamená, že dávka na detektoru je pod cílem (−# ≈ # % méně), a kvantový šum může zhoršit diagnózu.
 ff1483ac	Kardiostimulátor (titan)
+ff3f9ab4	<b>Mřížka:</b> olověné lamely pohlcují rozptýlené záření (mřížkový poměr #:#–#:#) za cenu vyšší dávky — Buckyho faktor #–#. U částí těla tenčích než #–# cm a u dětí je mřížka obvykle zbytečná.
 ff559aca	Can: „Dobře, že jste mi dali sluchátka. A už je tu hluk!“
+ff801f8c	Katarakta
 ff97f266	Střední energie fotonů
+ffe8e8a6	Gy(RBE) = # × fyzikální dávka; nezaměňovat s radiačním váhovým faktorem ICRP pro radiační ochranu w_R = #.
 ffedd789	Kojí #měsíční dítě

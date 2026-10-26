@@ -549,6 +549,7 @@ Air −#, water #, fat ≈ −#, soft tissue #…#, bone #…# HU. Because the e
 #. Artefacts
 • <b>Beam hardening:</b> low energies are absorbed first; along long paths the effective μ drops → 'cupping' in the centre and dark streaks between dense bones. Water calibration (BHC) fixes cupping but not bone streaks.\n• <b>Metal:</b> almost all photons are absorbed (photon starvation) → bright/dark radial streaks.\n• <b>Few views:</b> insufficient angular sampling → streak (aliasing) artefacts.\n• <b>Noise:</b> σ ~ #/√(mAs); the fundamental dose–noise trade-off.
 #. Dose
+CTDIw = ⅓·CTDI_centre + #/#·CTDI_periphery     CTDIvol = CTDIw / pitch     DLP = CTDIvol · L     E ≈ k · DLP
 Model: parallel-beam geometry (rebinned fan-beam data), energy-integrating detector, scatter neglected.
 Explore the labs
 Choose any topic. If you are new, try the short starter case first.
@@ -721,6 +722,7 @@ Hydrogen nuclei (protons) carry a magnetic moment. In the field B₀ a tiny exce
 #. Bloch equations and relaxation
 An RF pulse (B₁ at the Larmor frequency) tips M by the flip angle α. Then:\n• <b>T1 (spin–lattice)</b>: Mz recovers: Mz(t) = M₀ + (Mz(#) − M₀)·e^(−t/T1)\n• <b>T2 (spin–spin)</b>: transverse magnetisation dephases: Mxy(t) = Mxy(#)·e^(−t/T2)\n• <b>T2*</b>: field inhomogeneity adds dephasing (#/T2* = #/T2 + γΔB) — a #° pulse reverses this part: the <b>spin echo</b>.
 #. Contrast
+GRE:  S = PD·sinα·(# − E₁)/(# − cosα·E₁)·e^(−TE/T2*)      Ernst angle: cos α_E = e^(−TR/T1)
 FLAIR: choosing TI = T1·ln2 nulls CSF (≈ # ms at # T). STIR: a short TI suppresses fat (≈ #–# ms).
 #. k-space
 Gradients encode position into frequency and phase; the acquired signal is the #D Fourier transform of the image (k-space). The image follows from an inverse FFT. Matrix size sets resolution, FOV sets pixel size; undersampling causes wrap-around, motion causes ghosts along phase encoding.
@@ -859,6 +861,7 @@ Source in hand! Carry it quickly to the lead container.
 Get closer to the container (< # m).
 Source secured! Dose during the mission: 
 #. Three principles: time, distance, shielding
+Dose = dose rate × time          Ḣ(d) = Γ · A / d²          Ḣ_shielded = Ḣ₀ · B · e^(−μx)
 • <b>Time:</b> dose is proportional to the time spent near the source.\n• <b>Distance:</b> for a point source the dose rate falls as #/d²: doubling the distance quarters the dose. That is why tongs are so effective.\n• <b>Shielding:</b> dense, high-Z materials (lead) attenuate photons best. One HVL halves, one TVL reduces the dose rate to one tenth.
 In broad beams scattered photons also reach the detector; the build-up factor B ≥ # accounts for this. Here B ≈ # + k·μx is used.
 #. Dose quantities
@@ -1265,6 +1268,7 @@ Half- and tenth-value layer
 Compton scattering
 Pair production threshold
 Proton range (Bragg–Kleeman)
+R ≈ #·E^#   (water, R in cm, E in MeV)
 Ionising radiation
 Radiation energetic enough (≥ # eV) to remove electrons from atoms.
 Directly ionising
@@ -1358,6 +1362,7 @@ Charged particles: stopping power and range
 Stopping power
 A charged particle makes countless small Coulomb interactions with the electrons of the medium and loses energy continuously. The energy lost per unit path is the stopping power S = −dE/dx (MeV/cm), also given as the mass stopping power S/ρ (MeV·cm²/g).
 According to the Bethe formula, the collision stopping power scales roughly as z²/v²: as the particle slows down it loses energy faster. This is the origin of the Bragg peak for heavy particles.
+S_col ~ (z² / v²) · ln(# m_e v² / I)        (I: mean excitation energy; ≈ # eV for water)
 Electrons
 Electrons are light, so they scatter through large angles and follow zig-zag tracks. In high-Z media bremsstrahlung (radiative loss) also matters; this is how an X-ray tube produces X-rays. A rough rule: the electron range in water is ≈ E/# cm (E in MeV).
 Protons and the Bragg peak
@@ -1380,6 +1385,7 @@ The α particle is doubly charged (z² = #) and slow, with an LET of ~# keV/µm,
 Dosimetry and Radiobiology
 Kerma, absorbed dose, equivalent and effective dose; dosimeters; how radiation affects cells, the LQ model, BED and EQD2.
 Kerma
+K = Ψ · (μ_tr/ρ)        (Ψ: energy fluence)
 Absorbed dose
 Equivalent dose
 Ion chamber (TRS-#)
@@ -1476,6 +1482,7 @@ The oxygen enhancement ratio for X-rays is ~#–#; for high-LET radiation it app
 The LQ model, BED and EQD2
 The linear-quadratic model
 Cell survival is best described by the linear-quadratic (LQ) model. The α term represents lethal damage from a single track, the β term the interaction of damage from two separate tracks.
+S = exp(−α·D − β·D²)        in n fractions:  S = exp[−n(α·d + β·d²)]
 The α/β ratio (Gy) is the dose at which the two terms are equal: ≈ # Gy for early-responding tissues and most tumours, ≈ # Gy for late-responding tissues (spinal cord, rectum, skin fibrosis). Prostate (~# Gy) and breast (~# Gy) cancers have low α/β.
 BED and EQD2
 To compare fractionation schedules we use the biologically effective dose (BED) and the equivalent dose in # Gy fractions (EQD2):
@@ -1499,11 +1506,13 @@ With accelerated repopulation ~# Gy is lost per day: # days × # ≈ # Gy. That 
 X-ray Imaging
 The X-ray tube and spectrum, image formation, contrast and noise, scatter and grids, detectors, EI/DI, patient dose; fluoroscopy and mammography.
 Tube efficiency
+η ≈ #×#⁻⁹ · Z · V   (W, # kV: ≈ # %)
 Tube output
 Magnification
 Geometric unsharpness
 Deviation index
 Dose–area product
+DAP = K · A   (independent of distance)
 kVp
 The tube's peak voltage; sets the maximum photon energy and beam penetration.
 mAs
@@ -1517,6 +1526,7 @@ Diagnostic reference level: the #th percentile of the national distribution. An 
 The X-ray tube and spectrum
 Tube construction
 Electrons leave a heated tungsten filament (cathode) by thermionic emission and are accelerated towards the anode by the kVp. Only ~# % of their energy becomes X-rays; the rest is heat, which is why the anode rotates and has a large heat capacity.
+η ≈ #×#⁻⁹ · Z · V    (tungsten Z = #, V = # kV → η ≈ # %)
 The line-focus principle: the angled anode spreads the heat over a large area while keeping the effective focal spot seen from the detector small. Because of the anode heel effect, the anode side of the beam is slightly weaker.
 The spectrum
 The spectrum has two parts: continuous bremsstrahlung from # up to the kVp (Kramers: I(E) ~ Z(E_max − E)), and characteristic lines — for tungsten Kα ≈ # keV and Kβ ≈ # keV, which appear only when kVp > #.
@@ -1611,10 +1621,14 @@ Backscatter is highest on the tube side, where the beam enters the patient; the 
 Projections and the sinogram, filtered back-projection and iterative reconstruction, Hounsfield units, image quality and artefacts, CTDI/DLP/SSDE.
 Projection
 Hounsfield unit
+HU = # · (μ − μ_water) / (μ_water − μ_air)
+pitch = table feed per rotation ÷ total collimation
 CTDIw / CTDIvol
+CTDIw = #/#·CTDI_centre + #/#·CTDI_periphery     CTDIvol = CTDIw / pitch
 DLP and effective dose
 SSDE (AAPM #)
 Noise
+σ ~ # / √(mAs · slice thickness)
 The angle-versus-detector-position map of all projections.
 FBP
 Filtered back-projection: projections are ramp-filtered and back-projected.
@@ -1628,6 +1642,7 @@ CT measures the attenuation profile of a slice from every direction with a tube 
 All detector values at one angle form a projection; arranged by angle and position over #°+fan angle they form the sinogram. Each point in the slice traces a sine curve in the sinogram.
 Scanner generations and helical scanning
 Modern CT is third generation: tube and curved detector rotate together (~#–# s per rotation). Slip rings allow continuous rotation, so helical scanning is done while the table moves. Multi-slice detectors (#–# rows) cover #–# cm per rotation.
+pitch = (table feed per rotation) / (total beam collimation)
 Pitch > # means faster scanning at lower dose, with gaps filled by interpolation; pitch < # means overlap and higher dose.
 What does a projection value p represent?
 The integral of μ along the ray
@@ -1676,6 +1691,7 @@ Rays through the centre travel further and harden more, so the effective μ fall
 CT dose: CTDI, DLP and SSDE
 The CTDI family
 CTDI is the integral of the dose profile of one rotation, measured with a # mm pencil chamber in PMMA phantoms (head # cm, body # cm). The weighted CTDIw combines centre and periphery; CTDIvol accounts for pitch and is what the console displays.
+CTDIw = #/#·CTDI_centre + #/#·CTDI_periphery        CTDIvol = CTDIw / pitch
 The k coefficients (mSv per mGy·cm) for adults are: head #, neck #, chest #, abdomen and pelvis #.
 Abdominal scan: CTDIvol # mGy over # cm. DLP = # mGy·cm, E ≈ # × # ≈ # mSv — about # years of natural background.
 CTDIvol is not patient dose
@@ -1692,9 +1708,13 @@ It rises #×
 CTDIvol = CTDIw / pitch. Many scanners use "effective mAs" (mAs/pitch), in which case the CTDIvol stays constant.
 Radioactive decay, radionuclide production and generators, the gamma camera and SPECT, PET, internal dosimetry and patient safety.
 Decay law
+A = λ·N     # Bq = # decay/s     # mCi = # MBq
+#/T_eff = #/T_physical + #/T_biological
 Generator (transient equilibrium)
 SUV
+SUV = C_tissue [kBq/mL] / (A_injected [kBq] / weight [g])
 MIRD
+D(target) = Ã(source) · S(target ← source)
 # keV γ, T½ # h; the most widely used radionuclide.
 Coincidence
 In PET, detection of two # keV photons in opposite detectors within a few ns.
@@ -1712,6 +1732,7 @@ Decay modes
 <b>Electron capture and isomeric transition:</b> Tc-#m is a metastable state emitting a # keV γ — an ideal imaging energy with little particulate emission.
 <b>α:</b> a He-# nucleus with very high LET and a range < # mm (Ra-#).
 Activity in the body decreases both by physical decay and by biological excretion:
+#/T_eff = #/T_phys + #/T_biol
 For I-# T_phys = # days; let the thyroid T_bio be # days. T_eff = (# × #)/(# + #) = # days — always shorter than the smaller of the two.
 How much is # MBq of Tc-#m after # hours?
 ≈ # MBq
@@ -1764,6 +1785,7 @@ The positron travels ~# mm in tissue and annihilates with an electron into two n
 <b>Attenuation correction:</b> the two photons together cross the whole body thickness; a # keV μ-map is built from the CT.
 <b>Time of flight (TOF):</b> the arrival-time difference (~#–# ps) localises the event along the LOR to a few cm and lowers noise.
 <b>Resolution limits:</b> positron range (mean F-# ≈ # mm, Ga-# ≈ # mm), non-collinearity and crystal size; clinical PET resolution is ≈ #–# mm.
+SUV = C_tissue / (A_injected / body weight)
 SUV compares a tumour's FDG uptake independently of the patient, but it is sensitive to uptake time, blood glucose, reconstruction and partial volume — hence EANM's # ± # min uptake time and blood glucose < # mg/dL.
 A tumour measures # kBq/mL; a # kg patient received # MBq (decay-corrected). SUV = # / (# # / # #) = # / # = #.
 Why does PET need no collimator?
@@ -1779,6 +1801,7 @@ R = #τ·S₁·S₂: both singles rates rise with activity, so randoms grow as A
 Internal dosimetry and patient safety
 The MIRD method
 In internal exposure the dose is the total number of decays in the source organ (cumulated activity Ã) times the S value that gives the energy reaching the target organ:
+D(target) = Σ_source Ã(source) · S(target ← source)        Ã = ∫ A(t) dt ≈ # · A₀ · T_eff
 In practice, diagnostic procedures use ICRP #'s effective dose per unit activity, e.g. F-# FDG ≈ # mSv/MBq and Tc-#m bone scan (MDP) ≈ # mSv/MBq.
 # MBq FDG: E ≈ # × # = # mSv; the CT part of a PET/CT can add another #–# mSv.
 Patient, family and staff
@@ -1798,7 +1821,9 @@ Spin and the Larmor frequency, relaxation (T1, T2, T2*), sequences and contrast,
 Spin-echo signal
 Inversion null
 Scan time
+T = TR · N_phase · NEX / ETL
 SAR
+SAR ~ B₀² · α² · (pulses / s)
 The precession frequency of protons around B₀; # MHz at # T.
 TR / TE
 Repetition time (between excitations) / echo time (between excitation and signal).
@@ -1863,6 +1888,7 @@ Gradient coils add a small field that varies linearly with position, making the 
 <b>Frequency encoding:</b> during readout, so each column signals at a different frequency.
 <b>Phase encoding:</b> a short gradient of different strength in every TR that separates rows by phase.
 The acquired signals fill k-space, and the image is its #D Fourier transform. The centre of k-space carries contrast and overall signal; the periphery carries fine detail and edges. In a spin echo one line is acquired per TR.
+Scan time T = TR × N_phase × NEX / ETL
 TR = # ms, # phase lines, NEX = #: a conventional spin echo takes # × # = # s ≈ # min; a turbo spin echo with ETL = # takes #/# = # s.
 SNR scales with voxel volume and √(N_phase · N_freq · NEX). Doubling in-plane resolution (a quarter of the voxel) costs a lot of SNR; parallel imaging (SENSE/GRAPPA) speeds up acquisition at an SNR cost.
 Common artefacts
@@ -1884,6 +1910,7 @@ Three fields, three risks
 <b>Static field (B₀):</b> ferromagnetic objects become projectiles. The pull scales with B·dB/dz and peaks at the bore entrance. A superconducting magnet is always on. Some implants (older pacemakers, aneurysm clips) are contraindicated.
 <b>Gradients (dB/dt):</b> peripheral nerve stimulation and loud acoustic noise (> # dB); hearing protection is mandatory above # dB(A).
 <b>RF (B₁):</b> tissue heating, limited by SAR (W/kg): whole-body ≤ # W/kg and head ≤ # W/kg in normal mode (IEC ###). Conductive leads and loops can cause burns.
+SAR ~ B₀² · (flip angle)² · (RF pulses / s)
 Zones and screening
 The ACR defines four zones: I public, II screening, III controlled access, IV the magnet room. Every patient and staff member is screened in writing before entering Zone III; metal workers with possible intra-ocular metal get orbit radiographs or CT first. Implants are labelled MR Safe, MR Conditional or MR Unsafe, and their conditions are followed.
 A superconducting magnet cannot simply be "switched off". A quench vents the helium, is costly and can deplete oxygen in the room; it is done only when life is at risk (e.g. someone pinned to the magnet). In cardiac arrest the patient is moved out to Zone III for resuscitation.
@@ -1904,6 +1931,7 @@ A ferromagnetic fragment can move at # T too and cause blindness, so it must be 
 Radiotherapy Physics
 The linear accelerator, depth dose and MU calculation, treatment planning (volumes, IMRT/VMAT, DVH), proton therapy, brachytherapy and quality assurance.
 Percentage depth dose
+PDD(d) = # · D(d) / D(d_max)   (fixed SSD)
 Mayneord F factor
 MU calculation (SAD)
 Electron rules
@@ -1959,6 +1987,7 @@ ICRU volumes
 <b>GTV:</b> visible tumour. <b>CTV:</b> GTV + microscopic spread. <b>ITV:</b> CTV + internal motion (e.g. breathing).
 <b>PTV:</b> CTV/ITV + set-up margin; the prescription goes to the PTV.
 <b>OAR / PRV:</b> organ at risk and its planning margin (e.g. spinal cord + # mm).
+M_PTV = #·Σ + #·σ    (Σ, σ: SDs of the systematic and random errors)
 Planning techniques
 #D conformal therapy uses a few fixed MLC-shaped fields. IMRT splits each field into small segments to modulate the intensity, with inverse planning optimising an objective function (target doses and OAR constraints). VMAT varies the MLC, dose rate and gantry speed continuously while the gantry rotates, delivering IMRT quality in a few minutes.
 Tissue heterogeneity (lung, bone, air cavities) affects the dose calculation: low-density lung raises the dose at depth and widens the penumbra. Modern algorithms (AAA, Acuros, Monte Carlo) account for this.
@@ -2043,6 +2072,7 @@ ICRP # found a cataract threshold of ~# Gy and cut the limit from # to # mSv/yr 
 Time, distance and shielding
 Three tools
 There are three tools against external exposure: shorten the time (dose = dose rate × time), increase the distance (from a point source the dose rate falls as #/d²) and put shielding in between (each HVL halves the dose).
+Ḣ = Γ · A / d²        Ḣ_shielded = Ḣ · B,   B ≈ #^(−x/HVL)
 For # MBq Cs-# (Γ ≈ # µGy·m²/(MBq·h)) the air-kerma rate at # m is ≈ # × # ≈ # µGy/h, i.e. H*(#) ≈ # µSv/h. At # m it drops to a quarter (≈ # µSv/h), at # m to a ninth. With a lead HVL of ≈ # cm for Cs-#, # cm of lead (≈ # HVL) cuts it by another ~#×.
 The inverse square law holds for point sources at distances larger than the source size. Very close up (e.g. holding a source) the dose rises extremely fast: always use tongs — # cm instead of # cm cuts the hand dose about #-fold.
 Shielding materials

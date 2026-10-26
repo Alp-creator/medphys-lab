@@ -1,34 +1,47 @@
 002e566d	Kliiniset tapaukset
 005ef20f	Tila
 006f11ff	Keuhkokyhmy (kasvain)
+007cc916	<b>Leikkeen valinta:</b> gradientti RF-pulssin aikana, jolloin kapeakaistainen pulssi herättää vain yhden leikkeen.
+00af857c	Keskimääräinen annos määriteltynä # tai # cm:n PMMA-fantomissa — ei potilaan annos.
+00cb23fb	<b>Oikeutus:</b> jokaisesta säteilyä käyttävästä toiminnasta on oltava enemmän hyötyä kuin haittaa; lääketieteessä tämä arvioidaan jokaisen tutkimuksen kohdalla.
 00e896c1	Mittaa dmax ja PDD1# # MV:n fotoneille (≥ # # historiaa)
 00e97d3d	Riskiä ei ole lainkaan.
 01446da3	Varjoaineveri
+01703bea	<b>Rajaus:</b> pienentää säteilytettyä tilavuutta ja vähentää siten sekä sirontaa että annosta — tärkein toimenpide.
 01b10287	Maksa
 022ebff6	  — lue selitykset ja yritä uudelleen.
 02307551	Säteilysuojelun kolme periaatetta: oikeutus, optimointi (ALARA: niin alhainen kuin käytännössä mahdollista) ja annosrajat. Työntekijä: # mSv/v (keskiarvo # vuoden ajalta, enint. # yhtenä vuonna), väestö: # mSv/v, silmän mykiö: # mSv/v.
+023478eb	Spin, Larmorin taajuus ja magnetoituma
 0282b42b	Ei hilaa: oikea valinta kapealle lapsen rintakehälle.
 02875262	Verenpaine
 028cc680	Avaan laajan kentän ja laitan lyijyä kilpirauhasen päälle
+02943f2b	# Sv
 02daa186	Gradienttikaiku
 02ff0734	tuntia
 03410798	Aloita oppitunnista #  →
+03a5ffee	<b>Primääriseinä:</b> seinä, johon keila voi osua suoraan (U < #).
 03aded2d	Protoni
+03bd2a69	# %
 03d9f12f	VAHVISTA
+03ee7f99	Annoksen ja pinta-alan tulo
+04031976	Kasvaimesta mitataan # kBq/mL; # kg:n potilas sai # MBq (hajoamiskorjattuna). SUV = # / (# # / # #) = # / # = #.
 04215fff	Hoitopää
 04665812	Keskienergia (sisääntulo / ilmaisin)
 04b21fef	Vain reuna-alue
 04c33449	Atomien alkumäärä N₀
+04d7b85a	Silmän teippaaminen kiinni riittää
 05446544	Ionisoiva säteily
 054ed6b1	#. Protonit ja Braggin piikki
 0551e426	Suprajohtava magneetti
 05735a1f	Kuvauksen aikana kuuluu kovaa koputusta. Syy ja varotoimi?
 05747e6b	Nykyiset suositukset (AAPM #, BIR/IPEM #): rajaus on tehokkain suoja. Sukurauhasten annos kentän ulkopuolella on jo hyvin pieni; kenttään liukuva suoja peittää anatomiaa ja saa valotusautomatiikan nostamaan annosta.
 05883f18	Annosnopeus H*(#)
+05a40e0d	Lihaksen signaalin
 05aeb14d	Tarpeeton annos silmälle ja terveelle kasvojen iholle.
 05b19ab8	Opiskeluvinkit
 05b21be8	Kasvaimen EQD2 = n·d·(d + #)/(# + #) = # Gy — kuratiivinen alue.
 05f6dc9a	Päämagneettikenttä B₀
+0682d944	DVH ja annosrajat
 069d81b7	 kanavaa
 06ba43bc	Jokainen pallo on ydin. Jokaisella aika-askeleella se hajoaa todennäköisyydellä p = # − e^(−λΔt) ja lähettää fotoniviivan; kun ytimiä on vähän, N(t) vaihtelee tilastollisesti.
 06df51de	Injisoitu aktiivisuus
@@ -39,64 +52,97 @@
 07ef138f	AJA SEKVENSSI
 0827bee2	Annosrajat (ICRP #)
 086c6bbb	Väri: #%·#%·#%·#%·#%:n isoannokset. Ääriviivat: vihreä PTV, keltainen selkäydin, punainen sydän, vaaleanpunainen keuhkot.
+08b1f023	<b>Raskaana oleva työntekijä:</b> raskauden ilmoittamisen jälkeen sikiön annos ei saisi ylittää ~# mSv:tä raskauden loppuaikana.
 08c92619	Lapset ovat #–#× säteilyherkempiä kuin aikuiset, ja heillä on pitkä elinajanodote → ALARA on vielä tärkeämpi.
 09138ded	En halua leikkausta. Millaista tämä sädehoito on, sattuuko se?
+094a7633	β⁻-hajoaminen
 096813ae	Kohina (σ, tasainen alue)
+096b4d6f	Radiokrominen filmi
 098d1ad9	Maksan radioembolisaatio (SIRT)
+09aa91b9	Primäärikeilaa vastaan
 09c4871c	Mikä vuorovaikutus hallitsee # MeV:n fotonilla pehmytkudoksessa?
+09e38d90	Perinnöllinen mutaatio
 09f71920	Larmor-taajuus
 09feeabb	Vertaa # MeV:n protonien Braggin piikkiä NIST:n CSDA-kantamaan
+0a2d132a	Ketä valvotaan, ja miten?
+0a2d70d0	Suodatettu takaisinprojektio: projektiot suodatetaan ramppisuotimella ja projisoidaan takaisin.
+0a43bb10	BED = # × (# + #/#) = # Gy. Arvolla α/β = # se olisi # Gy.
 0a496fc5	Sikiön annos ≈ SSDE (kohtu kokonaan kentässä). Diagnostinen kohinaraja ≈ # HU (umpilisäkkeen matala-annosprotokolla). Valitse kV, mAs, pitch ja kuvauspituus ja paina sitten KUVAA.
 0a52c35c	T1-painotteinen
 0aa78268	Hypofraktiointi: eturauhasen α/β on pienempi kuin peräsuolen, joten suuret fraktiot suosivat kasvaimen hoitoa (CHHiP #/#, PACE-B #/#), ja potilaan tarvitsee matkustaa vähemmän.
+0ac75168	Jos annosnopeus on # µSv/h # m:n etäisyydellä, mikä se on # m:n etäisyydellä?
 0ac8a560	Nollaa
 0acf4d25	Suurempi teksti
+0b2830b9	SUV
+0b2a90c5	MIRD
+0b3d4df2	Lapset
 0b4677ab	EANM: glukoosi < # mmol/L (≈ # mg/dL). Hyperglykemia kilpailee FDG:n kanssa ja vähentää kasvaimen kertymää.
 0b4d8f40	eloonjäävä osuus
 0b81ff1c	Yläleuan luu ≈ # cm muutoksen alla
 0b8b3199	Annosrajoitteet (QUANTEC / RTOG)
 0bbe8b9f	Reaaliaikainen Monte Carlo: jokainen jälki on hiukkanen. Enemmän historioita = vähemmän tilastollista kohinaa (σ ~ #/√N).
+0be48cca	As Low As Reasonably Achievable — annokset pidetään niin pieninä kuin kohtuudella on mahdollista, taloudelliset ja yhteiskunnalliset tekijät huomioon ottaen.
+0c088256	ICRP # totesi kaihin kynnysannokseksi ~# Gy ja laski rajan arvosta # arvoon # mSv/v — siksi lyijylasit ovat tärkeät toimenpidekardiologiassa.
+0c13aa12	Mitä ramppisuodin tekee FBP:ssä?
 0c1c4f42	Sädehoito: kuratiivinen EBRT, eturauhanen ± siemenrakkulat (Dr. Kılıç)
 0c2610e2	Repeämä/kierukka-CNR #: repeämä selvästi näkyvissä (neste kirkas, kierukka tumma PD/T2-kuvissa).
 0c433245	Matala kasvain–tausta-suhde → levinneisyysluokituksen virheiden riski.
 0c903e49	Lyijysulkimet rajaavat kentän: vähemmän potilasannosta ja sirontaa. Al/Cu-suodatus poistaa matalaenergisiä fotoneja, kovettaa keilaa ja pienentää ihoannosta.
 0ccd4680	Pallo / tausta -suhde
+0cd9d0ad	Miksi mammografiassa käytetään matalaa kVp:tä?
 0ce92428	CTDIw: # cm vartalofantomi (# cm pää); E = DLP × k (rintakehä #, vatsa #, pää # mSv/mGy·cm).
 0d78d08a	Rakenna # cm leveä SOBP
+0d816b59	TMR on määritelty vain elektroneille
 0db9cc3e	Pulssi
 0dec8195	Käytä sarjaa #° – τ – #° ja muodosta spinkaiku
 0e1a0a7b	kerta-annos, α/β = # (varhainen / kasvain)
 0e32111a	Keila
 0e629e6c	Uusi aika: ≥ #–# h paasto, verensokerin on oltava < # mg/dL
+0efb8aba	Mikä on protonin Larmorin taajuus # T:ssa?
 0f01dfcb	Seuraava eluutioaika
 0f6a0301	#×# cm applikaattori, ei rajausta
+0ff0ece3	Voima skaalautuu B·dB/dz:n mukaan; keskellä B on suurin mutta dB/dz ≈ #, kun taas tulon maksimi on tunnelin suulla.
 0ff4383c	Raskaana oleva työntekijä (sikiö)
 10225e52	Kortikaalinen luu
+10446e37	Säteen koveneminen (cupping)
+105d6ef1	Kerätyt signaalit täyttävät k-avaruuden, ja kuva on sen #D-Fourier-muunnos. K-avaruuden keskusta kantaa kontrastin ja kokonaissignaalin, reunat hienot yksityiskohdat ja reunat. Spinkaiussa kerätään yksi rivi TR:ää kohti.
 10bddc32	Ferromagneettinen sirpale silmässä voi liikkua B₀:ssa ja aiheuttaa sokeutumisen → ensin orbitaröntgen (tai TT).
 10bee102	Poikkeamaindeksi (DI)
+10ea12d4	Keuhko, paksusuoli, mahalaukku, rinta, punainen luuydin ja muut kudokset: #; kilpirauhanen #; iho #.
 10f562e1	Annan pikainsuliinia ja injisoin heti
 10f6a1bd	Lineaaris-kvadraattinen malli • BED
+11021e45	Mammografia
 113249ae	Tee fotonisuunnitelma, joka täyttää kaikki annosrajoitteet
 114fa830	Monilehtikollimaattori (#–# mm:n lehdet) muotoilee kentän kasvaimen mukaan ja liikkuu säteilytyksen aikana IMRT- ja VMAT-hoidoissa.
 116e6f62	Hologrammi
 11a18b82	Poista kaikki
 11a4e77a	Diagnostinen / hoidollinen laatu
+11a6d3ed	Eturauhasen α/β (~# Gy) on pienempi kuin ympäröivän myöhäiskudoksen (peräsuoli ~# Gy)
+11be0e65	Kaihilla on kynnys (ICRP #: ~# Gy), ja sen vaikeusaste kasvaa annoksen myötä; syövät ja perinnölliset vaikutukset ovat stokastisia.
+120a6115	Potilas, läheiset ja henkilökunta
+120fdb1f	Brakyterapia (TG-#, piste)
+122b6e24	TR = # ms, # vaiheriviä, NEX = #: tavallinen spinkaiku kestää # × # = # s ≈ # min; turbospinkaiku, jonka ETL = #, kestää #/# = # s.
 124f5fe7	Valkean / harmaan aineen kontrasti (merkin kohdalla)
+1264df05	Raskaus, lapset ja riskiviestintä
 129b582e	DI # → oikea valotus.
 132d55ba	suhteelliset fotonit
 134c264b	Metalliartefakti: kuvaa lantion leike lonkkaproteesin kanssa
 135a8cc7	 h jälkeen
 136685c9	EQD2 kasvain (α/β #) = # Gy, myöhäinen iho (α/β #) = # Gy. Hyvä tasapaino paikallisen hallinnan ja kosmeettisen tuloksen välillä.
 1370333f	Kentän leveys
+138168c1	Minkä ekvivalenttiannoksen # Gy α-säteilyä antaa?
 138fb3e1	Oikein: I/I₀ = e^(−μx). Koska σ ~ #/√N, kohina kasvaa samalla mAs:llä ≈ √# ≈ #×.
 13ad4851	β-hCG POSITIIVINEN: noin # raskausviikkoa.
 13bea53e	# kultamerkkiä implantoitu
 13f06473	Tyhjennä lukemat
+1425444e	# MV, #×# cm²:n kenttä, # cGy isosentriin # cm:n syvyydellä. Kalibrointi: # cGy/MU syvyydellä d_max isosentrissä. TMR(# cm) ≈ #, S_c = S_p = #, ISF = #. MU = # / (# × #) ≈ # MU.
 1451f91f	todellinen 
 14d5133a	ACR (#) ja ESUR #: metformiinia jatketaan, kun eGFR ≥ #; laskimonsisäinen varjoaine tarvitaan paiseen havaitsemiseen.
 14e77c03	Nollaa edistyminen
 151c3f35	Ilmaisinrengas (LYSO + SiPM)
 1527c7a5	Tutustu lääketieteelliseen fysiikkaan pienin askelin ja oikeilla laskuilla.
+154a1ae4	Mikä on suuremman kentän (# T) tärkein etu?
+158c91bf	≈ # MBq
 15b23cec	 pistettä
 15c3229f	α/β kasvain
 15cf43c6	kV-lähdettä vastapäätä oleva taulu; se kerää satoja projektioita CBCT:tä varten gantryn pyöriessä.
@@ -107,64 +153,115 @@
 16280e6a	Potilaasta tuleva annosnopeus ~ A/d²; F-# T½ = # min. Lähikontaktin lykkääminen muutamalla tunnilla pienentää vauvan annosta voimakkaasti.
 1640e3a4	etäisyys (m)
 164b6930	Tallenna lukema
+167d88c8	≈ # MHz
 16b19be2	kVp:n vaikutus: kuvaa ≤# kVp:llä ja ≥# kVp:llä; vertaa luukontrastia
 16d4a955	Sädehoito
+16f6a6d1	SAR
 17098140	Eturauhasen adenokarsinooma, keskisuuri riski (Gleason ##, PSA #)
 1716fced	Sikiön annos ≈ SSDE = # mGy (CTDIvol # × f #).
 1725def4	K-viivat edellyttävät, että tuleva elektroni ylittää K-kuoren sidosenergian, joten volframin K-viivat ilmestyvät vasta yli # kVp:n.
 17278db5	Energia
+174431ff	Diagnostisilla energioilla (valosähköinen ilmiö hallitsee) lyijy on hyvin tehokas: #–# mm Pb pysäyttää #–# % fotoneista, kun putkijännite on # kVp. MV-energioilla (Compton-sironta hallitsee) vaimennus seuraa elektronitiheyttä, joten hoitohuoneissa käytetään halpaa, paksua betonia. Neutronit vaativat vetypitoisia materiaaleja (polyeteeni, booripitoinen betoni).
+176d6111	Mikä hajoamistapa on PET:n perusta?
 17a150b4	Kyllä — karakteristiset viivat eivät riipu kVp:stä
 17a890d2	Jäljellä olevat ytimet N(t)
 17c2afe2	Pehmytkudoksessa valosähköinen ilmiö hallitsee alle noin # keV:n energioilla, Compton välillä # keV – ~# MeV ja sen yläpuolella parinmuodostus. Suuren järjestysluvun aineissa, kuten lyijyssä, valosähköinen alue ulottuu noin # keV:iin asti — siksi lyijy on hyvä suoja.
 17cd8fa8	 oppituntia • 
+17e23d13	Ohimenevä punoitus alkaa ~# Gy:n ihoannoksella; pitkissä toimenpiteissä ihon huippuannosta on seurattava ja se on kirjattava.
+17f14029	Se kasvattaa B₀:ta
+17f5c6dc	Miksi hypofraktiointi on edullista eturauhassyövässä?
+17fda0a4	Ionisaatiokammio
 1808f4a6	Pehmytkudoksessa Compton hallitsee noin # keV:stä # MeV:iin. Parinmuodostusta ei voi tapahtua lainkaan sen # MeV:n kynnyksen alapuolella.
 18279c08	Levitetty Braggin piikki (SOBP)
 18284597	<b>Valotusindeksi</b> EI = # × K_ilmaisin [µGy] (IEC ##). Poikkeamaindeksi DI = #·log₁₀(EI / EI_tavoite); |DI| ≤ # on sopiva. DI = # tarkoittaa kaksinkertaista tarvittavaa annosta.
 182fdbbe	EANM (petipaikkojen limitys > # %): A·t ≥ # MBq·min·kg⁻¹ × paino. Pienempi aktiivisuus + pidempi aika antaa saman kuvan pienemmällä annoksella. Suositeltu kertymisaika on # ± # min.
 18674089	<b>Koherentti sironta:</b> fotoni muuttaa suuntaa menettämättä energiaa; pieni osuus matalilla energioilla.
+188a8059	LET ja biologinen vaikutus
+189d2fc2	Mistä ne tulevat?
 18d0a565	Keuhkojen TT
 1904dc9d	EANM-suositus
 19201036	Aika–etäisyys–suojaus, etäisyyden neliölaki, annosnopeuskartta, tehtävät.
 193ee1fd	Levitetty Braggin piikki (SOBP, # cm)
+195d68ba	Farmer-ionisaatiokammio
+197560c4	Poikittainen magnetoituma vaimenee, kun spinit vuorovaikuttavat ja menettävät vaihekoherenssinsa — spin-spin-relaksaatio, T2. Käytännössä kentän epähomogeenisuudet nopeuttavat vaiheistumisen purkautumista, joten havaittu vaimeneminen on T2* < T2. #°:n uudelleenfokusointipulssi (spinkaiku) kumoaa staattiset epähomogeenisuudet ja palauttaa todellisen T2:n.
+19a0d56e	Varattujen hiukkasten tasapaino (CPE)
+19a49e9f	IGRT
 19b5eb24	Nyrkkisääntö: R9# ≈ E/# cm, R5# ≈ E/# cm, Rp ≈ E/# cm. Elektronit pysähtyvät jyrkästi tiettyyn syvyyteen — ihanteellisia pinnallisille kasvaimille.
 19c23656	 h odotus
+1a0c0de0	# mSv
 1a36a166	Edistyminen
+1a3806f2	Mikä on BED, kun # Gy × # = # Gy annetaan kudokseen, jonka α/β = # Gy?
+1a8231be	Absorboitunut annos
+1aa52b11	Positroni annihiloituu elektronin kanssa kahdeksi vastakkaissuuntaiseksi # keV:n fotoniksi, jotka PET havaitsee koinsidenssissa.
 1ace7035	Taulukuvailmaisin
+1ad4cee2	Diagnostinen vertailutaso: kansallisen jakauman #. persentiili. Optimoinnin työkalu, ei raja-arvo.
 1b01a1c6	Atomi koostuu ytimestä, jossa on Z protonia ja N neutronia, sekä sitä ympäröivistä Z elektronista. Massaluku on A = Z + N. Ytimet, joilla on sama Z mutta eri N, ovat isotooppeja, kuten ¹²C ja ¹⁴C.
 1b06e46e	Kerää ≥ # # koinsidenssiä ja rekonstruoi MLEM:llä
 1b12fad7	Tyypin # diabetes (metformiini)
+1b3d5f37	Varattu hiukkanen kokee lukemattomia pieniä Coulombin vuorovaikutuksia väliaineen elektronien kanssa ja menettää energiaa jatkuvasti. Energiahäviö matkan pituusyksikköä kohti on jarrutuskyky S = −dE/dx (MeV/cm), joka ilmoitetaan myös massajarrutuskykynä S/ρ (MeV·cm²/g).
+1b97c482	RF-pulssin jälkeen pitkittäinen magnetoituma palautuu, kun spinit luovuttavat energiaa ympäristöönsä (hilaan) — spin-hila-relaksaatio, T1. Rasvan T1 on lyhyt (~# ms # T:ssa), nesteen pitkä (aivo-selkäydinneste ~# ms); T1 pitenee B₀:n kasvaessa.
+1b9905a7	Paikkakoodaus ja k-avaruus
 1bbe9bf8	Mehmet: ”Kädet pään yläpuolelle? Selvä.”
 1be9e2d9	Puoliintumisarvokerros (HVL) on paksuus, joka puolittaa intensiteetin: HVL = ln2/μ. Kymmenysarvokerros on TVL = ln1#/μ ≈ # HVL. n HVL:ää pienentää intensiteettiä kertoimella #ⁿ.
+1c0f8606	Kohinan puolittamiseksi mAs (ja annos) on nelinkertaistettava. Vaihtoehtoisesti siirtyminen # mm:n leikkeistä # mm:n leikkeisiin puolittaa myös kohinan, z-suunnan erotuskyvyn kustannuksella.
+1c3ba3dc	Raskaana oleva potilas
+1c4e4f9c	Jarrutuskyky
+1c7776da	Satunnaisilla virheillä ei ole lainkaan merkitystä
 1c872a31	kyllä (> # MV)
 1ca87565	Ihomerkinnät ja laserit riittävät
 1cb740a3	<b>Etäisyyden neliölaki:</b> intensiteetti ~ #/d². SID:n kasvattaminen # cm:stä # cm:iin vaatii ~#× mAs saman ilmaisinannoksen saamiseksi, mutta ihoannos kasvaa vähemmän ja suurennus pienenee.
 1cc0e3d5	Äiti kysyy: ”Voiko tämä röntgenkuva vahingoittaa poikaani?” Emirin efektiivinen annos ≈ 
+1d38faf9	Lämpimämpi ilma tarkoittaa vähemmän kaasua kammiossa ja pienempää lukemaa. TRS-#:n vertailuolosuhteet ovat # °C ja # kPa. Lämpötilassa # °C ja paineessa # kPa k_TP = (##)/(##) × #/# ≈ # × # ≈ #. Ilman tätä korjausta annos olisi # % liian pieni.
 1d4b8ac2	Injisoin heti
+1d6a995e	Systemaattinen virhe siirtää jokaista fraktiota samalla tavalla ja siirtää annosta pysyvästi
 1d6b9aba	Organogeneesin aikana (viikot #–#) deterministinen kynnys on ~#–# mGy; diagnostiset tutkimukset jäävät kauas sen alle.
 1d8a20dd	Mehmetin vatsa on 
 1dd9a37f	Epästandardi kertymisaika: SUV:t eivät ole vertailukelpoisia aiempiin/myöhempiin kuvauksiin.
+1ddd0e0d	Thoraxkuvassa keuhkot saavat # mGy ja rinnat # mGy (muut mitättömiä). E ≈ #·# + #·# = # mSv ≈ # mSv — noin # päivän luonnollinen taustasäteily.
+1e466356	Protonit luovuttavat suurimman osan annoksestaan Braggin piikissä ja lähes ei mitään sen takana, kun taas fotonit jättävät myös huomattavan ulostuloannoksen kohteen taakse. Siksi protonihoito pienentää integraaliannosta selvästi, erityisesti lapsilla ja kriittisten elinten (silmä, kallonpohja, selkäranka) lähellä olevissa kasvaimissa.
+1e4f76b7	Inversion nollakohta
 1e6a827e	Etsi protonin Larmor-taajuus # T:ssa (≈ # MHz)
+1e788d30	Gammakamerassa on kollimaattori, suuri NaI(Tl)-kide, valomonistinputket (PMT) sekä paikka- ja energiaelektroniikka. Kiteessä absorboitunut fotoni tuottaa valonvälähdyksen; PMT-signaalien painotettu keskiarvo antaa tapahtuman paikan (Anger-logiikka) ja niiden summa energian.
 1e836d59	T2-vaimeneminen
+1e96362a	Protonit kulkevat lähes suoraviivaisesti. Ne luovuttavat suurimman osan annoksestaan kantamansa viimeisillä millimetreillä, minkä jälkeen annos putoaa lähes nollaan. Kantama määräytyy tarkasti energiasta (Bragg–Kleemanin sääntö R ≈ #·E^#). Yksittäiset protonit pysähtyvät hieman eri syvyyksille (kantaman hajonta), joten piikki on muutaman mm leveä.
+1e9e1a29	Viivafokusperiaate: vino anodi levittää lämmön suurelle alueelle, ja ilmaisimelta nähty efektiivinen polttopiste pysyy pienenä. Heel-ilmiön takia säteen anodipuoli on hieman heikompi.
+1ef452c8	S_col ~ (z² / v²) · ln(# m_e v² / I)        (I: keskimääräinen virittymisenergia; vedelle ≈ # eV)
 1f05f68e	Kudosparametrit
 1f12087d	Annos ≈ 
+1f2ecf71	Kohina
 1f4ea376	Mo-#:n alkuaktiivisuus
 1f6b3b4a	Luu (# cm) # % — säästetty.
+1f956563	Suunnittelutekniikat
+1fe5d236	Röntgenputki ja spektri, kuvanmuodostus, kontrasti ja kohina, sironta ja hilat, ilmaisimet, EI/DI, potilasannos; läpivalaisu ja mammografia.
+2009a0a3	Mitä lyijyesiliina tarjoaa röntgenhoitajalle, joka valmistaa PET-merkkiainetta?
+200b57d8	TT mittaa leikkeen vaimennusprofiilin kaikista suunnista potilaan ympäri pyörivällä putkella ja vastapäisellä ilmaisinrivillä. Jokainen ilmaisinelementti näkee μ:n integraalin sädettään pitkin:
 20170133	Hammaspaikat
 2056fe0a	Co-#:llä on matala PDD ja leveä puolivarjo; sitä ei käytetä nykyaikaisessa kuratiivisessa eturauhasen sädehoidossa.
 20c4a5a9	Ihonäkymä
 20c53222	Valitse mikä tahansa aihe. Jos olet uusi, kokeile ensin lyhyttä aloitustapausta.
 20caf1bb	Eluoi generaattori #–# h edellisen eluution jälkeen (suurin saanto)
+20daffb6	Jos kudoksen μ on # % suurempi kuin veden, mikä on sen HU-arvo (μ_ilma ≈ #)?
+20e5e537	<b>Kilpirauhassuoja ja lyijylasit:</b> läpivalaisussa ja toimenpideradiologiassa.
+20e99949	Annossuureet
 210acf6e	Hasan: ”Monenako päivänä minun pitää tulla? Matkustan kylästä.”
+2128d576	Pinnan lähellä sisään tulee vähemmän elektroneja kuin lähtee; annos kertyy elektronien kantaman (d_max) matkalla, kunnes se lähestyy kermaa.
 218447b4	Rasva
+21ce1114	Raskaus pitäisi keskeyttää
 21db31eb	Lyhyt TR/TE → T1; pitkä TR, lyhyt TE → PD; pitkä TR/TE → T2-painotus.
 21f331e9	Olkapään tähystys #: titaaniankkurit
+221c38d0	Pienen α/β:n kudos on herkempi suurille fraktioille. Koska kasvaimen α/β on peräsuolen arvoa pienempi, samalla myöhäistoksisuudella voidaan antaa suurempi biologinen kasvainannos.
+22392fc6	Mo-#/Tc-#m-generaattori
 224a7dd2	Ulkoisessa sädehoidossa ei ole tällaista rajoitusta; se voi koskea brakyterapian jyviä.
 229566cb	Hasan: ”Saanko halata lastenlapsiani hoidon jälkeen? Olenko radioaktiivinen?”
 22a06b53	ALARA: keuhkokuva, jossa ESAK < # mGy ja DI ≥ −#
+22a87b76	<b>Generaattori:</b> pitkäikäinen emo tuottaa lyhytikäisen tytärnuklidin: Mo-#/Tc-#m, Ge-#/Ga-#.
+22d2c2ce	Pienemmän kentän (# T) laite riittää
 22fd0749	Päivittäinen IGRT korjaa elinliikkeen, mikä pienentää marginaaleja ja peräsuolen annosta.
 2357d727	Keilan fysiikka
 23f641a4	• Tarkista yksiköt jokaisessa kaavassa (cm⁻¹, Gy, Sv, MBq). • Ratkaise esimerkit ensin itse ja tarkista sitten. • Kertaa harjoituskokeen jälkeen väärin menneiden kysymysten oppitunnit. • Haastatteluissa kysytään useimmin: ICRP-periaatteet, puoliintumispaksuus, etäisyyden neliölaki, LQ/EQD2, CTDIvol/SSDE, T1/T2, PDD ja Braggin piikki.
+240febd8	I-#
 24176da5	Mo-# / Tc-#m -generaattori
+243eddb1	Geometria
 2448ca2f	lyijy
 2456b993	Kontrasti
 2523a664	Kävele lähteen luo (< # m), nosta se ja kanna lyijysäiliöön.
@@ -172,128 +269,214 @@
 252a0fa6	suojaamaton
 253898c0	Pulssimäärän riittävyys # — EANM-tason kuvanlaatu.
 25517e15	Braggin piikki
+255b2c81	Vähentää kohinaa
+256cadab	R ≈ #·E^#   (vesi, R senttimetreinä, E MeV:nä)
 2576aae7	Paino / pituus
+258734b7	<b>Säteen koveneminen:</b> cupping (tumma keskusta) ja tummat juovat tiheiden luiden välissä; vesikalibrointi korjaa cuppingin.
 25941612	Luun annos (# cm)
+25a52545	I-#:lle T_fys = # päivää; olkoon kilpirauhasen T_bio # päivää. T_eff = (# × #)/(# + #) = # päivää — aina lyhyempi kuin kahdesta pienempi.
 25b31f5d	Putken tuotto (# m)
 25c2fc03	Kysymyksiä ei löytynyt.
 25e14a19	Virta × aika
 25edd5e3	protonien ja elektronien jarrutuskyvyn ja kantaman viitearvot
+25f0ba98	ICRP # antaa α:lle w_R = #: H = # × # Gy = # Sv.
+260c9112	#
+26abae68	HU = # × (# μ_w − μ_w)/μ_w = # × # = # — tyypillinen pehmytkudokselle.
 26f973b0	Vaimennuskorjaus (AC)
 26fbd2ec	Mikä erottaa röntgensäteilyn γ-säteilystä?
+271d6d1e	<b>Sekundääriseinä:</b> potilaasta siroavaa säteilyä ja hoitopään vuotosäteilyä vastaan (~# % työkuormasta); U = #.
 2731d14d	ALOITA TAPAUS  →
 2749a496	Potilaan efektiivinen annos
+274a6a69	TR / TE
+27b867bb	BED ja EQD2
 27c35a89	 (T2-häviö: e^(−TE/T2))
 280f0096	Aloita ensimmäisestä tapauksestasi
+285171e9	I-# siirtyy rintamaitoon ja kertyy imeväisen kilpirauhaseen; hoitoaktiivisuuksilla kyseisen lapsen imetys lopetetaan.
 287f6fa8	Annetut fraktiot
 2885d27b	Hajasäteilyhila (#:#)
 28a6f0c2	Kuvaaja
+28b66559	#°:n pulssi kääntää vaiheiden järjestyksen, joten staattiset epähomogeenisuudet fokusoituvat uudelleen TE-hetkellä; satunnaisia spin-spin-vuorovaikutuksia (T2) ei voi kumota.
 28ce8c15	Ilmaisimet mittaavat itse positronia
 290489df	Vuorovaikutuksen todennäköisyys matkan pituusyksikköä kohti (cm⁻¹); μ/ρ on massavaimennuskerroin (cm²/g).
 296d75eb	Sädebiologia
+299d31a2	SUV = C_kudos / (A_annettu / kehon paino)
 29aac115	kerta-annos, α/β = # (myöhäinen)
 29e178a3	Keskustelu perheen kanssa
 29e32f3e	Vastaanotto
 2a17c8fd	Maksan kohina # HU: matalakontrastinen absessi voi hukkua kohinaan.
 2a72143f	Tarvitaan < # µSv/h pöydän kohdalla
+2ab5c9fc	<b>Syklotroni:</b> protonipommitus; F-# valmistetaan rikastetusta vedestä reaktiolla ¹⁸O(p,n)¹⁸F. Koska T½ = # min, sitä jaetaan alueellisista syklotroneista.
 2ab93b6c	Tavoite: ≥ # %:n annos kaikkialla iholta # cm:n syvyyteen; luussa ≤ # % (# cm:n syvyydellä). Valitse energia ja boluksen paksuus.
+2aca6a7c	Noin kuinka kauan eluution jälkeen Tc-#m:n aktiivisuus on huipussaan generaattorissa?
 2ad83ea8	KUVAA
+2aecbbea	Matalat paikkataajuudet ovat keskellä: ilman keskustaa kuva menettää kontrastinsa, ilman reunoja se sumenee.
 2afcdfa8	CNR repeämä / nivelkierukka
+2b02aa61	Se kasvaa #-kertaiseksi
+2b030ee3	PET:ssä kahden # keV:n fotonin havaitseminen vastakkaisissa ilmaisimissa muutaman ns:n sisällä.
 2b05bc17	Jokainen atomi hajoaa jokaisella aika-askeleella todennäköisyydellä p = # − e^(−λΔt). Kun atomeja on vähän, käyrä vaihtelee tilastollisesti.
 2b45b1f2	MLEM-iteraatiot
+2b6a8342	Mikä laite sopii parhaiten huoneen kontaminaation etsimiseen?
 2b8ee748	Valittu fraktiointi
 2bab58c8	MK-turvallisuus: esitietolomake, orbitaröntgen (metallityöntekijät), vyöhyke IV -säännöt, kuulonsuojaus.
 2bbeecb2	Oikeita potilaita, oikeita päätöksiä: lapsen keuhkokuva, TT raskauden aikana, kookas potilas, eturauhasen sädehoito, ihosyöpä, PET ja MK-turvallisuus.
 2bd2dbd1	Titaaninen lonkkaproteesi
+2bd612e8	Pitkä TI (≈ #–# ms) nollaa hyvin pitkän T1:n omaavan aivo-selkäydinnesteen ja tuo esiin periventrikulaariset muutokset.
 2be6e625	HDR-brakyterapia
 2bfaf1fc	ei vielä valotettu
 2c30aab8	Kokonaisannos / aika
+2c32813e	# W/kg
+2c32a937	SSDE (AAPM #)
+2c5508a5	<b>Työperäinen:</b> efektiivinen annos # mSv/v (keskiarvo # vuoden ajalta, yhtenä vuonna enintään # mSv); silmän mykiö # mSv/v (ICRP #); iho ja raajat # mSv/v.
+2c58f0bf	CTDI on yhden kierroksen annosprofiilin integraali, joka mitataan # mm:n kynäkammiolla PMMA-fantomeissa (pää # cm, vartalo # cm). Painotettu CTDIw yhdistää keskustan ja reunan; CTDIvol ottaa pitchin huomioon, ja se näytetään konsolilla.
+2c7551a1	Miksi PET ei tarvitse kollimaattoria?
 2c89960f	EQD2 kasvain (α/β #) = # Gy, myöhäinen iho (α/β #) = # Gy. Yksi suuri fraktio altistaa myöhäiselle nekroosille ja rustovauriolle.
+2caf8732	Miten putkivirran (mA) kaksinkertaistaminen muuttaa spektriä?
 2cafb291	Kliiniset tapaukset — 
 2cb28fc5	Osat
 2ceef116	Sammuta magneetti ja päästä hänet sitten sisään
+2cf118a7	HU = # · (μ − μ_vesi) / (μ_vesi − μ_ilma)
 2d0ea9f2	Kokonaisannos
+2d38e091	M_PTV = #·Σ + #·σ    (Σ, σ: systemaattisten ja satunnaisten virheiden SD)
 2d435572	Aiheuttaa turhaa pelkoa ja viivästyttää diagnoosia; oikeutettua tutkimusta ei pidä estää.
+2d59f0fd	Säteen kovettuminen: kun keskienergia kasvaa, μ pienenee, joten toinen puolittuminen vaatii paksumman kerroksen.
 2d877b6c	Osio
+2d8fb0b2	Sironnan poistamiseksi kokonaan
 2d93483f	Voit valita useamman vaihtoehdon.
 2dcee2fc	eluution jälkeen (h)
 2e160bcd	Levinneisyysaste
+2e2c2d5d	f = # × # ≈ # MHz.
+2e4d104d	Kuvanmuodostus: kontrasti, sironta ja hilat
+2e5665a5	Protonien prekessiotaajuus B₀:n ympäri; # MHz (# T:ssa).
+2e5bf3b5	Rasvan signaalin
+2e62f99c	Miten annos muuttuu HDR:ssä # cm:n etäisyydellä lähteestä # cm:n sijaan (vain etäisyyden neliön laki)?
 2e6390f7	Valmis. 
 2e83162e	Sekvenssin suunnittelu
 2eafe887	Nopeus
+2ebc2a84	CTDI-perhe
 2ebd290f	Putken kuormitus (pitch #)
 2ecb2727	Matala kV lisää jodin kontrastia mutta aiheuttaa kookkailla potilailla fotonivajetta.
+2ed4bd8c	Stokastisten vaikutusten (syöpä, perinnölliset vaikutukset) osalta säteilysuojelu olettaa lineaarisen kynnyksettömän mallin (LNT): todennäköisyys on verrannollinen annokseen, kun taas vaikeusaste ei riipu siitä. ICRP #:n nimellinen syöpäriskikerroin koko väestölle on ≈ # % Sv:tä kohti.
+2ee5a97a	Efektiivinen annos E = Σ w_T H_T ilmaisee epätasaisen altistuksen stokastisen riskin yhtenä lukuna. Kudosten painotuskertoimet (ICRP #): punainen luuydin, paksusuoli, keuhko, mahalaukku, rinta ja "muut kudokset" #; sukurauhaset #; virtsarakko, ruokatorvi, maksa ja kilpirauhanen #; luun pinta, aivot, sylkirauhaset ja iho #. Niiden summa on #.
 2f0820de	Kuvaan ilman varjoainetta
+2f1696b0	<b>Metalli:</b> tähtimäiset vaaleat/tummat juovat fotonien puutteen ja kovenemisen vuoksi; MAR-algoritmit ja suurempi kV auttavat.
+2f2650d9	MIRD-menetelmä
 2f44ed8c	Aloita alusta
+2f538647	<b>β⁺:</b> protoni → neutroni + positroni + neutriino (F-#, Ga-#); positroni annihiloituu # × # keV:n fotoneiksi — PET:n perusta.
 2f828120	Erikokoisia kuumia palloja ja keuhkoinsertti vedellä täytetyssä sylinterissä: sillä testataan palautumiskertoimia, osittaistilavuusilmiötä ja vaimennuskorjausta.
+2f9059d6	Noin kuinka suuri osa energiasta muuttuu röntgensäteilyksi volframianodissa # kV:n jännitteellä?
+2faee7d1	Kuvausaika
+2fb366b1	Hila
 2fc8666a	CNR turvotus / ydin
+2fdacb63	FBP
+2ffbb13c	TR # ms, TE # ms
 3000eed2	aika (vrk)
+30477590	<b>Suurempi mAs:</b> spektrin muoto ei muutu; fotonien määrä ja annos kasvavat lineaarisesti.
 304ff7fb	Ei mitään
+309e5265	Miksi protonit?
 30b6e97d	Elektronienergia ja bolus
+30b7dd3d	Pitkä TR poistaa T1-vaikutuksen, pitkä TE tuo esiin T2-erot.
 30fa92b1	Rekonstruoitu kuva
+31417a84	Mikä on koko kehon SAR-raja normaalissa käyttötilassa?
 3152bf83	Luustometastaasit (alfahoito)
 31b9a47d	T1-palautuminen
+31bbbc99	Magneettikuvaus
+31d8fb21	<b>T1-painotteinen:</b> lyhyt TR (~#–# ms), lyhyt TE (~#–# ms). Rasva on kirkas ja neste tumma; käytetään anatomiaan ja varjoaineen tehostumiseen.
 31e91d5f	Keskeltä ohut ja reunoilta paksu: se pienentää annosta potilaan ohuilla reunoilla ja tasoittaa ilmaisinsignaalia. Kollimaattori määrää leikepaksuuden.
+31fd861c	Fotonit eivät vuorovaikuta siellä
 327a15b7	Fotoneutronien tuotto alkaa yli ~# MV:n; VMAT:lla #–# MV riittää syville kohteille.
+328c47ab	Sädehoidon # R:ää
 32abb5ec	Varauksettomat hiukkaset (fotonit, neutronit), jotka ensin panevat liikkeelle varattuja hiukkasia.
 32d80beb	kudosten koostumukset, annossuureet, painotuskertoimet
 33449df1	#. Vaimeneminen ja suodatus
 3377af3e	Oikein: F = I·L × B. Melu kasvaa B₀:n mukana (kovempi # T:ssa); IEC ### vaatii kuulonsuojauksen.
+339ae232	Tyypillisiä arvoja (# T): valkea aine T1 ≈ # ms, T2 ≈ # ms; harmaa aine T1 ≈ # ms, T2 ≈ # ms; aivo-selkäydinneste T1 ≈ # ms, T2 ≈ # ms; rasva T1 ≈ # ms, T2 ≈ # ms. Useimmat patologiat (turvotus, kasvain) lisäävät vettä ja pidentävät sekä T1:tä että T2:ta.
 33c3fd73	Isotooppilääketiede
 33d5539e	Lähete on olemassa, kuvaan heti
 33d5b2f2	Lihas
+33ddebe6	Suojausmateriaalit
 34049cb1	Kasvain
 340a8d84	Liikkuu spiraalikuvauksessa tasaisella nopeudella. Pitch = pöydän siirtymä kierrosta kohti / keilan kokonaisleveys; pitch > # pienentää annosta.
 340d8b25	Takaisinsironta E′(#°)
+342904de	<b>Vaihekoodaus:</b> lyhyt, joka TR:ssä eri voimakkuinen gradientti, joka erottaa rivit vaiheen perusteella.
+34350203	Epävakaalla ytimellä on vakio hajoamistodennäköisyys aikayksikköä kohti (λ). Aktiivisuus A = λN on hajoamisnopeus, ja se pienenee eksponentiaalisesti:
 347ac991	Ensimmäinen HVL poistaa pehmeät fotonit, joten jäljelle jäävä säde on kovempi
 34895938	Lattia: annosnopeus H*(#), µSv/h (log-asteikko) • valkoinen viiva = # µSv/h
 34a0fb80	Varatut hiukkaset (elektronit, protonit, α) kokevat reitillään jatkuvasti Coulombin vuorovaikutuksia ja ovat suoraan ionisoivia. Fotonit ja neutronit ovat varauksettomia: ne panevat ensin liikkeelle varatun hiukkasen (fotoni → elektroni, neutroni → rekyyliprotoni), ja juuri tämä hiukkanen luovuttaa annoksen.
 34a3d9ed	Kehittäjä
 34aaa379	 min
+34da35d5	≈ # MeV
 34dd8fb9	#. Blochin yhtälöt ja relaksaatio
+34e79c54	Mo-# (T½ # h) on sidottu alumiinioksidipylvääseen; ~# % sen hajoamisista tuottaa Tc-#m:ää. Pylvään läpi johdettu keittosuolaliuos (eluutio) liuottaa vain perteknetaatin (TcO₄⁻). Koska emo elää pidempään — mutta ei paljon pidempään — kuin tytär, syntyy transienttitasapaino: Tc-#m:n aktiivisuus on huipussaan ~# h eluution jälkeen.
+34ec1b57	CTDIvol = CTDIw / pitch. Monet laitteet käyttävät ”efektiivistä mAs:ää” (mAs/pitch); silloin CTDIvol pysyy vakiona.
+350bcbe4	Annos = annosnopeus × aika          Ḣ(d) = Γ · A / d²          Ḣ_suojattu = Ḣ₀ · B · e^(−μx)
 3510b740	Insuliini ohjaa FDG:n lihaksiin ja rasvaan; odota sen jälkeen ≥ # h.
 35143fb3	TE (kaikuaika)
+35370a12	ICRP #: alle # mGy:n annoksilla keskeyttäminen ei ole lääketieteellisesti perusteltua. Stokastinen riski on hyvin pieni mutta ei nolla, joten viestinnän tulee olla rehellistä ja rauhallista.
+35a72ef2	CTDIw / CTDIvol
 35afca3b	Peruuta
+35db04cd	DRL
 35dd3154	Atomit ja ytimet, säteilylajit sekä fotonien ja varattujen hiukkasten vuorovaikutus aineen kanssa — koko lääketieteellisen fysiikan perusta.
 35dfee4a	Atomin rakenne
+35ece971	<b>β⁻:</b> neutroni → protoni + elektroni + antineutriino (I-#, Lu-#, Y-#); lyhyen kantaman elektroneja käytetään hoidossa.
 35fca6f7	Historiat
 36014d05	k-avaruus
 360983be	Veteen perustuva kovenemiskorjaus (BHC)
 36315a9f	Kortikaalinen luu / varjoaineveri
 363200c3	Valmis: 
 36375dc7	Nollataanko kaikki edistyminen?
+364873b6	α/β-suhde
 365bad67	Taso 
 368f3298	 kysymystä
 36c94f4b	Ei diabetesta
 36cc1e6f	Laske annosnopeus ohjauspöydän kohdalla (vihreä merkki) alle # µSv/h:n
+375f3043	Käytännössä diagnostisissa tutkimuksissa käytetään ICRP #:n efektiivistä annosta aktiivisuusyksikköä kohti, esim. F-# FDG ≈ # mSv/MBq ja Tc-#m-luustokartta (MDP) ≈ # mSv/MBq.
 3769e565	#. Annos
+37c8362e	Kilpirauhanen
+37cc2d08	Kolme keinoa
 3809b45a	Spinkaiku! t = 
 381fcf9b	Kohina (rakon ROI, SD)
 38362f62	Suoritetut tehtävät, tapausten tähdet ja oppituntien edistyminen poistetaan. Tätä ei voi perua.
+38576bba	Mikä on Braggin piikin fysikaalinen perussyy?
+385a8606	Paikkaerotuskyky heikkenee
 38652f80	Kertymisaika
+38660fa2	Alueluokitus ja poikkeamat
+38b44594	Mittaamalla lentoaika
 38ec0bda	Efektiivinen annos (# mSv/MBq)
 38f2a757	Ominaisaktiivisuus (puhdas)
 38f6bec6	Aksiaalileike (HU)
 38f9308a	Kallo
+392650d1	Fotonit luovuttavat annoksen kahdessa vaiheessa: ensin ne siirtävät energiaa varatuille hiukkasille (kerma = massayksikössä vapautunut liike-energia), sitten nämä hiukkaset luovuttavat sen väliaineeseen (absorboitunut annos). Kerma lasketaan siellä, missä vuorovaikutus tapahtuu, annos siellä, minne elektronit kulkeutuvat.
 39547f25	Suodattamaton
 396c9c92	Keuhko V2# < # %
+3970bb49	Hajoamistavat
 398977ad	Ilmaisinkanavat
 399e986d	Tehtävät
+39e59875	DVH
+39e88871	Mitä yhdensuuntaisreikäkollimaattorilla tapahtuu, kun lähde etääntyy ilmaisimesta?
 3a6a3b1d	Jäljellä / hajonneet
 3ad53794	AP
+3b078b13	SAR ~ B₀² · α² · (pulssit / s)
 3b1cbe1c	Aktiivisuus kehossa kuvauksen jälkeen
 3b272149	✗ Väärin
 3b2ac288	Rasvapitoisen luuytimen turvotus näkyy vasta rasvasaturaatiolla (tai STIR:llä).
+3b324767	Z / E
 3b6eb64c	Peräsuolen etuseinämä on prostatan vieressä
 3b7e32aa	Sisääntulo / piikki -suhde
 3b8987c9	  — oppitunti hallussa!
 3ba1a0c6	Jokainen HVL puolittaa intensiteetin: (#/#)³ = #/#.
+3c04e9f8	Kun EI_T = #, kuvalla, jonka EI on #, DI = #·log₁₀(#) = #: kaksinkertainen ilmaisinannos. Vaikka kuva näyttäisi hyvältä, mAs pitää seuraavalla kerralla puolittaa.
 3c21cd4d	Määräys
 3c2dfe59	Piilotettu
 3c4cfbae	Titaani ei ole ferromagneettinen (MK-turvallinen / ehdollinen); toimenpiteitä ei tarvita.
+3c96d414	# MeV:n α-hiukkasella
 3c988cc0	Keskienergia
+3d2156fc	Ramppi (|f|) vahvistaa korkeita taajuuksia niin, että sumentuma kumoutuu tarkasti, mikä lisää myös kohinaa; ikkunoidut kernelit määräävät tasapainon.
 3d27f064	<b>Parinmuodostus:</b> ytimen kentässä fotoni muuttuu elektroni–positronipariksi; kynnys on # MeV ja todennäköisyys kasvaa suunnilleen kuten Z².
+3d44f458	Geiger–Müller-laskuri
 3d6b9f1f	Keuhkokasvain
+3d767dfb	Käyttäjän säteen laadun ja kalibrointilaadun (Co-#) välisen eron
 3dbec6d5	Valotusindeksi (EI)
+3dd00737	Suunnittelu NCRP #/# -raportin mukaan
 3e04a9b3	# keV:n röntgenfotonin aallonpituus: λ ≈ # / # = # nm — noin kymmenesosa atomin halkaisijasta (~# nm).
 3e0553f6	Rintakehä
 3e233fe3	Keskimääräinen elinikä τ = #/λ
@@ -302,11 +485,13 @@
 3e3a239c	Kuvantamismenetelmä
 3e5c100c	Ortopedia: oikean polven MK — nivelkierukan repeämä? luuruhje? (Dr. Polat)
 3e6fed3c	Blochin pallo (pyörivä koordinaatisto)
+3e77062b	Vetyatomin ydin (protoni) käyttäytyy kuin pieni magneetti. Voimakkaassa kentässä B₀ protonit asettuvat yhden- tai vastakkaissuuntaisesti ja prekessoivat kentän ympäri Larmorin taajuudella:
 3ea76ce8	BED kasvain
 3f01de3a	Viisi vuorovaikutusta
 3f6fbd86	k-avaruuden näytteistys
 3f99f636	Kohina # HU: ei diagnostinen — uusinta olisi tarpeen, mikä nostaa kokonaisannosta.
 3fa74db5	Fotonispektri (kohtio + tasoitussuodin)
+3fdc4de2	Epäsuorasti, veden radiolyysin OH·-radikaalien kautta
 3fddf4f8	Erinomaista! Hallitset aineiston.
 3fe8604c	Tatuointi
 3feef465	− Poista
@@ -314,56 +499,99 @@
 40253cf6	μ on lineaarinen vaimennuskerroin (cm⁻¹), neljän vuorovaikutustermin summa. μ/ρ (cm²/g) ei riipu tiheydestä, joten se taulukoidaan (NIST XCOM).
 40361aca	Fraktioiden lukumäärä
 4036e7f4	Sovellus opettaa lääketieteellisen fysiikan ydinaiheita interaktiivisilla #D-simulaatioilla. Kaikki laskut perustuvat oikeisiin fysikaalisiin malleihin ja vertailutietoihin, mutta sovellus EI ole kliiniseen käyttöön.
+4037c6dd	Huone on käytössä # % ajasta
+40470c54	Hyvin vähän — ohut lyijy ei riitä # keV:n fotoneille
 4068c7dd	Aamiainen # tuntia sitten, verensokeri # mg/dL. Mitä teet?
+407381a7	Kuvaohjattu sädehoito: potilaan asennon tarkistus kV/CBCT-kuvauksella ennen jokaista fraktiota.
 4078f8e8	Tunnelin ympärillä olevat kelat saavat kentän muuttumaan lineaarisesti paikan mukaan (mT/m): leikkeen valinta, taajuus- ja vaihekoodaus. Nopea kytkentä aiheuttaa melun.
 41086ad1	mAs samalla σ:lla (vs. # cm)
 411cbb0d	Pysy vain erossa raskaana olevista
 414eb5b3	Yhteenveto
+4157224d	β⁺-hajoaminen (positroni)
+41b45f05	<b>Suurempi kVp:</b> maksimi- ja keskienergia kasvavat ja säde läpäisee paremmin; tuotto kasvaa suunnilleen kuten kVp²; kontrasti heikkenee.
 41d150aa	Gantry
 41e0bccc	fotonit
 421ed9be	Diagnostisilla energioilla hallitsevat kaksi vuorovaikutusta: <b>valosähköinen ilmiö</b> (~ Z³/E³, kontrastin lähde) ja <b>Compton-sironta</b> (~ elektronitiheys, sironnan lähde). Simulaatio käyttää kullekin materiaalille NIST-taulukoita μ/ρ(E).
+422525cf	BED / EQD2
 422af40c	Hiiri: vasen veto = kierrä, oikea veto = siirrä, rulla = zoomaa. Kosketus: yksi sormi = kierrä, kaksi sormea = zoomaa/siirrä.
+423010bd	T1-relaksaation
 42347061	Putkivirta × aika
 424c4852	#. Kuvan muodostuminen
 426e4933	Klaustrofobia
 42720baf	Luu
 427f78a4	Pikasäännöt (nimellisenergia): R9# ≈ E/#, R8# ≈ E/#, R5# ≈ E/#, Rp ≈ E/# (cm).
+42a1f7ce	Sen on kaksinkertaistuttava
+42b7c6d8	Gammakamera ja SPECT
+42e381ed	Läpivalaisu kuvaa reaaliajassa (kuvanvahvistin tai taulukuvailmaisin). Automaattinen kirkkaudensäätö (ABC) nostaa kVp:tä ja mA:ta potilaan paksuuden kasvaessa. Kokonaisannos on annosnopeus × aika, ja pitkissä toimenpiteissä ihoannos voi ylittää deterministiset kynnykset: ohimenevä punoitus ~# Gy, karvojen lähtö ~# Gy, vakava vaurio > #–# Gy.
+42f504d1	Niiden RBE on #
+432ffd97	MV-alueella Compton-sironta hallitsee, vaimennus riippuu elektronitiheydestä ja paksu betoni on halpaa ja kantavaa
+435cb733	Kohina ja ilmaisimet
 439ee205	Vertaa vaimennuskorjauksen vaikutusta kuvan keskellä
 43b2aeba	Muuta parametreja → kuva ja annos lasketaan uudelleen (polyenerginen säteenseuranta + NIST-data).
 43b5e592	Radionuklidi
+43bcbe39	T1-arvot lyhenevät
 43cb67fd	Volframin K-kuoren sidosenergia on # keV. Tuottaako # kVp:llä toimiva putki volframin karakteristisia K-viivoja?
 43d93074	EQD2 kasvain (α/β #) = # Gy, myöhäinen iho (α/β #) = # Gy. Aliannostettu: suuri uusiutumisriski.
 446ceec2	ilmakermana
+449d5209	f(# cm) = # × e^(−#) ≈ #, joten SSDE ≈ # × # ≈ # mGy. Siksi lasten protokollat on optimoitava erikseen.
+44b565e7	≈ # minuutti
 44fb5dc7	Lähde turvassa! Annos tehtävän aikana: 
 4531ef7f	Vaimeneminen riippuu paksuudesta eksponentiaalisesti.
 4581c4fb	#. Radioaktiivinen hajoaminen
 45901efd	Gradienttikelat
 4602d9ec	napauta kuvaa
 46143215	Kohta, jossa gantryn, kollimaattorin ja pöydän pyörimisakselit kohtaavat (±# mm). Lähde–akseli-etäisyys (SAD) on # cm.
+4642dfa0	Projektio
 467b083e	Bolus
 46ac079e	Kuvataan…
+46d4c952	Viivaintegraali
+46db0052	<b>Renkaat:</b> viallinen tai väärin kalibroitu ilmaisinelementti.
 46e87af2	 % valmis
+4719156f	Röntgenputki ja spektri
 472bd5d7	Matala kV korostaa jodin kontrastia (K-reuna # keV); hyvä valinta hoikalla potilaalla.
+4731830d	<b>Oleskelu:</b> toimistot T = #, käytävät T ≈ #/#, odotustilat T ≈ #/# (NCRP:n suositukset).
 475a075b	Sinogrammi  p(θ, s)
 477692bf	Isotooppilääk.
+477c08b3	# MBq FDG: E ≈ # × # = # mSv; PET-TT:n TT-osuus voi lisätä vielä #–# mSv.
+47900c2b	Hounsfield-asteikko
+47932082	<b>Raskaus:</b> on selvitettävä etukäteen; radiojodi voi tuhota sikiön kilpirauhasen (viikoista #–# alkaen).
+47955da0	Mitä käyttökerroin U = # tarkoittaa?
+47ae1b91	t_max = ln(λ_Tc/λ_Mo)/(λ_Tc − λ_Mo) ≈ # h, minkä vuoksi sairaalat eluoivat yleensä kerran päivässä.
+47f7e1bf	<b>Neutronit:</b> yli ~# MV:n energioilla (γ,n)-reaktiot tuottavat fotoneutroneja; ovi ja sokkelo suunnitellaan niitä varten.
 47f9a72c	Kuumetta (# °C) ja yskää # päivän ajan
+47fcd7a2	Se pienenee etäisyyden kasvaessa
+48240919	Se osuus ajasta, jonka primäärikeila osoittaa tiettyyn esteeseen.
+482ee3dd	Kerma, absorboitunut annos, ekvivalentti- ja efektiivinen annos; dosimetrit; miten säteily vaikuttaa soluihin, LQ-malli, BED ja EQD2.
+483d1dab	E² / Z
+4876b3ed	Se osuus ajasta, jonka eniten altistuva henkilö oleskelee alueella.
+488a432b	TT-annos: CTDI, DLP ja SSDE
+48b92494	Elektronit, jotka eivät osu kohtioon, käytetään suoraan; aaltoputkesta tuleva kynäkeila sirotetaan ohuella korkean Z:n kalvolla kliiniseksi kentäksi.
 48bee2b3	TT-lähete saapuu. Elifin edelliset kuukautiset olivat # viikkoa sitten. Mitä teet ennen jokaista ionisoivaa tutkimusta?
 48cabbff	#-kenttäinen
+48eb3008	Suurennustilat (pienempi FOV) kasvattavat annosnopeutta.
 48f82113	erittynyt 
 49059469	Käykö se nopeasti? Minun pitää palata huomenna töihin — hion verstaalla.
 491836e3	virhe 
 499a20d5	AP, makuulla, SID # cm
 49cf1cfd	Larmor-taajuus f₀ = γ̄·B₀
 49e1196b	Kierukkarepeämä
+4a5fde88	Bethen kaavan mukaan törmäysjarrutuskyky skaalautuu suunnilleen kuten z²/v²: mitä hitaammaksi hiukkanen käy, sitä nopeammin se menettää energiaa. Tämä on raskaiden hiukkasten Braggin piikin alkuperä.
+4a6030a5	Hila on asetettu väärin päin
+4a610ce1	SAR ~ B₀² · (kääntökulma)² · (RF-pulssit / s)
 4a690915	Vastaanottokela
 4ac37c75	Compton-sironta
 4b058728	Asetukset
 4b20e113	Isotooppilääketiede / PET
+4b26d668	Fotonit noudattavat Poissonin tilastoa: N fotonilla kohina on √N ja SNR ~ √N, joten SNR:n kaksinkertaistaminen vaatii nelinkertaisen annoksen. Digitaaliset ilmaisimet käyttävät epäsuoraa (CsI-tuikeaine + a-Si-fotodiodi) tai suoraa (a-Se) muuntoa. Ilmaisimen tehokkuutta kuvaa DQE = SNR²_out / SNR²_in.
+4b66e013	Säteilytyöntekijät käyttävät henkilöannosmittareita (OSL/TLD): Hp(#) koko kehon annokselle, Hp(#) iholle ja sormusannosmittareita käsille. Lyijyesiliinaa käytettäessä annosmittari pidetään yleensä sen alla vartalolla; silmän mykiön annosta varten suositellaan toista mittaria kauluksen korkeudella esiliinan päällä.
 4b6a214c	Kalibrointilähde, brakyterapia (historiallinen)
 4b7042c7	eGFR # mL/min/# m²
 4b81b768	SNR (keskellä)
+4b88091d	E ≈ # × # = # mSv (ICRP #).
+4baca147	Yksittäinen piikki on vain muutaman mm levyinen. Kohteen kattamiseksi eri energioiden piikit painotetaan ja summataan levennetyksi Braggin piikiksi (SOBP). Nykyaikaiset järjestelmät "maalaavat" kohteen kerros kerrokselta ja piste pisteeltä kynäkeilapyyhkäisyllä (PBS), mikä mahdollistaa intensiteettimoduloidun protonihoidon (IMPT).
 4be56c9f	Kysymys 
 4bf1fc72	Rasvasaturaatio (FS)
+4bf8421e	<b>Monitorikammiot:</b> mittaavat jatkuvasti tuottoa (MU) ja keilan symmetriaa; ne ovat kahdennettuja ja toisistaan riippumattomia.
 4c3b45ab	• Absorboitunut annos D (Gy = J/kg)\n• Ekvivalenttiannos H_T = w_R · D_T (Sv); w_R = # fotoneille ja elektroneille, # alfoille, # protoneille\n• Efektiivinen annos E = Σ w_T · H_T (Sv); kudosten painotuskertoimet ICRP #:stä\n• Mittarit näyttävät ympäristöannosekvivalentin H*(#) (≈ # × ilmakerma Cs-#:lle).
 4c498c6f	Imetän vauvaani. Voiko tämä tutkimus vahingoittaa häntä?
 4c4a1ccb	Fotoneutronit
@@ -371,37 +599,51 @@
 4c94eaa4	Hyvä. Kertaa niiden aiheiden oppitunnit, joissa teit virheitä.
 4c96524b	Pienennä selkäytimen annosta protonisuunnitelmalla
 4cf38cb8	Lukuenergia
+4d1863f4	<b>Repopulaatio:</b> kasvain proliferoi hoidon aikana; pidentynyt kokonaishoitoaika heikentää paikallista kontrollia.
 4d1aa535	Aiheet
+4d3dd3bd	Kasvaimen kontrolli paranee
 4d5f9cf2	vuosi
 4daa2b83	Säteilysuojelu
 4dd7913c	Kuvaa sydämentahdistin keuhkokuvassa
 4de2c891	Keuhkot, luu, pehmytkudos ja sydän on mallinnettu NIST-vaimennuskertoimilla; jokaiselle ilmaisinpikselille seurataan polyenerginen säde.
 4df6b638	Lukemat
 4e0d4ec8	Suoja on # HVL:n paksuinen. Mikä on läpäisy kapean säteen geometriassa?
+4e2183c3	Kumulatiivinen DVH näyttää, kuinka monta prosenttia rakenteesta saa vähintään annoksen D. Kohteille käytetään suuretta D9# (annos, joka kattaa # % tilavuudesta); riskielimille suureita Vx (osuus, joka saa x Gy), Dmax ja Dmean. QUANTEC-esimerkkejä: keuhko V2# ≤ #–# % ja keskiannos ≤ #–# Gy (pneumoniitti < # %); selkäydin Dmax ≤ # Gy (# Gy:n fraktiot); peräsuoli V7# < # %; korvasylkirauhanen keskiannos < # Gy.
+4e3cc928	Elimistön aktiivisuus pienenee sekä fysikaalisen hajoamisen että biologisen erittymisen kautta:
 4e6c5d36	Simulaatio
 4e7651ae	Suoraan varjoaine-TT
+4e7782c3	Z³ / E³
 4e8632ff	Suoraan ionisoiva
 4ea60106	#. Annossuureet
 4ebc9931	Kasvaimen EQD2 (α/β #)
 4eed3c07	alivalottunut / kohinainen
 4ef63472	suhteellinen annos
+4f01c549	E ≈ # × # = # mSv.
 4f56491a	Mittaa Tc-#m:n puoliintumisaika Monte Carlolla # %:n tarkkuudella
 4f5e1d34	#. Kolme periaatetta: aika, etäisyys, suojaus
 4f8bf6fa	Hitsaaja / hionta: mahdollinen metalli silmässä
+4f92129e	Elimessä tapahtuvien hajoamisten kokonaismäärä (aktiivisuuden aikaintegraali).
 4fca6bb4	Ei kroonisia sairauksia, rokotukset kunnossa
 4fd01b06	Säteilyenergia
+4fdd3825	M_Q on lämpötila-paineen, polariteetin, rekombinaation ja elektrometrin suhteen korjattu lukema; N_D,w,Q0 on standardilaboratorion vesiannoksen kalibrointikerroin (Co-#:ssä), ja k_Q korjaa säteen laadun.
+5009dc40	Radioaktiivinen hajoaminen
 5009de05	Annosnopeus # m:n päässä
 5009fb9e	Vertaa kasvaimen BED-arvoa SBRT:ssä (#×# Gy) ja tavanomaisessa hoidossa (#×# Gy)
+5021c2fa	Mitä projektioarvo p kuvaa?
 504443a0	Valotus
 5060769e	lat
 506f8881	peräsuoli
+507364c6	<b>Väestö:</b> # mSv/v; silmän mykiö # mSv/v; iho # mSv/v.
 50793575	Sanasto
 50b3cd30	Digitaalinen röntgenkuva (CsI-ilmaisin)
+50b6db4e	Sirontaa ilmaisimella
 50f75e70	Turvotus/ydin-CNR #: rasvaydin peittää turvotuksen — käytä rasvasaturaatiota (FS).
 51301586	VAROITUS
+51327597	ACR määrittelee neljä vyöhykettä: I yleinen, II seulonta, III valvottu pääsy, IV magneettihuone. Jokainen potilas ja työntekijä seulotaan kirjallisesti ennen vyöhykkeelle III tuloa; metallityöntekijöille, joilla voi olla metallia silmässä, tehdään ensin orbitaröntgen tai TT. Implantit on merkitty MR Safe, MR Conditional tai MR Unsafe, ja niiden ehtoja noudatetaan.
 514a1189	TR (SE-kuvaajaa varten)
 515cc083	T2-painotteinen
 5169f3c5	Lineaarinen energiansiirto: energia, jonka varattu hiukkanen luovuttaa matkan pituusyksikköä kohti (keV/µm).
+517390af	Sydän on lähellä ilmaisinta, mikä vähentää suurennusta ja geometrista epäterävyyttä
 51880252	Annosjakauma (x–z-taso)
 51b48ac4	Suoja sijoitettu. Muuta paksuutta ja materiaalia vasemmassa paneelissa.
 51d5b7b0	EQD2 kasvain (α/β #) = # Gy, myöhäinen iho (α/β #) = # Gy. Hyväksyttävä: vähemmän käyntejä, mutta suurempi myöhäishaittojen riski (atrofia, telangiektasiat).
@@ -410,85 +652,132 @@
 51f7e789	kokonaisannos (Gy)
 51fa3930	Valmis. Tarkista tulokset; muuta asetuksia ja aja uudelleen tarvittaessa.
 523e597b	Valkea aine
+524bb01f	Isosentriset (SAD-)tekniikat käyttävät TMR:ää, syväannoskäyrää, jossa ei ole etäisyyden neliön lain vaikutusta, koska lähde–piste-etäisyys on kiinteä. Tuottokertoimet huomioivat kentän koosta riippuvan kollimaattorisironnan (S_c) ja fantomisironnan (S_p).
 524fb8d1	Paina ELUOI saadaksesi Tc-#m:n. Suurimman saannon saat odottamalla ≈ # h edellisestä eluutiosta.
+52784cfd	Vain neutroneja vastaan
 52af1039	Elektronikentissä # %:n isoannoskäyrä kapenee syvyyden mukana; tarvitaan ~#–# cm:n marginaali. Tuottokertoimet on mitattava pienille kentille (TG-#).
 537cf34e	Viimeisen eluution saanto
 539143ed	TCP tälle kaaviolle (N₀ = #⁹)
 5394c2c1	Annoksen ja pinta-alan tulo (DAP)
 53a02dda	α/β ≈ # Gy (kasvain, varhain reagoiva) ja ≈ # Gy (myöhään reagoiva normaalikudos, esim. selkäydin). Pienet fraktioannokset säästävät myöhäiskudoksia; suuret fraktioannokset kuten SBRT:ssä antavat erittäin suuren kasvaimen BED-arvon, mutta vaativat tarkan kohdistuksen. TCP = exp(−N₀·S).
+53db2663	Herkkyys putoaa nollaan
 53f501c6	Aktiivisuus kuvauksen alussa
 542674c2	Fantomi
+542cb793	PDD ja siihen vaikuttavat tekijät
 543dd434	Parinmuodostus
 543f87d4	Selkäranka
 548c82d8	Magnetoituma
 5490dc6c	 viikkoa
 54ba96a0	Efektiivinen puoliintumisaika
 54ebaaec	Efektiivinen halkaisija → SSDE
+54f725f4	DLP ja efektiivinen annos
 550bfe9e	pulssi
 55231493	Aivot
 55437eb0	Projektio ja asettelu
 554740bc	Muuta keilojen kulmia ja painoja: kata kohde ja säästä selkäydintä, sydäntä ja keuhkoja.
+554b47d8	Kun jokainen projektio levitetään takaisin leikkeen yli sen suunnassa (yksinkertainen takaisinprojektio), syntyy #/r-tyyppinen sumentuma. Sen korjaamiseksi projektiot suodatetaan ensin ramppisuotimella (|f|); suodatettu takaisinprojektio (FBP) yhdistää molemmat vaiheet. Koska ramppi vahvistaa myös kohinaa, siihen käytetään ikkunafunktiota (Shepp–Logan, Hann…): terävä kerneli tarkoittaa suurta erotuskykyä ja suurta kohinaa.
 5566f444	Sovella
 556bb28a	Laita säiliöön
 556d6936	Kun lähde on sisällä, muutama cm lyijyä pienentää annosnopeuden satoja kertoja (jokainen HVL puolittaa, jokainen TVL kymmenesosaa).
 5586c1bb	Pöydän asema (z)
+55953a46	Sisäänmenopinnan ilmakerma takaisinsironta mukaan lukien.
 55af7f60	Pystyy seisomaan, yhteistyökykyinen
 55b7844c	Suora ja epäsuora ionisaatio
+55c3d9ec	Konsoli näyttää CTDIvol # mGy. Mikä on suunnilleen SSDE lapselle, jonka efektiivinen halkaisija on # cm?
 55c427dd	Palautumiskerroin (suurin / pienin pallo)
+55e29d05	Ulkoista altistusta vastaan on kolme keinoa: lyhennä aikaa (annos = annosnopeus × aika), kasvata etäisyyttä (pistelähteestä annosnopeus pienenee kuten #/d²) ja aseta väliin suojaus (jokainen HVL puolittaa annoksen).
 55f81dfb	PET-fysiikka
 56a82532	Röntgenkuvaus
 56aaa165	Ihosyöpä poskessa — elektronihoito
 56e6dfdf	Lyijysäiliö
+571ea1cc	Suojauksen läpäisy
 57270c3f	Anna # fraktio
+573a4142	Ylivalotus; potilas sai tarpeetonta annosta
 57426dc2	Säteilymittari
+57a7b53c	Mikä on suunnilleen # MBq:n FDG-annoksen efektiivinen annos?
+57fd150b	Kohtio kiihdyttää elektroneja
 580581bf	Kerta-annos, α/β=
+581bf5b5	Takaisinsironta on suurinta putken puolella, jossa säde tulee potilaaseen; ilmaisimen puoli on turvallisempi.
+58247ddd	Megavolttifotonien tärkeimmät edut ovat syvä läpäisy ja ihon säästyminen: annos on pinnalla pieni ja suurimmillaan syvyydellä d_max (# MV: # cm, # MV: # cm).
 58390f45	Tatuointi vasemmassa käsivarressa (#)
 584aaa85	Sähkömagneettinen spektri
 584ba3f5	klonogeenit: 
 5865c9d9	Valittu keila: 
 5865ea2d	ICRP # ja ACOG: ei deterministisiä vaikutuksia alle # mGy:n; keskeyttämistä ei suositella alle # mGy:n. Kerro riskistä luvuin ja rauhallisesti.
+5869cede	Radionuklidien tuotanto ja generaattori
 5876c756	Odottavat potilaat
 5878a2bf	Syvyysannos
 58820d8d	Paras vastaus: 
+588c2a16	Varattujen hiukkasten tasapainossa (CPE) ja kun jarrutussäteilyhäviö on mitätön, absorboitunut annos on yhtä suuri kuin törmäyskerma: D = K_col. Pinnan lähellä olevalla kertymäalueella CPE:tä ei ole — siksi megavolttisäteet säästävät ihoa.
+588ce9ad	#/T_eff = #/T_fysikaalinen + #/T_biologinen
 589a5df5	Potilaan liike (vaihevirheet)
 58c52672	 v
 58e096de	Tietoja
+58ead5a3	Miksi kertymäalueella D ≠ K_col?
 590ca79a	Kuva
+5947fcd5	PTV-marginaali (van Herk)
 5951ffab	Työntekijä (efektiivinen)
 59c7842a	Leesion kattavuus: minimi # % — ihon pinta on aliannostettu: bolus nostaa elektroniannoksen pintaan asti.
 59c80f5b	Lapsen thoraxkuva
+59d56146	≈ # tuntia
 5a09a50e	Protonien kantama (Bragg–Kleeman)
+5a252151	Mikä on suunnilleen ihon punoituksen kynnys läpivalaisussa?
 5a296842	Suunnitelmapohjat
+5a46ef7e	<b>Lentoaika (TOF):</b> saapumisaikojen ero (~#–# ps) paikantaa tapahtuman LOR:n suuntaisesti muutaman cm:n tarkkuudella ja vähentää kohinaa.
 5a53afe8	Eturauhanen on ≈ # cm:n syvyydellä edestä ja ≈ # cm:n syvyydellä sivulta. Vertaa syvyysannoksia (PDD) ja valitse energia VMAT:ia varten.
 5a54e20e	Tulos: 
+5a5f631a	≈ # kHz
+5a87b1d6	<b>Henkilökunta:</b> ruiskusuojat, etäisyys ja aika lyijyesiliinojen sijaan sekä sormidosimetrit (Hp(#)).
 5aaf54e6	#. Elektronikeilat
 5ab00023	Turvotus/ydin-CNR #: luuruhje näkyy.
 5af0fb47	Monte Carlo -syvyysannos • Braggin piikki
 5b6df32a	Seuraava kysymys  →
+5b71adcb	Tiukka rajaus (hilattomalla matala-annostekniikalla)
 5b765e84	Vatsan TT:ssä kohtu on primäärikeilassa; esiliina ei voi suojata ja heikentää kuvaa.
 5bac8b63	Oma kääntökulma α
 5c1604f3	Seuraava potilas: 
 5c1cca76	• <b>Aika:</b> annos on verrannollinen lähteen lähellä vietettyyn aikaan.\n• <b>Etäisyys:</b> pistelähteellä annosnopeus pienenee kuten #/d²: etäisyyden kaksinkertaistaminen pienentää annoksen neljäsosaan. Siksi pihdit ovat niin tehokkaita.\n• <b>Suojaus:</b> tiheät, suuren järjestysluvun materiaalit (lyijy) vaimentavat fotoneja parhaiten. Yksi HVL puolittaa, yksi TVL pienentää annosnopeuden kymmenesosaan.
+5c5faa98	Kuvan kontrasti syntyy vierekkäisten säteilyreittien vaimenemiseron perusteella. Luu eroaa pehmytkudoksesta voimakkaasti matalilla energioilla (valosähköinen ilmiö hallitsee) ja heikosti suurilla energioilla (Compton hallitsee) — siksi mammografiassa käytetään #–# kVp ja keuhkokuvauksessa #–# kVp.
 5c60f76f	leesio
 5c6467e1	Näytä annoskartta (x–z)
+5c74eff9	Mitä k_Q korjaa TRS-#:ssä?
+5cab77e9	Potilaat ja omaiset pelkäävät usein säteilyä. Hyvä selitys on numeerinen mutta ymmärrettävä, vertaa luonnon taustasäteilyyn, korostaa tutkimuksen hyötyä ja välttää liioittelua, kuten "nolla riskiä" tai "erittäin vaarallista".
+5cadc7e1	Annos = annosnopeus × aika
 5cae40c9	Vetyytimillä (protoneilla) on magneettinen momentti. Kentässä B₀ pieni ylimäärä asettuu kentän suuntaan ja muodostaa nettomagnetoituman M₀ (M₀ ~ B₀). Spinit prekessoivat B₀:n ympäri Larmor-taajuudella.
 5ce2e06a	Oikein. PA-suunnassa sydän on lähellä ilmaisinta → vähemmän suurentumista; pitkä SID vähentää geometrista suurentumista ja epätarkkuutta. Etuosan elimet (rinta, kilpirauhanen) saavat PA-suunnassa myös pienemmän annoksen.
+5cefb1d7	Lyijylamelleista tehty hila, joka absorboi sironneita fotoneja.
 5d155c86	Näytä tulos  →
 5d27c72a	Tc-#m eluutiohetkellä
+5d34e900	Mz = M₀(# − e^(−#)) ≈ # M₀; # % on se, mitä poikittaisesta magnetoitumasta on jäljellä yhden T2-ajan jälkeen.
+5d4d8ed3	η ≈ #×#⁻⁹ × # × #⁵ ≈ #; loput # % on lämpöä, joten putken lämmönhallinta on ratkaisevaa.
 5d74c24a	Annossuunnittelu • DVH
+5d9e42a8	σ ~ # / √(mAs · leikepaksuus)
 5dc26de3	Näin opiskelet
 5ddb2028	Säteilyfysiikan perusteet
 5de75a0b	Oikea keuhko
 5dea53d0	Sädehoito: elektronihoito, vasemman posken BCC; ultraäänisyvyys # cm (Dr. Öz)
 5deb5e94	Kieltäytyy leikkauksesta (antikoagulaatiohoito)
+5dfaa4f1	AAPM TG-# suosittaa toleranssi-/toimenpidetasoksi # %/# mm ja ≥ # % hyväksyttyjä.
 5e0275a6	#. Generaattori ja transienttitasapaino
+5e380c3b	<b>Kollimointi:</b> leuat ja monilehtikollimaattori (MLC, #–# mm:n lehdet) muotoilevat kentän kohteen mukaan ja mahdollistavat IMRT:n/VMAT:n.
 5e4baa18	Näkymä
 5e840e69	Eloonjäävä osuus S
 5e8aae31	Selkäydin
 5e8f4863	RF ei kuulu; melu tulee gradienteista ja voi vaurioittaa kuuloa.
+5e8fb6de	Systemaattiset virheet ovat aina suurempia
 5ed62a66	Veri + jodivarjoaine
+5ed90f63	Karakteristiset viivat katoavat
+5ee0c02a	Näytetty HU-alue (W) ja sen keskikohta (L).
+5f2b803e	Läpivalaisussa suurin osa henkilökunnan annoksesta tulee potilaasta siroavasta säteilystä. Käytä lyijyesiliinaa, kilpirauhassuojaa, lyijylaseja ja kattoon kiinnitettyä suojaa, ja pidä etäisyyttä (etäisyyden neliölaki).
 5f38ef7b	Lisä-Cu-suodin
+5f3d9216	ALARA
+5f48df71	MU-laskenta (SAD)
 5f594fad	Rekonstruktio
+5f842ccc	kVp
+5fbbbe70	Kiihdyttimen tuotto monitorikammioilla mitattuna, kalibroituna esim. arvoon # cGy/MU referenssiolosuhteissa.
+5fcb368b	<b>ESAK:</b> sisäänmenopinnan ilmakerma takaisinsironta mukaan lukien (BSF ≈ #–#); käytetään deterministisille vaikutuksille ja DRL-vertailuihin.
+5fef495e	Ikkuna / taso
+60139e9e	Mihin tilavuuteen annos määrätään?
 6032454b	Compton-sironta
 6053526e	FDG: glukoosi < # mg/dL ja ≥ #–# h paasto; kertymisaika # ± # min.
 605c9960	Kvanttikohina
@@ -497,85 +786,135 @@
 6174d861	CTDIvol on annos # cm:n PMMA-fantomissa, ei potilaan annos. AAPM #/#: SSDE = f(D_eff)·CTDIvol; kookkailla potilailla f < #.
 61814715	Matriisi (resoluutio)
 61999a6b	Kuvauspituus rajattu (suoliluun harjanteesta symfyysiin): pienempi DLP.
+61b09960	# keV:n energialla lyijyn HVL on ~# mm, joten # mm Pb pysäyttää vain ~# % fotoneista. PET:ssä luotetaan etäisyyteen, aikaan, ruiskusuojiin ja L-suojiin.
 61e2a3f8	Lähde
+61e37e95	<b>Suodatus:</b> poistaa matalat energiat, kasvattaa HVL:ää ja pienentää ihoannosta. Määräykset edellyttävät vähintään # mm Al:n kokonaissuodatusta yli # kVp:n jännitteillä.
 61f84dec	Annos lasketaan ekvivalenttiin kulkumatkaan perustuvalla epähomogeenisuuskorjauksella (radiologinen syvyys = Σ ρₑ·Δl): keuhkon läpi kulkeva keila vaimenee vähemmän. Suunnitelman laatua arvioidaan DVH:sta: PTV D9# ≥ # %, selkäydin Dmax < # Gy, keuhko V2# < # %, keuhkojen keskiannos < # Gy, sydämen keskiannos < # Gy (QUANTEC).
+61fa4b9a	Brakyterapia ja laadunvarmistus
+620629d0	pitch = (pöydän siirtymä kierrosta kohden) / (keilan kokonaiskollimaatio)
+620ac3ff	<b>GTV:</b> näkyvä kasvain. <b>CTV:</b> GTV + mikroskooppinen leviäminen. <b>ITV:</b> CTV + sisäinen liike (esim. hengitys).
 6246a72c	Palauta (M || B₀)
 6283a899	 min/pöytäasema, kertymä 
 6292946b	Modulaation leveys
 62b33346	μ(vesi)-referenssi
+62bd3c83	Sääntö: kantama ≈ E/# cm, eli noin # cm (# MeV:n säteellä). Siksi elektroneja käytetään pinnallisten kasvainten hoitoon.
 62dc212b	Keskimääräinen vapaa matka #/μ
 6337b9a5	RF-pulssi (Larmor-taajuinen B₁) kääntää M:ää kääntökulman α verran. Sitten:\n• <b>T1 (spin–hila)</b>: Mz palautuu: Mz(t) = M₀ + (Mz(#) − M₀)·e^(−t/T1)\n• <b>T2 (spin–spin)</b>: poikittainen magnetoituma menettää vaihekoherenssin: Mxy(t) = Mxy(#)·e^(−t/T2)\n• <b>T2*</b>: kentän epähomogeenisuus lisää vaiheistumisen menetystä (#/T2* = #/T2 + γΔB) — #°:n pulssi kumoaa tämän osan: <b>spinkaiku</b>.
+63717795	Poistaa yksinkertaisen takaisinprojektion #/r-sumentuman
 638a3d27	Hajasäteilyhila (Bucky)
+638c594d	T2 ja T2*: poikittainen vaimeneminen
+63914fc5	Mikä on # MeV:n elektronisäteen käytännön kantama vedessä suunnilleen?
 63e33069	Distaalinen syvyys
 63e87165	Ikä / sukupuoli
+63f9d666	Alue, jolla on erityiset säännöt ja koulutettu henkilöstö ja jolla annosrajat voisivat muuten ylittyä.
 64053f4c	Sinogrammi, suodatettu takaisinprojektio, Hounsfield-yksiköt, artefaktat.
 64ab923e	kapean keilan läpäisy
+64af52b9	<b>Radiosensitiivisyys:</b> kunkin kudoksen ja solutyypin sisäinen herkkyys.
 64cec188	Sekvenssi
+64fa4ca8	Diagnostisen TT:n jälkeen sikiöannokseksi arvioidaan # mGy. Mikä on oikea neuvonta?
 650b51c9	CTDIvol on fantomiannos; käytä potilaskohtaiseen annokseen SSDE = f(D_eff)·CTDIvol (AAPM #/#).
 65297d00	 (sis. repopulaation)
 652cb5da	Lisää opiskelua tarvitaan — alla olevat oppitunnit auttavat.
 656c2bdf	Iho / kädet
+658d1478	Primäärikeila osoittaa tähän esteeseen # % ajasta
 65b3c1bb	Harmaa aine
+660035ea	Täsmälleen tunnelin keskellä
 660f2bd2	Geometria ja ilmaisin
 662c7590	Nivelkierukka
 6644745a	Efektiivinen halkaisija / f
 66597e63	Satunnaiset
 66c80500	fotonien vaimennus- ja energian absorptiokertoimet (# materiaalia)
 66f00e9c	Oikein: raskaus on suljettava pois jokaiselta hedelmällisessä iässä olevalta naiselta, kun lantio on keilassa (ICRP #, IAEA SSG-#).
+66fe8adc	Relaksaatio: T1, T2 ja T2*
 6705e1b1	Vaiheittaiset oppitunnit atomista sädehoitoon, interaktiiviset kuvat, ratkaistut esimerkit, tietovisat ja harjoituskoe.
 672a70aa	Näytä SOBP (analyyttinen)
 6750e405	Efektiivinen annos = DAP × muuntokerroin (alueen mukaan). Luonnon taustasäteily ≈ # mSv/v.
 675d82e1	Sinogrammi
 6779effc	Eluoitu
+67af0b2f	<b>OSL (Al₂O₃:C):</b> luetaan optisella stimulaatiolla, ja se voidaan lukea uudelleen; useimmat henkilöannosmittarit ovat tätä tyyppiä.
 67b8f497	BED myöhäinen kudos
+67e47d97	Mikä on todennäköisin ongelma kuvassa, jonka DI = −#?
 67ebc3e7	#. Hounsfield-yksiköt ja ikkunointi
 67fabac5	Peräsuolen EQD2 (α/β #) = # Gy — myöhäisen peräsuolitoksisuuden riski (verenvuoto, proktiitti).
+6805c1cb	Lapset ovat #–# kertaa säteilyherkempiä kuin aikuiset, ja heillä on pitkä elämä edessään. Käytetään koon mukaan sovitettuja protokollia ("Image Gently"): pieni mAs, ei hilaa, lisäsuodatus Cu:lla, tiukka rajaus; TT:ssä annosta tulee arvioida SSDE:n avulla. Sukurauhassuojia ei enää suositella rutiininomaisesti (AAPM #); rajaus on tehokkaampaa.
 6808f26e	Se on riskialtista; teidän kannattaa harkita keskeyttämistä.
 6817ce15	UÄ: umpilisäke ei erotu. Yöllä ei MK:ta; kirurgi korostaa puhkeamisen riskiä. Yhteinen päätös: matala-annos-TT.
+681fce83	Diagnostiset vertailutasot (DRL) ovat kansallisen jakauman #. persentiili (ICRP #). Ne eivät ole annosrajoja; yksiköiden, joiden tyypilliset annokset ylittävät ne, tulee optimoida.
+6823752e	Sitä ei tarvita
+686bef8e	Riskiviestintä
 687d1f08	Hoitaja haluaa hätätilanteessa tuoda teräksisen happipullon magneettihuoneeseen (vyöhyke IV). Mitä teet?
+6888962e	Kuvan kontrastin ja kokonaissignaalitason
 68de0f88	Kaavakokoelma — 
 69069946	Säteen koveneminen: polyenerginen kuvaus BHC pois päältä (cupping)
+69232305	Se pienenee
 69338848	Aloita ensimmäinen tapaus  →
+693aa065	N_D,w annetaan Co-#:ssä. Käyttäjän laadussa (esim. # MV, TPR₂₀,₁₀ ≈ #) jarrutuskykysuhteet ja häiriökertoimet eroavat, ja k_Q korjaa tämän.
+694d03af	Valo jakautuu monelle PMT:lle, ja niiden signaalien painopiste antaa paikan.
 69607fdf	EPID (MV-kuvantaminen)
 69762965	Vatsa
+6982091c	Putken tuotto
+699bd238	<b>T2-painotteinen:</b> pitkä TR (> # ms), pitkä TE (~#–# ms). Neste ja turvotus ovat kirkkaita; useimmat patologiat näkyvät.
 69c54135	 h
 69d97846	Kudossignaali
+69d99419	Hienot yksityiskohdat ja reunat
 69fc5799	Cu-suodin
 6a494fba	Yleiskatsaus
 6a4f8e94	Diagnostiikan ja hoidon energioilla fotonit vuorovaikuttavat pääasiassa viidellä tavalla: koherentti (Rayleigh-)sironta, valosähköinen absorptio, Compton-sironta, parinmuodostus ja fotoydinreaktiot. Se, mikä hallitsee, riippuu fotonin energiasta ja väliaineen järjestysluvusta.
 6a8f4d0e	Ei aivan. 
 6ab344fe	Efektiivinen (fysikaalinen + biologinen)
+6abfaaba	Mammografian annossuure on keskimääräinen rauhasannos (MGD), ≈ #–# mGy projektiota kohti standardirinnalle. Tomosynteesi (DBT) on rajoitetun kulman tomografia, joka vähentää kudosten päällekkäisyyttä.
 6ada0052	TT
 6ae55601	Kertaus
+6b21c3b7	T = TR · N_vaihe · NEX / ETL
 6b26a05c	Ihon pinta-annos
+6b26b7cb	Väestön jäsenillä
+6b447c93	Varatut hiukkaset: jarrutuskyky ja kantama
+6b5a05de	Hajoamislaki
 6b7a6181	R = kiihdytyskerroin: joka R:s rivi kerätään → laskostuminen FOV/R:n verran (aliasing). Rinnakkaiskuvantaminen (SENSE/GRAPPA) purkaa sen kelojen herkkyyksien avulla.
 6b8da132	Annosnopeus # cm:n päässä
 6bb77736	Pistelähde
 6bbe4f23	Al-suodin (lisätty)
 6bc09210	Ei muutosta; sama mAs
+6be1e44b	# s × # × # = # s ≈ # min — siksi turbospinkaiku on kliininen standardi.
 6be9432d	Pinta-annos
 6bf0564a	Varatut hiukkaset (elektronit, protonit, α), jotka luovuttavat energiaa Coulombin vuorovaikutuksissa.
 6bf28b9c	Tieteellisesti perusteeton ja haitallinen neuvo.
 6c025c20	ei vielä kuvattu
 6c168d60	Tapaus valmis
+6c339b71	Potilaasta siroavaa ja hoitopäästä vuotavaa säteilyä vastaan
 6c3c9505	fotonienergia
 6c6870d7	Tee valinta
+6c70ec36	SUV vertaa kasvaimen FDG-kertymää potilaasta riippumatta, mutta se on herkkä kertymäajalle, verensokerille, rekonstruktiolle ja osittaistilavuudelle — siksi EANM suosittaa # ± # min kertymäaikaa ja verensokeria < # mg/dL.
 6c8fcda6	ENSIKERTALAISILLE
 6cc46a6f	 min lukuaika
 6cc784fd	Teet vain yhden päätöksen kerrallaan.
 6cec06d7	# ng/mL
+6d03cdad	#/T_eff = #/T_fys + #/T_biol
 6d148508	Kuvaa
+6d5614c7	Elektroninen kollimointi: vastakkaisiin suuntiin lähteneet fotonit havaitsevat kaksi ilmaisinta määrittävät suoran, jolla annihilaatio tapahtui.
 6d8836d2	Mahdollinen mutta ei ensisijainen; ultraääni ja MRI ensin.
 6d94e783	k-avaruus ja Fourier-muunnos
 6dc54781	 d
+6dcb0105	Miten DAP-lukema muuttuu, jos kammio sijoitetaan lähemmäs putkea tai kauemmas siitä?
+6e0a7f2e	Laitesukupolvet ja spiraalikuvaus
 6e2eab59	Oikea valotus: saa keuhkokuvan poikkeamaindeksi (DI) välille −#…#
 6e67bd16	Viite / analyyttinen
 6e8c7b25	Fotonienergia
+6e8ef574	SNR skaalautuu vokselitilavuuden ja √(N_vaihe · N_taaj · NEX):n mukaan. Tasoerotuskyvyn kaksinkertaistaminen (neljännes vokselista) maksaa paljon SNR:ää; rinnakkaiskuvaus (SENSE/GRAPPA) nopeuttaa keruuta SNR:n kustannuksella.
+6ea1bcc5	<b>Erotuskyvyn rajat:</b> positronin kantama (keskimäärin F-# ≈ # mm, Ga-# ≈ # mm), epäkollineaarisuus ja kidekoko; kliininen PET-erotuskyky on ≈ #–# mm.
 6eb5b73c	Potilaskertomus
+6ecb14dc	Este päästää läpi # %
 6ef0f4ce	FLAIR: vaimenna aivo-selkäydinneste, kun muutos pysyy kirkkaana
+6f2e642a	Ekvivalenttiannos ja efektiivinen annos
+6f3ba7bf	mA ja aika määräävät vain elektronien ja siten fotonien määrän; energiajakauman määräävät kVp ja suodatus.
 6f441d09	Mitä syntyy, kun FDG:n positroni annihiloituu, ja miten PET havaitsee sen?
 6f7079de	Teleterapia, gammaveitsi
+6f78682d	DAP = K · A   (riippumaton etäisyydestä)
+6fa2096f	PMT-signaalien painotetulla keskiarvolla (Anger-logiikka)
 6fb2dc0f	 projektiota, 
+6fca1b0f	TMR:ssä lähde–piste-etäisyys on kiinteä, joten siinä ei ole etäisyyden neliön lain vaikutusta
+6fe34f38	Protonit kokevat parinmuodostuksen kantamansa lopussa
+6ff5a02f	<b>Imetys:</b> FDG:n ja useimpien Tc-#m-valmisteiden jälkeen taukoa ei tarvita tai vain muutaman tunnin; I-#:n jälkeen imetys on lopetettava.
 70491c5e	Viimeiset kuukautiset: # viikkoa sitten (epäsäännölliset)
 705dbc6f	Ei ehkäisyä
 70689f04	Kuvauspituus
@@ -586,6 +925,8 @@
 709e0d80	Lyijysäiliö
 70c9432b	Vaimeneminen, HVL ja säteen kovettuminen
 70e6ad0e	Radioaktiiviset ytimet
+7125219e	Resonanssi ja RF-pulssi
+71a8aa21	σ ~ #/√mAs; ikkunan kaventaminen vain tekee kohinasta näkyvämpää.
 71c67fc5	poika
 720bb6d5	Isosentrumi
 72103ea7	Lapsen keuhkot: ei hilaa, lisä-Cu-suodatus, korkea kVp / pieni mAs, tiukka rajaus, lyhyt valotus (liike).
@@ -593,42 +934,63 @@
 72133fde	#. Kontrasti
 721471f0	ELUOI
 72467d86	Vatsan yleiskuva seisten
+724dce60	Elektronit
 729ea19a	+ Sijoita suoja
 72a6030d	Eksponenttilaki pätee vain kapean säteen geometriassa, jossa sironneet fotonit eivät osu ilmaisimeen. Leveässä säteessä myös sironneet fotonit vaikuttavat, ja läpäisy on B·e^(−μx), jossa kertymäkerroin B ≥ #. Jos B jätetään huomiotta suojauslaskelmissa, suojaus mitoitetaan liian heikoksi.
 72b715d3	Hasan: ”Miten te ylletätte noin syvälle?”
+72c5fc11	Gray (Gy)
 72daab8b	Jänne / nivelside
 72f6d05f	k-avaruuden keskusta kantaa kuvan kontrastin; reuna-alue kantaa hienot yksityiskohdat (reunat).
 72f991f9	Lineaarinen vaimennuskerroin μ
 72fb1a0a	Spektri
 72fc2e5a	Ohitettu: 
+730dd2e0	<b>RF (B₁):</b> kudoksen lämpeneminen, jota rajoittaa SAR (W/kg): normaalitilassa koko keho ≤ # W/kg ja pää ≤ # W/kg (IEC ###). Johtavat kaapelit ja silmukat voivat aiheuttaa palovammoja.
 732be2f9	Kuvaohjaus (IGRT)
 7342c4c8	Annan varjoaineen; kun eGFR ≥ # eikä akuuttia munuaisvauriota ole, metformiinia ei tauoteta
 73715b63	Liittyvä kliininen tapaus  →
 738f6b5a	#°:n pulssi kääntää M:n xy-tasoon. Spinit leviävät viuhkaksi, koska ne prekessoivat eri nopeuksilla (T2*). #°:n pulssi kääntää ne, ja syntyy kaiku.
 7393264d	Tutustu kaikkiin aiheisiin
+739d2c89	Mikä on protonien tärkein dosimetrinen etu fotoneihin verrattuna?
 73a87380	Teoria ja kaavat
 73bf80aa	Juuri K-reunan yläpuolella olevat fotonit voivat irrottaa K-elektroneja, joten valosähköinen absorptio hyppää ylös. Siksi matalan kV:n TT-protokollat korostavat jodikontrastia.
 73d792b6	Kuvaa vähillä projektioilla (≤ #): näet juovaartefaktit
 73e93954	Ultraääni; varjoaineeton MRI, jos tulos jää epäselväksi
 74148df9	Se tulee kryogeenista; vaaraton
+74fd5f82	Painotuksen valinta TR:llä ja TE:llä
+754a8c40	Satunnaiset virheet sumentavat annosta fraktioiden kuluessa (ne keskiarvoistuvat), kun taas systemaattinen virhe siirtää koko jakauman pois kohteesta.
+755393eb	CTDIvol ei ole potilasannos
 7564d845	Kyllä, se on vaarallista; vältetään sitä, jos mahdollista.
 75793978	Mehmetin vatsa on # × # cm (keskimääräinen aikuinen ≈ # × #). Vedelle μ(# keV) ≈ # cm⁻¹. Kuinka paljon # cm ylimääräistä kudosta vähentää ilmaisimelle saapuvia fotoneja?
 758e615c	Lasketaan… (#×# pikselin säteenseuranta)
+759b11e4	Ḣ = Γ · A / d²        Ḣ_suojattu = Ḣ · B,   B ≈ #^(−x/HVL)
+75a71666	F-# FDG
 75a97a00	Uusi koe
 75afa3bb	Vähäinen diagnostinen arvo umpilisäketulehduksessa; tarpeeton annos.
 75d4759c	Kipua vasemmalla alavatsalla, kuumetta
+75d5140c	DNA on solukuoleman päätavoite. Matalan LET:n säteilyssä noin kaksi kolmasosaa vauriosta syntyy epäsuorasti: veden radiolyysissä syntyvät OH·-radikaalit hyökkäävät DNA:han. Yksijuostekatkokset korjautuvat helposti; kaksoisjuostekatkokset (DSB) ovat tärkein letaali vaurio.
 760d8617	Lyijyastiassa oleva tyhjiöpullo imee keittosuolaliuoksen ja Tc-#m:n pylvään läpi. Mo-#:n läpäisyn on pysyttävä < # kBq Mo / MBq Tc.
+7620b894	Muut dosimetrit
 763fa74b	Molemmat ovat fotoneja, ja niiden energia-alueet menevät päällekkäin (# keV:n γ-säteily (Tc-#m) on matalaenergisempää kuin # kVp:n putken röntgensäteily). Vain alkuperä eroaa.
 7647a3ac	Hyväksytty — lue palaute huolellisesti.
+765479aa	Mitä vastaan sekundääriseinä suunnitellaan?
 765e2544	Vyöhyke IV -sääntö
+7686236b	Jokainen TVL antaa kertoimen #: #³ = #, eli noin # HVL:ää.
+76a60042	Raskauden aikana MK on suositeltava, koska siinä ei käytetä ionisoivaa säteilyä, mutta gadolinium läpäisee istukan ja sitä annetaan vain välttämättömässä tilanteessa. Potilailla, joiden eGFR < #, gadoliniumin käytössä on oltava varovainen nefrogeenisen systeemisen fibroosin (NSF) riskin vuoksi.
 76dd194b	Sydämen keskiannos < # Gy
+7719e496	<b>Elektronisieppaus ja isomeerinen siirtymä:</b> Tc-#m on metastabiili tila, joka lähettää # keV:n γ:n — ihanteellinen kuvantamisenergia vähäisellä hiukkassäteilyllä.
 77384e8c	Harhaanjohtavaa. LNT-malli olettaa hyvin pienen mutta nollasta poikkeavan riskin; puhu rehellisesti ja rauhoittavasti.
 774a6613	Kapea monoenerginen fotonisäde, joka kulkee paksuuden x läpi, vuorovaikuttaa vakiotodennäköisyydellä matkan pituusyksikköä kohti. Tuloksena on eksponentiaalinen vaimeneminen:
 777502bf	Ihomerkinnät eivät näytä sisäistä liikettä; suuri riski kohteen ohittamiseen.
+777ecec1	# % / # mm
+7791bab3	≈ # mSv
+77e56096	Miksi takaisinprojektio suodatetaan?
 77eb0235	Pisteet
+77f31cee	<b>Efektiivinen annos:</b> DAP × muuntokerroin — esim. keuhkot PA ≈ # mSv, lannerranka ≈ # mSv.
 78197beb	ESAK # µGy > DRL: pienennä annosta (korkeampi kVp + Cu-suodin, poista hila, pienempi mAs).
 7835c649	Elektronit sijaitsevat K-, L-, M-… kuorilla. Sisäkuorten sidosenergiat kasvavat jyrkästi Z:n mukana: volframin K-kuori on # keV, jodin # keV ja veden hapen vain # keV.
 785a8151	Pitch
+78a45025	Sievert (Sv)
+78b30f07	Deterministiset ja stokastiset vaikutukset
 78cd4207	Eluaattipullo
 792a98a9	• <b>Säteen koveneminen:</b> matalat energiat absorboituvat ensin; pitkillä matkoilla efektiivinen μ pienenee → ”cupping” keskellä ja tummat juovat tiheiden luiden välissä. Vesikalibrointi (BHC) korjaa cuppingin mutta ei luujuovia.\n• <b>Metalli:</b> lähes kaikki fotonit absorboituvat (photon starvation) → vaaleat/tummat säteittäiset juovat.\n• <b>Vähän projektioita:</b> riittämätön kulmanäytteistys → juova- (aliasing)artefaktit.\n• <b>Kohina:</b> σ ~ #/√(mAs); annoksen ja kohinan perustavanlaatuinen kompromissi.
 793c090c	Matala-annos-TT-protokolla
@@ -637,28 +999,45 @@
 79525074	Vain keskusta
 79a399e0	Annos
 79ae5968	Ajan nopeus (puoliintumisaikaa / # s)
+7a19375c	Missä ferromagneettiseen esineeseen kohdistuva vetovoima on MK:ssa suurin?
+7a3977c5	Täydellisen suojan
+7a4568f0	Matalalla energialla μ on hyvin herkkä Z:n ja tiheyden eroille; annos ja puristus tasapainotetaan tätä kontrastia vasten.
+7a564ff8	Sironneet fotonit kertyvät piikkiin
 7a696fee	Luonnon taustasäteilyä vastaava
 7a9ee904	Napauta lattiaa → kävele (näppäimistö: WASD). Seuraa mittarin annosnopeutta. Aika, etäisyys ja suojaus pienentävät annosta.
+7aa5a762	Gradienttikaikusekvensseissä ei käytetä #°:n pulssia, joten ne ovat nopeita mutta T2*-painotteisia (verenvuoto, kalkki). Pienet kääntökulmat sallivat lyhyen TR:n, ja signaali on suurimmillaan Ernstin kulmassa: cos α_E = e^(−TR/T1). Gadoliniumvarjoaineet ovat paramagneettisia: ne lyhentävät T1:tä ja saavat tehostuvan kudoksen näkymään kirkkaana T1-painotteisissa kuvissa.
 7ab00d8b	Aksiaalinen annosjakauma
+7ad68a4e	<b>Kuukausittain / vuosittain:</b> PDD ja profiilit, MLC:n paikannustarkkuus, isosentri, kuvantamisjärjestelmät; vuosittainen referenssidosimetria (TRS-#).
 7b06fb7d	SE-signaali TE:n funktiona
 7b0ee643	Pienin annos muutoksessa (#–# cm)
+7b16b51b	Vaikutus, jonka todennäköisyys kasvaa annoksen mukana ja jolla oletetaan, ettei ole kynnystä (syöpä, perinnölliset vaikutukset).
 7b3a2d83	Alfahiukkanen
 7b4e65c1	Peräsuolen EQD2 (α/β #)
 7b804b26	Fysikaaliset ilmiöt
+7bd77338	Aktiivisuudesta riippumatta
 7bdb6a90	vaaka: ilmaisin s  •  pysty: kulma θ (#→#°)
 7be2d594	Fokus–kuvailmaisin-etäisyys (SID)
+7bea5b23	Putken tulee olla pöydän alla: henkilökunta saa suurimman osan annoksestaan potilaan takaisinsironnasta putken puolella.
 7bef2f61	Annoskartta (x–syvyys): annos suhteessa maksimiin, %
 7bf995f5	Mittapiste (napauta)
 7c162dc9	Spektri • Vaimeneminen • Sironta • Annos
+7c312941	Tykin elektronit kiihdytetään MeV-energioihin aaltoputkessa, jota syötetään S-kaistan mikroaalloilla (~# GHz); taivutusmagneetti ohjaa ne kohtioon. Fotonitilassa korkean Z:n kohtio tuottaa jarrutussäteilyä ja tasoitussuodin tasoittaa keilan; elektronitilassa kohtio vedetään pois ja sirontakalvo levittää kapean elektronikeilan.
 7c5092be	Ionisoivalla säteilyllä on tarpeeksi energiaa (≥ # eV) vapauttamaan elektroneja atomeista. UV-alueen yläpää, röntgen- ja γ-säteily sekä kaikki nopeat varatut hiukkaset ovat ionisoivia; radioaallot ja näkyvä valo eivät ole.
+7c547340	# keV:n γ-fotoneilla
 7c72fb1b	Ernstin kulma (VA)
 7c7da947	Efektiivinen annos
 7c941c55	R8# (≈ terapeuttinen syvyys)
+7cae44a6	≈ # mGy
+7d0cb4a8	Brakyterapiassa lähde sijoitetaan kasvaimen sisään tai sen viereen. Annos pienenee jyrkästi etäisyyden kasvaessa (etäisyyden neliön laki), jolloin kohde saa suuren annoksen ja ympäröivä kudos säästyy. HDR-hoidossa käytetään lähdettä Ir-# (T½ # vrk, keskienergia ~# keV, ~# GBq) kauko-ohjatussa jälkilatauslaitteessa; pysyvissä LDR-jyvissä käytetään isotooppeja I-# (T½ # vrk, #–# keV) tai Pd-#.
+7d17d3db	Paikka gradienteista
+7d1ab5c2	PA-suunta tuottaa enemmän sirontaa
 7d7615e3	Eturauhassyöpä — ulkoinen sädehoito
 7d96597f	Esitiedot
 7d972bea	Äiti mukana; ensimmäinen kuvantamistutkimus
+7db298cb	Missä henkilökunnan tulee seistä läpivalaisun aikana (C-kaari vaakasuorassa)?
 7dd6f549	Titaani-implantti
 7de1562e	 v, 
+7dee6ced	HVL kasvaa (säde kovenee)
 7e0e48e1	cT2b N0 M0
 7e0faf28	Veto on välitön; vakavia vammoja ja kuolemia on raportoitu.
 7e323ea2	Virta ja data kulkevat ilman kaapeleita, joten putki voi pyöriä jatkuvasti — tämä mahdollistaa spiraalikuvauksen.
@@ -666,48 +1045,71 @@
 7e5ca532	Silmän mykiö
 7e64d602	Putki ja ilmaisin pyörivät potilaan ympäri. Jokaisella kulmalla θ ja ilmaisimen paikalla s mitattu vaimennus on μ(x,y):n viivaintegraali. Kaikkien projektioiden joukko on <b>sinogrammi</b>: pistemäinen kohde piirtää siniaallon.
 7e6646b7	Vatsan TT kookkaalla potilaalla
+7e78e10c	(#/#)² = #/#; kudoksen vaimennus ja sironta korjataan g(r):llä, mutta etäisyyden neliön laki on hallitseva.
 7e86bdae	Pisteytys
 7e8c6db6	HVL ja TVL
+7e958f84	TT-kohina johtuu kvanttitilastosta. HU-arvojen keskihajonta (σ) ROI:ssa skaalautuu mAs:n ja leikepaksuuden neliöjuuren käänteisluvun mukaan. Mitä paksumpi potilas, sitä enemmän ilmaisimelle saapuvien fotonien määrä pienenee eksponentiaalisesti ja sitä nopeammin kohina kasvaa.
 7ec52420	Radioligandihoito (PSMA, DOTATATE)
+7f80d327	Kaikkien projektioiden kartta kulman ja ilmaisinpaikan funktiona.
 7f8ed8ff	Heliumpumppu hurisee hiljaa, mutta koputus tulee gradienteista.
 7fa4aa8f	Muutos # cm:n päässä vasemmasta silmästä
 7fa59d83	vaaka: säteittäinen s • pysty: kulma φ
 7fa5ff5c	Täysi
 7fb12b63	Ilmaisinkaari
+7fbf730c	Kahden fotonin koinsidenssi määrittää jo tapahtuman suoran (LOR)
+7fcbce60	K = Ψ · (μ_tr/ρ)        (Ψ: energiakertymä)
+7ff4afcd	Efektiivinen annos on väestön yli keskiarvoistettu riskisuure. Sitä käytetään tutkimusten vertailuun ja säteilysuojelun optimointiin, ei yksittäisen potilaan riskin laskemiseen; siihen tarvitaan elinannokset.
+803de498	U kuvaa keilan suuntien jakaumaa ja T oleskelua; sekundääriseinille käytetään arvoa U = #.
+804ba45f	Miten fotonimäärän on muututtava, jotta SNR kaksinkertaistuu?
+8057daf6	Gd³⁺:n parittomat elektronit nopeuttavat relaksaatiota, joten tehostuma näkyy kirkkaana T1-painotteisissa kuvissa.
 8077377d	Viikoittainen porttikuva
 807b9275	Oikein: vetovoima ~ B·dB/dz ja on suurimmillaan tunnelin suulla. Siirrä potilas tarvittaessa hoitoon vyöhykkeelle III.
 80cc6fb4	Positroni annihiloituu elektronin kanssa kahdeksi vastakkaiseksi # keV:n fotoniksi. Jos kaksi vastakkaista ilmaisinta havaitsee ne muutaman ns:n sisällä, kirjataan koinsidenssi (vastesuora, LOR).
+80d30c6b	CTDIw = ⅓·CTDI_keskusta + #/#·CTDI_reuna     CTDIvol = CTDIw / pitch     DLP = CTDIvol · L     E ≈ k · DLP
 80d6fd98	α/β myöhään reagoiva kudos
 80f76b66	Kysyn raskaudesta ja pyydän β-hCG-testin
 80fd59df	Hiukkanen
 811c30cd	Projektioiden määrä (#°)
+817e06f4	Valvonta-alue
 8190561a	Kipua oikealla alavatsalla, pahoinvointia (# h)
+8193cecf	Spinkaikusignaali
 819c9d03	Mo-#/Tc-#m-generaattori
+81aa5ec6	<b>Liike:</b> juovat ja haamukuvat, joita vähennetään lyhyillä kierrosajoilla ja hengityksen pidätyksellä.
 81ad7d36	Käytä pitkiä pihtejä (lähde # cm:n päässä kehosta)
 81b60676	Etu
+81d7d87b	Potilaassa Compton-sironneet fotonit saapuvat ilmaisimeen satunnaisista suunnista, heikentävät kontrastia ja lisäävät kohinaa. Paksuissa kehonosissa sironnan ja primäärisäteilyn suhde voi olla #–#. Keinoja vähentää sirontaa:
 8202e478	Suojaus
 8210c814	Aksiaalinen aivoleike
+8231915e	SPECT
 826d7453	Elektroni
+82b88998	Näyttö voi esittää vain ~# harmaasävyä, joten valitaan ikkuna (W) ja taso (L): tyypillisesti W # / L # pehmytkudokselle, W # / L −# keuhkoille ja W # / L # luulle.
 82ce6c55	Rusto
 82e2dbbd	Alue ja projektio
 82e733b7	<b>Sironta</b> heikentää kontrastia: sironneen ja primaarisäteilyn suhde kasvaa kentän koon ja potilaan paksuuden mukana. Hila päästää läpi ~#% primaarisäteilystä ja ~#% sironneesta. Rajaus pienentää sekä sirontaa että annosta.
 82fa204f	Laaja kenttä lisää sirontaa ja DAP:ia; todellinen suoja on kapea kenttä.
+82fdbac3	Spektri
 832d529e	Polven MK ja MK-turvallisuus
 832f8681	Keuhko
 835889e9	Munuainen
 836bc242	#–# MV VMAT antaa syvälle kohteelle riittävän annoksen monesta suunnasta; iho säästyy ja neutronit ovat merkityksettömiä.
 83754be6	Paras tuloksesi: 
+8385b274	Dosimetria ja sädebiologia
 83d4e55a	# kV kookkaalla potilaalla aiheuttaa fotonivajeen juovia ja liikaa kohinaa.
 84737e5d	Lukemat
+84cf07c1	Riskiä ei ole lainkaan
 85124f40	Kohina # HU: diagnostinen.
 8516948a	Kaavat
 851ad665	Gantryn kulma
+851e9f59	Pienet fraktiot säästävät myöhään reagoivaa kudosta, koska β-termi pienenee. Jos kasvaimen α/β on kuitenkin pienempi kuin myöhäiskudoksen (eturauhanen), hypofraktiointi suosii vaikutusta kasvaimeen — siksi CHHiP- (# Gy/#) ja PACE-B-tutkimukset (# Gy/#) onnistuivat.
 852fc0ce	Zeynep: ”Lypsin maitoa etukäteen. Mieheni voi antaa hänelle tuttipullon.”
 8567c350	Avaa purku
 85e4b82f	OK
+8616bbc4	Viimeisen kuvan pito, rajaus ja ilmaisimen tuominen lähelle potilasta pienentävät annosta.
 86260ec0	Näin pelaat tapaustilaa
+863c496a	Eturauhanen on hypoksinen
 8647f589	DI # → alivalotus: kvanttikohina, ei diagnostinen.
 869cfa26	EQD2 myöhäinen kudos
+86aa8c33	HVL pienenee
 86c813a5	Pulssit
 86e1dbb8	Kaksi # keV:n fotonia ~#° kulmassa toisiinsa, kaksi ilmaisinta havaitsee ne muutaman ns:n koinsidenssi-ikkunassa → vastesuora (LOR)
 87025a9c	Isotooppilääketiede: F-# FDG-PET/TT, levinneisyysselvitys (Dr. Er)
@@ -717,164 +1119,268 @@
 8762cac3	Protonien energia
 876b129d	Vaihe 
 8786af42	✓ Erinomainen
+87dbef57	<b>Repair (korjaus):</b> terve kudos korjaa subletaalit vauriot fraktioiden välillä (väli ≥ # h).
+87dc07cb	Niiden iho-annos on nolla
 87e69378	Sironneet
+87ff7f51	<b>Reoksygenaatio:</b> hypoksiset kasvainsolut hapettuvat fraktioiden välillä.
 882ac676	Vauvan annos
+88444e3c	Koinsidenssimittaus
 88674cd6	#) Valitse vasemmalta aihe; aiheet etenevät perusteista klinikkaan. #) Lue oppitunti; älä ohita AVAINASIA-laatikoita ja ratkaistuja esimerkkejä. #) Liikuta kuvien liukusäätimiä nähdäksesi, mitä kaavat kertovat. #) Tee oppitunnin lopun tietovisa: kaikki oikein merkitsee oppitunnin tähdellä ★. #) Käytä kohtia ”Kokeile laboratoriossa” ja ”Liittyvä kliininen tapaus” soveltaaksesi oppimaasi.
 886d0cbf	RF-pulssit aiheuttavat melun; varotoimia ei tarvita
 888cc345	# m:n päässä (suojattu)
+88905e3e	p = ln(I₀/I) = ∫μ dl: yksi mittaus antaa kokonaisvaimennuksen reitillä, joten leikkeen palauttamiseen tarvitaan monta kulmaa.
+889fa24c	Miten F-# tuotetaan?
+88faff94	Kertymäkerroin pienenee
+8904ba00	Kumuloitunut aktiivisuus Ã
+891d411a	Lineaarinen energiansiirto (LET) on matkan pituusyksikköä kohti luovutettu energia. Fotonien ja elektronien LET on pieni (~#–# keV/µm); α-hiukkasten ja hitaiden raskaiden ionien LET on suuri (~# keV/µm), ja ne jättävät tiheitä, vaikeasti korjattavia DNA-vaurioita — siksi α:n säteilyn painotuskerroin on #.
 89235979	Kun emoydin (Mo-#) elää pidempään kuin tytärydin (Tc-#m), A₂/A₁ lähestyy vakiota: transienttitasapaino. Jos emo on paljon pitkäikäisempi (esim. Sr-#/Y-#), syntyy sekulaaritasapaino: A₂ = A₁.
+89261fb7	Miten tapahtuman paikka määritetään gammakamerassa?
+892a4e53	Generaattori (transienttitasapaino)
 892ef903	Yksi ainoa # keV:n fotoni
+89598673	Koska SNR ~ √N, kaksinkertainen SNR vaatii #× fotonit — ja #× annoksen.
+896dd872	Deterministinen vaikutus
 897fe13f	Varjoaine ja munuaiset
 89d558f4	Monikanavainen vastaanottokela lähellä kudosta parantaa SNR:ää ja mahdollistaa rinnakkaiskuvantamisen.
 89f4c462	Repeämä/kierukka-CNR #: repeämä ei näy — tarvitaan pitkä TR (PD/T2).
 8a2fa41a	Aktiivisuus, aika ja kertymä
 8a355b34	PA, seisten, SID # cm
 8a69358c	aika 
+8a794070	Gradienttikelat lisäävät pienen, paikan mukaan lineaarisesti muuttuvan kentän, jolloin Larmorin taajuus riippuu paikasta:
+8a79948a	Henkilöannosmittaus ja valvonta
 8aa94879	Suositukset (ICRP #, IAEA) eivät edellytä imetystauon pitämistä FDG:n jälkeen; lähikontaktin rajoittamista muutamaksi tunniksi ja lypsetyn maidon käyttöä suositellaan.
+8ae221d1	Viikkoannos esteen takana olevassa pisteessä ei saa ylittää suunnittelutavoitetta P: # mSv/vk (# mSv/v) valvonta-alueilla ja # mSv/vk (# mSv/v) valvomattomilla alueilla. Tarvittava läpäisy saadaan työkuormasta W, käyttökertoimesta U, oleskelukertoimesta T ja etäisyydestä d:
 8b0d147c	Luukontrasti (# cm luuta # cm:ssä kudosta)
 8b0eb3c2	Todelliset
+8b2fcd4a	Putki lämpenee vähemmän # cm:n etäisyydellä
 8b5a89a7	Mikä hallitsee missäkin?
 8b68a871	Mahdollinen raskaus ja umpilisäketulehdus
+8bde112c	Inversion recovery ja rasvanvaimennus
 8c032c1a	Opittavaa
 8c5db0a7	<b>Valosähköinen ilmiö:</b> fotoni absorboituu kokonaan ja sisäkuoren elektroni sinkoutuu ulos. Todennäköisyys skaalautuu suunnilleen kuten Z³/E³.
 8c7d3087	Pisteet: 
+8c83f65c	<b>PTV:</b> CTV/ITV + asettelumarginaali; annosmääräys koskee PTV:tä.
 8c880991	Jokaiseen vastaukseen kuuluu selitys ja palaute.
 8ca7a950	GM-laskuri tai ionisaatiokammio, joka näyttää annosnopeuden µSv/h; käytetään kontaminaatiotarkastuksiin isotooppilaboratoriossa.
 8cde5d5c	Kollimaattori + lisäsuodatus
+8d1ed6ee	Se kasvaa etäisyyden kasvaessa
 8d46a34c	paksuus (cm)
 8d815095	Fotonien vuorovaikutukset aineen kanssa
 8d8cee46	Etäisyyden neliölaki
+8db1a663	Nettomagnetoituma ja siten SNR kasvavat
 8dbd5185	Aika # s — potilas pystyy pysymään paikallaan.
 8de41236	Sydämentahdistin
 8e5380f5	Emir pystyy seisomaan ja tekee yhteistyötä. Minkä tekniikan valitset?
 8e925209	Radon-muunnos • FBP • Hounsfield • Artefaktit
 8ea57a5e	R9# (syvyys potilaassa)
+8f11c218	η ≈ #×#⁻⁹ · Z · V   (W, # kV: ≈ # %)
 8f1b876c	Paras tuloksesi
 8f30fea5	Pituus / paino
+8f7ca05e	Jarrutuskyky kasvaa suunnilleen kuten #/v², joten hidastuva hiukkanen luovuttaa yhä enemmän energiaa
 8fb29e12	Valitse vasemmalta aihe ja oppitunti. Kokeile kuvien liukusäätimiä ja testaa itsesi jokaisen oppitunnin lopussa.
 8fd05dbc	Kilpirauhassyövän ja liikatoiminnan hoito
+8fd304c9	CTDIw = #/#·CTDI_keskusta + #/#·CTDI_reuna        CTDIvol = CTDIw / pitch
+8fd58c41	# MV:n kiihdyttimen primääriseinä: W = # Gy/vk (# m:n etäisyydellä), U = #, T = # (toimisto), P = # mSv/vk = #×#⁻⁵ Sv (valvomaton alue), d = # m isosentristä. B = #×#⁻⁵ × # / (# × # × #) ≈ #×#⁻⁶ → n = # TVL. Betonille TVL₁ = # cm, TVL_e = # cm (NCRP #): x ≈ # + # × # ≈ # cm betonia.
 8fed86d7	Kunhan hän on nopea
 8ff1e887	Ajan nopeus
 9017c010	+ Lisää keila
+9018cfae	Miten satunnaisten koinsidenssien taajuus riippuu aktiivisuudesta?
+901f2a3e	Kalvo muuttaa elektronit fotoneiksi
+902aac5f	M = SID/SOD ja U_g ~ OID/SOD: pienellä OID:llä ja suurella SID:llä sydän näkyy lähes todellisen kokoisena ja terävänä.
 90571e3f	 tietovisakysymystä
+905ee9cb	Kerma ja absorboitunut annos
 907a4bcf	Potilasannos (efektiivinen)
+907fefb6	CTDIvol
+908240bf	SUV = C_kudos [kBq/mL] / (A_annettu [kBq] / paino [g])
+90c0a335	Kollimaattori
 90d642b7	Kasvaimen α/β ≈ # Gy, ihon / ruston myöhäisvaikutukset α/β ≈ # Gy. Mikä sopii #-vuotiaalle, jonka on vaikea tulla päivittäin?
 90da7a12	Röntgen
+90dd40c0	Suuremmassa kentässä keskiakselille saapuu enemmän sironneita fotoneita, mikä nostaa PDD:tä erityisesti syvällä.
 90e8ad1a	Kudos
 91078d77	Putken spektri, suodatus, HVL, sironta, ilmaisin ja potilasannos.
 91258979	Radiolääke
+915b2438	Hila parantaa kontrastia — mutta mitä muuta se lisää?
 91882d73	CSDA-kantama (Bethe / NIST)
+9192b5dc	# keV:n fotonit eivät läpäise lyijyä
+91a42068	Elektroneista fotoneihin
 91a7732a	Nopeasti kytkettyihin gradienttivirtoihin kohdistuu B₀:ssa Lorentzin voimia; melu voi ylittää # dB → korvatulpat / kuulokkeet pakollisia
 91b76332	Rauhoittava mutta epätarkka: stokastinen riski on hyvin pieni, ei nolla.
+9238d6ff	Säteilytyöntekijöillä
 926d87c3	Havaitsee systemaattisen asetteluvirheen mutta ei päivittäistä elinliikettä → suuremmat marginaalit ja peräsuolen annos.
 928ef299	nainen
+9293a3fa	<b>Osittaistilavuus:</b> paksuissa leikkeissä eri kudokset keskiarvoistuvat saman vokselin sisällä.
 92fe3fad	Vain opetussisältöä — ei kliinisiin päätöksiin.
 9340f08a	Hajoamisvakio λ
+9364ced4	Positroni kulkee kudoksessa ~# mm ja annihiloituu elektronin kanssa kahdeksi lähes vastakkaissuuntaiseksi # keV:n fotoniksi. Jos rengasilmaisimet (LYSO, BGO) havaitsevat molemmat muutaman nanosekunnin koinsidenssi-ikkunassa, tapahtuma on niiden välisellä vastesuoralla (LOR). Kollimaattoria ei tarvita, joten herkkyys on paljon suurempi kuin gammakameralla.
+93672c16	Kaikki ilmaisinarvot yhdessä kulmassa muodostavat projektion; kulman ja paikan mukaan järjestettyinä #°+viuhkakulman alueelta ne muodostavat sinogrammin. Jokainen leikkeen piste piirtää sinogrammiin sinikäyrän.
+936f0729	M₀ ~ B₀ ja SNR kasvaa suunnilleen B₀:n mukana, mutta SAR kasvaa kuten ~B₀² ja T1-ajat pitenevät.
+93755f1f	Aivo-selkäydinnesteen (vapaan nesteen) signaalin
 93798b62	Generaattori
 93926697	Antropomorfinen fantomi
+93c69625	Putkivirta × aika; määrää lineaarisesti fotonien määrän (ja annoksen).
 93fd33cf	Mx (signaali)
 94397cd5	Potentiaalinen kahdentumisaika Tpot
 9441540c	DLP = CTDIvol × pituus; kuvaa kokonaissäteilytystä, ei elinannosta.
+947997c0	Mikä on työntekijöiden silmän mykiön vuotuinen annosraja (ICRP #)?
 948fe972	kV-röntgenlähde
 94a38054	Päätöksesi
+94ab30dc	<b>Säteilymittarit:</b> ionisaatiokammio annosnopeudelle; GM- tai pannukakkuanturi kontaminaatiolle.
 94cc8d3b	Vauvan annos ≈ 
 94f37251	Itse CTDIvol
 951e2e51	KATSO PURKU  →
 95a8c428	Mo-# (T½ # h) → # % → Tc-#m (T½ # h). Mo-# on kiinnittynyt alumiinioksidipylvääseen; Tc-#m kertyy sen hajotessa ja ”eluoidaan” keittosuolaliuoksella.
+95ac4fdd	”# %:n sääntö”: kVp:n nostaminen # %:lla suunnilleen kaksinkertaistaa ilmaisimen altistuksen, joten mAs voidaan puolittaa. Potilasannos yleensä pienenee, mutta niin myös kontrasti.
 95bce1b7	Ilma
 95be3cc5	Paras 
 95d6d65a	Laboratoriokoordinaatisto (näytä prekessio)
+95f2bf9e	Useimpien materiaalien (γ,n)-kynnykset ovat noin #–# MeV, joten #–# MV:n keiloissa on havaittava neutronikontaminaatio.
 95f4d5de	Kenttä ja silmän suojaus
+95f8091a	Säteilysuojelun periaatteet ja annosrajat, aika–etäisyys–suojaus, huonesuojausten suunnittelu, henkilöannosmittaus, raskaus, lapset ja riskiviestintä.
+962e3a8d	α/β-suhde (Gy) on annos, jolla molemmat termit ovat yhtä suuret: ≈ # Gy varhain reagoiville kudoksille ja useimmille kasvaimille, ≈ # Gy myöhään reagoiville kudoksille (selkäydin, peräsuoli, ihon fibroosi). Eturauhas- (~# Gy) ja rintasyövän (~# Gy) α/β on pieni.
 963b7c8f	Hei! Sattuuko kone? Saako äiti odottaa ulkona?
+963c7428	#–# kertaa
 966d8f4b	Emirin rintakehä on ≈ # cm paksu (aikuisella ≈ # cm). Säädä kVp, mAs, suodin, hila ja kenttä ja paina sitten VALOTA. Tavoite: DI −#…# ja ESAK ≤ # µGy.
+969a2726	Annos putoaa jyrkästi Braggin piikin jälkeen; sisääntuloannos ei ole nolla, mutta se on pienempi kuin fotoneilla.
 96c251ec	Fourier-leikelause: projektion #D-Fourier-muunnos on leike kuvan #D-Fourier-muunnoksesta. Siksi projektiot suodatetaan ensin |f|-rampilla ja projisoidaan sitten takaisin. Suodattamaton takaisinprojektio tuottaa #/r-sumennuksen.
 97080889	Potilaan halkaisija
 97197ddf	Vältä kaikkea kontaktia viikon ajan
 971c410e	Radioaktiivinen hajoaminen, Mo-#/Tc-#m-generaattori, PET-koinsidenssit ja MLEM.
 9741e45e	Riskiä ei ole lainkaan, nolla säteilyä.
 97563b2a	Suojaa gammasäteilyltä, kun pulloa säilytetään tai kuljetetaan; muutama mm lyijyä riittää # keV:n fotoneille (Tc-#m).
+97667826	Yhdensuuntaisen tilan ylimäärä on pieni (~# ppm # T:ssa), mutta vokselin valtava protonimäärä tuottaa mitattavan nettomagnetoituman M₀, joka kasvaa B₀:n mukana — siksi suuret kentät antavat paremman signaali-kohinasuhteen.
+9773e002	# keV:n γ, T½ # h; käytetyin radionuklidi.
+978d448a	Sisäinen dosimetria ja potilasturvallisuus
 979c2167	Pinta-annos (ihon säästö)
 97fc3c0a	Olet sairaalan sairaalafyysikko. Jokainen potilas on tapaus: lue kertomus, tee päätöksesi ja katso tulokset, jotka on laskettu oikeilla fysiikan malleilla. Jokaisen vaiheen jälkeen opit, miksi se oli oikein tai väärin.
 981c2b72	kV-ilmaisin
 98333fde	Betoni
 9837047f	Muutos + ~# cm marginaali (≈ # cm lyijyrajaus); silmä kentän ulkopuolella, tarvittaessa sisäinen silmäsuoja
+98532465	GRE:  S = PD·sinα·(# − E₁)/(# − cosα·E₁)·e^(−TE/T2*)      Ernstin kulma: cos α_E = e^(−TR/T1)
 98582d5e	Epäsuorasti ionisoiva
 9867b7d1	Annosnopeus pienenee etäisyyden neliön mukaan, Ḣ = Γ·A/d². Lattian värit näyttävät annosnopeuden; valkoinen viiva merkitsee # µSv/h.
+986c335e	Vertailun vuoksi: luonnon taustasäteilyn maailmanlaajuinen keskiarvo on ≈ # mSv/v (UNSCEAR). PA-thoraxkuva ≈ # mSv (~# vrk), vatsan TT ≈ # mSv (~# v), lento Istanbul–New York ≈ # mSv.
+9888d039	<b>Liike ja virtaus:</b> haamukuvat vaihesuunnassa.
 9895bce3	EQD2 kasvain
 98b07aa5	Ei — elektronien maksimienergia (# keV) ei riitä ionisoimaan K-kuorta
 98f224a5	VALOTA
 9920e564	Suunnitelman pisteet
+992370e6	α-hajoaminen
 993014d9	Paino
 9945210a	Algoritmi
 994bbd58	Sääntö: R ≈ #·E^#
 995324ac	Aika 
 995c9ab4	#. Dosimetria
 9970e954	PET: koinsidenssit ja rekonstruktio
+9973e834	Elektronien nyrkkisäännöt
 997b38dc	Koon mukaan sovitettu protokolla
 99a15c5e	Efektiivinen annos (likim.)
+99a61a5f	Läpivalaisu ja mammografia
 99a7a50a	JATKA  →
 99f7bee7	Liukurengas
 99fa0dc1	Pulssimäärän riittävyys A·t / (#·kg)
 9a125d51	Kuumennetusta katodista lähtevät elektronit kiihdytetään kVp:llä pyörivään volframianodiin. Vain ~# % niiden energiasta muuttuu röntgensäteilyksi (jarrutussäteily + karakteristinen); loput on lämpöä.
 9a23c97b	FDG-PET/TT imettävällä äidillä
 9a2b880f	Potilaan paksuus / SSD
+9a548d26	pitch = #/# = #; samalla mAs:llä CTDIvol on #/# siitä arvosta, joka saadaan pitchillä #.
 9a73db9b	Kieli
+9a83f5a9	Prosentuaalinen syväannos
+9ab3d4c5	# µSv/h
 9b012adc	Etäisyys lähteeseen
+9b173448	"Tämä thoraxkuva antaa noin # mSv — saman säteilymäärän saamme luonnosta noin # päivässä. Keuhkokuumeen oikean diagnoosin hyöty on paljon suurempi kuin tämä hyvin pieni riski."
+9b1a53e6	≈ # %
+9b243684	Sen on nelinkertaistuttava
+9c46f193	Jokainen reikä ottaa vastaan fotoneja kartiosta, jonka pohja kasvaa etäisyyden myötä, mikä heikentää erotuskykyä — siksi ilmaisin viedään lähelle potilasta.
 9c4aa55c	Röntgenputki
 9c506f53	Leiketaso
 9c528492	Nestemäisellä heliumilla ~# K:iin jäähdytetyt NbTi-käämit. B₀ (# / # T) on aina päällä: ferromagneettisista esineistä tulee ammuksia.
 9c70fc8a	Fokusoidut ohuet lyijyliuskat absorboivat potilaassa sironneet fotonit. Kontrasti paranee, mutta mAs:ää on nostettava saman ilmaisinannoksen saamiseksi (Bucky-kerroin #–#).
 9c8081f1	Avaa laboratorio
 9cabb538	Aika • Etäisyys • Suojaus
+9cb890cd	Spinkaikusignaali sisältää sekä T1- että T2-termit:
+9ce536e5	# mSv:n TT-tutkimuksessa nimellinen syövän lisäriski on ≈ # Sv × # / Sv ≈ # %, eli noin # / # — pieni verrattuna ~# %:n elinikäiseen syövän perusilmaantuvuuteen, mutta se vaatii silti oikeutuksen.
 9cf82695	Tulokset
 9d145291	Valosähköinen ilmiö
+9d21a288	Hila absorboi myös osan primäärisäteestä, joten mAs:n on kasvettava #–#-kertaiseksi saman ilmaisinsignaalin saamiseksi.
 9d2b5423	Kuvaa laitteen tuottoa eikä huomioi potilaan kokoa.
 9d3d585c	Kaikkien keilojen modaliteetti
+9d49828f	Elektronit itse ovat hoitokeila; kalvo levittää kapean keilan leveäksi, tasaiseksi kentäksi
+9d598f66	Röntgensäteilyn happivahvistussuhde on ~#–#; korkean LET:n säteilyllä se lähestyy arvoa #.
 9d6f6466	Suodin poistaa ensisijaisesti matalaenergisiä fotoneja (<b>säteen koveneminen</b>), jotka vain lisäisivät ihoannosta. Lisäsuodatus nostaa keskienergiaa ja HVL:ää ja pienentää tuottoa.
 9d70bd7a	DI = #·log₁₀(EI / EI_target): # ≈ # % enemmän, −# ≈ # % vähemmän, # ≈ #× ilmaisinannos.
+9de25720	Käyttökerroin U
+9de4bb08	Rintakudokset (rasva, rauhaskudos, kasvain) eroavat vaimennukseltaan hyvin vähän, joten käytetään matalia energioita, joilla valosähköinen ilmiö hallitsee: #–# kVp anodi/suodin-yhdistelmällä Mo/Mo, Mo/Rh, W/Rh tai W/Ag. Puristus pienentää paksuutta, sirontaa, liikettä ja annosta. Mikrokalkit vaativat hyvin pienen polttopisteen (#–# mm).
 9e134627	Kliiniset tapaukset — # potilasta odottaa
 9e1d18ea	#. Sädebiologia
+9e2b6eb5	PTV
 9e452222	Mikä näistä on epäsuorasti ionisoiva?
 9e75940c	Aktiivisuus
 9e7b7a87	Kasvaimen EQD2 = n·d·(d + #)/(# + #) = # Gy — suurempi kuin tarpeen.
+9e851bcc	Sädehoidon fysiikka
 9e8abbb2	Työntekijän mittari näyttää ympäristöannosekvivalentin nopeuden H*(#) siinä kohdassa; kertynyt annos = annosnopeus × aika.
 9e995ba1	Fraktiointi (LQ-malli)
+9eb1083f	Valvomossa
 9ebe06d9	Aamiainen # tuntia sitten
+9f012d98	SAR pienenee
 9f24f2f7	Varjoaineet hyödyntävät tätä fysiikkaa: jodin K-reuna on # keV:ssä ja gadoliniumin # keV:ssä. Absorptio hyppää ylös, kun fotonin energia on juuri K-reunan yläpuolella.
+9f323307	Kuvausaika T = TR × N_vaihe × NEX / ETL
 9f3f7105	Rekonstruoidaan…
 9faeab39	Liikemäärän säilyminen vaatii kaksi fotonia.
 9fc55136	Signaali TE:n funktiona (T2-vaimeneminen)
+9fc5a477	Solu on enimmäkseen vettä; radiolyysin OH·-radikaalit aiheuttavat noin kaksi kolmasosaa vauriosta, ja happi tekee siitä pysyvän.
+9fed9d91	Muoto pysyy samana; fotonien määrä kaksinkertaistuu jokaisella energialla
 9ffc9a24	Mittaa HU: napauta keuhkoa (< −#), rasvaa (−#…−#) ja luuta (> #)
 a049bc94	T1- / T2- / PD-kontrasti
+a049c691	Kuva suurenee
+a07e0be8	Tc-#m MDP
+a0899a7e	Nelinkertaistamalla mAs
+a0a42eb1	Stokastinen vaikutus
+a0afe4ef	CTDIw = #/#·CTDI_keskusta + #/#·CTDI_reuna     CTDIvol = CTDIw / pitch
 a0cf38d2	Kertymisaika sopiva: vakiintunut kasvain/tausta-suhde (vertailukelpoiset SUV:t).
 a12d8b93	Atomit, ytimet ja säteily
 a13c66b3	Efektiivinen annos ≈ # × 
+a147ccfe	Mitä FLAIR-sekvenssi vaimentaa?
 a14e7f7e	Jodivarjoaine (sydän/aortta)
+a15a9e57	Päivittäinen laadunvarmistus: tasaisuus (flood) ja energiapiikin säätö; viikoittain erotuskyky/lineaarisuus.
 a15fa5b0	Näytteistys
+a1691857	Bethen kaavan termi #/v²: kun nopeus pienenee, energiahäviö matkan pituusyksikköä kohti kasvaa, mikä tuottaa terävän piikin kantaman lopussa.
 a1793be6	Luu / ilma
 a17f6a53	# satunnaista kysymystä kaikista aiheista — hyvä valmistautuminen maisterihaastatteluihin ja kokeisiin.
 a1be3d2c	Lateraalinen (LAT)
 a1d821ab	#. Artefaktit
+a2059fd4	Staattisten kenttäepähomogeenisuuksien aiheuttaman vaiheistumisen purkautumisen (T2*-ilmiön)
 a219bf8b	Odotushuone
 a22bd65a	protonit
 a267e784	Efektiivinen annos ≈ # × # = # mSv (ICRP #).
 a26d32ed	Mz:n palautuminen (TI)
+a27c2818	Se ei muutu
 a28c2366	Aaltoputkessa MeV-energiaan kiihdytetyt elektronit taivutetaan kohtiolle (fotonit) tai sirontakalvon läpi (elektronit). Myös tasoitussuodin ja monitorikammiot (MU) ovat täällä.
+a2b24ff7	Hedelmällisessä iässä olevilta naisilta kysytään ensin raskaudesta, jos lantio on primäärikeilassa tai jos annetaan radionuklidia, tarvittaessa β-hCG-testin kera. Diagnostisten tutkimusten sikiöannokset ovat useimmiten < # mGy; alle ~# mGy:n annoksilla deterministisiä vaikutuksia ei odoteta, eikä raskauden keskeyttämistä voi perustella lääketieteellisesti (ICRP #). Lapsuusiän syövän lisäriski on ≈ # % # mGy:ä kohden (perusriski ≈ #–# %).
+a2b54d61	MK-raakadatan paikkataajuusesitys; kuva on sen Fourier-muunnos.
 a2c330b1	Katso, että elektronikeilan R5# noudattaa sääntöä E/#
 a2eb2f51	Radioaktiivinen hajoaminen (Monte Carlo)
 a2ed22c4	efektiivinen halkaisija D_eff (cm)
 a30f0337	Elektronien PDD: pinta-annos kasvaa energian mukana (# MeV ≈ # %, # MeV ≈ # %); bolus nostaa pinta-annosta ja lyhentää kantamaa.
+a331c4a6	R9# ≈ E/# → E ≈ # × # ≈ # MeV; # MeV antaisi annosta tarpeettoman syvälle.
+a340d8fe	Se pienenee #/#:aan arvostaan
+a370731d	TT:n perusteet: projektiot ja sinogrammi
+a3729e56	Projektiot ja sinogrammi, suodatettu takaisinprojektio ja iteratiivinen rekonstruktio, Hounsfield-yksiköt, kuvanlaatu ja artefaktat, CTDI/DLP/SSDE.
 a37bf952	Erinomaista — todellinen sairaalafyysikko!
 a408a7ff	Hedelmällisessä iässä olevat naiset, joiden lantio on keilassa: sulje ensin raskaus pois (tarvittaessa β-hCG).
 a431924a	Nosta lähde
+a45ef663	Kerma
 a475164f	Lyijy
 a4843b38	Luu (# cm) # % — turhan suuri: osteoradionekroosin riski. Valitse pienempi energia.
+a49d211b	Deterministisillä vaikutuksilla (kudosreaktioilla) on kynnys, ja niiden vaikeusaste kasvaa annoksen myötä. Esimerkkejä: ohimenevä ihon punoitus ~# Gy, tilapäinen karvojen lähtö ~# Gy, linssin samentuma/kaihi ~# Gy (ICRP #). Siksi ihoannosta seurataan pitkissä läpivalaisuohjatuissa toimenpiteissä.
 a4a2847a	Lyhyt TR + lyhyt TE → T1-painotteinen; pitkä TR + pitkä TE → T2-painotteinen; pitkä TR + lyhyt TE → protonitiheys.
 a4be5f34	Isotooppi
 a4eeda8f	Muutos
+a50bb8ca	Elektronien annos putoaa nopeasti tietyn syvyyden jälkeen, mikä sopii erinomaisesti pinnallisiin kohteisiin. Nyrkkisäännöt (E MeV:nä, syvyys cm:nä): R9# ≈ E/# (hoitosyvyys), R8# ≈ E/#, käytännön kantama Rp ≈ E/#. Pinta-annos on suuri (#–# %) ja kasvaa energian myötä; bolus suurentaa sitä edelleen ja lyhentää kantamaa potilaassa.
 a50be870	Potilaspöytä
 a51067fd	Hajoaminen
+a5206542	# h ≈ # puoliintumisaikaa (T½ = # h): # × (#/#)² = # MBq.
+a56385b1	Ominaisabsorptionopeus: kuinka nopeasti RF-energia muuttuu kudoksessa lämmöksi (W/kg).
 a5916fb6	Tapaus valmis — 
+a59db3b2	Radioaktiivinen hajoaminen, radionuklidien tuotanto ja generaattorit, gammakamera ja SPECT, PET, sisäinen dosimetria ja potilasturvallisuus.
+a5a30ba8	Happi ”kiinnittää” vapaiden radikaalien vauriot, joten hypoksiset solut ovat #–# kertaa vastustuskykyisempiä (happivahvistussuhde, OER). Kasvainten hypoksinen ydin on siksi hoito-ongelma.
 a5a57f6f	Kuvantamisessa kontrasti syntyy suurelta osin valosähköisestä ilmiöstä, koska Z³-riippuvuus erottaa luun (Ca, Z = #) selvästi pehmytkudoksesta (efektiivinen Z ≈ #). Compton on sironneen säteilyn päälähde, ja sironta heikentää kontrastia.
 a5d46b38	DLP (# cm kuvaus)
 a5ee64bb	Keskiarvoistukset (NEX)
@@ -884,44 +1390,74 @@ a60a634d	Vauvan annos ≈ # µSv (etäisyyden neliölaki: annosnopeus # cm:n et�
 a6310194	Neuvonta
 a650d3f5	INTERAKTIIVINEN KUVA
 a66f47bd	Lyijyn paksuus
+a675b402	<b>End-to-end-testit:</b> todentavat koko ketjun TT-simulaatiosta hoitoon antropomorfisella fantomilla.
+a6b773b5	Mitä spinkaiku kumoaa?
 a6e53476	RF-runkokela
 a6f33ef9	Oikein: numeerinen vertailu (luonnon taustasäteily ≈ # mSv/v ≈ # µSv/vrk), ja oikeutus sekä ALARA selitettyinä yhdessä.
 a704e2e8	Klein–Nishina-vaikutusala määrää Compton-sirontakulman ja rekyylielektronin energian. Monte Carlo -simulaatio seuraa jokaista fotonia ja elektronia; annos suppenee tilastollisella epävarmuudella σ ~ #/√N.
 a72ca2ae	Lisää biologinen puoliintumisaika ja katso efektiivinen puoliintumisaika (I-#)
 a77fb204	Kun sisäkuoren elektroni poistetaan, ulompi elektroni täyttää aukon, ja erotus säteilee karakteristisena röntgensäteilynä tai Auger-elektronina. Karakteristiset energiat ovat alkuainekohtaisia; röntgenputken volframin Kα-viiva on ≈ # keV.
 a7ae7cae	# MeV
+a7b12571	Vatsan kuvaus: CTDIvol # mGy # cm:n matkalla. DLP = # mGy·cm, E ≈ # × # ≈ # mSv — noin # vuoden luonnollinen taustasäteily.
+a7fc4636	Jos vesifantomin keskusta näyttää reunaa tummemmalta, mikä on syynä?
+a81646ff	Energiaikkuna (# keV ± # %, Tc-#m:lle) hylkää suurimman osan sironneista fotoneista.
 a85562cb	Raskauden selvitys ohitettiin: sikiö on voinut altistua säteilylle kenenkään tietämättä.
+a85680c5	#/# (# %)
 a861d965	Rekonstruoi
 a86b43b2	Bowtie-suodin + kollimaattori
+a8721f49	Kentän ulkopuoliset elinannokset ovat jo valmiiksi pieniä; suoja kentässä heikentää kuvaa ja saa automaattivalotuksen nostamaan annosta.
 a87f9edd	Jokainen viiva on koinsidenssi (LOR): vihreä = todellinen, keltainen = sironnut, punainen = satunnainen. Kerää tarpeeksi pulsseja ja valitse sitten ”Rekonstruoi”.
 a8b4a774	SSDE — efektiivisellä halkaisijalla korjattu CTDIvol
+a8ca95fa	≤ # %
+a8efac85	<b>Optimointi (ALARA):</b> annokset pidetään niin pieninä kuin kohtuudella on mahdollista; potilailla tämä tarkoittaa annoksen pienentämistä diagnostisesta laadusta tinkimättä (DRL-arvot ovat tähän työkalu).
 a93ad5ad	kohina σ (HU)
+a949da20	Putken hyötysuhde
 a97badd0	Tee ensimmäinen kuvauksesi ja katso, miten sinogrammi täyttyy
 a97d3fea	Efektiivinen (monoenerginen) energia
 a9887e52	Oppimiskeskus
 a99ef883	Lasketaan…
+a9ec004a	pitch = pöydän siirtymä kierrosta kohden ÷ kokonaiskollimaatio
 a9f0a4e6	Pisteet
 a9f3146e	Vesi / luu / lyijy
+aa119389	ESAK
+aa1209da	Mikä on suunnilleen efektiivinen annos rintakehän TT:ssä, jonka DLP on # mGy·cm?
 aa28ed13	Soluviljelmä (#D)
 aa2ce59e	Annos–tilavuushistogrammi (DVH)
+aa36db58	≈ # MV
 aa430d6d	Ei oikeutettu: lapsen keuhkojen TT ≈ #–# mSv verrattuna PA-kuvan ≈ # mSv:iin. Rikkoo oikeutusperiaatetta (ICRP #).
 aa4446a7	Suodatettu (sisääntulo)
+aa7069a5	Suprajohtavaa magneettia ei voi vain ”sammuttaa”. Quench päästää heliumin ulos, on kallis ja voi syrjäyttää huoneen hapen; se tehdään vain hengenvaarassa (esim. jos joku on puristuksissa magneettia vasten). Sydänpysähdyksessä potilas siirretään elvytettäväksi vyöhykkeelle III.
 aa7120ec	Tauotan metformiinin # h ajaksi ja kuvaan sitten
 aaaa64f1	Putken kuormitus
+aad07647	Liike
 aaede69c	ACR Appropriateness Criteria ja ACOG: ensin ultraääni, sitten MRI ilman gadoliniumia — ei ionisoivaa säteilyä.
 aaee7048	Kuvausaika (# vaihe, ETL #)
+ab06bf6d	Rasvan (T1 ≈ # ms) STIR-inversioaika # T:ssa: TI ≈ # × # ≈ # ms; käytännössä käytetään #–# ms, koska TR on äärellinen.
 ab14bcac	Tietokonetomografia
 ab25d4ea	Takaisinsirontakerroin BSF ≈ #. DAP (Gy·cm²) ei riipu etäisyydestä, ja se muunnetaan efektiiviseksi annokseksi kertoimilla: keuhkot PA ≈ #, vatsa ≈ #, lantio ≈ #, kallo ≈ # mSv/(Gy·cm²). Tyypillinen keuhkokuva PA: ESAK ~#–# mGy, E ~# mSv.
+ab344af2	<b>Todelliset, sironneet ja satunnaiset koinsidenssit:</b> satunnaiset kasvavat aktiivisuuden neliönä (korjataan viivästetyllä ikkunalla); sironta korjataan mallintamalla.
 ab834a11	Biologinen puoliintumisaika (# = ei mitään)
 ab8ca2c5	Vesifantomi
+aba2f3f7	Pulssitettu läpivalaisu ja pieni kuvataajuus (esim. # kuvaa/s) pienentävät annosta suhteessa.
+abb049f7	Elektronikeilat
+abc084d1	Mitä tapahtuu suunnilleen, jos pään ja kaulan alueen hoito pitenee viikolla?
+abcdcf7a	Mitä RBE-arvoa kliinisessä protonihoidossa käytetään?
 abdee8d2	MV-fotonit vuorovaikuttavat vedessä pääasiassa Compton-sironnalla; sekundaarielektronit luovuttavat energian usean cm:n matkalla. Siksi annos on pinnalla pieni ja kasvaa dmax:iin (<b>kertymä</b>; ihon säästö). Sen jälkeen se pienenee vaimenemisen ja etäisyyden neliölain vuoksi.
 abe195be	Vaihda keuhkoikkunaan rintakehän leikkeessä
 abe68d6f	Hengitystaajuus
+abfef648	<b>Radiokrominen filmi (EBT3/EBT4):</b> #D-annosjakauma suurella paikkaerotuskyvyllä, käytetään IMRT:n potilaskohtaiseen laadunvarmistukseen.
+ac46edc7	Miksi van Herkin kaavassa systemaattisella virheellä (Σ) on suurempi kerroin kuin satunnaisella virheellä (σ)?
 ac5b89c3	Fraktioannos
 ac720a66	Kapea ja leveä säde: kertymä (build-up)
 ac737796	Kuvaa ulos tulevan hoitokeilan (porttikuva); käytetään kentän muodon ja annetun annoksen tarkistamiseen.
+ac7d67eb	Epävarmuudet
+ac92d741	Miten lyijyesiliinaa käyttävän työntekijän silmän mykiön annosta valvotaan?
 aca79e3e	Vaiheet: 
 aced2b71	Fraktiointi (iäkäs potilas)
+acf4af3c	Millä kudoksella painotuskerroin on #?
+acf8c2eb	Miksi elektronitilassa kohtio vedetään pois ja käytetään sirontakalvoa?
+ad7cb1fd	A = λ·N     # Bq = # hajoaminen/s     # mCi = # MBq
+ad863383	Radioaktiivinen potilas on jonkin aikaa itse lähde: annosnopeus # m:n etäisyydellä noudattaa Γ·A/d². Hoitopotilaat (esim. I-#) kotiutetaan kansallisten annosnopeus- tai aktiivisuusrajojen mukaan, ja heille annetaan kirjalliset ohjeet läheisen kontaktin rajoittamisesta lasten ja raskaana olevien kanssa.
 ada7afdb	ei ole
 ada880a8	Teoria tulossa pian.
 adbf56a0	Energia: γ-säteily on aina energisempää
@@ -930,16 +1466,31 @@ ae20a6a3	Jarrutuskyky kasvaa kuten #/β² protonin hidastuessa; suurin osa energ
 ae27b827	Kliinisten tapausten tila
 ae6bb2bb	enint. 
 ae888d5f	Elektronien # %:n isoannoskäyrä kapenee syvällä: rajauksen pitää olla ~# cm muutosta suurempi.
+aeb91213	ICRU-tilavuudet
+aebe6d8f	Vuotosäteily on rajattu ~# %:iin työkuormasta; sironta riippuu kulmasta ja kentän koosta.
 aef94af7	Oikein. 
 af010c63	Luu (kylkiluu/lantio)
+af366776	Raskaana olevalla potilaalla, jonka kohtu on primäärisäteessä, sikiön annos ≈ SSDE; se on selvästi alle # mGy:n, jolloin deterministisiä vaikutuksia ei odoteta (ICRP #).
+afbed5fb	Mikä on pitch, kun kollimaatio on # mm ja pöydän siirto kierrosta kohti # mm?
 afe72516	Jyrkkä annosmaksimi raskaan varatun hiukkasen kantaman lopussa.
 afe8043f	aika (h)
+aff91e2c	Solujen eloonjäämistä kuvaa parhaiten lineaaris-kvadraattinen (LQ) malli. α-termi kuvaa yksittäisen jäljen aiheuttamaa letaalia vauriota, β-termi kahden erillisen jäljen vaurioiden yhteisvaikutusta.
+b0411b94	# kertaa
 b081abb7	isomeerinen siirtymä (IT)
+b08d33bd	#D-konformaalinen hoito käyttää muutamaa kiinteää, MLC:llä muotoiltua kenttää. IMRT jakaa kunkin kentän pieniin segmentteihin intensiteetin moduloimiseksi, ja käänteinen suunnittelu optimoi kohdefunktion (kohdeannokset ja riskielinten rajat). VMAT muuttaa MLC:tä, annosnopeutta ja gantryn nopeutta jatkuvasti gantryn pyöriessä ja tuottaa IMRT-laadun muutamassa minuutissa.
 b0adb207	Miksi polyenergisen säteen toinen HVL on suurempi kuin ensimmäinen?
 b0c23fb1	Aktiivisuudet (transientti tasapaino)
+b0ca3b9d	Montako TVL:ää suojausta pienentää annosnopeuden #-kertaisesti?
+b0d829f3	≈ # cm
 b0db6938	 päivää
+b0e35e18	Vain suojan beetasäteilyltä
+b0e55336	<b>Vaimennuskorjaus:</b> kaksi fotonia kulkevat yhdessä koko kehon paksuuden läpi; TT-kuvasta muodostetaan # keV:n μ-kartta.
+b0e5e70b	SPECT rekonstruoi leikkeitä TT:n tapaan projektioista, jotka kuvataan kameran kiertäessä potilaan ympäri (yleensä OSEM). Vaimennuskorjauksessa käytetään SPECT/TT-laitteen TT-kuvaa.
 b0f260dc	Ei ensisijainen valinta keuhkokuumeepäilyssä; sivukuva vaatii suuremman annoksen eikä yksin riitä.
 b11e7606	Mitkä seulontalomakkeen kohdat vaativat LISÄTOIMIA ennen MK:ta? (valitse kaikki sopivat)
+b17551b5	Noin kuinka monta kertaa vastustuskykyisempiä hypoksiset solut ovat kuin hyvin hapetetut (matala LET)?
+b18eabf1	Bragg–Grayn onkaloteorian mukaan annos väliaineessa on onkalon annos kerrottuna väliaineen ja kaasun massajarrutuskykyjen suhteella. Käytännössä käytetään IAEA TRS-#- tai AAPM TG-# -protokollaa:
+b1a99313	Repopulaation vuoksi menetetään ≈ # Gy EQD2 tehoa
 b1b83851	syvyys vedessä (cm)
 b1c222ab	EQD2 = n·d·(d + α/β)/(# + α/β). Pienen α/β:n kasvaimet (eturauhanen ≈ #) hyötyvät hypofraktioinnista.
 b1c8c38e	Palkki: työntekijän päiväosuus (# mSv/v ÷ # päivää = # µSv).
@@ -949,33 +1500,55 @@ b232d1f0	Leesion kattavuus: minimi # % — täydellinen.
 b2697ad8	Röntgen- ja γ-säteily ovat samanlaisia fotoneja; ne eroavat vain alkuperältään. Röntgensäteily syntyy elektroneista (jarrutussäteily tai kuorisiirtymät), γ-säteily ytimestä (radioaktiivinen hajoaminen).
 b2972ae3	Pää
 b2aad11c	Kuvausparametrit
+b31c403d	<b>Geiger–Müller-laskuri:</b> hyvin herkkä laskuri kontaminaation etsimiseen; ei anna energiatietoa. Annosnopeuden mittaukseen ionisaatiokammiomittari on parempi.
+b32962b7	Historiallinen suure säteilytys (C/kg) mittaa vain ionisaatiota ilmassa. Yhden ioniparin muodostaminen ilmaan vaatii keskimäärin W/e = # J/C, joten K_ilma = X · #.
 b33eb976	Malli: rinnakkaiskeilageometria (uudelleenjärjestetty viuhkakeiladata), energiaa integroiva ilmaisin, sironta jätetty huomiotta.
 b34b3fcd	Tauko / Käynnistä
+b357382c	Artefaktat
+b3615a21	Kuinka suuren osan M₀:sta pitkittäinen magnetoituma on palauttanut yhden T1-ajan kuluttua #°:n pulssista?
 b3755394	Valosähköisen ilmiön todennäköisyys kasvaa hyvin jyrkästi järjestysluvun mukana ja pienenee jyrkästi energian kasvaessa — siksi matala kVp lisää luukontrastia.
 b38452f0	Merkki (TR tai TE)
+b391a968	Toisella annosmittarilla kauluksen korkeudella esiliinan ulkopuolella
+b397b1d8	Iho
 b3af5cc8	#. ALARA ja rajat
+b3c141a0	MK-turvallisuus
 b3f9f066	Tähän sattuu tosi paljon… enkä tiedä, voinko olla raskaana.
+b43b8664	S = exp(−α·D − β·D²)        n fraktiossa:  S = exp[−n(α·d + β·d²)]
+b45d336f	Paljonko # MBq Tc-#m:ää on jäljellä # tunnin kuluttua?
 b48eaaae	#. k-avaruus
+b4b43e70	Tunnelin suulla, jossa kentän paikkagradientti on suurin
+b4cffd96	<b>Kemiallinen siirtymä:</b> kirkas/tumma kaista rasvan ja veden rajapinnoilla taajuussuunnassa.
 b4d90f43	Potilasannos
+b50e98d5	Kolme perusperiaatetta (ICRP #)
 b528da3e	Läpinäkymätön
 b5377fa4	Teräs
+b53e3b71	Fraktiointiohjelmien vertailuun käytetään biologisesti efektiivistä annosta (BED) ja ekvivalenttia annosta # Gy:n fraktioina (EQD2):
 b54b4085	Mene lähemmäs säiliötä (< # m).
 b54d1bc5	Tutustu laboratorioihin
 b58894f8	Pyörivässä koordinaatistossa (x', y') pyörimme Larmor-taajuudella: vain taajuuspoikkeamat (Δω) näkyvät.
 b589c5ea	Kentän leveys (isosentrumi)
+b5bc01ee	Siellä hallitsee jarrutussäteily
+b5df3592	Putken suojaamiseksi
 b5f6bbb8	tavoite 
+b6289cee	Sekvenssit ja kontrasti
+b63830af	Kammion polariteetin
 b6b8c8bf	Larmorin prekessio, Blochin yhtälöt, T1/T2, spinkaiku, k-avaruus.
+b6db5e97	Mikä on tyypillinen gammakriteeri IMRT:n potilaskohtaisessa QA:ssa?
 b6e00083	Sydän
 b6e56670	Puoliintumis- ja kymmenysarvokerros
 b6fab935	PD-painotteinen
+b70423e7	Mayneordin F-kerroin
 b72c1283	#. Fotonikeilat ja syvyysannos
 b7312de4	Ilma −#, vesi #, rasva ≈ −#, pehmytkudos #…#, luu #…# HU. Koska silmä erottaa vain ~#–# harmaasävyä, kuvat näytetään ikkunan läpi (leveys W, taso L): keuhko W1#/L−#, pehmytkudos W4#/L4#, luu W2#/L4#, aivot W8#/L3#.
+b7362550	Toistoaika (herätteiden välillä) / kaikuaika (herätteen ja signaalin välillä).
 b77556fd	Fotonin energia on verrannollinen sen taajuuteen: E = h·ν. Kätevä nyrkkisääntö on E[keV] ≈ # / λ[nm]. Radioaallot (MK), näkyvä valo ja röntgen-/γ-säteily ovat sama ilmiö eri energioilla.
 b7d0e925	Tulevan fotonin energia
 b7fdc96d	Viimeisestä eluutiosta
 b8095719	EANM: A·t ~ paino. Pidempi kuvaus sallii pienemmän aktiivisuuden ja annoksen.
+b80f1610	PET käyttää vain sironneita fotoneja
 b846a137	Valitse leiketaso ja paina KUVAA. Napauta kuvaa mitataksesi HU.
 b85a81d5	Fraktiointikaavio
+b8624b08	Sokkelo saa sironneet fotonit kimpoilemaan useita kertoja ennen kuin ne saavuttavat oven. Yli # MV:n energioilla ovessa on myös booripitoista polyeteeniä ja lyijyä neutroneja ja sieppausgammasäteilyä vastaan. Säteilymittaus asennuksen jälkeen on pakollinen.
 b8628c9b	Hohkaluu
 b86f8853	RATKAISTU ESIMERKKI
 b8757751	Kyllä; ulkoinen sädehoito ei tee radioaktiiviseksi — mitään ei jää jäljelle, kun laite on sammutettu
@@ -987,32 +1560,66 @@ b8e79c59	Vedelle μ/ρ (# keV) = # cm²/g, joten μ = # cm⁻¹. HVL = #/# = # c
 b8ebb4eb	Tc-#m-maksimin ajankohta
 b8f48602	Vakiot
 b8ff3ac7	Kenttä #×# cm: sopii keuhkoille.
+b90ddbf5	Lyijy ei päästä MV-fotoneita läpi
 b92e17d6	Hila käytössä: ~# cm:n lapsen rintakehä tuottaa vähän sirontaa; hila (Bucky-kerroin #–#) nostaa annosta turhaan.
 b95e783d	Mene lähemmäs lähdettä (< # m).
 b999f041	# cm:n tyvisolusyöpä vasemmassa poskessa (koepalalla varmistettu)
 b9a92b6b	Annos ≈ # µSv: noin # päivän luonnon taustasäteily. Keuhkokuumeen diagnosoinnin hyöty on selvästi riskiä suurempi.
+b9bc8c97	Dosimetrit ja kalibrointi
 ba151840	Miten valosähköisen ilmiön todennäköisyys suunnilleen skaalautuu?
+ba1a8e96	Ḣ ~ #/d²: # × (#/#)² = # µSv/h.
 ba1de520	Larmor-taajuus f = γ̄·B₀ (# MHz/T). SAR ~ B₀²: ~#× RF-lämpeneminen # T:ssa.
+ba32dc5a	<b>PD-painotteinen:</b> pitkä TR, lyhyt TE. Näyttää protonitiheyden erot; käytetään tuki- ja liikuntaelinten kuvauksessa (nivelkierukat).
+ba35bb9c	Minkä energian yläpuolella fotoneutronien tuotto muuttuu merkittäväksi?
 ba44e340	SSDE 
+ba5ac16c	Protonien jyrkkä distaalinen annoksen putoaminen on etu, mutta kantaman epävarmuus on riski. Koska CT:n HU-arvojen muuntamisessa jarrutuskyvyksi on virheitä ja anatomia muuttuu, käytetään tyypillisesti "# % + # mm" kantamamarginaalia, ja keilat asetellaan niin, etteivät ne osoita suoraan kriittistä elintä kohti.
 ba66cab6	Hyväksytty kohina kookkaalla potilaalla: ≤ # HU maksan ROI:ssa (≈ # HU keskikokoisella aikuisella). Valitse kV ja mAs ja paina KUVAA. Pidä SSDE alle # mGy:n.
 bade5b16	Pyörii gantryn mukana #–# kertaa sekunnissa ja lähettää viuhkakeilan potilaan läpi joka suunnasta.
+bb1b430e	# % / # mm, ja vähintään # % pisteistä hyväksyttyjä
+bb4c1849	Ionisaatiokammio (TRS-#)
 bb5bd1d0	Keski- / efektiivinen energia
 bb62355a	Leesion kattavuus: minimi # % — syvä reuna on alle # %: liian pieni energia.
 bb757050	eluoi
+bb961b50	Kuumenemisen kautta
 bbabaa0a	Kuvaus pidempi kuin tarpeen: umpilisäketulehduksessa riittää suoliluun harjanteesta symfyysiin.
+bbadf5f8	Poikkeamaindeksi (DI) kertoo, kuinka kaukana EI on tavoitteesta: DI = # tavoitteessa, # ≈ # % liikaa, # = kaksinkertainen, −# ≈ # % liian vähän. Tavallinen hyväksyntäalue on −# … #.
+bc1b6d45	Suuret fraktiot säästävät peräsuolta
 bc38932a	Vertailuannosmittaus (IAEA TRS-#) ja PDD-/profiilimittaukset: ionisaatiokammiota liikutetaan vedessä. Tässä jokainen jälki on Monte Carlolla seurattu hiukkanen.
 bc506327	Zeynep: ”Pitääkö minun levätä rauhassa injektion jälkeen?”
 bc566d93	Sikiöannos ≈ SSDE = 
 bc5d4211	Anna kaikki
+bc7b5e89	Pitch > # tarkoittaa nopeampaa kuvausta pienemmällä annoksella, ja aukot täytetään interpoloimalla; pitch < # tarkoittaa päällekkäisyyttä ja suurempaa annosta.
+bc8245d8	Korjaa säteen kovenemisen
+bccb7e5d	Kollimaattori: herkkyys vastaan erotuskyky
+bcdac932	Suurennus
+bcdc6b6f	<b>Laskostuminen (aliasing):</b> FOV:n ulkopuolinen kudos laskostuu vaihesuunnassa.
+bd1d615b	≈ # Gy
+bd328853	DNA-vauriot
 bd77abf8	Päivystyskirurgia: akuutti umpilisäketulehdus? Vatsan ja lantion varjoaine-TT (Dr. Şahin)
 bd7bba09	signaali
+bd8ee7fc	≈ # minuuttia
 bd9533e5	Hodgkinin lymfooma — levinneisyysselvitys
+bd963d7a	Mikä elektronienergia kattaa kasvaimen # cm:n syvyyteen asti #-prosentin isoannoskäyrällä (ilman bolusta)?
+bd9c904d	Aika, etäisyys ja suojaus
+bdaf69c4	Läpivalaisu
+be1fdde1	Lyijyesiliinan asettaminen kenttään
+be4c8b99	Se putoaa neljäsosaan
+be515cc5	Ne eivät juuri luovuta annosta kohteen taakse (ei ulostuloannosta)
+be58929f	Gradienttikaiku ja varjoaineet
 be5b1f2d	Potilaan kysymys
+be5c7cfc	Röntgenkuvantaminen
 be65f185	Rautaoksidipigmentit voivat lämmetä: kerro potilaalle, tarvittaessa kylmäkääre. Ei vasta-aihe.
+be76f7c6	Lineaarikiihdytin
+be78efa4	GM-laskuri laskee yksittäisiä tapahtumia ja löytää matalan kontaminaation nopeasti; annoksen mittaukseen kalibroitu ionisaatiokammio on tarkempi.
+beb99ac5	<b>Annosrajoitus:</b> rajat koskevat työntekijöitä ja väestöä — eivät potilaita, koska hyöty on heidän.
 bf06df89	Elektronienergia
 bf300ab6	suodatettu
 bf62a8bf	Keltainen nuoli on nettomagnetoituma M. RF-pulssi kääntää sen pois B₀:n suunnasta; se palautuu pitkittäin T1:n mukaan ja vaimenee poikittain T2:n mukaan. Väriset nuolet ovat eri taajuisia isokromaatteja (T2*).
+bf689b25	Hajoamislaki
+bf6a994f	Fotoneja ei voi taittaa, joten kuva muodostetaan lyijykollimaattorilla, joka päästää läpi vain tietystä suunnasta tulevat fotonit — vain ~# % pääsee läpi. Yhdensuuntaisreikäkollimaattorilla erotuskyky heikkenee lähteen etäisyyden kasvaessa, joten ilmaisin viedään mahdollisimman lähelle potilasta. Pidemmät ja kapeammat reiät parantavat erotuskykyä ja heikentävät herkkyyttä.
 bf6d791a	Leveissä keiloissa myös sironneet fotonit saapuvat ilmaisimeen; kertymäkerroin B ≥ # ottaa tämän huomioon. Tässä käytetään B ≈ # + k·μx.
+bf6f2da2	Kuinka kauan kestää tavallinen spinkaiku, kun TR on # ms, rivejä # ja NEX #?
+bf7ae11a	≤ #–# %
 bfaba695	Suhteellinen aktiivisuuspitoisuus (kuvan maksimiin)
 bfb0dfa4	Ei allergioita; kreatiniini normaali
 bfce608a	Potilas / fantomi
@@ -1028,26 +1635,39 @@ c09eec06	MLEM on iteratiivinen menetelmä, joka mallintaa Poisson-tilastoa suora
 c0aad756	Näytä hiukkasjäljet
 c0f5bb27	Pyörimisakseli. Potilaan keskittäminen tähän on tärkeää: epäkeskisyys kumoaa bowtie-suotimen vaikutuksen ja lisää kohinaa ja annosta.
 c124dd95	Jokainen solu selviää fraktiosta todennäköisyydellä S(d) = exp(−αd − βd²). Kudokset, joiden α/β on pieni, ovat herkempiä fraktioannokselle.
+c131e9c7	μ:tä yhdessä pisteessä
 c1329b8d	Elif: ”Käyttäkää vauvani takia pienintä mahdollista annosta.”
 c14f1584	Koko kuvaus (# pöytäasemaa)
 c1811e60	Päivittäinen IGRT korjaa #–# mm elinliikkeen ja sallii ~# mm:n PTV-marginaalit (van Herk: M = #Σ + #σ).
+c1b213e5	# MV:n fotonisäteen elektroneilla
 c1d1684b	Keilat
+c27c4e12	Putken puolella
 c285174a	syvyys potilaassa (cm)
+c296a83d	Sironta ja hilat
 c2dcb4a3	Paljon pidempi odotus on tarpeeton: F-# on hajonnut lähes kokonaan, ja imetys häiriintyy turhaan.
 c2e4e241	isomeerinen siirtymä
+c2e97a22	Miksi EI?
 c2f67ba3	# mm Al + # mm Cu
+c2fe5429	<b>Redistribuutio:</b> solut siirtyvät herkkiin syklin vaiheisiin (G2/M).
 c341622f	Vauvan annos tulee pääasiassa äidin kehosta tulevista # keV:n fotoneista (ulkoinen altistus); maitoon kulkeutuu hyvin vähän FDG:tä. Milloin läheistä kontaktia (sylissä pitäminen, imetys ~# cm:n etäisyydeltä) voi jatkaa? Pelin tavoite: vauvan annos ≤ # µSv.
+c3593ab4	<b>FFF (ilman tasoitussuodinta):</b> nostaa annosnopeuden #–#-kertaiseksi, mikä mahdollistaa lyhyet stereotaktiset hoidot.
 c35ec4c3	Anteroposteriorinen (AP)
 c3a14e9a	vesi μen/ρ
+c3e46e55	Putken huippujännite; määrää fotonien maksimienergian ja säteen läpäisykyvyn.
 c3e47672	Spinkaiku
 c3ff1e50	Katodista lähtevät elektronit kiihdytetään putkijännitteellä (kVp) volframianodiin. ~#% energiasta muuttuu lämmöksi, ~#% röntgensäteilyksi. Ytimien kentässä hidastuvat elektronit lähettävät <b>jarrutussäteilyä</b>, jonka spektri on jatkuva aina E_max = kVp:hen asti.
 c4547490	Spinfysiikka
+c481cc03	<b>Taajuuskoodaus:</b> luennan aikana, jolloin jokainen sarake lähettää eri taajuudella.
 c487c009	Ikkuna W(f): Ram-Lak (terävä, kohinainen), Shepp-Logan (sinc), Kosini, Hann (pehmeä, vähän kohinaa). Terävyyden ja kohinan välinen kompromissi.
 c4a7b302	Jälkien värit: keltainen = fotoni, sininen = elektroni, magenta = positroni, oranssi = protoni, vihreä = ydinvuorovaikutus.
+c4b3c7a6	PDD(d) = # · D(d) / D(d_max)   (kiinteä SSD)
+c4cbd544	Kolme kenttää, kolme riskiä
 c4ef192a	ei hilaa, 
+c52f63a4	Lähteen voimakkuus ilmoitetaan ilmakermavoimakkuutena S_K (U = µGy·m²/h); Λ on annosnopeusvakio, g(r) radiaalinen annosfunktio ja F(r,θ) anisotropiafunktio. Ir-#-lähde menettää ~# % vuorokaudessa, joten hoitoajat pidentyvät automaattisesti ja lähde vaihdetaan noin # kuukauden välein.
 c558bcea	Ammatti: hitsaaja / hionta (# vuotta)
 c5748eb4	MK-turvallisuusseulonta
 c57b585f	Konsoli näyttää CTDIvol-arvon. Mikä suure kuvaa parhaiten tämän kookkaan potilaan annosta?
+c58f8d26	Aktiivisuuden neliönä
 c59c3c01	Ayşe: ”Mikä tämä hyytelömäinen juttu on? Laitatteko sen kasvoilleni?”
 c5d4754f	# mg/dL
 c5e874f2	Sukurauhassuojia ei enää suositella rutiinisti; rajaus on paras suoja.
@@ -1057,26 +1677,50 @@ c6a141c6	Syvyysannos keskiakselilla
 c6b800d4	#. Spin ja prekessio
 c6c23301	Oikein. (Pysyvä I-#-jyväimplantti toisi lyhytaikaisia rajoituksia läheiseen kontaktiin.)
 c6c4ee23	Kasvaimen hallinnan todennäköisyys
+c6d283b2	ITV
 c6d6b1b5	Se pätee vain ~# cm:iin (yksi puoliintumispaksuus).
 c6d8a5ee	 (pää)
+c6e71781	Kun aktiivisuus on # MBq Cs-# (Γ ≈ # µGy·m²/(MBq·h)), ilmakermanopeus # m:n etäisyydellä on ≈ # × # ≈ # µGy/h eli H*(#) ≈ # µSv/h. # m:n etäisyydellä se pienenee neljäsosaan (≈ # µSv/h), # m:n etäisyydellä yhdeksäsosaan. Kun lyijyn HVL on ≈ # cm (Cs-#), # cm lyijyä (≈ # HVL) pienentää sitä vielä ~#-kertaisesti.
+c6f4f9c3	Brakyterapia
+c70bdae0	GTV
 c7801b3c	SEURAAVA OPPITUNTI
 c7e4693e	Mallihuomautus: sironnassa käytetään yksinkertaistettua, kentästä ja paksuudesta riippuvaa ydintä; ilmaisimen DQE ja polttopisteen epätarkkuus jätetään huomiotta.
 c81dd039	Selkäydin Dmax < # Gy
 c8423429	Sopii vauvoille ja vuodepotilaille, mutta sydämen varjo suurenee ja etuosan elimet saavat suuremman annoksen.
+c8588751	Hoidon suunnittelu: tilavuudet, IMRT/VMAT ja DVH
+c86f5711	Spektrissä on kaksi osaa: jatkuva jarrutussäteily arvosta # kVp:hen asti (Kramers: I(E) ~ Z(E_max − E)) ja karakteristiset viivat — volframilla Kα ≈ # keV ja Kβ ≈ # keV, jotka näkyvät vain, kun kVp > #.
+c8814047	Efektiivistä annosta ei voi mitata suoraan, joten käytetään operatiivisia suureita: ympäristöannosekvivalentti H*(#) alueiden valvontaan sekä Hp(#) (koko keho) ja Hp(#) (iho, kädet) henkilödosimetriaan.
 c8828318	Etäisyyden neliölaki: kirjaa lukemat ~# m:n, ~# m:n ja ~# m:n päästä
+c8e11800	Mitä hitsaajalle on tehtävä ennen MK-tutkimusta?
 c8f76d70	Annos on selvästi alle epämuodostumien ~# mGy:n kynnyksen; lapsuusiän syövän lisäriski on hyvin pieni (≈ # % / # mGy). Raskauden keskeyttämiselle ei ole lääketieteellistä syytä.
 c901ddc3	Nivelneste
 c91a26b5	Eturauhanen liikkuu päivästä toiseen rakon ja peräsuolen täyttymisen mukaan. Miten varmistat jokaisen fraktion?
+c91ce3d7	Laadunvarmistus
 c9248cc8	Suojaus ja rajaus
 c926cd17	Vesi / likvori / virtsa
+c93c2d38	Todellisen T2-relaksaation
 c944c820	Compton-sironta katoaa tällä energialla
 c964528c	Ilmaisimella (keskellä)
+c990d8eb	Yleiset artefaktat
+c997bac9	Lääketieteellisessä altistuksessa hyöty koituu potilaalle, joten oikeutus ja optimointi (DRL) ovat voimassa, mutta rajaa ei ole.
+c9cd7e94	Nykyaikainen TT on kolmatta sukupolvea: putki ja kaareva ilmaisin pyörivät yhdessä (~#–# s kierrokselta). Liukurenkaat mahdollistavat jatkuvan pyörimisen, joten kuvataan spiraalina pöydän liikkuessa. Monileikeilmaisimet (#–# riviä) kattavat #–# cm kierrosta kohti.
 c9db273f	Valitse kieli
+c9fe7760	Protonit magneettikentässä
 ca1a3109	Miksi jodivarjoaine näkyy parhaiten spektrillä, jonka huippu on lähellä # keV:tä?
+ca2fbdf7	Valosähköisen ilmiön Z³-etu häviää MV-alueella; vaimennus massayksikköä kohden on lähes materiaalista riippumaton, joten lyijyä tai terästä lisätään vain siellä, missä tilaa on vähän.
 ca42e28e	Tee päätökset Emirin lapsen keuhkokuvaustapauksessa, katso lopputulos ja opi jokaisen vaiheen syy. Tekniset laboratoriot odottavat, kun olet valmis.
+ca83a24e	<b>DAP (KAP):</b> kerma × pinta-ala yksikössä Gy·cm². Se ei riipu etäisyydestä putkeen (pinta-ala kasvaa kuten d², kerma pienenee kuten #/d²) ja kuvaa kokonaan luovutettua energiaa.
+ca900d67	<b>Reaktori:</b> neutronisieppaus (n,γ) tai fissio; Mo-# (Tc-#m:n emonuklidi) ja I-# tulevat enimmäkseen U-#:n fissiosta.
 caa249cb	k-avaruus (log |S(kx, ky)|)
 cae55017	Fotoni
 cae6e1b1	Kahdeksan aihetta lääketieteellisen fysiikan perusteista klinikkaan. Jokaisessa oppitunnissa on selityksiä, kaavoja, ratkaistuja esimerkkejä, oikeisiin fysiikan malleihin perustuvia interaktiivisia kuvia ja lyhyt tietovisa. Lopuksi voit siirtyä vastaavaan laboratorioon ja kliiniseen tapaukseen.
+cb0b7009	Jotta rintakudosten pienet vaimennuserot voimistuisivat valosähköisen ilmiön ansiosta
+cb2d5fcc	Filmiaikana liian suuri annos mustasi kuvan, ja se huomattiin heti. Digitaaliset järjestelmät ikkunoivat automaattisesti, joten ylivalottunutkin kuva näyttää ”hyvältä”: annosten hiipivän kasvun (dose creep) riski. Siksi IEC ## määrittelee altistusindeksin (EI), joka on verrannollinen ilmaisimen ilmakermaan: EI = # × K (µGy).
+cb37627d	Kudos-maksimisuhde: annos syvyydellä d jaettuna annoksella d_max:ssa samassa pisteessä (kiinteä SAD).
+cb52d7bc	Elektronit irtoavat kuumennetusta volframihehkulangasta (katodi) termisen emission avulla, ja kVp kiihdyttää ne anodia kohti. Vain ~# % niiden energiasta muuttuu röntgensäteilyksi; loppu on lämpöä, siksi anodi pyörii ja sen lämpökapasiteetti on suuri.
+cb6a7d48	Kun systemaattinen SD Σ = # mm ja satunnainen SD σ = # mm, PTV-marginaali on # × # + # × # = # mm. Jos päivittäinen IGRT pienentää Σ:n arvoon # mm, marginaaliksi tulee # + # = # mm.
+cb70c670	<b>Potilaskohtainen QA:</b> IMRT/VMAT-suunnitelma mitataan fantomissa ja sitä verrataan gamma-analyysillä (esim. # %/# mm, ≥ # % hyväksyttyjä; TG-#).
+cb8ff794	Etäisyyden neliön laki pätee pistelähteille etäisyyksillä, jotka ovat lähteen kokoa suurempia. Aivan läheltä (esim. lähdettä kädessä pidettäessä) annos kasvaa erittäin nopeasti: käytä aina pihtejä — # cm:n etäisyys # cm:n sijaan pienentää käsien annosta noin #-kertaisesti.
 cb988a96	# h:n jälkeen (alkaen # MBq)
 cbad3f92	Positroni annihiloituu ~# mm:n matkalla kudoksessa; vain # keV:n fotonit pääsevät ulos.
 cbd54f80	Materiaali
@@ -1084,80 +1728,139 @@ cbd7b457	Pikakaavat
 cc25a532	Kaula
 cc4c7f13	Oppitunti 
 cc4da60f	Satunnaiskoinsidenssit
+cc673698	Poikkeamaindeksi
 cca2c192	Kokonaissuodatus = # mm Al (oma) + lisäsuodatus. Vaatimus: ≥ # mm Al (># kVp).
 ccdfbfa0	Väestö
+cd2f8f64	Putken rakenne
+cd3156fd	Kliinisesti protoniannokset määrätään yksikössä Gy(RBE) vakiolla RBE = #, vaikka piikin distaalipäässä, jossa LET kasvaa, RBE voi ylittää arvon #.
 cd38aa8b	Odotus ennen läheistä kontaktia
+cd487f09	Potilasannosta (Bucky-kertoimen verran)
 cd4c6563	Ohjauspöytä
+cd617903	<b>Fotonien puute:</b> suurikokoisilla potilailla, etenkin hartioiden ja lantion kohdalla, sivusuunnassa saapuu liian vähän fotoneja ja syntyy vaakajuovia.
 cd86acc3	Sulje
 cd9bfde6	Näytä gantryn kuori läpinäkyvänä
 cdd62ae0	Kaari (VMAT-tyyppinen)
+cddf6a03	Lämpötilan ja paineen
 cde4341b	Kulma: #° = anteriorinen (AP), #° = potilaan vasen, #° = posteriorinen (PA), #° = oikea.
 ce0454c7	Pienet pallot näyttävät osittaistilavuusilmiön vuoksi pienempää mitattua aktiivisuutta (RC < #).
 ce3486fb	vaaka: x (−#…# cm) • pysty: syvyys #→# cm
 ce483eb5	Paksuus
 ce6b3dac	R8# distaalinen (MC)
 ce715e71	CsI:Tl-tuikeaine muuttaa röntgensäteilyn valoksi ja a-Si-fotodiodimatriisi valon varaukseksi. Valotusindeksi (EI) kertoo ilmaisimelle tulevan annoksen.
+cf1199b5	Elektronit ovat kevyitä, joten ne siroavat suuriin kulmiin ja kulkevat siksak-ratoja. Suuren järjestysluvun aineissa myös jarrutussäteily (säteilyhäviö) on merkittävää — näin röntgenputki tuottaa röntgensäteilyä. Nyrkkisääntö: elektronien kantama vedessä on ≈ E/# cm (E MeV:inä).
 cf377b43	Harjoituskoe
+cf5b8c68	Sen on kasvettava √#-kertaiseksi
 cf781cab	Äiti pyytää Emirille lyijyesiliinaa. Mitä teet?
 cfc2c2f6	Suodatus (Al, Cu) poistaa etukäteen ne matalaenergiset fotonit, jotka potilas absorboisi joka tapauksessa ja jotka eivät koskaan pääse kuvaan — tämä pienentää ihoannosta. Myös TT:n "cupping"-artefakti johtuu säteen kovettumisesta.
 d020ae28	Lyijysuojatussa alumiinioksidipylväässä Mo-# (T½ # h) hajoaa Tc-#m:ksi (T½ # h). Pylvään läpi johdettu keittosuolaliuos huuhtoo pois vain Tc-#m-pertekneteetin (eluutio).
+d0527b5f	Miksi MV-hoitohuoneet suojataan betonilla eikä lyijyllä?
+d0591deb	Millä ryhmällä ei ole annosrajaa?
 d070218a	Syvyys
+d0a19740	Sädehoidon virheet ovat systemaattisia ja voivat koskea monia potilaita, joten riippumattomat MU-tarkistukset, kahden henkilön suunnitelmahyväksyntä ja poikkeamien raportointikulttuuri ovat sairaalafyysikon keskeisiä vastuita.
 d0a43715	Suprajohtavaa magneettia ei voi vain sammuttaa; quench päästää heliumin ulos, on kallis ja vaarallinen — vain hengenvaarallisissa tilanteissa.
+d0de0de1	<b>α:</b> He-#-ydin, jolla on hyvin suuri LET ja kantama < # mm (Ra-#).
 d0fd90b6	Valota automaattisesti muutoksen jälkeen
+d1098233	η ≈ #×#⁻⁹ · Z · V    (volframi Z = #, V = # kV → η ≈ # %)
 d1998663	Kyllä, mutta vain Kβ-viiva näkyy
 d1af3044	Amalgaami- ja yhdistelmämuovipaikat ovat turvallisia; ne voivat vain aiheuttaa artefakteja.
 d1b7ec5b	Kasvaimen EQD2 = n·d·(d + #)/(# + #) = # Gy — aliannostettu, biokemiallisen uusiutumisen riski.
+d1b834b9	α-hiukkanen on kaksinkertaisesti varattu (z² = #) ja hidas; sen LET on ~# keV/µm, kun fotonien liikkeelle panemien elektronien LET on ~# keV/µm.
 d21058ed	Napauta lattiaa sijoittaaksesi suojan.
+d21b004d	Reiällinen lyijylevy, joka päästää gammakameran kiteelle vain tietystä suunnasta tulevat fotonit.
+d2223509	CTDIvol on annos # cm:n PMMA-sylinterissä. Hoikka potilas (tai lapsi) saa samalla CTDIvol-arvolla paljon suuremman annoksen, suurikokoinen potilas pienemmän. AAPM Report # antaa efektiiviseen halkaisijaan perustuvan muuntokertoimen: kokokohtaisen annosarvion (SSDE).
+d229ed94	Suoraan, kun fotonit katkaisevat DNA:n
 d22ff1b4	Cu-suodin poistaa matalaenergiset fotonit: paljon pienempi ihoannos samalla DI:llä.
 d252b05e	Valitse potilas odotushuoneesta, lue kertomus ja aloita tapaus. Jokaisessa vaiheessa päätät: vastaat kysymykseen, säädät laitteen parametreja tai tuotat kuvan. Fysiikkamoottori laskee lopputuloksen; paina VAHVISTA saadaksesi pisteet ja selityksen.
+d258834e	Keskienergia kasvaa
+d27f15a1	Oleskelukerroin T
+d28ab5fa	V2# ≤ #–# % ja keuhkojen keskiannos ≤ #–# Gy pitävät oireisen pneumoniitin riskin alle # %:n.
 d28e3e42	Pisteytys: diagnostinen laatu / hoidon teho, potilasannos (ALARA), turvallisuus ja viestintä. ★★★ vaatii ≥ # %.
 d2ab41fb	odotettu 
+d2c2e72f	Lukemalla suoraan, minkä kollimaattorireiän läpi se kulki
 d2c74831	Ensimmäinen vaihe
 d2db263e	β⁺-hajoamisesta syntyvä positroni annihiloituu elektronin kanssa muutaman mm:n matkalla (positronin kantama → erotuskyvyn menetys) ja tuottaa kaksi lähes vastakkaista # keV:n fotonia (±#°). Jos renkaan kaksi kidettä reagoi aikaikkunan (~# ns) sisällä, kirjataan koinsidenssi ja vastesuora (LOR).
+d3302805	Miksi keuhkokuva otetaan PA-suunnassa # cm:n SID:llä?
+d3457fda	LET
+d348b1f3	Spin ja Larmorin taajuus, relaksaatio (T1, T2, T2*), sekvenssit ja kontrasti, paikkakoodaus ja k-avaruus, MK-turvallisuus.
 d350ad22	Rasvakudos
+d37c1018	LQ-eloonjäänti
+d39e2fda	<b>Suskeptibiliteetti:</b> signaalikato ja vääristymä metallin sekä ilman ja kudoksen rajapintojen kohdalla (etenkin GRE ja EPI).
 d4066030	Eksponentiaalinen vaimeneminen
+d424ea14	Lineaarikiihdytin, syväannos ja MU-laskenta, hoidon suunnittelu (tilavuudet, IMRT/VMAT, DVH), protonihoito, brakyterapia ja laadunvarmistus.
+d45a18d7	Minkä radionuklidin jälkeen imetys on lopetettava kokonaan?
 d4601b55	• <b>Vaimennus:</b> todennäköisyys, että molemmat fotonit pääsevät ulos, on exp(−∫μ dl) LOR:n suuntaan — emissiokohdasta riippumatta! Siksi PET:n vaimennuskorjaus tehdään suoraan TT:stä.\n• <b>Sironta:</b> Compton-sironneet fotonit luovat vääriä LOR-suoria; energiaikkuna (#–# keV) hylkää osan niistä.\n• <b>Satunnaiset:</b> kaksi toisiinsa liittymätöntä fotonia osuu samaan ikkunaan; taajuus ~ aktiivisuus².\n• <b>NEC</b> = T²/(T+S+R): kuvanlaadun mitta.
 d46b8bd4	Vaiheet
+d48da20f	Kynnysannokseen sidottu kudosreaktio, jonka vakavuus kasvaa annoksen mukana (punoitus, kaihi).
 d4ab7bf3	Vaikuttaa harmittomalta mutta voi joutua kenttään → uusintakuvaus ja automatiikan aiheuttama annoksen nousu. Parempi vastata äidin huoleen selityksellä.
 d4beda32	Hajasäteilyhila
 d4c68488	tilavuus %
+d4dfd01b	Ionisaatiokammio on kondensaattori, joka kerää säteilyn kaasuun synnyttämän varauksen. Se on referenssidosimetrian kultainen standardi. Sylinterimäistä Farmer-kammiota (# cm³) käytetään megavolttifotoneille ja tasokammioita elektroneille.
 d4ffd893	Suhde luu / vesi (kontrasti)
 d51a0c7d	fraktioitu, α/β = #
 d54bb772	Luuydinturvotus
+d581622c	Säteilyn biologiset vaikutukset
 d584bb20	Vasen keuhko
+d58f1655	Vyöhykkeet ja seulonta
+d5abe21a	MU (monitoriyksikkö)
+d5b12f90	Annosrajat
 d5c4ed9d	eturauhanen
 d5cc8e12	Lasten päivystys: thoraxkuva PA — keuhkokuume? (Dr. Aydın)
+d5dea1d4	# MeV:n protoni: R ≈ # × #^# ≈ # × # ≈ # cm. NIST PSTAR antaa CSDA-kantamaksi # cm, joten sääntö on hyvä arvio.
 d5f8859c	Tietovisa tästä aiheesta
 d618a937	Keila ja kalibrointi
 d63556b0	Vesi
 d64fa515	lyijyn kanssa
+d67796d1	Suunniteltu kohdetilavuus: CTV plus marginaali asettelun ja liikkeen epävarmuuksille.
 d68f0065	Avaa oppitunti: 
+d6a01349	Kuvanlaatu ja artefaktat
+d70f2e87	Syklotronissa reaktiolla ¹⁸O(p,n)¹⁸F
 d720c7e2	Vaiva ja lähete
+d752ff03	Absorboituneen annoksen yksikkö, # J/kg.
 d77aac98	#. Röntgensäteilyn syntyminen
 d77bb8f6	Avaa tapaus
 d7b6610e	# MeV:n elektronit ulottuvat vain ≈ # cm:iin (Rp ≈ E/#): ne eivät yllä eturauhaseen.
+d7d34b45	Leukemia
 d7fcdf81	Yleiskirurgia: divertikuliitti / absessi? Vatsan varjoaine-TT (Dr. Tunç)
+d88a6749	Sillä ei ole väliä
 d908d184	Annossuure
 d9370cf8	Inversio (#°)
 d9556410	Valotusarvot
+d969abbf	D(kohde) = Σ_lähde Ã(lähde) · S(kohde ← lähde)        Ã = ∫ A(t) dt ≈ # · A₀ · T_eff
+d96b25e8	Varattujen hiukkasten tasapaino ei ole vielä syntynyt
 d9b3e49e	Veri / sydän
+d9cd3b9c	LQ-malli, BED ja EQD2
+d9d9a2cc	Kaksinkertaistamalla mAs
+d9fc4c9b	Annos-tilavuushistogrammi: se osuus rakenteesta, joka saa vähintään tietyn annoksen.
 da35274d	Muutos on # cm. Minkä kokoisen rajauksen ja millaisen silmäsuojan valitset?
 da435822	Viimeksi siinä kesti ikuisuus… Mahdunko edes laitteeseen?
 da880d68	Lähde kädessä! Kanna se nopeasti lyijysäiliöön.
 dad956f3	Tc-#m on maksimissaan hetkellä t_max = ln(λTc/λMo)/(λTc − λMo) ≈ # h eluution jälkeen. Tasapainossa A_Tc/A_Mo → #·λTc/(λTc − λMo) ≈ #.
+db1f3609	D(kohde) = Ã(lähde) · S(kohde ← lähde)
+db876443	Ekvivalentti- ja efektiivisen annoksen yksikkö; kuvaa stokastista riskiä.
 db90e18f	luu
 dba8b336	Näytämme parhaan ensimmäisen askeleen.
 dbb638ff	SPECT-kuvantaminen (luusto, sydänlihaksen perfuusio)
 dbbc21b7	Fysiikka: miksi kohina kasvaa?
+dbdf67b5	Se puolittuu
 dbf4470f	Pisteet 
 dc0b6beb	Lähteet
 dc411606	Blochin yhtälöt • prekessio • spinkaiku
 dcc0d7a5	ei vielä ajettu
+dcc2469a	Sukurauhassuoja
 dce06e30	MRI gadoliniumilla
+dcf29cd8	mAs
 dd2558f8	# kg / # cm
+dd49d94d	Mikä on deterministinen vaikutus?
+dd7b54c8	Esiliinan alla oleva annosmittari ei edusta silmää; kun mykiön raja on # mSv/v, tämä mittaus on tärkeä toimenpidehenkilöstölle.
+dd9f3f2a	Miten kohina voidaan puolittaa?
 ddd13aac	Aika # s — liian pitkä, liikeartefaktat todennäköisiä; lyhennä TR:ää tai nosta turbokerrointa.
 de128bc0	Akustinen melu
+de7ed956	Protonihoito ja Braggin piikki
+de969bfd	Tilavuuteen tulevien ja siitä lähtevien varattujen hiukkasten energia on tasapainossa; silloin D = K_col.
 deb145c5	Annan lyijyesiliinan ja kuvaan heti
+deb1fdd9	<b>Lyijyesiliina:</b> #–# mm lyijyekvivalentti; pysäyttää #–# % diagnostisista fotoneista, mutta on lähes hyödytön PET:n # keV:n fotoneja vastaan.
+ded09878	Mitä QUANTEC suosittaa keuhkojen V2#:lle?
+dee5f315	Säteilysuojelun periaatteet ja annosrajat
 deea998c	TR (toistoaika)
 deeed36b	Kuvanlaatu
 df0c22b3	Magneettiresonanssi
@@ -1169,39 +1872,60 @@ df7177fa	AVAINASIA
 df76eace	aktiivisuus A(t)
 df926a69	Kohina (maksan ROI, SD)
 dfe4e404	Aika
+dffe9654	Orbitaröntgen tai TT silmänsisäisen metallin poissulkemiseksi
 e026c507	sironnut fotoni E′
 e03ac455	HVL = ln2/μ = #/# ≈ # cm.
+e06240a9	Millä on suurin LET?
+e073c123	Annos, jolla LQ-mallin lineaarinen ja neliöllinen termi ovat yhtä suuret; fraktioherkkyyden mitta.
 e0a49aab	Aloita koe  →
 e0bbd3df	Parinmuodostuksen kynnys
 e0ccc31f	Päävalikko
 e0e1e90f	 päivän taustasäteily)
+e0f63b6b	μ:n integraalia säteen suunnassa
 e0fe199e	Säteilysuojelun kolme periaatetta (ICRP #)
 e15b5d80	Solujen eloonjäämiskäyrä (LQ)
 e1940a73	Vinkki: voit napsauttaa taustalla olevaa laitetta milloin tahansa; aloittaaksesi sitä ei tarvita.
 e19d9fd0	mies
 e232e2c1	Käytännön kantama Rp (viite)
 e2433a82	Sikiöannos ≈ SSDE (kohtu kentässä). CTDIvol on fantomiannos ja se on korjattava potilaan koon mukaan.
+e2671f77	Koinsidenssi
+e2c75b33	Jos pitch kasvaa arvosta # arvoon # vakio-mAs:llä, miten CTDIvol muuttuu?
 e2d84590	Fraktioiden määrä n
 e2e5fdc7	PTV (GTV + # mm) keskiarvo = # Gy / # fraktiota (# Gy)
 e3232976	Pulssimäärän riittävyys # — liian vähän pulsseja: kohinainen kuva, pienet imusolmukkeet voivat jäädä huomaamatta.
+e327fb76	Iteratiivinen rekonstruktio (ASIR, SAFIRE, mallipohjainen) arvaa kuvan, vertaa sitä mitattuihin projektioihin ja korjaa sitä; se voi mallintaa kohinatilastoa — mikä mahdollistaa #–# %:n annoksen vähennyksen samalla laadulla, joskus ”muovisen” tekstuurin hinnalla.
+e32a5d63	Prosentuaalinen syväannos (PDD) kuvaa keskiakselin annoksen muutosta syvyyden mukana kiinteällä SSD:llä. PDD kasvaa energian, kentän koon (enemmän sirontaa) ja SSD:n (heikompi etäisyyden neliön lain vaikutus — Mayneordin F-tekijä) myötä.
+e33558b2	Hounsfield-yksikkö
 e3726bce	Seuraavana aamuna: # h paastonnut, verensokeri # mg/dL.
+e3d17916	Kudosten epähomogeenisuus (keuhko, luu, ilmaontelot) vaikuttaa annoslaskentaan: matalatiheyksinen keuhko suurentaa annosta syvällä ja leventää puolivarjoa. Nykyaikaiset algoritmit (AAA, Acuros, Monte Carlo) ottavat tämän huomioon.
 e3f06eaf	sirontakulma θ (°)
 e41d8109	syvyys (cm)
+e43cb2ca	Eluoimalla generaattori
 e43e04b0	Röntgenputki (generaattori)
+e46edbca	<b>Päivittäin:</b> tuoton pysyvyys ±# %, laserit, turvalukitukset, valo- ja säteilykentän yhtenevyys (AAPM TG-#).
+e47dd3eb	T1: pitkittäinen palautuminen
+e486e4c2	<b>TLD (LiF:Mg,Ti):</b> vapauttaa varastoituneen energian valona kuumennettaessa; lähes kudosekvivalentti, käytetään henkilö- ja in vivo -dosimetriaan.
 e4ab1899	Ikkunan leveys (W)
 e4c140b2	Hajoaminen on satunnaista: yksittäisen ytimen hajoamishetkeä ei voi ennustaa, mutta suuri joukko ytimiä noudattaa eksponenttilakia. Aktiivisuuden yksikkö on becquerel (# Bq = # hajoaminen/s); vanha yksikkö on curie (# Ci = #·#¹⁰ Bq).
+e4c224ea	# Gy # fraktiossa (# Gy): kasvaimelle (α/β = #) EQD2 = #·(##)/(##) = # Gy; myöhäiskudokselle (α/β = #) EQD2 = #·(##)/(##) = # Gy. Suuremmat fraktiot ”rankaisevat” myöhään reagoivaa kudosta enemmän.
+e4dc2f18	Keskustan läpi kulkevat säteet kulkevat pidemmän matkan ja kovenevat enemmän, joten efektiivinen μ pienenee ja keskusta näyttää tummemmalta (pienempi HU).
 e4e5be6e	Elif kysyy itkien: ”Vahingoittiko se vauvaani?” Arvioitu sikiöannos ≈ # mGy.
+e4fe3008	Selvästi deterministisen kynnyksen alapuolella; hyvin pieni lisäriski; ei syytä raskauden keskeyttämiseen
+e4fec5f8	Potilasannossuureet
 e4ff8488	Ikkunan taso (L)
 e53403f8	sekoitettu
 e549237e	Eturauhanen α/β ≈ # Gy, peräsuoli (myöhäisvaikutukset) α/β ≈ # Gy. Tavoite: kasvaimen EQD2 #–# Gy, peräsuolen etuseinämä (oletetaan, että se saa # %) EQD2 ≤ # Gy.
 e56e73a9	Leuat + MLC
+e5d8d1ac	#/#
 e5dcf84a	Kertynyt annos
 e5e8cc94	Piikki / sisääntulo -suhde
 e5f27121	Inversion recovery
 e5f6fa50	Kentänvoimakkuus
 e621da6d	Compton-reuna T_max
 e636070c	Osittainen Fourier # %
+e6393de5	Alivalotus; kuva voi olla kohinainen
 e670f9a4	Arvioitu sikiöannos
+e6737e82	Se tuottaa itse signaalia
 e6862f05	suodattamaton
 e70efde8	Potilaan kierto
 e73b4300	Lisä-Al-suodin
@@ -1209,16 +1933,28 @@ e74c644a	Moduulit
 e75dfe28	Odotushuone — valitse potilas
 e78631fd	Ikkuna
 e7883571	#. Annossuunnittelu
+e790f279	Syväannos ja MU-laskenta
+e7a94ca1	Se lyhentää lähellä olevien protonien T1:tä
+e7baa8c0	Operatiiviset suureet
+e7fcf842	Mitkä parametrit antavat T2-painotteisen spinkaiun?
 e8145ea3	 % kVp:stä)
+e833649b	Kokonaishoitoaika ja hoitotauot
 e8511c37	Esiasetukset
+e86c6807	Se kasvaa (sironnan osuus suurenee)
+e8afa1cb	Sisäisessä altistuksessa annos on lähde-elimessä tapahtuvien hajoamisten kokonaismäärä (kumuloitunut aktiivisuus Ã) kerrottuna S-arvolla, joka kertoo kohde-elimeen päätyvän energian:
 e8f9a7ba	← Yksinkertainen etusivu
+e90246db	<b>Gradientit (dB/dt):</b> ääreishermojen stimulaatio ja kova melu (> # dB); kuulonsuojaus on pakollinen yli # dB(A):n tasolla.
 e934bbc7	Kokonaishoitoaika
+e9427778	≈ # HU
 e9cef8c2	Elektroneilla on äärellinen kantama: ihanteellinen pinnallisille kasvaimille. Nyrkkisäännöt: R5# ≈ E₀/# cm, Rp ≈ #·E₀ cm, terapeuttinen syvyys R8# ≈ E/# cm. Pieni häntä syvällä syntyy jarrutussäteilyfotoneista.
 e9eeaebf	ei ionisoivaa säteilyä
 e9f3813b	Vauvan annos (# % lähikontaktia)
+ea2e74ca	Rekonstruktio ja Hounsfield-yksiköt
 ea3ff3b9	Tapaukset ovat vain opetuskäyttöön, eivät kliiniseen päätöksentekoon.
 ea445006	NEMA-kuvanlaatufantomi
+ea48645c	Geometrinen epäterävyys
 ea617450	Epäily umpilisäketulehduksesta raskaana olevalla potilaalla. Mikä tehdään ensin?
+ea778ea7	Se ei muutu: pinta-ala skaalautuu kuten d² ja kerma kuten #/d²
 eab8f509	Suodatus: nosta HVL yli # mm Al
 eac26593	Efektiivinen annos (# cm)
 ead12e43	Compton-sironnan kinematiikka
@@ -1227,26 +1963,39 @@ eaeaaa7b	Ymmärrä miksi
 eaf105c7	Korosta
 eaf5e11d	Jos μ = # cm⁻¹, mikä on HVL?
 eaff7e77	eGFR # mL/min/# m², metformiinilääkitys. Mitä teet jodivarjoaineen suhteen?
+eb1ada30	Ferromagneettinen siru voi liikkua myös # T:ssa ja aiheuttaa sokeuden, joten se on suljettava pois ensin.
 eb1b05b8	Neutroni
 eb267579	 (ilman AC:ta)
+eb2a1095	Ei mitään — kokonaisannos on sama
 eb2ba7e2	Kentän korkeus
+eb4d158b	Kohteen kontrasti
 eb5ba0e3	#. Suodatettu takaisinprojektio (FBP)
+eb6d0b86	# cm
 eb6d0c3f	Potilaan valmistelu
 ebb00912	suojausta ei tarvita
 ebee5570	Emir: ”Pitääkö pidättää hengitystä? Okei, pidätän!”
 ec3c5945	Vinkki: yläpalkin ”Teoria”-sivulla on tärkeimmät kaavat.
 ec3ea500	Mallihuomautukset: MC käyttää tiivistettyä historiaa (Highlandin monisironta); suunnittelu on #D ja jättää sivusuuntaisen sironnan huomiotta.
+ec51e118	Suodin poistaa matalaenergiset fotonit, joten keskienergia ja siten HVL kasvavat.
 ec88aab2	Suoritettu
+ecc43793	Yksikkö on becquerel (# Bq = # hajoaminen/s); vanha yksikkö on curie (# Ci = # GBq). Diagnostiset aktiivisuudet ovat MBq-luokkaa, terapeuttiset GBq-luokkaa.
 ece35ca8	Kokeile laboratoriossa  →
 ece838e8	kuvaus
 ed03c7fc	≈ Osittain oikein
+ed23a0d1	Rikastetusta H₂¹⁸O-vedestä tehtyä kohtiota pommitetaan protoneilla, minkä jälkeen tehdään FDG-synteesi.
 ed465190	Tavoite: näytä kierukan repeämä ja luuytimen turvotus. Spinkaiku: S = PD·(# − e^(−TR/T1))·e^(−TE/T2). Valitse TR, TE, rasvasaturaatio ja B₀ ja paina sitten AJA SEKVENSSI.
 eda30c59	Tehtävä suoritettu: 
 edbd8b07	Painotus
 eddfea6b	Satoja kanavia × monta riviä keraamista tuikeainetta. Se mittaa yhden projektion kulmaa kohti; yhdessä ne muodostavat sinogrammin.
 edf0d031	Nollaa tietovisa
+edf5ddd0	<b>Staattinen kenttä (B₀):</b> ferromagneettiset esineet muuttuvat ammuksiksi. Vetovoima skaalautuu B·dB/dz:n mukaan ja on suurimmillaan tunnelin suulla. Suprajohtava magneetti on aina päällä. Jotkin implantit (vanhemmat tahdistimet, aneurysmaklipsit) ovat vasta-aiheisia.
+ee010b9e	PET
+ee14e5d2	Lineaarisesti aktiivisuuden mukaan
+ee1fc13a	<b>Diodit ja MOSFETit:</b> pieniä ja herkkiä, käytetään in vivo -mittauksiin ja pienissä kentissä; niissä on energia- ja kulmariippuvuutta.
 ee5e0890	Rajaan tiukasti keuhkoihin; ei sukurauhassuojaa, ja selitän äidille miksi
 ee69cbe6	Elif kysyy itkien: ”Vahingoittiko se vauvaani?” Arvioitu sikiöannos ≈ 
+ee7232f8	R = #τ·S₁·S₂: molemmat yksittäistaajuudet kasvavat aktiivisuuden myötä, joten satunnaiset kasvavat kuten A² — yksi syy siihen, ettei liiallinen aktiivisuus paranna kuvaa.
+ee792940	TMR ei riipu kentän koosta
 ee88a3cc	Koko kehon kuvauksessa potilasta siirretään pöytäpositioittain; aksiaalinen näkökenttä on #–# cm, pitkäaksiaalisissa järjestelmissä #–# m.
 ee940d80	Kirkas = suuri vaimennus (luu, metalli). Näytetään radiologisen käytännön mukaan: potilaan oikea puoli vasemmalla. Ikkuna asetetaan automaattisesti.
 ef57cd07	Verensokeri
@@ -1256,9 +2005,17 @@ efce91bf	Mitattu T½ (MC)
 efd604d5	Lämpötila
 efd9baf3	Tc/Mo-suhde (transientti tasapaino)
 f02abde8	Säteen kovettuminen
+f03867ac	Suurennus (M) ja geometrinen epäterävyys (U_g) kasvavat kohteen ja ilmaisimen välisen etäisyyden (OID) myötä. Siksi keuhkokuva otetaan PA-suunnassa (sydän lähellä ilmaisinta) # cm:n SID:llä. Pieni polttopiste (f) terävöittää kuvaa, mutta rajoittaa putken lämpökuormitusta.
 f0565afa	Fraktioitu (kiinteä d)
+f056bd95	NCRP # ja # -menetelmä
+f07687d2	IEC ###: # W/kg normaalitilassa, # W/kg ensimmäisen tason valvotussa tilassa (lääketieteellisessä valvonnassa).
+f0b3d9d9	Altistusindeksi ja potilasannos
 f0c79167	Taka
+f0d40ccc	#°:n inversion jälkeen kudos, joka herätetään juuri kun sen Mz ohittaa nollan, ei anna signaalia: TI_null = T1·ln2. STIR (TI ≈ #–# ms, # T:ssa) nollaa rasvan, FLAIR (TI ≈ #–# ms) nollaa aivo-selkäydinnesteen. Kemiallinen rasvasaturaatio hyödyntää rasvan ja veden # ppm:n taajuuseroa (≈ # Hz, # T:ssa).
+f0dca9d4	<b>Ilmarako:</b> potilaan ja ilmaisimen välinen etäisyys saa osan sironnasta ohittamaan ilmaisimen, suurennuksen hinnalla.
+f0ff89cc	Rengasartefakta
 f10c7001	Nopeus: γ-säteily kulkee valoa nopeammin
+f1897daf	Lineaaris-kvadraattinen malli
 f1d69164	Puoliintumispaksuus (HVL)
 f1e3d43f	Gadolinium läpäisee istukan; raskauden aikana vain jos välttämätöntä. Varjoaineeton MRI riittää umpilisäketulehdukseen.
 f1e5a8a5	Kun kVp ylittää volframin K-kuoren sidosenergian (# keV), näkyviin tulee <b>karakteristisia</b> viivoja: Kα ≈ #–# keV, Kβ ≈ #–# keV. Intensiteetti ~ (U − #)^#, U = kVp / E_K.
@@ -1267,51 +2024,89 @@ f215c98f	DI # → ylivalotus (DI # ≈ # %, # ≈ #× annos).
 f2586cb3	Kenttä (ilmaisimella)
 f25c8ffb	Luonnon taustasäteily (maailman keskiarvo)
 f28c5bf6	Oppitunnit • interaktiiviset kuvat • tietovisat
+f2b302fd	Miten PDD muuttuu tietyllä syvyydellä, kun kenttä suurenee?
+f2dea7ee	PTV on geometrinen käsite, joka varmistaa, että CTV saa määrätyn annoksen asettelu- ja liikeepävarmuuksista huolimatta.
 f2e56345	Aseta lyijyn paksuudeksi Cs-#:n puoliintumispaksuus (≈ # cm) ja katso puolittuminen
+f2f04328	<b>OAR / PRV:</b> riskielin ja sen suunnittelumarginaali (esim. selkäydin + # mm).
 f2f0b95b	odotus (h)
+f323dc10	Oikean dosimetrin valinta tarkoittaa, että tietää mitä mittaa: ionisaatiokammio referenssiannokselle, filmi tai matriisit jakaumille, OSL/TLD henkilöannokselle, GM-laskuri kontaminaatiolle.
+f351af88	TMR
 f38b9efa	#. Projektiot ja Radon-muunnos
 f3952697	rekyylielektroni T
 f3987859	Putken tuotto kasvaa suunnilleen kuten kVp² ja lineaarisesti mAs:n mukana: #% suurempi kVp suunnilleen kaksinkertaistaa ilmaisinsignaalin (#%-sääntö).
 f3b48ff1	Pysäytä hänet: suprajohtava magneetti on aina päällä ja ferromagneettisista esineistä tulee ammuksia; vain MK-turvallisia välineitä
+f3d4e34a	Alueet luokitellaan odotetun annoksen mukaan valvonta- tai tarkkailualueiksi, merkitään ja niille pääsyä rajoitetaan. Kadonnut lähde, odottamattoman suuri annosmittarilukema tai väärän potilaan tai väärän kohdan säteilytys on poikkeama: se kirjataan, sen juurisyy analysoidaan ja tarvittaessa siitä ilmoitetaan valvovalle viranomaiselle (Turkissa NDK).
 f3f36daf	Säteily, jonka energia riittää (≥ # eV) irrottamaan elektroneja atomeista.
 f425bff1	  → kaiku odotetaan hetkellä: 
+f43d0d9d	Esiliinan alla olevalla annosmittarilla
+f43d5d4c	Nopeasti proliferoivissa kasvaimissa (pää–kaula) repopulaatio käynnistyy, jos hoito kestää yli ~# päivää, ja se maksaa noin ~# Gy EQD2 päivässä. Suunnittelemattomat tauot on siksi kompensoitava (esim. ylimääräinen fraktio viikonloppuna tai kaksi fraktiota päivässä).
 f48a9bb6	Monte Carlo -syvyysannos, Braggin piikki, annossuunnittelu, DVH, sädebiologia.
+f49bd7cf	Kaventamalla ikkunaa
+f4a0a51b	Automaattinen putkivirran modulaatio (AEC) säätää mA:ta jokaisessa kulmassa ja z-kohdassa potilaan paksuuden mukaan, pitää kohinan tavoitetasolla ja optimoi annoksen.
 f4a277c4	Suunnittelu
 f4a9c097	Suodin
+f4eb467e	Ilmaisimen (kuvailmaisimen) puolella
+f50a6eee	PDD määritellään kiinteällä SSD:llä, joten syvemmät pisteet ovat kauempana lähteestä; TMR sopii isosentriseen hoitoon.
+f565bd92	Kiihtyneessä repopulaatiossa menetetään ~# Gy päivässä: # päivää × # ≈ # Gy. Siksi tauot kompensoidaan.
+f5b86b6b	Laadunvarmistus: Mo-#:n läpäisy eluaatissa ei saa ylittää # kBq Mo-#/MBq Tc-#m; se tarkistetaan lyijykotelolla, joka pysäyttää Tc:n # keV:n mutta päästää läpi Mo:n # keV:n fotonit. Myös alumiini-ionipitoisuus ja radiokemiallinen puhtaus tarkistetaan.
 f5c1b5b5	Kentän koko (pinnalla)
+f5e265e2	Miten lisäsuodatus vaikuttaa HVL:ään?
 f5e305fa	Kenttä #×# cm: rintakehä on ≈ #×# cm; rajaa tiukemmin (DAP ja sironta).
 f5efdcd1	# mg/L
+f5fce81d	Huoneen säteilysuojauksen suunnittelu
 f60d1c54	T2-painotettu kuva: aivo-selkäydinneste kirkkaampi kuin valkea aine
+f62997ab	Miten gadoliniumvarjoaine toimii?
+f63ab85a	Anger-kamera
+f6466836	Materiaalin tiheys kasvaa
 f67cc940	Hajoamistapa
 f6862a0b	Suojauksen läpäisy (kertymä mukaan lukien)
 f6d42ce8	Braggin piikin syvyys
 f6f22637	Ohjaus
 f71b5abf	Biologisesti efektiivinen annos
 f728f992	keskimääräinen aikuinen (# cm)
+f72b2c12	Mikä on tehokkain suojatoimenpide lapsen thoraxkuvauksessa?
+f73eed5b	Lääketieteellisessä altistuksessa olevilla potilailla
+f77fcacc	Vesi on # HU ja ilma −# HU; rasva ≈ −#, keuhko ≈ −#…−#, pehmytkudos #…#, luu #…# HU. Koska μ riippuu energiasta (etenkin luulla ja jodilla), HU-arvot muuttuvat kVp:n mukaan.
+f7b242ee	# Gy
 f7c4fef9	”Kiitos, olitte todella huolehtivainen!”
+f7e06859	Mitä k-avaruuden keskusta määrää?
 f80ba400	Näin käytät tätä osiota
 f810e311	Peräsuolen EQD2 (α/β #) = # Gy — hyväksyttävä.
+f82c600a	Ekvivalenttiannos
+f830e238	Tulo K·A ei riipu etäisyydestä, siksi DAP voidaan mitata putken kollimaattoriin kiinnitetyllä kammiolla.
 f8486832	Käytä vain k-avaruuden keskustaa: kontrasti säilyy, yksityiskohdat katoavat
 f84b8da5	Väärin ja ahdistusta lisäävää ulkoisessa sädehoidossa.
+f862b10b	Paikkaerotuskykyä
 f8c4150d	# MeV e⁻
 f8d6f331	Alkuperä: röntgensäteily syntyy elektroneista, γ ytimestä
 f900a313	Kultaseni, jääkö kasvoihini arpi? Ja olkaa kilttejä, älkää satuttako silmääni.
+f92bb98e	Miten suurin osa DNA-vauriosta syntyy matalan LET:n säteilyssä?
+f93ff2ec	Sama fysikaalinen annos aiheuttaa eri säteilylajeilla erilaisia biologisia vaikutuksia. Ekvivalenttiannos on H_T = Σ w_R D_T,R. Säteilyn painotuskertoimet (ICRP #): fotoneille ja elektroneille #, protoneille #, α:lle # ja neutroneille energiasta riippuen #–#.
 fa033cd5	Tehtävä: nouda lähde
+fa42bc08	Sikiöannoksen arviointi on sairaalafyysikon tehtävä: TT:ssä sikiöannos ≈ SSDE, kun kohtu on kentässä.
 fa73ce08	Hyvää työtä — muutama kohta parannettavaa.
 faa8e755	FLAIR: TI = T1·ln2 nollaa likvorin (≈ # ms # T:ssa). STIR: lyhyt TI vaimentaa rasvan (≈ #–# ms).
 fad26615	Lähettää Larmor-taajuisia B₁-pulsseja (~# MHz # T:ssa), jotka kääntävät M:ää. Kudosten lämpeneminen (SAR) syntyy täällä.
 fae02622	Orbitaröntgenkuvat: EI metallista vierasesinettä. Tutkimus tehdään.
+faf2ae6e	Miten TMR eroaa PDD:stä?
 faff56b8	Kulunut aika
 fb079007	Fraktioannos d
+fb1c3fc2	Betoni on lyijyä tiheämpää
+fb4411db	Leikepaksuuden
 fb5419ac	Aliannostetut reunat → uusiutumisriski; hyvin pienissä kentissä R9# myös madaltuu.
 fb77122a	Aloita ensimmäinen tapaus
 fb8da0b7	Umpilisäketulehdus raskauden aikana: UÄ → varjoaineeton MRI → tarvittaessa matala-annos-TT.
 fb990b3e	★★★ ≥ # %, ★★ ≥ # %, ★ ≥ # %. Paras tuloksesi tallennetaan; pelaa uudelleen parantaaksesi sitä.
 fba0b4a2	Kosini
 fbb64dbd	Putkijännite
+fbb96484	Larmorin taajuinen RF-pulssi kääntää M:n pois B₀:n suunnasta (#°:n pulssi kaataa sen poikittaistasoon). Pyörivä poikittainen magnetoituma indusoi virran vastaanottokelaan — vapaa induktiovaimeneminen (FID). Resonanssiehdon ansiosta MK herättää vain valitun ytimen ja paikan.
+fbc6d057	Vaihtoehdot (ultraääni, MR) ensin; jos TT on tarpeen, käytetään matala-annosprotokollaa ja rajattua kuvauspituutta.
+fc01ae34	Uraanin fissiolla reaktorissa
+fc44dba7	Järjestelmän erotuskyky ≈ #–# mm (# cm:n etäisyydellä); sisäinen erotuskyky ≈ #–# mm.
 fc6adbf7	Sisääntulopinnan ilmakerma (ESAK)
 fc7e5fc3	Pulssimäärän riittävyys # — tarpeettoman suuri aktiivisuus; lisäannos ei tuo diagnostista hyötyä.
 fc82911d	suhteellinen
+fca25fac	Protonit ja Braggin piikki
 fcdeb802	ylivalottunut
 fcff6168	Lantio
 fd4e03b8	Aika pöytäasemaa kohden
@@ -1322,11 +2117,16 @@ fd9045b9	#–# kV läpäisee kookkaat potilaat paremmin: vähemmän mAs samaan k
 fddaa9d0	Konformiteetti-indeksi (Paddick)
 fe0012eb	Vanhentunut ohje; tarpeeton, kun eGFR ≥ #, ja viivästyttää diagnoosia.
 fe2bb7a7	Kiedon lyijyesiliinan lantion ympärille
+fe67e3af	Aikuisten k-kertoimet (mSv / mGy·cm) ovat: pää #, kaula #, rintakehä #, vatsa ja lantio #.
 feb29647	Polyenerginen keila (realistinen)
 feb7cede	Verenpainetauti (hoitotasapainossa)
 febab6f7	IGRT: ennen hoitoa otetaan kV-kuva tai kartiokeila-TT (CBCT), ja potilaan asento korjataan millilleen.
 fec9a6c7	Päivittäinen kV-kuvaus / CBCT ja sovitus kultamerkkeihin
+fed90ed4	Negatiivinen DI tarkoittaa, että ilmaisinannos on tavoitteen alapuolella (−# ≈ # % liian vähän), ja kvanttikohina voi haitata diagnoosia.
 ff1483ac	Sydämentahdistin (titaani)
+ff3f9ab4	<b>Hila:</b> lyijylamellit absorboivat sirontaa (hilasuhde #:#–#:#) annoksen kustannuksella — Bucky-kerroin #–#. Alle #–# cm:n paksuisissa kehonosissa ja lapsilla hilaa ei yleensä tarvita.
 ff559aca	Can: ”Hyvä, että annoitte kuulokkeet. Nyt alkaa meteli!”
+ff801f8c	Kaihi
 ff97f266	Fotonien keskienergia
+ffe8e8a6	Gy(RBE) = # × fysikaalinen annos; ei pidä sekoittaa ICRP:n säteilysuojelun säteilyn painotuskertoimeen w_R = #.
 ffedd789	Imettää #-kuukautista vauvaa

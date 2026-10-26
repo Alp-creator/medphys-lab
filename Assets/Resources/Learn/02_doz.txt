@@ -1,6 +1,6 @@
 @topic dose | DZ | Dozimetri ve Radyobiyoloji | Dosimetry and Radiobiology | therapy
 @desc Kerma, soğurulan doz, eşdeğer ve efektif doz; dozimetreler; radyasyonun hücreye etkisi, LQ modeli, BED ve EQD2. || Kerma, absorbed dose, equivalent and effective dose; dosimeters; how radiation affects cells, the LQ model, BED and EQD2.
-@formula Kerma || Kerma :: K = Ψ · (μ_tr/ρ)        (Ψ: enerji akısı)
+@formula Kerma || Kerma :: K = Ψ · (μ_tr/ρ)        (Ψ: enerji akısı) || K = Ψ · (μ_tr/ρ)        (Ψ: energy fluence)
 @formula Soğurulan doz || Absorbed dose :: D = dε / dm     1 Gy = 1 J/kg
 @formula Eşdeğer doz || Equivalent dose :: H_T = Σ_R w_R · D_T,R   (Sv)
 @formula Efektif doz || Effective dose :: E = Σ_T w_T · H_T   (Sv)
@@ -101,7 +101,7 @@ Stokastik etkiler (kanser, kalıtsal etkiler) için korunmada eşiksiz doğrusal
 @lesson lq | LQ modeli, BED ve EQD2 | The LQ model, BED and EQD2 | 12
 ## Lineer–kuadratik model || The linear-quadratic model
 Hücre yaşam eğrisi en iyi lineer–kuadratik (LQ) modelle tanımlanır. α terimi tek bir izin oluşturduğu öldürücü hasarı, β terimi iki ayrı izin hasarlarının etkileşimini temsil eder. || Cell survival is best described by the linear-quadratic (LQ) model. The α term represents lethal damage from a single track, the β term the interaction of damage from two separate tracks.
-$ S = exp(−α·D − β·D²)        n fraksiyonda:  S = exp[−n(α·d + β·d²)]
+$ S = exp(−α·D − β·D²)        n fraksiyonda:  S = exp[−n(α·d + β·d²)] || S = exp(−α·D − β·D²)        in n fractions:  S = exp[−n(α·d + β·d²)]
 α/β oranı (Gy), iki terimin eşit olduğu dozdur. Erken yanıt veren dokular ve çoğu tümör için α/β ≈ 10 Gy, geç yanıt veren dokular (omurilik, rektum, cilt fibrozisi) için ≈ 3 Gy'dir. Prostat (~1.5 Gy) ve meme (~3.5 Gy) kanseri düşük α/β'lıdır. || The α/β ratio (Gy) is the dose at which the two terms are equal: ≈ 10 Gy for early-responding tissues and most tumours, ≈ 3 Gy for late-responding tissues (spinal cord, rectum, skin fibrosis). Prostate (~1.5 Gy) and breast (~3.5 Gy) cancers have low α/β.
 %fig lq
 ## BED ve EQD2 || BED and EQD2

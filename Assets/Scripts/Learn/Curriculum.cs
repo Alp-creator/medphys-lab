@@ -7,7 +7,8 @@ namespace MedPhys.Learn
 {
     public enum BlockKind { Heading, Para, Equation, Key, Example, Bullet, Figure, Warning }
 
-    /// <summary>One piece of lesson content. Text is bilingual; equations and figure names are language-neutral.</summary>
+    /// <summary>One piece of lesson content. Text is bilingual; figure names are language-neutral, and so are equations
+    /// unless they contain words ("$ tr || en").</summary>
     public sealed class Block
     {
         public BlockKind Kind;
@@ -53,10 +54,11 @@ namespace MedPhys.Learn
     /// @lesson id | Türkçe | English | minutes
     /// @sim moduleId      @case caseId
     /// ## başlık || heading         plain line = paragraph
-    /// $ equation                    &gt; key point      ! worked example      * bullet      !! warning
+    /// $ equation (or $ denklem || equation when it contains words)
+    /// &gt; key point      ! worked example      * bullet      !! warning
     /// %fig figureName
     /// ? soru || question   + doğru || correct   - yanlış || wrong   = açıklama || explanation
-    /// @formula açıklama || label :: equation
+    /// @formula açıklama || label :: equation (or :: denklem || equation)
     /// @term terim || term :: tanım || definition
     /// </code>
     /// </summary>
@@ -118,8 +120,8 @@ namespace MedPhys.Learn
                 {
                     var body = line.Substring(9); int k = body.IndexOf("::", StringComparison.Ordinal);
                     var (tr, en) = Pair(k >= 0 ? body.Substring(0, k) : body);
-                    string eq = k >= 0 ? body.Substring(k + 2).Trim() : "";
-                    topic.Formulas.Add((tr + "\n" + eq, en + "\n" + eq));
+                    var (eqTr, eqEn) = k >= 0 ? Pair(body.Substring(k + 2)) : ("", "");
+                    topic.Formulas.Add((tr + "\n" + eqTr, en + "\n" + eqEn));
                     continue;
                 }
                 if (line.StartsWith("@term "))
@@ -148,7 +150,7 @@ namespace MedPhys.Learn
                 Block b;
                 if (line.StartsWith("## ")) { var (tr, en) = Pair(line.Substring(3)); b = new Block { Kind = BlockKind.Heading, Tr = tr, En = en }; }
                 else if (line.StartsWith("%fig ")) { var n = line.Substring(5).Trim(); b = new Block { Kind = BlockKind.Figure, Tr = n, En = n }; }
-                else if (c == '$') { var eq = line.Substring(1).Trim(); b = new Block { Kind = BlockKind.Equation, Tr = eq, En = eq }; }
+                else if (c == '$') { var (tr, en) = Pair(line.Substring(1)); b = new Block { Kind = BlockKind.Equation, Tr = tr, En = en }; }
                 else if (line.StartsWith("!!")) { var (tr, en) = Pair(line.Substring(2)); b = new Block { Kind = BlockKind.Warning, Tr = tr, En = en }; }
                 else if (c == '!') { var (tr, en) = Pair(line.Substring(1)); b = new Block { Kind = BlockKind.Example, Tr = tr, En = en }; }
                 else if (c == '>') { var (tr, en) = Pair(line.Substring(1)); b = new Block { Kind = BlockKind.Key, Tr = tr, En = en }; }

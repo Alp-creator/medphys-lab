@@ -422,9 +422,15 @@ namespace MedPhys.Modules
             var sec = UIKit.Section(r, T("Formül kartı — ", "Formula sheet — ") + t.Title);
             foreach (var (tr, en) in t.Formulas)
             {
-                var parts = T(tr, en).Split('\n');
-                UIKit.Text(sec, "<b>" + parts[0] + "</b>");
-                if (parts.Length > 1 && parts[1].Length > 0) { var e = new Label(parts[1]); e.AddToClassList("mp-eq"); sec.Add(e); }
+                // label and equation are separate translation keys
+                var pt = tr.Split('\n'); var pe = en.Split('\n');
+                UIKit.Text(sec, "<b>" + T(pt[0], pe[0]) + "</b>");
+                if (pe.Length > 1 && pe[1].Length > 0)
+                {
+                    var e = new Label(T(pt[1], pe[1])); e.AddToClassList("mp-eq");
+                    if (Loc.Current.Rtl) e.languageDirection = LanguageDirection.LTR;   // formulas read left to right, as in the lessons
+                    sec.Add(e);
+                }
             }
             if (t.Glossary.Count > 0)
             {
@@ -450,6 +456,7 @@ namespace MedPhys.Modules
             if (action.Contains(";")) { foreach (var a in action.Split(';')) AutoAction(a.Trim()); return; }
             if (action.StartsWith("show:")) Show(action.Substring(5));
             else if (action == "exam") Show("exam");
+            else if (action == "formulas") Right.RemoveFromClassList("mp-hidden");
             else if (action.StartsWith("scroll:") && float.TryParse(action.Substring(7), System.Globalization.NumberStyles.Float, System.Globalization.CultureInfo.InvariantCulture, out float f))
                 readerScroll.schedule.Execute(() => readerScroll.verticalScroller.value = f * readerScroll.verticalScroller.highValue).StartingIn(300);
         }

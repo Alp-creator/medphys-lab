@@ -528,7 +528,8 @@ namespace MedPhys.Modules
         protected override void BuildLearn(VisualElement c)
         {
             UIKit.H(c, T("1. Üç temel ilke: zaman, mesafe, zırhlama", "1. Three principles: time, distance, shielding"));
-            UIKit.Eq(c, "Doz = Doz hızı × zaman          Ḣ(d) = Γ · A / d²          Ḣ_zırhlı = Ḣ₀ · B · e^(−μx)");
+            UIKit.Eq(c, T("Doz = Doz hızı × zaman          Ḣ(d) = Γ · A / d²          Ḣ_zırhlı = Ḣ₀ · B · e^(−μx)",
+                          "Dose = dose rate × time          Ḣ(d) = Γ · A / d²          Ḣ_shielded = Ḣ₀ · B · e^(−μx)"));
             UIKit.P(c, T("• <b>Zaman:</b> doz, kaynak yakınında geçirilen süreyle doğru orantılıdır.\n• <b>Mesafe:</b> nokta kaynakta doz hızı 1/d² ile düşer: mesafeyi iki katına çıkarmak dozu dörtte birine indirir. Maşa kullanmak bu yüzden çok etkilidir.\n• <b>Zırhlama:</b> yoğun ve yüksek Z'li malzemeler (kurşun) fotonları en etkili zayıflatır. HVL dozu yarıya, TVL onda bire indirir.",
                              "• <b>Time:</b> dose is proportional to the time spent near the source.\n• <b>Distance:</b> for a point source the dose rate falls as 1/d²: doubling the distance quarters the dose. That is why tongs are so effective.\n• <b>Shielding:</b> dense, high-Z materials (lead) attenuate photons best. One HVL halves, one TVL reduces the dose rate to one tenth."));
             UIKit.Eq(c, "HVL = ln2 / μ        TVL = ln10 / μ ≈ 3.32 · HVL");
